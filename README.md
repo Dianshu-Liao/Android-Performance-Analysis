@@ -1,6 +1,6 @@
 # Android-Performance-Analysis
 
-This artifact package includes all the data and code in the paper **``Automatic Android Performance Analysis: How Far Are We?'.
+This artifact package includes all the data and code in the paper **Automatic Android Performance Analysis: How Far Are We?**.
 
 ## Concluding Data in Our Paper
 

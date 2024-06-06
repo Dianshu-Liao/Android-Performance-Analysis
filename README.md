@@ -20,7 +20,7 @@ Due to GitHub's limited capacity, we have uploaded all our source code and data 
 
    These files contain data collected and manually checked from user reviews, Stack Overflow, GitHub issues, and GitHub commits, as described in Section 3 "A LARGE-SCALE EXPLORATION OF REAL-WORLD APPS". They include performance issues identified in the real world, corresponding factors, root causes, and potential solutions.
 
-4. **`Concluding_Data/common_patterns.txt`**: Lists the common patterns identified from our real-world exploration.
+4. **`Concluding_Data/common_patterns.txt`**: Lists the common performance issue code patterns identified from our real-world exploration.
 
 
 

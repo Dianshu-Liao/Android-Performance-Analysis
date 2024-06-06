@@ -1,0 +1,82 @@
+resource consumption
+response time
+energy leak
+memory bloat
+launch time
+Slow rendering
+ SR 
+frozen Frames
+ FF 
+application not responding
+ ANR 
+system not responding
+ SNR 
+UI freeze
+UI lag
+resource leak
+memory consumption
+memory shortage
+energy drain
+energy waste
+data loss
+energy issue
+resource utilization bug
+energy bug
+no-sleep
+energy inefficiency
+wake lock misuse
+Energy defect
+battery drain
+abnormal battery drain
+slowdown
+abnormal image display
+energy hotspot
+repetitive autocommit transaction
+ RAT 
+resource inefficient
+UI performance issue
+laggy UI
+soft hang
+dialogues disappear
+energy black hole
+unresponsive
+latency
+sluggish
+poor responsiveness
+energy consumption
+memory leak
+lost result
+wasted energy
+async programming error
+ APE 
+sleep conflicts
+energy-heavy execution
+User-perceived delay
+UI rendering
+slow responsiveness
+code smell
+Service usage inefficiency
+memory churn
+loop misuse
+lost state
+malfunctioning UI
+battery shortage
+memory waste
+out of memory
+ oom 
+sql antipattern
+energy-greedy
+runtime change
+state loss
+result loss
+slow response
+lagged response
+poor UI performance
+irresponsive
+responds slowly
+UI delay
+energy draw
+battery drop
+battery draw
+battery conserve
+battery hit

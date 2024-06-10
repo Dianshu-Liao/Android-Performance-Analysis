@@ -1,1 +1,782 @@
-
+Title,Tags,Answered,Link,With code,matched_keywords
+ANR (Application not responding) crash in google play console which I don't understand,"java,android,google-play,android-anr-dialog,google-play-console",True,/questions/50268578/anr-application-not-responding-crash-in-google-play-console-which-i-dont-unde,True,application not responding
+Android Studio Java ANR Memory Leak,"java,android,multithreading,memory-leaks,realm",True,/questions/50076432/android-studio-java-anr-memory-leak,True,"memory leak
+ ANR "
+"Android App making ""application not responding"" error example",android,True,/questions/49991805/android-app-making-application-not-responding-error-example,True,application not responding
+multiple calls to same service leading data loss,"java,android,service,concurrency,broadcastreceiver",True,/questions/49916479/multiple-calls-to-same-service-leading-data-loss,True,data loss
+Out of Memory Error when downloading a large image from Glide,"java,android,bitmap,android-glide",True,/questions/49894955/out-of-memory-error-when-downloading-a-large-image-from-glide,True,out of memory
+Android: Converting ArrayList to GSON runs out of memory,"java,android,memory,arraylist",True,/questions/34487717/android-converting-arraylist-to-gson-runs-out-of-memory,True,out of memory
+Shouldn´t GC run automatically in Xamarin.Android before running out of memory?,"android,memory-leaks,xamarin,garbage-collection,xamarin.android",True,/questions/34474379/shouldn%c2%b4t-gc-run-automatically-in-xamarin-android-before-running-out-of-memory,True,out of memory
+Android WebView got E/ActivityManager: ANR error when used Custom Keyboard,"android,webview,android-webview,activity-manager",True,/questions/65121245/android-webview-got-e-activitymanager-anr-error-when-used-custom-keyboard,True, ANR 
+custom ArrayAdapter for listView with images out of memory,"android,image,out-of-memory,android-arrayadapter",True,/questions/37548349/custom-arrayadapter-for-listview-with-images-out-of-memory,True,out of memory
+Android memory leak Custom view,"android,memory-leaks,android-custom-view",True,/questions/37296422/android-memory-leak-custom-view,True,memory leak
+Bitmap on ViewPager causes memory leak,"android,image,android-viewpager,out-of-memory",True,/questions/24595232/bitmap-on-viewpager-causes-memory-leak,True,memory leak
+CWAC camera library out of memory,"android,commonsware-cwac",True,/questions/24491406/cwac-camera-library-out-of-memory,True,out of memory
+BitmapFont Memory Leak,"android,libgdx",True,/questions/24377897/bitmapfont-memory-leak,True,memory leak
+Out of memory error when calling createBitmap [duplicate],"java,android,image,memory,bitmap",True,/questions/24377840/out-of-memory-error-when-calling-createbitmap,True,out of memory
+Android BitmapFactory.decodeFile slows down until out of memory,"android,bitmapfactory",True,/questions/24355306/android-bitmapfactory-decodefile-slows-down-until-out-of-memory,True,out of memory
+"Avoiding Out of Memory Error with Bitmap Factory, Even When Resizing Isn't an Issue?","android,bitmap,window,out-of-memory,bitmapfactory",True,/questions/24297153/avoiding-out-of-memory-error-with-bitmap-factory-even-when-resizing-isnt-an-is,True,out of memory
+Android fragment data loss,"android,fragment,android-webservice",True,/questions/24281167/android-fragment-data-loss,True,data loss
+Out of memory error while loading hundred of bitmap images in Scroll view in android,"android,image,bitmap,out-of-memory,scrollview",True,/questions/21771454/out-of-memory-error-while-loading-hundred-of-bitmap-images-in-scroll-view-in-and,True,out of memory
+Is there something that needs to be added to avoid memory leaks when switching between activities?,"java,android,memory-leaks,android-activity",True,/questions/21667190/is-there-something-that-needs-to-be-added-to-avoid-memory-leaks-when-switching-b,True,memory leak
+Android runOnUiThread causing memory leak,"android,memory-leaks",True,/questions/21665907/android-runonuithread-causing-memory-leak,True,memory leak
+File download - Out Of Memory(OOM),"android,file,out-of-memory,large-files",True,/questions/21599583/file-download-out-of-memoryoom,True,out of memory
+During the Loading several images in ImageView get Out of Memory exception [duplicate],"android,imageview",True,/questions/21598984/during-the-loading-several-images-in-imageview-get-out-of-memory-exception,True,out of memory
+Volley give me Out of memory exception after I make a lot of request with big amount of data,"android,out-of-memory,android-volley",True,/questions/21475129/volley-give-me-out-of-memory-exception-after-i-make-a-lot-of-request-with-big-am,True,out of memory
+Android - Plotting a LOT of lines on google maps - Getting application not responding,"android,multithreading,google-maps,geolocation",True,/questions/21357130/android-plotting-a-lot-of-lines-on-google-maps-getting-application-not-respo,True,application not responding
+Memory Leak in MessageQueue in android?,"java,android,memory-leaks,message-queue,leakcanary",True,/questions/70483976/memory-leak-in-messagequeue-in-android,True,memory leak
+Memory leaks when using static context items in android,"android,kotlin,memory-leaks,android-context,groupie",True,/questions/70058797/memory-leaks-when-using-static-context-items-in-android,True,memory leak
+Asynctask Memory Leak Warning Android,"android,memory-leaks,android-asynctask",True,/questions/69995118/asynctask-memory-leak-warning-android,True,memory leak
+Out of Memory Error in gridView Android Eclipse,"java,android,eclipse,gridview,out-of-memory",True,/questions/18552163/out-of-memory-error-in-gridview-android-eclipse,True,out of memory
+Android Leaked Window - App adopts an ANR State,"android,exception,memory-leaks",True,/questions/18485982/android-leaked-window-app-adopts-an-anr-state,True, ANR 
+Android - Out of Memory Error due to starting a lot of Activities started,android,True,/questions/18459137/android-out-of-memory-error-due-to-starting-a-lot-of-activities-started,True,out of memory
+Android app freezes without ANR after moving code into runnable,"android,freeze,runnable",True,/questions/18443481/android-app-freezes-without-anr-after-moving-code-into-runnable,True, ANR 
+Out of Memory Exception while scroll Listview?,"android,listview,scroll",True,/questions/18376147/out-of-memory-exception-while-scroll-listview,True,out of memory
+Android Bitmap Factory Out of Memory Second Photo,"android,bitmap,bitmapfactory",True,/questions/18360648/android-bitmap-factory-out-of-memory-second-photo,True,out of memory
+Huge memory consumption of UniversalImageLoader,"android,memory,android-scrollview,universal-image-loader,outofrangeexception",True,/questions/18262477/huge-memory-consumption-of-universalimageloader,True,memory consumption
+What is causing a possible memory leak or crash in the following code?,android,True,/questions/18261150/what-is-causing-a-possible-memory-leak-or-crash-in-the-following-code,True,memory leak
+How to use JNI bitmap operations for helping to avoid OOM when using large images? [closed],"android,bitmap,android-ndk,java-native-interface,out-of-memory",True,/questions/18250951/how-to-use-jni-bitmap-operations-for-helping-to-avoid-oom-when-using-large-image,True, oom 
+Potential memory leaks when using searchView along with ROOM database and live data,"java,android,kotlin,android-room,android-architecture-components",True,/questions/76982259/potential-memory-leaks-when-using-searchview-along-with-room-database-and-live-d,True,memory leak
+Memory leak in SensorManager implementation in parent class,"android,kotlin,memory-leaks,android-sensors,sensormanager",True,/questions/76913662/memory-leak-in-sensormanager-implementation-in-parent-class,True,memory leak
+Android: Memory leak in MediaProjection,"android,memory-leaks",True,/questions/76828546/android-memory-leak-in-mediaprojection,True,memory leak
+Unresponsive webviews initially outside of viewport in SingleChildScrollView on real android devices w/ Android 12+,"android,flutter,dart,webview,android-webview",True,/questions/76629227/unresponsive-webviews-initially-outside-of-viewport-in-singlechildscrollview-on,True,unresponsive
+ConnectivityManager Callback Memory Leak - Android,"android,kotlin,memory-leaks,leakcanary,android-connectivitymanager",True,/questions/76538529/connectivitymanager-callback-memory-leak-android,True,memory leak
+Android Web3j create wallet turns out of memory and other problems with communications TLS (other similar questions did not helped me),"java,android,web3-java",True,/questions/76514458/android-web3j-create-wallet-turns-out-of-memory-and-other-problems-with-communic,True,out of memory
+Android UI freeze when service is downloading progress,"android,android-service,freeze,bitcoinj",True,/questions/36401665/android-ui-freeze-when-service-is-downloading-progress,True,UI freeze
+Runtime change of AppBarLayout color,"android,layout,colors,runtime,appbar",True,/questions/36393840/runtime-change-of-appbarlayout-color,True,runtime change
+Memory leaks with MapView in a RecyclerView,"java,android,google-maps,memory-leaks,garbage-collection",True,/questions/36340370/memory-leaks-with-mapview-in-a-recyclerview,True,memory leak
+android universal image loader out of memory,"android,universal-image-loader",True,/questions/36323478/android-universal-image-loader-out-of-memory,True,out of memory
+Android studio app randomly runs out of memory,"java,android",True,/questions/36284689/android-studio-app-randomly-runs-out-of-memory,True,out of memory
+Prevent memory leak in Android,"android,performance,memory,memory-leaks",True,/questions/36179116/prevent-memory-leak-in-android,True,memory leak
+Android : Bitmap causing out of memory error,"android,bitmap",True,/questions/36141094/android-bitmap-causing-out-of-memory-error,True,out of memory
+Does one need to free the viewbinding in the RecyclerView's ViewHolder to avoid memory leaks?,"android,android-recyclerview,android-viewholder,android-viewbinding",True,/questions/73167957/does-one-need-to-free-the-viewbinding-in-the-recyclerviews-viewholder-to-avoid,True,memory leak
+Bitmap Out Of Memory exception throw new OutOfMemoryException(e);,"android,out-of-memory",True,/questions/15580093/bitmap-out-of-memory-exception-throw-new-outofmemoryexceptione,True,out of memory
+"Is this a good technique (Using data holder) to eliminate anonymous class, to reduce memory leak risk","java,android",True,/questions/15528040/is-this-a-good-technique-using-data-holder-to-eliminate-anonymous-class-to-re,True,memory leak
+"Android decompressing PNGs, will cause potential out of memory errors","android,background-image,out-of-memory,memory-consumption",True,/questions/15525263/android-decompressing-pngs-will-cause-potential-out-of-memory-errors,True,out of memory
+using asynctask to speed up android app launch time,"android,android-asynctask",True,/questions/15455858/using-asynctask-to-speed-up-android-app-launch-time,True,launch time
+tabs / fragments and memory leak,"android,memory-leaks",True,/questions/15454771/tabs-fragments-and-memory-leak,True,memory leak
+AsyncHttpClient download large Pdf files out of memory error,android,True,/questions/15449589/asynchttpclient-download-large-pdf-files-out-of-memory-error,True,out of memory
+Out of memory exception in case of simple static gallery,"android,gridview,imageview,android-gallery",True,/questions/15430121/out-of-memory-exception-in-case-of-simple-static-gallery,True,out of memory
+how to use ddms for memory leaks in c++ code,"android,android-ndk,ddms",True,/questions/15386339/how-to-use-ddms-for-memory-leaks-in-c-code,True,memory leak
+Decode File From SdCard android to avoid out of memory error due to large bitmap or setImageURI,"android,image,resources,sd-card",True,/questions/15377186/decode-file-from-sdcard-android-to-avoid-out-of-memory-error-due-to-large-bitmap,True,out of memory
+Why doesn't onSensorChanged cause slowdown on the UI thread?,android,True,/questions/15373584/why-doesnt-onsensorchanged-cause-slowdown-on-the-ui-thread,True,slowdown
+Out of memory on a 9830416-byte allocation with bitmap,"android,bitmap",True,/questions/15335183/out-of-memory-on-a-9830416-byte-allocation-with-bitmap,True,out of memory
+Android post high res image running out of memory,"java,android,image,post,upload",True,/questions/10350353/android-post-high-res-image-running-out-of-memory,True,out of memory
+Out of memory Fatal Exception,"android,out-of-memory,bitmapfactory",True,/questions/10278686/out-of-memory-fatal-exception,True,out of memory
+Avoiding data loss due to interruption when saving files on android?,"android,xml,file",True,/questions/10247118/avoiding-data-loss-due-to-interruption-when-saving-files-on-android,True,data loss
+Getting Out of memory on a 3001616-byte allocation error for bitmap decoding,"java,android",True,/questions/10224306/getting-out-of-memory-on-a-3001616-byte-allocation-error-for-bitmap-decoding,True,out of memory
+Android app: ANR keyDispatchingTimedOut error,android,True,/questions/10192868/android-app-anr-keydispatchingtimedout-error,True, ANR 
+Out of memory errors on orientation change,"android,memory-leaks,screen-orientation,osmdroid",True,/questions/13831101/out-of-memory-errors-on-orientation-change,True,out of memory
+Android memory leaks heap gc_concurrent,"java,android,performance,memory,memory-leaks",True,/questions/13769948/android-memory-leaks-heap-gc-concurrent,True,memory leak
+Huge latency between onPreExecute and doInBackground in AsyncTask,"android,multithreading,android-asynctask",True,/questions/13744587/huge-latency-between-onpreexecute-and-doinbackground-in-asynctask,True,latency
+Out of Memory Error Nexus 7 android 4.2.1 [closed],"android,memory,out-of-memory,nexus-7",True,/questions/13722639/out-of-memory-error-nexus-7-android-4-2-1,True,out of memory
+Android app OOM (Out Of Memory) adjustment priorities for processes,"android,out-of-memory,scheduler,launcher",True,/questions/13712809/android-app-oom-out-of-memory-adjustment-priorities-for-processes,True," oom 
+out of memory"
+Context and Memory leaks,android,True,/questions/13699925/context-and-memory-leaks,True,memory leak
+Sherlock ActionItems unresponsive FIXED,"android,android-actionbar,actionbarsherlock",True,/questions/13714736/sherlock-actionitems-unresponsive-fixed,True,unresponsive
+Intel HAXM and Out Of Memory error when running Android application,"android,android-emulator,out-of-memory,intel",True,/questions/13681853/intel-haxm-and-out-of-memory-error-when-running-android-application,True,out of memory
+Avoiding out of memory error in loading bitmap in listview,"android,android-memory",True,/questions/13618345/avoiding-out-of-memory-error-in-loading-bitmap-in-listview,True,out of memory
+Out of memory cache error when accessing inside the app,"android,out-of-memory,heap-memory",True,/questions/13606045/out-of-memory-cache-error-when-accessing-inside-the-app,True,out of memory
+Android ViewPager with images: memory leak/app crashes,"android,memory-leaks,android-viewpager",True,/questions/13586963/android-viewpager-with-images-memory-leak-app-crashes,True,memory leak
+Running out of memory using many editTexts and onclicklisteners,"java,android,memory,memory-management",True,/questions/13521844/running-out-of-memory-using-many-edittexts-and-onclicklisteners,True,out of memory
+Memory Leaks in Android application,"android,ddms",True,/questions/13490493/memory-leaks-in-android-application,True,memory leak
+Does creating singleton inside application class cause memory leak?,"android,kotlin,singleton,android-context",True,/questions/61258681/does-creating-singleton-inside-application-class-cause-memory-leak,True,memory leak
+Is this Runnable safe from memory leak?,"java,android,memory-leaks,runnable,weak-references",True,/questions/29694222/is-this-runnable-safe-from-memory-leak,True,memory leak
+Android Out of memory in change wallpaper in Galaxy Note 3,android,True,/questions/29598184/android-out-of-memory-in-change-wallpaper-in-galaxy-note-3,True,out of memory
+finding volley requests response time android,"android,response,android-volley",True,/questions/29386249/finding-volley-requests-response-time-android,True,response time
+How to debug memory leak where exception instances in heap dump have no inbound references?,"java,android,memory-leaks",True,/questions/3631558/how-to-debug-memory-leak-where-exception-instances-in-heap-dump-have-no-inbound,True,memory leak
+Android Memory Leaks Issue,"java,android,memory-leaks",True,/questions/32160330/android-memory-leaks-issue,True,memory leak
+"A method of MainActivity called from a Fragment or using a Singleton class, which is better for preventing memory leaks?","java,android,android-fragments,memory-leaks,admob",True,/questions/32155446/a-method-of-mainactivity-called-from-a-fragment-or-using-a-singleton-class-whic,True,memory leak
+Is it a memory leak in android,"android,memory-leaks",True,/questions/32152375/is-it-a-memory-leak-in-android,True,memory leak
+OutputStream out of memory error while sending File to Http,"java,android,android-file",True,/questions/32117585/outputstream-out-of-memory-error-while-sending-file-to-http,True,out of memory
+Memory leaks or normal for Android apps?,"java,android,memory-management,memory-leaks",True,/questions/32063550/memory-leaks-or-normal-for-android-apps,True,memory leak
+How to display Custom message before force close or ANR message will occur,"android,android-emulator",True,/questions/3463328/how-to-display-custom-message-before-force-close-or-anr-message-will-occur,True, ANR 
+android memory leak in notification service,"android,memory-leaks,notifications,notificationmanager",True,/questions/3390280/android-memory-leak-in-notification-service,True,memory leak
+Android: out of memory exception in Gallery,"android,memory-leaks,gallery",True,/questions/3238388/android-out-of-memory-exception-in-gallery,True,out of memory
+Memory leak in WebView,"android,android-webview",True,/questions/3130654/memory-leak-in-webview,True,memory leak
+How to handle out of memory error?,android,True,/questions/3035228/how-to-handle-out-of-memory-error,True,out of memory
+android widget unresponsive,"android,widget",True,/questions/3034513/android-widget-unresponsive,True,unresponsive
+Android: Memory leak due to AsyncTask,"android,memory,memory-leaks,android-asynctask",True,/questions/3033007/android-memory-leak-due-to-asynctask,True,memory leak
+GridView out of memory error,"android,memory,gridview,image",True,/questions/2966547/gridview-out-of-memory-error,True,out of memory
+How do I keep from running out of memory on graphics for an Android app?,"android,graphics,memory-management",True,/questions/2800728/how-do-i-keep-from-running-out-of-memory-on-graphics-for-an-android-app,True,out of memory
+Android camera out of memory exception,"java,android",True,/questions/2714152/android-camera-out-of-memory-exception,True,out of memory
+FFmpeg filtergraph for concatenate and amix doesn't work. Out of memory error,"android,audio,ffmpeg,android-ffmpeg",True,/questions/41666403/ffmpeg-filtergraph-for-concatenate-and-amix-doesnt-work-out-of-memory-error,True,out of memory
+Android - can mainThread handlers cause memory leaks?,"android,memory-leaks,handler",True,/questions/41477830/android-can-mainthread-handlers-cause-memory-leaks,True,memory leak
+MediaControllerCompat memory leak,"java,android,memory-leaks,leakcanary,android-mediasession",True,/questions/41396814/mediacontrollercompat-memory-leak,True,memory leak
+Android : Out of memory exception while scrolling GridView?,"android,gridview,out-of-memory,android-gridview",True,/questions/41374960/android-out-of-memory-exception-while-scrolling-gridview,True,out of memory
+WindowManagerGlobal.sDefaultWindowManager memory leak,"android,memory-leaks,android-memory",True,/questions/63895734/windowmanagerglobal-sdefaultwindowmanager-memory-leak,True,memory leak
+Android and memory leaks,"android,android-layout,android-fragments,leakcanary",True,/questions/63622048/android-and-memory-leaks,True,memory leak
+AnyChartView has getting a memory leak when activity destroyed,"android,memory-leaks,anychart,leakcanary",True,/questions/63447201/anychartview-has-getting-a-memory-leak-when-activity-destroyed,True,memory leak
+Am I creating memory leaks here?,"java,android,memory-leaks",True,/questions/32524827/am-i-creating-memory-leaks-here,True,memory leak
+Android image decoding massive memory consumption,"android,performance,android-bitmap",True,/questions/32524767/android-image-decoding-massive-memory-consumption,True,memory consumption
+Android camera Bitmap memory leak,"android,image,bitmap,android-camera",True,/questions/32453203/android-camera-bitmap-memory-leak,True,memory leak
+Memory leak detected in Chrome Custom Tabs,"android,google-chrome,memory-leaks,chrome-custom-tabs",True,/questions/32406650/memory-leak-detected-in-chrome-custom-tabs,True,memory leak
+Memory Leak in practical example,"java,android,performance,memory,memory-leaks",True,/questions/32400786/memory-leak-in-practical-example,True,memory leak
+Difference between Application Not Responding and Unfortunately <Appname> has stopped in Android?,android,True,/questions/32239923/difference-between-application-not-responding-and-unfortunately-appname-has-st,True,application not responding
+Android: Using media files for grid view tutorial causes it to run out of memory after 9 pics?,android,True,/questions/7353819/android-using-media-files-for-grid-view-tutorial-causes-it-to-run-out-of-memory,True,out of memory
+android - out of memory,"android,out-of-memory",True,/questions/7282334/android-out-of-memory,True,out of memory
+Android Surfaceview Threads and memory leaks,"android,multithreading,memory-leaks,surfaceview",True,/questions/7227624/android-surfaceview-threads-and-memory-leaks,True,memory leak
+Possible memory leak using Handler?,"android,memory,memory-management",True,/questions/7196363/possible-memory-leak-using-handler,True,memory leak
+Android: View with 0 height and memory consumption,"android,view,height,visible,zero",True,/questions/7035089/android-view-with-0-height-and-memory-consumption,True,memory consumption
+listView.setAdapter is so sluggish?,"android,listview",True,/questions/21301754/listview-setadapter-is-so-sluggish,True,sluggish
+Camera Preview Out of Memory Error,"android,memory,camera,overlay,preview",True,/questions/21299443/camera-preview-out-of-memory-error,True,out of memory
+Calculate download speeds/packet loss /jitter /latency to servers on all the continents values (Android),"android,network-programming,video-streaming,rtsp,packet",True,/questions/21255416/calculate-download-speeds-packet-loss-jitter-latency-to-servers-on-all-the-con,True,latency
+Android out of memory bitmap,"android,memory,bitmap",True,/questions/21063867/android-out-of-memory-bitmap,True,out of memory
+Universal Image Loader OOM while loading image from drawable folder?,"android,caching,image-processing,out-of-memory,universal-image-loader",True,/questions/21039010/universal-image-loader-oom-while-loading-image-from-drawable-folder,True, oom 
+Memory leak - Android activities held by android.os.Message,"java,android,memory-leaks",True,/questions/21002343/memory-leak-android-activities-held-by-android-os-message,True,memory leak
+"Android - Saving photo taken from Camera , Out of memory","android,memory-management,bitmap,out-of-memory,heap-memory",True,/questions/31982179/android-saving-photo-taken-from-camera-out-of-memory,True,out of memory
+Picasso: out of memory,"android,out-of-memory,picasso",True,/questions/31925461/picasso-out-of-memory,True,out of memory
+RuntimeException: native typeface cannot be made or memory leak for custom TextView loading font,"android,memory-leaks,runtimeexception,android-fonts,inflate-exception",True,/questions/20942671/runtimeexception-native-typeface-cannot-be-made-or-memory-leak-for-custom-textv,True,memory leak
+"Android, out of memory converting to black and white","android,performance,android-bitmap",True,/questions/20918737/android-out-of-memory-converting-to-black-and-white,True,out of memory
+Holding activity instance in fragment: can it result in a memory leak?,"android,memory-leaks",True,/questions/48059506/holding-activity-instance-in-fragment-can-it-result-in-a-memory-leak,True,memory leak
+Out of memory while downloading file,"java,android,android-asynctask,download,out-of-memory",True,/questions/48009832/out-of-memory-while-downloading-file,True,out of memory
+Items unresponsive after Inflating Custom View in NavigationDrawer Android,"android,android-custom-view,android-scrollview,drawerlayout,navigationview",True,/questions/47897499/items-unresponsive-after-inflating-custom-view-in-navigationdrawer-android,True,unresponsive
+use ExecutorService occur out of memory on android,android,True,/questions/47897185/use-executorservice-occur-out-of-memory-on-android,True,out of memory
+Firestore initial data load makes app unresponsive,"android,google-cloud-firestore",True,/questions/47739779/firestore-initial-data-load-makes-app-unresponsive,True,unresponsive
+"Why I user imageview and Change Recurce it,I get ""out of memory""Error",android,True,/questions/47648229/why-i-user-imageview-and-change-recurce-it-i-get-out-of-memoryerror,True,out of memory
+Fragment Memory Leak,"android,android-fragments,fragment,android-memory",True,/questions/30963057/fragment-memory-leak,True,memory leak
+libpd library Low latency support for video?,"java,android,latency,low-latency,libpd",True,/questions/30891306/libpd-library-low-latency-support-for-video,True,latency
+Android animations memory leak,"android,animation",True,/questions/30874547/android-animations-memory-leak,True,memory leak
+Realtime/zero-latency video stream: what codec parameters to use?,"android,video-streaming,gstreamer,h.264",True,/questions/30730082/realtime-zero-latency-video-stream-what-codec-parameters-to-use,True,latency
+Improving the latency of server response under high-volme traffic [closed],"php,android,mysql,high-availability,high-load",True,/questions/30701138/improving-the-latency-of-server-response-under-high-volme-traffic,True,latency
+Android out of memory exception,"android,out-of-memory,assets,bitmapfactory,android-bitmap",True,/questions/30636855/android-out-of-memory-exception,True,out of memory
+Out Of Memory on Assets.Reload after Purchasing Item,"android,bitmap,out-of-memory",True,/questions/30642837/out-of-memory-on-assets-reload-after-purchasing-item,True,out of memory
+FirebaseAuth Memory Leak in Activity,"android,memory-leaks,firebase,firebase-authentication,leakcanary",True,/questions/30587340/firebaseauth-memory-leak-in-activity,True,memory leak
+Could this Runnable class cause memory leaks?,"android,multithreading,kotlin,memory-leaks,runnable",True,/questions/54814017/could-this-runnable-class-cause-memory-leaks,True,memory leak
+"Is it ok to use observerForever() for a LiveData, does it not cause memory leaks? and should I unregister it somewhere in activity?","android,android-livedata",True,/questions/54759878/is-it-ok-to-use-observerforever-for-a-livedata-does-it-not-cause-memory-leaks,True,memory leak
+Can storing a system service statically lead to memory leaks?,"java,android,android-context",True,/questions/54633492/can-storing-a-system-service-statically-lead-to-memory-leaks,True,memory leak
+tool to measure performance of android app rendering time/app latency/Performance,"android,performance,rendering,latency",True,/questions/54565684/tool-to-measure-performance-of-android-app-rendering-time-app-latency-performanc,True,latency
+Memory Leak with SwipeRefreshLayout,android,True,/questions/56796929/memory-leak-with-swiperefreshlayout,True,memory leak
+Will making application class singleton cause memory leak?,"android,memory-leaks,leakcanary",True,/questions/56660758/will-making-application-class-singleton-cause-memory-leak,True,memory leak
+Room Database schema update without data loss,"android,sqlite,kotlin,android-sqlite,android-room",True,/questions/56478785/room-database-schema-update-without-data-loss,True,data loss
+is this a memory leak attaching to a view?,"android,memory-leaks",True,/questions/56448774/is-this-a-memory-leak-attaching-to-a-view,True,memory leak
+Wired Out of memory: Java heap space error with ffmpeg library,"android,gradle,ffmpeg,out-of-memory,heap-memory",True,/questions/56271816/wired-out-of-memory-java-heap-space-error-with-ffmpeg-library,True,out of memory
+ShowCaseView Out of Memory Error,"java,android,out-of-memory,showcaseview,samsung-galaxy",True,/questions/35941998/showcaseview-out-of-memory-error,True,out of memory
+Bitmap.createBitmap out of memory error java,"java,android,bitmap,out-of-memory",True,/questions/35941542/bitmap-createbitmap-out-of-memory-error-java,True,out of memory
+Memory leak using Lollipop's transitions,"android,memory-leaks,android-transitions",True,/questions/35791795/memory-leak-using-lollipops-transitions,True,memory leak
+OsmDroid MyLocationNewOverlay.enableMyLocation() cause memory leak,"android,memory-leaks,osmdroid,mylocationoverlay",True,/questions/35726790/osmdroid-mylocationnewoverlay-enablemylocation-cause-memory-leak,True,memory leak
+How do I make a puzzle app in droid without running out of memory?,"android,crop,puzzle,android-bitmap,porter-duff",True,/questions/35706406/how-do-i-make-a-puzzle-app-in-droid-without-running-out-of-memory,True,out of memory
+Getting lot of ANR using Accessibility service in android,"android,google-play,accessibility,android-anr-dialog",True,/questions/46484851/getting-lot-of-anr-using-accessibility-service-in-android,True, ANR 
+Picasso MemoryPolicy.NO_CACHE/NO_STORE still increasing allocated and memory consumption,"java,android,caching,memory,picasso",True,/questions/46388187/picasso-memorypolicy-no-cache-no-store-still-increasing-allocated-and-memory-con,True,memory consumption
+How to clean up Rx Subscription and Observable to prevent memory leaks?,"java,android,rx-java,observable,rx-android",True,/questions/46347939/how-to-clean-up-rx-subscription-and-observable-to-prevent-memory-leaks,True,memory leak
+Is it possible to stop my app from showing battery draining notification?,android,True,/questions/46158045/is-it-possible-to-stop-my-app-from-showing-battery-draining-notification,True,battery drain
+Activity as a listener and memory leaks,"android,memory-leaks,android-activity",True,/questions/4257724/activity-as-a-listener-and-memory-leaks,True,memory leak
+Android custom view Bitmap memory leak,"android,out-of-memory,ondraw,custom-view",True,/questions/4197794/android-custom-view-bitmap-memory-leak,True,memory leak
+Audio Recording and Out of memory Exception,"android,out-of-memory",True,/questions/4152957/audio-recording-and-out-of-memory-exception,True,out of memory
+Is there any efficient way in Android to downscale large image from file and save it to new file without OOM exception,"java,android,kotlin",True,/questions/54024050/is-there-any-efficient-way-in-android-to-downscale-large-image-from-file-and-sav,True, oom 
+How To Fix Slow Rendering in my Android Code?,"android,xml,performance,android-studio,android-layout",True,/questions/53849689/how-to-fix-slow-rendering-in-my-android-code,True,Slow rendering
+Can be static reference to View memory leak?,"android,memory-leaks",True,/questions/5504071/can-be-static-reference-to-view-memory-leak,True,memory leak
+Eclipse Android Plugin sluggish,android,True,/questions/4003263/eclipse-android-plugin-sluggish,True,sluggish
+Android SQLite memory leak,"sql,android,sqlite",True,/questions/3720334/android-sqlite-memory-leak,True,memory leak
+Runtime Change Android material theme,"java,android,styles,themes,material-design",True,/questions/41800164/runtime-change-android-material-theme,True,runtime change
+Memory leaks on realm database file,"android,database,memory-leaks,realm",True,/questions/41769853/memory-leaks-on-realm-database-file,True,memory leak
+How to prevent UI lag when updating Notification while downloading file?,"java,android,android-asynctask",True,/questions/17345623/how-to-prevent-ui-lag-when-updating-notification-while-downloading-file,True,UI lag
+Android - onOptionsItemSelected UI freeze until complete,"android,user-interface,actionbarsherlock",True,/questions/17278032/android-onoptionsitemselected-ui-freeze-until-complete,True,UI freeze
+Out of Memory Exception,"android,performance,out-of-memory",True,/questions/17229632/out-of-memory-exception,True,out of memory
+Getting memory leak error in android 2.3,"java,android,memory-leaks",True,/questions/17150549/getting-memory-leak-error-in-android-2-3,True,memory leak
+Out of memory when storing lines from txt to ArrayList,"java,android,io",True,/questions/17027727/out-of-memory-when-storing-lines-from-txt-to-arraylist,True,out of memory
+Android Traceview - It holds the Answers to my Unresponsive App... I think,"android,methods,webkit,cpu,bitmapfactory",True,/questions/17012222/android-traceview-it-holds-the-answers-to-my-unresponsive-app-i-think,True,unresponsive
+Threaded low latency audio on Android,"android,audio,pthreads,low-latency",True,/questions/16987613/threaded-low-latency-audio-on-android,True,latency
+android - Bitmap Out Of Memory Issues when making zoom thumbnil imange in android,"android,memory",True,/questions/16980957/android-bitmap-out-of-memory-issues-when-making-zoom-thumbnil-imange-in-androi,True,out of memory
+Out of memory on Android App on scrolling list with images,"android,android-layout",True,/questions/14156996/out-of-memory-on-android-app-on-scrolling-list-with-images,True,out of memory
+Memory leak through IClipboardDataPasteEventImpl,"memory-leaks,android",True,/questions/14135931/memory-leak-through-iclipboarddatapasteeventimpl,True,memory leak
+Android out of memory when assigning variables,"android,memory,bitmap",True,/questions/14116757/android-out-of-memory-when-assigning-variables,True,out of memory
+PhoneGap + jQuery Mobile = slow tap response time,"android,cordova,jquery-mobile",True,/questions/14097351/phonegap-jquery-mobile-slow-tap-response-time,True,response time
+Out Of Memory Exception While Getting AlbumArt,"android,bitmap,out-of-memory,expandablelistview,bitmapfactory",True,/questions/14066331/out-of-memory-exception-while-getting-albumart,True,out of memory
+Android - Second of Two Buttons in Fragment Is Unresponsive,"java,android,android-fragments",True,/questions/14011590/android-second-of-two-buttons-in-fragment-is-unresponsive,True,unresponsive
+Activity Has Memory Leak on dialog.show(),"android,android-asynctask,android-activity,android-memory",True,/questions/13910041/activity-has-memory-leak-on-dialog-show,True,memory leak
+Out of memory using adapters,"android,memory-leaks,android-context",True,/questions/13862500/out-of-memory-using-adapters,True,out of memory
+Getting Out Of Memory Error when saving big files,"java,android,file,memory",True,/questions/65795540/getting-out-of-memory-error-when-saving-big-files,True,out of memory
+"After getting Class Instance List, how to get exact point of Memory leak in Reference using Android Studio Profiler?","android,android-studio,memory-leaks,out-of-memory,android-profiler",True,/questions/65438634/after-getting-class-instance-list-how-to-get-exact-point-of-memory-leak-in-refe,True,memory leak
+Bottomnavigationview.selectedlistener memory leak,"android,memory-leaks,dagger-hilt",True,/questions/65324579/bottomnavigationview-selectedlistener-memory-leak,True,memory leak
+How to resolve ANR problem occured in SensorEventListener operating separete thread?,"java,android,android-sensors,android-thread,android-handlerthread",True,/questions/65231576/how-to-resolve-anr-problem-occured-in-sensoreventlistener-operating-separete-thr,True, ANR 
+Android sqlite cursor - out of memory,"java,android,sqlite,cursor,out-of-memory",True,/questions/40558130/android-sqlite-cursor-out-of-memory,True,out of memory
+How to handle the response time using OKHttp on Android,"java,android,okhttp",True,/questions/40538305/how-to-handle-the-response-time-using-okhttp-on-android,True,response time
+UI Freezes when Executing AsyncTask,"android,user-interface,android-studio,android-asynctask",True,/questions/40492198/ui-freezes-when-executing-asynctask,True,UI freeze
+Out of Memory Error - Optimization?,"java,android,memory,crash",True,/questions/40325202/out-of-memory-error-optimization,True,out of memory
+Android Memory Leak Using anonymous class implementation with local variables specific to thread,"java,android,multithreading,thread-safety,threadpool",True,/questions/40287840/android-memory-leak-using-anonymous-class-implementation-with-local-variables-sp,True,memory leak
+RuntimeException causes ANR on Android,"android,crashlytics,android-anr-dialog",True,/questions/68646196/runtimeexception-causes-anr-on-android,True, ANR 
+Latency time in android,android,True,/questions/5440730/latency-time-in-android,True,latency
+View + Tag = memory leak?,"android,memory-leaks,view",True,/questions/5410967/view-tag-memory-leak,True,memory leak
+AudioRecord and AudioTrack latency,"android,audio,record,audiorecord,android-audiorecord",True,/questions/5379063/audiorecord-and-audiotrack-latency,True,latency
+Android HttpClient OOM on 4G/LTE (HTC Thunderbolt),"android,httpclient,4g,htc-android,htc-thunderbolt",True,/questions/5358014/android-httpclient-oom-on-4g-lte-htc-thunderbolt,True, oom 
+Memory leak in very simple app,"android,memory-leaks",True,/questions/5356696/memory-leak-in-very-simple-app,True,memory leak
+out of memory with image switcher android,android,True,/questions/5327079/out-of-memory-with-image-switcher-android,True,out of memory
+SurfaceView strange behavior Android Out of Memory Error,"android,out-of-memory,surfaceview",True,/questions/5300259/surfaceview-strange-behavior-android-out-of-memory-error,True,out of memory
+Kotlin helper object class memory leak,"android,kotlin,memory-leaks",True,/questions/67902727/kotlin-helper-object-class-memory-leak,True,memory leak
+How to get API Request/ Response time using Retrofit 2,"android,retrofit2",True,/questions/38873321/how-to-get-api-request-response-time-using-retrofit-2,True,response time
+detect memory leak from MAT,"android,memory-management,memory-leaks,eclipse-memory-analyzer",True,/questions/38717594/detect-memory-leak-from-mat,True,memory leak
+Out Of Memory Error When loading more images in Glide,"java,android,out-of-memory",True,/questions/38560637/out-of-memory-error-when-loading-more-images-in-glide,True,out of memory
+Android Constrain Layout use too many memory (ram) (memory leak),"android,android-layout,android-constraintlayout",True,/questions/38545319/android-constrain-layout-use-too-many-memory-ram-memory-leak,True,memory leak
+Android Out of Memory error when postInvalidate,android,True,/questions/6149976/android-out-of-memory-error-when-postinvalidate,True,out of memory
+Camera crashes on second run.(Due to VM out of memory error),"android,android-camera",True,/questions/6106738/camera-crashes-on-second-run-due-to-vm-out-of-memory-error,True,out of memory
+Android Out of Memory Exception while HTML unescaping a String,"android,memory-management,out-of-memory",True,/questions/6085328/android-out-of-memory-exception-while-html-unescaping-a-string,True,out of memory
+How to find root of memory leaks?,"java,android,memory-leaks,out-of-memory,heap-memory",True,/questions/6046424/how-to-find-root-of-memory-leaks,True,memory leak
+RunonUiThread() or CustomListAdapter causing Memory Leaks?,"android,memory-leaks",True,/questions/6046405/runonuithread-or-customlistadapter-causing-memory-leaks,True,memory leak
+trouble with memory releasing. after recreating an activity ~30 times i run out of memory,"android,android-activity,out-of-memory",True,/questions/23332283/trouble-with-memory-releasing-after-recreating-an-activity-30-times-i-run-out,True,out of memory
+Volley memory leak on HEAD requests,"android,out-of-memory,head,android-volley",True,/questions/23206950/volley-memory-leak-on-head-requests,True,memory leak
+Android out of memory error when using ListView and Bitmap,"java,android,listview,bitmap,out-of-memory",True,/questions/31395840/android-out-of-memory-error-when-using-listview-and-bitmap,True,out of memory
+Sqlite memory leak. Bad tutorial or it's usage?,"android,sqlite,memory-leaks,sqliteopenhelper",True,/questions/31316119/sqlite-memory-leak-bad-tutorial-or-its-usage,True,memory leak
+Images in a list view produces out of memory,"android,android-listview,out-of-memory,android-bitmap",True,/questions/31259325/images-in-a-list-view-produces-out-of-memory,True,out of memory
+Android loading images efficient (out of memory) [duplicate],"android,gridview,imageview,out-of-memory",True,/questions/31260112/android-loading-images-efficient-out-of-memory,True,out of memory
+Java Out of Memory Error while loading the UI of an Android Activity,"java,android,out-of-memory",True,/questions/31241026/java-out-of-memory-error-while-loading-the-ui-of-an-android-activity,True,out of memory
+RuntimeException causes ANR instead of crash in android,"android,crash,crash-reports",True,/questions/31180423/runtimeexception-causes-anr-instead-of-crash-in-android,True, ANR 
+Android out of memory error in List Adapter when loading images from resource using Bitmap,"android,image,bitmap",True,/questions/31040888/android-out-of-memory-error-in-list-adapter-when-loading-images-from-resource-us,True,out of memory
+Google Places API. PlaceLikelihoodBuffer slow response. Android,"android,performance,google-places-api",True,/questions/31043068/google-places-api-placelikelihoodbuffer-slow-response-android,True,slow response
+Memory leak in CardboardActivity,"android,memory-leaks,google-cardboard",True,/questions/31038532/memory-leak-in-cardboardactivity,True,memory leak
+How do I avoid memory leaks from array list event listeners?,"android,arraylist,memory-leaks,android-memory,leakcanary",True,/questions/45511681/how-do-i-avoid-memory-leaks-from-array-list-event-listeners,True,memory leak
+How do I avoid a memory leak from a static fragment context?,"android,android-fragments,memory-leaks,android-context,android-memory",True,/questions/45494660/how-do-i-avoid-a-memory-leak-from-a-static-fragment-context,True,memory leak
+Weak reference instead of getActivity() (Android avoid memory leak)?,"java,android,memory-leaks,weak-references",True,/questions/45467205/weak-reference-instead-of-getactivity-android-avoid-memory-leak,True,memory leak
+Main Ui Freezes,"android,multithreading,kotlin,freeze",True,/questions/45441597/main-ui-freezes,True,UI freeze
+Why is my custom spinner disabled/unresponsive?,"java,android,android-spinner,android-custom-view",True,/questions/45396432/why-is-my-custom-spinner-disabled-unresponsive,True,unresponsive
+Out of memory when trying to get drawable resources from other apps,"android,out-of-memory,drawable,android-resources",True,/questions/45301601/out-of-memory-when-trying-to-get-drawable-resources-from-other-apps,True,out of memory
+Understanding Android Memory Leaks in combination with RxJava,"java,android,memory-leaks,rx-java,rx-android",True,/questions/34229365/understanding-android-memory-leaks-in-combination-with-rxjava,True,memory leak
+"Out of Memory Error ,set bitmap on TouchImageview","android,bitmap,android-memory",True,/questions/34083782/out-of-memory-error-set-bitmap-on-touchimageview,True,out of memory
+Memory leak in very simple Android App,"java,android,memory-leaks",True,/questions/34075810/memory-leak-in-very-simple-android-app,True,memory leak
+Realm transaction causes GC sweep ui freeze,"android,realm,freeze",True,/questions/33927209/realm-transaction-causes-gc-sweep-ui-freeze,True,UI freeze
+Do listeners create memory leaks if not removed from a destroyed activity?,"java,android,memory-leaks,android-activity",True,/questions/5238321/do-listeners-create-memory-leaks-if-not-removed-from-a-destroyed-activity,True,memory leak
+Memory leaks in android?,"android,memory,memory-management",True,/questions/5243519/memory-leaks-in-android,True,memory leak
+Android Out of Memory error with Lazy Load images,"android,caching,lazy-loading,out-of-memory",True,/questions/5082703/android-out-of-memory-error-with-lazy-load-images,True,out of memory
+Android OOM For Bitmap with image Capture,"android,out-of-memory,android-camera-intent,bitmapfactory",True,/questions/5048615/android-oom-for-bitmap-with-image-capture,True, oom 
+How to avoid out of memory error in android,android,True,/questions/5026203/how-to-avoid-out-of-memory-error-in-android,True,out of memory
+Can this code cause memory leak in android,"android,kotlin,memory-leaks",True,/questions/57942197/can-this-code-cause-memory-leak-in-android,True,memory leak
+Find memory leaks in the Activity code to free memory usage and avoid OutOfMemory Exception,"java,android,memory-leaks,out-of-memory,leakcanary",True,/questions/57462677/find-memory-leaks-in-the-activity-code-to-free-memory-usage-and-avoid-outofmemor,True,memory leak
+Implement Glide/Fresco/Picasso to resize images before loading to Imageview to avoid OOM issues,"java,android,picasso,android-glide,fresco",True,/questions/59746828/implement-glide-fresco-picasso-to-resize-images-before-loading-to-imageview-to-a,True, oom 
+Android Large Image on Imageview Crashes App on OOM Error,"java,android",True,/questions/59725379/android-large-image-on-imageview-crashes-app-on-oom-error,True, oom 
+android memory leaks,"android,memory-leaks",True,/questions/7848362/android-memory-leaks,True,memory leak
+out of Memory error in android,android,True,/questions/7777230/out-of-memory-error-in-android,True,out of memory
+Android. Avoiding ANR with HttpClient,"android,error-handling,httpclient,android-anr-dialog",True,/questions/7754023/android-avoiding-anr-with-httpclient,True, ANR 
+Reading huge images from SD CARD and save them resized (out of memory!),"android,image,bitmap,out-of-memory",True,/questions/7739559/reading-huge-images-from-sd-card-and-save-them-resized-out-of-memory,True,out of memory
+Out Of Memory Error with images,"android,listview,image-processing",True,/questions/7737415/out-of-memory-error-with-images,True,out of memory
+"If i close and open my app several times i eventually get Out of Memory Error, does it mean i have memory leak?","android,memory-leaks,bitmap",True,/questions/7628780/if-i-close-and-open-my-app-several-times-i-eventually-get-out-of-memory-error-d,True,"memory leak
+out of memory"
+"Out of Memory Exception for String, StringBuffer and StringBuilder in Android","android,string,stringbuilder,out-of-memory,stringbuffer",True,/questions/7557373/out-of-memory-exception-for-string-stringbuffer-and-stringbuilder-in-android,True,out of memory
+Android button latency?,"java,android,xml",True,/questions/7535882/android-button-latency,True,latency
+"Out of memory error on android emulator, but not on device","android,out-of-memory",True,/questions/7427587/out-of-memory-error-on-android-emulator-but-not-on-device,True,out of memory
+Memory leak when creating bitmaps in a loop,"java,android,memory-leaks,bitmap",True,/questions/7415187/memory-leak-when-creating-bitmaps-in-a-loop,True,memory leak
+How to hold Button reference in singleton class without memory leak,"android,memory-leaks,singleton",True,/questions/43942723/how-to-hold-button-reference-in-singleton-class-without-memory-leak,True,memory leak
+Android Memory leak on reference view,"android,memory-leaks,leakcanary",True,/questions/43879776/android-memory-leak-on-reference-view,True,memory leak
+ACR1252 Load Authentication FF 82 fails with 63 00,"android,rfid,apdu,mifare,acr1252",True,/questions/43758201/acr1252-load-authentication-ff-82-fails-with-63-00,True, FF 
+Out of Memory issue in a gallery like application,"android,out-of-memory,picasso,android-glide",True,/questions/43694914/out-of-memory-issue-in-a-gallery-like-application,True,out of memory
+Measure battery drain for a specific App or package name using ADB Commands,"android,performance,adb,batterymanager",True,/questions/43618439/measure-battery-drain-for-a-specific-app-or-package-name-using-adb-commands,True,battery drain
+Can handler class with activity's context cause memory leak?,"android,memory-leaks,android-handler",True,/questions/67799614/can-handler-class-with-activitys-context-cause-memory-leak,True,memory leak
+Android - avoiding memory leak in AsyncTask when passing a button instance,"android,memory-leaks,android-asynctask",True,/questions/67762814/android-avoiding-memory-leak-in-asynctask-when-passing-a-button-instance,True,memory leak
+Low latency video player on android,"android,react-native,video,ffmpeg,video-streaming",True,/questions/67572522/low-latency-video-player-on-android,True,latency
+is it possible to detect an ANR after it happenned?,android,True,/questions/67347286/is-it-possible-to-detect-an-anr-after-it-happenned,True, ANR 
+Android Webview - chromium shows ANR when method webView.loadUrl is called (with headers),"android,webview,chromium,android-anr-dialog",True,/questions/67304874/android-webview-chromium-shows-anr-when-method-webview-loadurl-is-called-with,True, ANR 
+How to fix memory leak issue in standard bottom sheet behaviour?,"android,bottom-sheet,leakcanary",True,/questions/67037286/how-to-fix-memory-leak-issue-in-standard-bottom-sheet-behaviour,True,memory leak
+Understanding memory leaks in Android application,"java,android,android-layout,memory-leaks,android-view",True,/questions/26244593/understanding-memory-leaks-in-android-application,True,memory leak
+Data loss when storing contacts in Parse,"android,parse-platform",True,/questions/26030538/data-loss-when-storing-contacts-in-parse,True,data loss
+Memory Leak while Using IabHelper (In-App Billing v3),"java,android,memory-leaks,in-app-purchase",True,/questions/25982442/memory-leak-while-using-iabhelper-in-app-billing-v3,True,memory leak
+How to use AudioTrack.getTimestamp() on Android to calculate latency?,"android,audio,audiotrack",True,/questions/49581054/how-to-use-audiotrack-gettimestamp-on-android-to-calculate-latency,True,latency
+Memory leakage in event listener,"android,memory-leaks,static,inner-classes,event-listener",True,/questions/5002589/memory-leakage-in-event-listener,True,memory leak
+Unresponsive data.getData for PICK_IMAGE_REQUEST,"java,android,android-studio,uri",True,/questions/72618203/unresponsive-data-getdata-for-pick-image-request,True,unresponsive
+Out of memory error java.lang.OutOfMemoryError,"java,android",True,/questions/72466948/out-of-memory-error-java-lang-outofmemoryerror,True,out of memory
+Why using lifecycleScope in Fragment causes memory leak when used in ViewPager2?,"android,kotlin-coroutines,android-lifecycle",True,/questions/71922057/why-using-lifecyclescope-in-fragment-causes-memory-leak-when-used-in-viewpager2,True,memory leak
+How ANR dialogs shows while MainThread is in Blocked state,android,True,/questions/49423123/how-anr-dialogs-shows-while-mainthread-is-in-blocked-state,True, ANR 
+animations unresponsive inside button click,"android,animation",True,/questions/49222237/animations-unresponsive-inside-button-click,True,unresponsive
+Can the strong reference returned from WeakReference's get method cause a memory leak in AsyncTask onProgressUpdate?,"android,android-asynctask,weak-references",True,/questions/49218699/can-the-strong-reference-returned-from-weakreferences-get-method-cause-a-memory,True,memory leak
+RxJava BehaviorSubject and Consumer - is there a memory leak here?,"android,memory-leaks,rx-java,rx-java2,rx-android",True,/questions/49218350/rxjava-behaviorsubject-and-consumer-is-there-a-memory-leak-here,True,memory leak
+how should i avoid out of memory error?,"android,animation,out-of-memory",True,/questions/24247694/how-should-i-avoid-out-of-memory-error,True,out of memory
+Out of memory error in android bitmap,"java,android,bitmap,out-of-memory",True,/questions/24203985/out-of-memory-error-in-android-bitmap,True,out of memory
+Using Picasso library with ImageSwitcher is causing Object out of Memory errors,"android,picasso,imageswitcher",True,/questions/24190598/using-picasso-library-with-imageswitcher-is-causing-object-out-of-memory-errors,True,out of memory
+"Volley out of memory error, weird allocation attempt","android,out-of-memory,android-volley,diskcache",True,/questions/24095909/volley-out-of-memory-error-weird-allocation-attempt,True,out of memory
+Android BitmapFactory.decodeResource out of memory if used more than once,"android,bitmap,out-of-memory,bitmapfactory",True,/questions/24016265/android-bitmapfactory-decoderesource-out-of-memory-if-used-more-than-once,True,out of memory
+Understanding memory leaks and MAT on Android,"android,memory-leaks,android-bitmap",True,/questions/23993481/understanding-memory-leaks-and-mat-on-android,True,memory leak
+Memory leak from bitmap,"android,memory,memory-leaks,bitmap",True,/questions/23857091/memory-leak-from-bitmap,True,memory leak
+AndroidImageSlider library memory leak,"android,memory-leaks",True,/questions/35489153/androidimageslider-library-memory-leak,True,memory leak
+Android UI freeze when calling service,"android,android-asynctask,android-service,android-mediaplayer,shoutcast",True,/questions/35423760/android-ui-freeze-when-calling-service,True,UI freeze
+Android slideshow leads to Memory leaks,"java,android,memory-leaks,out-of-memory",True,/questions/35395629/android-slideshow-leads-to-memory-leaks,True,memory leak
+Memory leak with GoogleApiClient detected by Android Studio,"android,android-studio,memory-leaks,google-play-services,android-app-indexing",True,/questions/35308231/memory-leak-with-googleapiclient-detected-by-android-studio,True,memory leak
+Device goes black and Launch timeout expires,android,True,/questions/35259233/device-goes-black-and-launch-timeout-expires,True,launch time
+MonkeyRunner instrumentation sends a ShellCommandUnresponsiveException during test execution,"android,adb,monkeyrunner",True,/questions/35229578/monkeyrunner-instrumentation-sends-a-shellcommandunresponsiveexception-during-te,True,unresponsive
+Android App Is Causing Battery Drain,"android,eclipse",True,/questions/22596805/android-app-is-causing-battery-drain,True,battery drain
+memory leak with Android WebView,"android,memory,webview,memory-leaks",True,/questions/22261736/memory-leak-with-android-webview,True,memory leak
+Android - Unknown memory leak in a very light app,android,True,/questions/22214152/android-unknown-memory-leak-in-a-very-light-app,True,memory leak
+Android: Out of Memory error StringBuilder,"android,out-of-memory,stringbuilder,httpconnection",True,/questions/19537550/android-out-of-memory-error-stringbuilder,True,out of memory
+Out of Memory using after 5 times of change orientation,"java,android,gridview,out-of-memory,universal-image-loader",True,/questions/19515303/out-of-memory-using-after-5-times-of-change-orientation,True,out of memory
+Volley slow and causing memory leak,"android,android-volley",True,/questions/19472809/volley-slow-and-causing-memory-leak,True,memory leak
+Android: out of memory error on canvas invalidate(),"android,android-canvas,out-of-memory",True,/questions/19449325/android-out-of-memory-error-on-canvas-invalidate,True,out of memory
+Android project built with gradle crashes with an Out of Memory Error,"android,gradle,android-gradle-plugin",True,/questions/19409970/android-project-built-with-gradle-crashes-with-an-out-of-memory-error,True,out of memory
+Out of memory android issue [closed],android,True,/questions/19402072/out-of-memory-android-issue,True,out of memory
+Out of memory issues with AnimationDrawable [closed],"android,out-of-memory,animationdrawable",True,/questions/19332598/out-of-memory-issues-with-animationdrawable,True,out of memory
+Android Fragment Webview Memory Leak,"android,memory-leaks,webview,android-fragments",True,/questions/19303904/android-fragment-webview-memory-leak,True,memory leak
+out of memory error while using viewpager+imageview even when using cache memory and asynctask,"android,android-fragments,android-asynctask,android-viewpager,android-imageview",True,/questions/19131205/out-of-memory-error-while-using-viewpagerimageview-even-when-using-cache-memory,True,out of memory
+out of memory error in a viewpager using fragments and imageviews,"android,android-fragments,android-viewpager,android-imageview",True,/questions/19119458/out-of-memory-error-in-a-viewpager-using-fragments-and-imageviews,True,out of memory
+StringBuilder append cause out of memory,"java,android",True,/questions/19108549/stringbuilder-append-cause-out-of-memory,True,out of memory
+why bindservice still causes app ANR after moving it to a worker thread,"android,multithreading",True,/questions/20718736/why-bindservice-still-causes-app-anr-after-moving-it-to-a-worker-thread,True, ANR 
+AsyncTask memory leak,"android,memory-leaks,android-asynctask,network-programming",True,/questions/20709812/asynctask-memory-leak,True,memory leak
+large bitmap crushes (out of memory),"android,bitmap,android-imageview,bitmapimage,android-bitmap",True,/questions/20697858/large-bitmap-crushes-out-of-memory,True,out of memory
+"Will this Android example be safe to use, memory leak-wise?","android,memory-leaks,android-fragments",True,/questions/20670382/will-this-android-example-be-safe-to-use-memory-leak-wise,True,memory leak
+Memory leak in the empty Activity,"android,memory-leaks,leakcanary",True,/questions/38470388/memory-leak-in-the-empty-activity,True,memory leak
+"PouchDb with SQLite, out of memory error on query","android,sqlite,cordova,pouchdb",True,/questions/38352167/pouchdb-with-sqlite-out-of-memory-error-on-query,True,out of memory
+Android Java GUI freeze /w ProgressBar,"java,android,user-interface,progress-bar,freeze",True,/questions/38335223/android-java-gui-freeze-w-progressbar,True,UI freeze
+Advantage of LiveData Over Observer Object In Terms of Avoiding Memory Leak,"android,memory-leaks,observable,android-livedata",True,/questions/71638746/advantage-of-livedata-over-observer-object-in-terms-of-avoiding-memory-leak,True,memory leak
+Memory leak in kotlin due to Closures?,"android,kotlin,memory-management,memory-leaks,textwatcher",True,/questions/77844001/memory-leak-in-kotlin-due-to-closures,True,memory leak
+How to make dragged item follow pointer position without latency in Android JetPack Compose?,"android,android-jetpack-compose,drag",True,/questions/77799605/how-to-make-dragged-item-follow-pointer-position-without-latency-in-android-jetp,True,latency
+Button unresponsive after click on text field,"android,kotlin,user-interface",True,/questions/77586552/button-unresponsive-after-click-on-text-field,True,unresponsive
+Could Navigation Arch Component create a false positive memory leak?,"android,kotlin,memory-leaks,android-architecture-navigation,leakcanary",True,/questions/59503689/could-navigation-arch-component-create-a-false-positive-memory-leak,True,memory leak
+Checking for images on setOnClickListener() in view latency reduction,"android,kotlin,latency",True,/questions/59507165/checking-for-images-on-setonclicklistener-in-view-latency-reduction,True,latency
+OnClickListeners: Preventing memory leaks,"android,memory-leaks,onclicklistener",True,/questions/59420329/onclicklisteners-preventing-memory-leaks,True,memory leak
+leak canary detects memory leak in MediaBrowserServiceCompat sample app,"android,memory-leaks,android-service,leakcanary,mediabrowserservice",True,/questions/59264025/leak-canary-detects-memory-leak-in-mediabrowserservicecompat-sample-app,True,memory leak
+Is the usage of livedata-ktx with ViewModels causing memory leaks if the LiveData is not backed by a property?,"android,kotlin,android-livedata,android-viewmodel",True,/questions/59265617/is-the-usage-of-livedata-ktx-with-viewmodels-causing-memory-leaks-if-the-livedat,True,memory leak
+"Close opened activity, so main activity can update fragment without state loss in Android","android,android-fragments,android-intent,android-activity",True,/questions/59217839/close-opened-activity-so-main-activity-can-update-fragment-without-state-loss-i,True,state loss
+UI lags and is choppy when using Glide to load images in a RecyclerView,"android,android-recyclerview,google-cloud-firestore,android-glide",True,/questions/59002056/ui-lags-and-is-choppy-when-using-glide-to-load-images-in-a-recyclerview,True,UI lag
+Changing activity from live data is causing memory leak,"android,memory-leaks,android-livedata,leakcanary",True,/questions/58951017/changing-activity-from-live-data-is-causing-memory-leak,True,memory leak
+Session 'app': Installation did not succeed. The application could not be installed: SHELL_UNRESPONSIVE,"android,android-studio",True,/questions/58899229/session-app-installation-did-not-succeed-the-application-could-not-be-instal,True,unresponsive
+Bottom sheet fragment memory leak,"android,memory-leaks,leakcanary",True,/questions/58878106/bottom-sheet-fragment-memory-leak,True,memory leak
+Android: Another thread is making the UI unresponsive?,"java,android,android-threading",True,/questions/58844492/android-another-thread-is-making-the-ui-unresponsive,True,unresponsive
+Would anonymous Handler or Runnable create a memory leak?,"java,android,memory-leaks",True,/questions/17778077/would-anonymous-handler-or-runnable-create-a-memory-leak,True,memory leak
+Backstack and memory leakage,"android,fragment",True,/questions/17778069/backstack-and-memory-leakage,True,memory leak
+android - out of memory in large screen - change image fast,"android,animation,bitmap,imageview,out-of-memory",True,/questions/17563452/android-out-of-memory-in-large-screen-change-image-fast,True,out of memory
+How can I fix frequent Out Of Memory Errors on Android emulators?,"android,android-emulator,out-of-memory",True,/questions/17537038/how-can-i-fix-frequent-out-of-memory-errors-on-android-emulators,True,out of memory
+TweetView cause ANR when first appear on screen,"android,twitter,view,tweets",True,/questions/44894056/tweetview-cause-anr-when-first-appear-on-screen,True, ANR 
+android loading image from sd card into imageview creats out of memory error in Samsung SIII,"android,imageview,android-camera,image-capture",True,/questions/12971719/android-loading-image-from-sd-card-into-imageview-creats-out-of-memory-error-in,True,out of memory
+How to reduce the response time of external page loading in phonegap application?,"javascript,android,jquery,cordova,xmlhttprequest",True,/questions/12967513/how-to-reduce-the-response-time-of-external-page-loading-in-phonegap-application,True,response time
+Android: UI freezes when intent calls a service,android,True,/questions/12975696/android-ui-freezes-when-intent-calls-a-service,True,UI freeze
+Memory leak with <a load image in a listview> asynctask,android,True,/questions/12671384/memory-leak-with-a-load-image-in-a-listview-asynctask,True,memory leak
+android using flood fill algorithm getting out of memory exception,"android,flood-fill",True,/questions/12669740/android-using-flood-fill-algorithm-getting-out-of-memory-exception,True,out of memory
+ApplicationInfo LoadLabel increase memory consumption of my service (android),"android,memory-management",True,/questions/12600974/applicationinfo-loadlabel-increase-memory-consumption-of-my-service-android,True,memory consumption
+Android - Idle condition data loss,"android,android-intent,android-emulator,android-widget",True,/questions/12584400/android-idle-condition-data-loss,True,data loss
+Monodroid Taking Screenshots out of memory,"android,bitmap,xamarin.android,screenshot",True,/questions/12572445/monodroid-taking-screenshots-out-of-memory,True,out of memory
+Out of Memory when allocating cursors,"android,sqlite,memory,memory-leaks,android-cursor",True,/questions/12577400/out-of-memory-when-allocating-cursors,True,out of memory
+Android memory leak with images from assets,"java,android,memory-leaks",True,/questions/12545131/android-memory-leak-with-images-from-assets,True,memory leak
+Out of memory exception when running multiple test with Android-Espresso,"android,testing,android-espresso,gui-testing,ui-testing",True,/questions/29227482/out-of-memory-exception-when-running-multiple-test-with-android-espresso,True,out of memory
+SharedPreferences.apply() and ANR application,"android,android-activity,sharedpreferences,apply",True,/questions/29166812/sharedpreferences-apply-and-anr-application,True, ANR 
+android media player unresponsive,"java,android,android-mediaplayer",True,/questions/29150708/android-media-player-unresponsive,True,unresponsive
+How can I avoid memory leaks when I implement canvas.drawBitmap method?,"java,android,canvas,memory-leaks,bitmap",True,/questions/29137674/how-can-i-avoid-memory-leaks-when-i-implement-canvas-drawbitmap-method,True,memory leak
+"Application not responding, why doesn't ANR popup display?","android,performance-testing,android-anr-dialog",True,/questions/58641850/application-not-responding-why-doesnt-anr-popup-display,True," ANR 
+application not responding"
+is there any way to use AsyncTask without memory leak in android using java,"android,performance,android-studio",True,/questions/58539709/is-there-any-way-to-use-asynctask-without-memory-leak-in-android-using-java,True,memory leak
+"Expo network response Timed Out, Can't run Expo app on android emulator","android,react-native,android-emulator,expo,android-virtual-device",True,/questions/58382437/expo-network-response-timed-out-cant-run-expo-app-on-android-emulator,True,response time
+Handler Memory Leak?,"java,android,memory-leaks",True,/questions/27848204/handler-memory-leak,True,memory leak
+Volley ui freeze on parsing data,"java,android",True,/questions/27707996/volley-ui-freeze-on-parsing-data,True,UI freeze
+"Rooting ICS emulator; pushing su fails with ""Out of memory""","android,android-emulator,su",True,/questions/9921874/rooting-ics-emulator-pushing-su-fails-with-out-of-memory,True,out of memory
+Android Memory Leak new Thread(),"java,android,memory-leaks",True,/questions/9921561/android-memory-leak-new-thread,True,memory leak
+Out of Memory Error in android due to Heap Size Increasing,"android,out-of-memory",True,/questions/9818407/out-of-memory-error-in-android-due-to-heap-size-increasing,True,out of memory
+Getting out of memory error while using threads for Image loading in Android.,android,True,/questions/9767794/getting-out-of-memory-error-while-using-threads-for-image-loading-in-android,True,out of memory
+Running out of Memory - bitmap size exceeds VM budget,"java,android,memory,imagebutton",True,/questions/9745608/running-out-of-memory-bitmap-size-exceeds-vm-budget,True,out of memory
+Android Response Timeout,"android,https,httpwebrequest,httprequest",True,/questions/9715800/android-response-timeout,True,response time
+getXml() is running out of memory when reading large XML on low-end devices,"android,xml",True,/questions/9675956/getxml-is-running-out-of-memory-when-reading-large-xml-on-low-end-devices,True,out of memory
+Got ANR after device went to sleep (Android),"android,android-anr-dialog",True,/questions/9670730/got-anr-after-device-went-to-sleep-android,True, ANR 
+Getting out of memory error while reading responce from web service,"android,web-services,out-of-memory",True,/questions/9644629/getting-out-of-memory-error-while-reading-responce-from-web-service,True,out of memory
+"Out of memory error when inserting more records(nearly 1,00,000 records) into database",android,True,/questions/9629619/out-of-memory-error-when-inserting-more-recordsnearly-1-00-000-records-into-da,True,out of memory
+Fixing Activity memory leaks found by Leak canary,"android,memory-leaks,leakcanary",True,/questions/62848503/fixing-activity-memory-leaks-found-by-leak-canary,True,memory leak
+Can a not removed ViewTreeObserver listener cause memory leaks?,"android,memory-leaks",True,/questions/36788740/can-a-not-removed-viewtreeobserver-listener-cause-memory-leaks,True,memory leak
+Android running out of memory,"android,debugging,memory-management",True,/questions/36584626/android-running-out-of-memory,True,out of memory
+Android | Correct way to get and compress bitmap | Out of memory,"android,bitmap,out-of-memory",True,/questions/36583866/android-correct-way-to-get-and-compress-bitmap-out-of-memory,True,out of memory
+Out of memory error when calling web api using volley in android,"android,android-volley",True,/questions/36564511/out-of-memory-error-when-calling-web-api-using-volley-in-android,True,out of memory
+How to find a Android Memory Leak,"android,memory-leaks",True,/questions/36500526/how-to-find-a-android-memory-leak,True,memory leak
+Android ImageViews Causing Memory Leak?,"android,memory-leaks,imageview",True,/questions/36486412/android-imageviews-causing-memory-leak,True,memory leak
+Roboelectric unit tests are unresponsive,"android,unit-testing,android-studio,android-gradle-plugin,robolectric",True,/questions/36479391/roboelectric-unit-tests-are-unresponsive,True,unresponsive
+Library to detect memory leak in android using Kotlin,"android,memory-leaks,kotlin",True,/questions/43589347/library-to-detect-memory-leak-in-android-using-kotlin,True,memory leak
+VideoView memory leak,"android,memory-leaks,android-videoview",True,/questions/43280440/videoview-memory-leak,True,memory leak
+What does sCount=2 dsCount=1 mean in android ANR file?,"android,debugging,adb,android-debug,android-anr-dialog",True,/questions/43132145/what-does-scount-2-dscount-1-mean-in-android-anr-file,True, ANR 
+"Rxjava, combineLatest with RxTextView memory leak","android,memory-leaks,rx-java,rx-kotlin,rx-binding",True,/questions/52446947/rxjava-combinelatest-with-rxtextview-memory-leak,True,memory leak
+dialog box memory leak or stubborn GC?,android,True,/questions/8271373/dialog-box-memory-leak-or-stubborn-gc,True,memory leak
+Volley Out Of Memory issue V1.1.0,"android,android-volley",True,/questions/49852606/volley-out-of-memory-issue-v1-1-0,True,out of memory
+Android activity memory consumption,"java,android,android-studio",True,/questions/58357381/android-activity-memory-consumption,True,memory consumption
+Android: UI freezes although use of Handler and postdelay,"android,user-interface,handler",True,/questions/30580482/android-ui-freezes-although-use-of-handler-and-postdelay,True,UI freeze
+Out of memory exception occurred at Bitmap Shadder android,"android,bitmap,bitmapshader",True,/questions/30543881/out-of-memory-exception-occurred-at-bitmap-shadder-android,True,out of memory
+Getting an OOM issue on the setContentView call in a java gradle android project,"java,android,intellij-idea,out-of-memory,android-gradle-plugin",True,/questions/30487595/getting-an-oom-issue-on-the-setcontentview-call-in-a-java-gradle-android-project,True, oom 
+Potential causes of memory leaks in Android,"java,android,memory-leaks,garbage-collection",True,/questions/30431718/potential-causes-of-memory-leaks-in-android,True,memory leak
+Out of memory on a 10171204-byte allocation in android app,"android,download,out-of-memory",True,/questions/8118350/out-of-memory-on-a-10171204-byte-allocation-in-android-app,True,out of memory
+Out of memory on a byte allocation (Bitmap as String to webservice using soap),"android,bitmap,arrays,ksoap2",True,/questions/8079001/out-of-memory-on-a-byte-allocation-bitmap-as-string-to-webservice-using-soap,True,out of memory
+Android memory leak with ListView inside a Gallery,"android,out-of-memory",True,/questions/8075512/android-memory-leak-with-listview-inside-a-gallery,True,memory leak
+Listview memory leak,"java,android,listview,memory,memory-leaks",True,/questions/8057010/listview-memory-leak,True,memory leak
+out of Memory Error while printing a string,"java,android",True,/questions/8018706/out-of-memory-error-while-printing-a-string,True,out of memory
+Android : getParcelableArrayList error (out of Memory),android,True,/questions/8004674/android-getparcelablearraylist-error-out-of-memory,True,out of memory
+out of memory Error while writing ByteArrayOutputStream in Android,"android,out-of-memory,android-memory,bytearrayoutputstream",True,/questions/7996730/out-of-memory-error-while-writing-bytearrayoutputstream-in-android,True,out of memory
+Android UI Freezes instead of displaying ProgressDialog,"android,multithreading,progressdialog",True,/questions/7939563/android-ui-freezes-instead-of-displaying-progressdialog,True,UI freeze
+Will I receive OOM errors if I run too many applications in the same process?,"java,android,performance,android-memory",True,/questions/25856048/will-i-receive-oom-errors-if-i-run-too-many-applications-in-the-same-process,True, oom 
+Could this nested class cause a memory leak?,"java,android",True,/questions/25777692/could-this-nested-class-cause-a-memory-leak,True,memory leak
+Android: memory/resource leak,"java,android,eclipse,admob,ddms",True,/questions/25610400/android-memory-resource-leak,True,resource leak
+imageview android out of memory,"android,out-of-memory,scrollview,bitmapimage",True,/questions/25547321/imageview-android-out-of-memory,True,out of memory
+Memory leaking thread,"java,android,multithreading,memory-leaks",True,/questions/20335939/memory-leaking-thread,True,memory leak
+Out of memory exception after adding xlarge screen support,"android,performance",True,/questions/20337383/out-of-memory-exception-after-adding-xlarge-screen-support,True,out of memory
+Android - event log activity launch time,android,True,/questions/20266037/android-event-log-activity-launch-time,True,launch time
+What is the difference between ANR and crash in Android?,android,True,/questions/20213482/what-is-the-difference-between-anr-and-crash-in-android,True, ANR 
+"Android ANR , Service is locking main GUI Activity","android,multithreading,android-anr-dialog,futuretask",True,/questions/51293263/android-anr-service-is-locking-main-gui-activity,True, ANR 
+RxAndroid getting Out of memory exception while uploading multiple images,"android,rx-java,retrofit,rx-android",True,/questions/51244794/rxandroid-getting-out-of-memory-exception-while-uploading-multiple-images,True,out of memory
+View visibility state loss when resuming activity with previously started Activity transition,"android,android-layout,android-activity",True,/questions/50969390/view-visibility-state-loss-when-resuming-activity-with-previously-started-activi,True,state loss
+How to fix ANR issue on /data/app/com.android.chrome-1/base.apk?,"android,android-anr-dialog",True,/questions/50945853/how-to-fix-anr-issue-on-data-app-com-android-chrome-1-base-apk,True, ANR 
+How to avoid memory leaks in Android/Kotlin activities,"android,kotlin,memory-leaks",True,/questions/69614025/how-to-avoid-memory-leaks-in-android-kotlin-activities,True,memory leak
+How to remove all references from a Dialog on dismiss in Xamarin.Android (potential memory leak)?,"android,memory-leaks,xamarin.android,dialog,android-alertdialog",True,/questions/69150315/how-to-remove-all-references-from-a-dialog-on-dismiss-in-xamarin-android-potent,True,memory leak
+Android Maps V2 memory leak LocationClientHelper,"android,google-maps,memory-leaks,google-maps-android-api-2,supportmapfragment",True,/questions/31726621/android-maps-v2-memory-leak-locationclienthelper,True,memory leak
+"Android application out of memory error, trying to use an 88kb image","android,performance,memory-management,android-studio,memory-leaks",True,/questions/31633758/android-application-out-of-memory-error-trying-to-use-an-88kb-image,True,out of memory
+Why does this Observable.timer() cause a memory leak?,"java,android,memory-leaks,rx-java,leakcanary",True,/questions/31466215/why-does-this-observable-timer-cause-a-memory-leak,True,memory leak
+Will this cause any memory leaks?,"java,android",True,/questions/31440371/will-this-cause-any-memory-leaks,True,memory leak
+Why is this a memory leak,"android,memory-leaks,leakcanary",True,/questions/30405487/why-is-this-a-memory-leak,True,memory leak
+Android memory leak on textview - LeakCanary (Leak can be ignored),"android,memory-leaks,ddms,android-memory,leakcanary",True,/questions/30397356/android-memory-leak-on-textview-leakcanary-leak-can-be-ignored,True,memory leak
+Understanding Memory Leaks in an Android application,"java,android,memory-leaks",True,/questions/30245859/understanding-memory-leaks-in-an-android-application,True,memory leak
+Out of memory Exception using Picasso,"android,imageview,android-viewpager,out-of-memory,picasso",True,/questions/30244144/out-of-memory-exception-using-picasso,True,out of memory
+Possible to free Context from Singleton in Android to prevent memory leak,"android,performance,memory-leaks",True,/questions/30227462/possible-to-free-context-from-singleton-in-android-to-prevent-memory-leak,True,memory leak
+Memory Leak on DeathMonitor using LeakCanary,"android,memory-leaks,leakcanary",True,/questions/30196553/memory-leak-on-deathmonitor-using-leakcanary,True,memory leak
+What's wrong with this inSampleSize calculating method for Bitmaps? Out of memory,"java,android,bitmap",True,/questions/30192265/whats-wrong-with-this-insamplesize-calculating-method-for-bitmaps-out-of-memor,True,out of memory
+Android Out of memory error in Imageview,android,True,/questions/22728783/android-out-of-memory-error-in-imageview,True,out of memory
+static variable in activity leads to memory leak?,"java,android,memory,memory-leaks",True,/questions/22626403/static-variable-in-activity-leads-to-memory-leak,True,memory leak
+"Android service not working after reboot, giving ANR error","java,android",True,/questions/35190272/android-service-not-working-after-reboot-giving-anr-error,True, ANR 
+Battery drain issues with Android GPS recording service,"android,gps,firebase,battery",True,/questions/35118700/battery-drain-issues-with-android-gps-recording-service,True,battery drain
+setImageResource and memory leak [closed],"android,performance,android-memory",True,/questions/35030415/setimageresource-and-memory-leak,True,memory leak
+SupportFragment Map in Navigation Drawer Activity Very Slow and Unresponsive,"java,android,navigation-drawer,android-maps-v2,supportmapfragment",True,/questions/34971527/supportfragment-map-in-navigation-drawer-activity-very-slow-and-unresponsive,True,unresponsive
+Increase memory consumption after recreate activity,"android,android-studio,memory-leaks",True,/questions/56176282/increase-memory-consumption-after-recreate-activity,True,memory consumption
+Is passing Context as a parameter to a method in a Singleton class causes memory leak,"java,android,singleton",True,/questions/56102382/is-passing-context-as-a-parameter-to-a-method-in-a-singleton-class-causes-memory,True,memory leak
+Getting Out of memory: Java heap space. OR GC overhead limit exceeded when building release APK after Android studio 3.4 update,"android,android-studio,build.gradle",True,/questions/55999840/getting-out-of-memory-java-heap-space-or-gc-overhead-limit-exceeded-when-build,True,out of memory
+How to avoid memory leaks in RecyclerView ViewHolder?,"android,android-recyclerview,memory-leaks,android-handler",True,/questions/55879444/how-to-avoid-memory-leaks-in-recyclerview-viewholder,True,memory leak
+Is there a reason for why AccessibilityManager.sInstance would cause a memory leak?,"java,android,android-activity,leakcanary",True,/questions/55697904/is-there-a-reason-for-why-accessibilitymanager-sinstance-would-cause-a-memory-le,True,memory leak
+"My app works but log gives ""No package ID ff found for ID 0xffffffff.""",android,True,/questions/55615291/my-app-works-but-log-gives-no-package-id-ff-found-for-id-0xffffffff,True, FF 
+How to reduce memory consumption when using setImageResource() on an ImageView in a DialogFragment?,"android,android-fragments,android-imageview,android-dialogfragment",True,/questions/47555381/how-to-reduce-memory-consumption-when-using-setimageresource-on-an-imageview-i,True,memory consumption
+Memory leaks: Garbage-Collection Root,"java,android,memory-leaks",True,/questions/47512987/memory-leaks-garbage-collection-root,True,memory leak
+recyclerview endless scrolling slowdown,"android,out-of-memory",True,/questions/47235011/recyclerview-endless-scrolling-slowdown,True,slowdown
+Preventing memory leaks in Android,"java,android,memory-leaks,android-context",True,/questions/47192737/preventing-memory-leaks-in-android,True,memory leak
+Will having an object of MainActivity in another class cause a memory leak?,"java,android,performance,memory-leaks,mvp",True,/questions/47131602/will-having-an-object-of-mainactivity-in-another-class-cause-a-memory-leak,True,memory leak
+"Memory leaks, singleInstance","android,android-layout",True,/questions/11190457/memory-leaks-singleinstance,True,memory leak
+"Issue with reading data from socket, UI freeze in Android application","java,android",True,/questions/11179029/issue-with-reading-data-from-socket-ui-freeze-in-android-application,True,UI freeze
+Custom ListView with many images gets Out Of Memory Exception,"android,listview,out-of-memory,android-image",True,/questions/11147501/custom-listview-with-many-images-gets-out-of-memory-exception,True,out of memory
+What can I do to avoid memory leaks in my Android app?,"android,memory-leaks",True,/questions/11116834/what-can-i-do-to-avoid-memory-leaks-in-my-android-app,True,memory leak
+Android app crash out of memory on relaunch,"android,bitmap,out-of-memory",True,/questions/11082820/android-app-crash-out-of-memory-on-relaunch,True,out of memory
+Android - Out of Memory Exception in ScrollView,"android,memory,camera,hardware,out-of-memory",True,/questions/11041358/android-out-of-memory-exception-in-scrollview,True,out of memory
+Application not responding in child thread,"android,multithreading,download,android-anr-dialog",True,/questions/11032951/application-not-responding-in-child-thread,True,application not responding
+Android : How to get internet connection upload speed and latency?,"android,file-upload,network-programming",True,/questions/11013971/android-how-to-get-internet-connection-upload-speed-and-latency,True,latency
+Big buffer causes Android to get out of memory,"java,android,optimization,memory-leaks,bitmap",True,/questions/11010915/big-buffer-causes-android-to-get-out-of-memory,True,out of memory
+JSON or HTML: Designing my server side to reduce latency and support multiple clients,"android,ruby-on-rails,ios,api",True,/questions/10919252/json-or-html-designing-my-server-side-to-reduce-latency-and-support-multiple-cl,True,latency
+Android ListView Memory Leak?,"android,listview,memory-management,android-listview,drawable",True,/questions/10911449/android-listview-memory-leak,True,memory leak
+What is acceptable android memory consumption?,"android,memory",True,/questions/10895534/what-is-acceptable-android-memory-consumption,True,memory consumption
+How to Avoid ANR response in Android when there is a Time delay in Server?,"java,android,web-services,android-anr-dialog",True,/questions/9494675/how-to-avoid-anr-response-in-android-when-there-is-a-time-delay-in-server,True, ANR 
+Android Memory Leak? Bitmap exceeds VM budget error with MapView,"android,memory-leaks,bitmap,android-mapview",True,/questions/9489534/android-memory-leak-bitmap-exceeds-vm-budget-error-with-mapview,True,memory leak
+Out of memory on resource loading for Android game,"java,android",True,/questions/9480224/out-of-memory-on-resource-loading-for-android-game,True,out of memory
+"Android Apps: will receive ""application not responding"" after UIThread block more 5 seconds?","android,ui-thread",True,/questions/9446294/android-apps-will-receive-application-not-responding-after-uithread-block-mor,True,application not responding
+Base64 encodeBytes - out of memory exception,android,True,/questions/9390428/base64-encodebytes-out-of-memory-exception,True,out of memory
+Android/ phonegap - Click response time slow,"javascript,android,cordova,timer",True,/questions/9309433/android-phonegap-click-response-time-slow,True,response time
+Android ImageSwitcher: Out Of Memory Error when setImageURI,"android,android-image,android-view,imageswitcher",True,/questions/9225151/android-imageswitcher-out-of-memory-error-when-setimageuri,True,out of memory
+"Eclipse crashing, getting heap exceptions - Out of Memory when trying to deploy an Android applicaiton","java,android,exception,crash,heap-memory",True,/questions/9212951/eclipse-crashing-getting-heap-exceptions-out-of-memory-when-trying-to-deploy,True,out of memory
+Android App Slows Down/Becomes Unresponsive When TextView is Added,"android,android-studio",True,/questions/44296726/android-app-slows-down-becomes-unresponsive-when-textview-is-added,True,unresponsive
+why viewPager cause memory leak?,"android,android-fragments,memory-leaks,android-viewpager,android-pageradapter",True,/questions/48491472/why-viewpager-cause-memory-leak,True,memory leak
+Bluetooth Receiver response time,"android,bluetooth,broadcastreceiver",True,/questions/48174657/bluetooth-receiver-response-time,True,response time
+Slow rendering of a custom view made of over 30 views,"android,xml,android-constraintlayout",True,/questions/48163974/slow-rendering-of-a-custom-view-made-of-over-30-views,True,Slow rendering
+static equivalent in Android for kotlin to avoid handler memory leaks,"android,memory-leaks,kotlin,handler",True,/questions/48098666/static-equivalent-in-android-for-kotlin-to-avoid-handler-memory-leaks,True,memory leak
+Android: Huge difference in memory consumption when using drawable vs drawable-nodpi folders,"java,android,drawable,dpi",True,/questions/28833473/android-huge-difference-in-memory-consumption-when-using-drawable-vs-drawable-n,True,memory consumption
+Switch from one Activity to another one results OOM error on Samsung device,"java,android,eclipse",True,/questions/28754865/switch-from-one-activity-to-another-one-results-oom-error-on-samsung-device,True, oom 
+"""Out of memory"" when using Picasso to download images and put images into GridView","android,gridview,bitmap,picasso",True,/questions/28726464/out-of-memory-when-using-picasso-to-download-images-and-put-images-into-gridvi,True,out of memory
+Android activity unresponsive until back button is pressed,"java,android,android-activity,input,oncreate",True,/questions/28695218/android-activity-unresponsive-until-back-button-is-pressed,True,unresponsive
+How to measure request and response time of server?,"android,json,httprequest,httpresponse",True,/questions/28689286/how-to-measure-request-and-response-time-of-server,True,response time
+Getting the Out of memory error when displaying full screen image in android,"android,imageview,out-of-memory,android-camera",True,/questions/28630974/getting-the-out-of-memory-error-when-displaying-full-screen-image-in-android,True,out of memory
+Android Does my app have a memory leak?,"android,memory-management,android-studio",True,/questions/28595547/android-does-my-app-have-a-memory-leak,True,memory leak
+Continuous crossfade of images and out of memory,"android,image",True,/questions/28541909/continuous-crossfade-of-images-and-out-of-memory,True,out of memory
+Unable to locate cause of memory leak in Android app,"c#,android,memory,xamarin,memory-leaks",True,/questions/42587871/unable-to-locate-cause-of-memory-leak-in-android-app,True,memory leak
+RecyclerView OnClicklistener is unresponsive,"android,onclick,android-recyclerview,onclicklistener",True,/questions/42448803/recyclerview-onclicklistener-is-unresponsive,True,unresponsive
+"""Do not place Android context classes in static fields; this is a memory leak"" - Lint Warning for static View","java,android,memory-leaks",True,/questions/44169270/do-not-place-android-context-classes-in-static-fields-this-is-a-memory-leak,True,memory leak
+How to use a class with a context argument in a static context without causing a memory leak?,"java,android,memory-leaks,android-context",True,/questions/39792656/how-to-use-a-class-with-a-context-argument-in-a-static-context-without-causing-a,True,memory leak
+Out of Memory error while using here sdk,"android,here-api",True,/questions/39566187/out-of-memory-error-while-using-here-sdk,True,out of memory
+About memory leaks and generic methods,"java,android,generics,memory-leaks,static",True,/questions/39568017/about-memory-leaks-and-generic-methods,True,memory leak
+Out of memory error : StringBuilder.append throwing OutOfMemoryError,"java,android",True,/questions/39570597/out-of-memory-error-stringbuilder-append-throwing-outofmemoryerror,True,out of memory
+Firebase Crash produces ANR during launch,"android,firebase,firebase-crash-reporting",True,/questions/39480257/firebase-crash-produces-anr-during-launch,True, ANR 
+How can state loss occur when using commitNowAllowingStateLoss()?,"android,android-fragments",True,/questions/39469525/how-can-state-loss-occur-when-using-commitnowallowingstateloss,True,state loss
+UI freezes when using AsyncTask and Updating DB,"android,firebase,android-asynctask,firebase-realtime-database",True,/questions/39453179/ui-freezes-when-using-asynctask-and-updating-db,True,UI freeze
+Firebase UI delay in populating View?,"android,firebase,firebaseui",True,/questions/39433329/firebase-ui-delay-in-populating-view,True,UI delay
+own csv reader to string array out of memory,"android,csv,arrays",True,/questions/15055080/own-csv-reader-to-string-array-out-of-memory,True,out of memory
+ViewPager gives Out Of Memory Error,"android,android-viewpager",True,/questions/15044179/viewpager-gives-out-of-memory-error,True,out of memory
+Android out of memory exception with bitmaps,"android,memory,memory-management,bitmap,out-of-memory",True,/questions/15030542/android-out-of-memory-exception-with-bitmaps,True,out of memory
+Out of memory exception with android google maps v2,"android,google-maps-android-api-2",True,/questions/15017828/out-of-memory-exception-with-android-google-maps-v2,True,out of memory
+View Pager with Universal Image Loader Out of Memory Error,"android,android-viewpager,out-of-memory,universal-image-loader",True,/questions/14958543/view-pager-with-universal-image-loader-out-of-memory-error,True,out of memory
+Out of Memory Exception when exporting data,"android,web-services,sqlite",True,/questions/14859759/out-of-memory-exception-when-exporting-data,True,out of memory
+Low-latency audio playback on Android,"android,audio,opensl",True,/questions/14842803/low-latency-audio-playback-on-android,True,latency
+Proper onDestroy() / How to avoid memory leaks,"android,view,memory-leaks,android-activity",True,/questions/14759601/proper-ondestroy-how-to-avoid-memory-leaks,True,memory leak
+Memory Leak due to Snackbar,"android,memory-leaks,leakcanary",True,/questions/57338450/memory-leak-due-to-snackbar,True,memory leak
+"E/REALM_JNI: jni: ThrowingException 5, mmap() failed: Out of memory size: 369098752","java,android,realm,out-of-memory",True,/questions/57006800/e-realm-jni-jni-throwingexception-5-mmap-failed-out-of-memory-size-369098,True,out of memory
+Possible memory leaks in CallBacks,"java,android",True,/questions/56948833/possible-memory-leaks-in-callbacks,True,memory leak
+galaxy s4 and maybe all HD phones? out of memory error inflating layout,"android,layout,imageview,out-of-memory",True,/questions/16445635/galaxy-s4-and-maybe-all-hd-phones-out-of-memory-error-inflating-layout,True,out of memory
+Android AlertDialog buttons unresponsive,"android,android-alertdialog",True,/questions/16366550/android-alertdialog-buttons-unresponsive,True,unresponsive
+Out of Memory Exception - Google Map GroundOverLay,"android,google-maps,bitmap,out-of-memory",True,/questions/16356296/out-of-memory-exception-google-map-groundoverlay,True,out of memory
+Simple blank activity cause memory leak. Why?,"android,memory-leaks",True,/questions/16333153/simple-blank-activity-cause-memory-leak-why,True,memory leak
+"How to avoid ""out of memory exception"" when doing Bitmap processing?",android,True,/questions/16284725/how-to-avoid-out-of-memory-exception-when-doing-bitmap-processing,True,out of memory
+Out of memory exception not caught,"android,out-of-memory",True,/questions/16184812/out-of-memory-exception-not-caught,True,out of memory
+Out of memory Error on setImageResource,"android,gridview,bitmap,out-of-memory",True,/questions/16183635/out-of-memory-error-on-setimageresource,True,out of memory
+Why would the Nexus 7 and Nexus 10 have different audio latency with the same OS? [closed],"android,audio,low-latency,nexus-7",True,/questions/16064055/why-would-the-nexus-7-and-nexus-10-have-different-audio-latency-with-the-same-os,True,latency
+Memory leak while using OpenCV C++ from Unity,"c#,android,c++,opencv,unity-game-engine",True,/questions/66507556/memory-leak-while-using-opencv-c-from-unity,True,memory leak
+How do I prevent memory leak caused by context class in static fields,"android,kotlin,memory-leaks,android-context",True,/questions/66503917/how-do-i-prevent-memory-leak-caused-by-context-class-in-static-fields,True,memory leak
+How to resolve a memory leak in a custom view?,"android,kotlin,memory-leaks,leakcanary",True,/questions/66413862/how-to-resolve-a-memory-leak-in-a-custom-view,True,memory leak
+Adding a fragment and calling .replace() causing a memory leak in the added fragment,"android,android-fragments,leakcanary",True,/questions/66403565/adding-a-fragment-and-calling-replace-causing-a-memory-leak-in-the-added-frag,True,memory leak
+Android Studio warns memory leak on context which injected with hilt @ApplicationContext,"android,android-studio,dagger-hilt",True,/questions/66202555/android-studio-warns-memory-leak-on-context-which-injected-with-hilt-applicatio,True,memory leak
+Memory Leak detected by LeakCanary on Activity with Fragments,"android,android-fragments,memory-leaks,leakcanary",True,/questions/66176103/memory-leak-detected-by-leakcanary-on-activity-with-fragments,True,memory leak
+ViewBinding - do we need to remove clicklisteners to avoid memory leaks?,"android,memory-leaks,android-viewbinding",True,/questions/66040532/viewbinding-do-we-need-to-remove-clicklisteners-to-avoid-memory-leaks,True,memory leak
+Out of memory when downloading a file,"android,download,out-of-memory",True,/questions/8730269/out-of-memory-when-downloading-a-file,True,out of memory
+Dash path effect making screen sluggish,"android,performance,android-custom-view",True,/questions/42944376/dash-path-effect-making-screen-sluggish,True,sluggish
+"How can I solve this memory leak? Actually, where is the memory leak?","java,android,memory,memory-leaks",True,/questions/42940857/how-can-i-solve-this-memory-leak-actually-where-is-the-memory-leak,True,memory leak
+Handle memory leak dynamically,"java,android,memory-leaks,runtime,out-of-memory",True,/questions/42902544/handle-memory-leak-dynamically,True,memory leak
+out of memory in recycler adapter,"php,android,android-recyclerview,out-of-memory",True,/questions/42865032/out-of-memory-in-recycler-adapter,True,out of memory
+Is Calling new Runnable() inside Static method safe from Memory Leak?,"android,multithreading,memory-leaks",True,/questions/42658066/is-calling-new-runnable-inside-static-method-safe-from-memory-leak,True,memory leak
+Memory leak with writeToParcel() called multiple times after onSaveInstanceState(),"android,memory-leaks,android-viewpager,parcelable",True,/questions/52998565/memory-leak-with-writetoparcel-called-multiple-times-after-onsaveinstancestate,True,memory leak
+Where is the memory leaking?,"java,android,loops,android-asynctask,garbage-collection",True,/questions/52984711/where-is-the-memory-leaking,True,memory leak
+Android Memory Leak When Passing A Fragment,"android,memory-leaks,android-vision",True,/questions/52943146/android-memory-leak-when-passing-a-fragment,True,memory leak
+Android UI freeze while waiting for a http response,"c#,android,http,xamarin",True,/questions/52863997/android-ui-freeze-while-waiting-for-a-http-response,True,UI freeze
+"Problem with restarting the app, after an ANR event","java,android,multithreading,watchdog,android-anr-dialog",True,/questions/52850318/problem-with-restarting-the-app-after-an-anr-event,True, ANR 
+Android / google ANR crash without a specific cause,"java,android,android-studio,google-play",True,/questions/52588336/android-google-anr-crash-without-a-specific-cause,True, ANR 
+Android - Leakcanary spot memory leak in Activities using Android webview - Problem identified in Samsung Android 13 (One ui 5),"android,webview,leakcanary",True,/questions/75724010/android-leakcanary-spot-memory-leak-in-activities-using-android-webview-prob,True,memory leak
+Error: ../../runtime/vm/zone.cc: 96: error: Out of memory flutter and VisualStudio,"android,flutter,out-of-memory",True,/questions/75455380/error-runtime-vm-zone-cc-96-error-out-of-memory-flutter-and-visualstud,True,out of memory
+Samsung Android 13 Keyboard Span ANR and Crashes,"android,samsung-mobile",True,/questions/75110468/samsung-android-13-keyboard-span-anr-and-crashes,True, ANR 
+Application not responding when i press the back button,"java,android,android-asynctask",True,/questions/62516901/application-not-responding-when-i-press-the-back-button,True,application not responding
+Memory leak when I replace a Fragment,"java,android,android-fragments,memory-leaks,leakcanary",True,/questions/61743869/memory-leak-when-i-replace-a-fragment,True,memory leak
+How do I download Bitmaps and save to the SD card without running out of memory?,"android,download,bitmap,android-3.0-honeycomb,bufferedinputstream",True,/questions/6925711/how-do-i-download-bitmaps-and-save-to-the-sd-card-without-running-out-of-memory,True,out of memory
+Out of memory error occurred when handling more than One image [duplicate],"android,memory-leaks,out-of-memory",True,/questions/6909919/out-of-memory-error-occurred-when-handling-more-than-one-image,True,out of memory
+Could this code create a potential memory leak?,"java,android",True,/questions/6882322/could-this-code-create-a-potential-memory-leak,True,memory leak
+Why am I getting an out of memory error?,"java,android,out-of-memory",True,/questions/6819828/why-am-i-getting-an-out-of-memory-error,True,out of memory
+Sluggish zoom and scroll with GridView in Android,"android,performance,gridview,scroll,zooming",True,/questions/6792331/sluggish-zoom-and-scroll-with-gridview-in-android,True,sluggish
+Out Of memory error - Bitmap exceeds VM budget in Android while using bitmaps in maps?,"android,bitmap,maps,out-of-memory",True,/questions/6717215/out-of-memory-error-bitmap-exceeds-vm-budget-in-android-while-using-bitmaps-in,True,out of memory
+VM running out of memory while getting images from the cache,"android,caching,memory-leaks,bitmap",True,/questions/6604362/vm-running-out-of-memory-while-getting-images-from-the-cache,True,out of memory
+Avoid memory leaks on Android,android,True,/questions/6567647/avoid-memory-leaks-on-android,True,memory leak
+Memory leaks android,"android,memory,bitmap,memory-leaks,static-methods",True,/questions/6508953/memory-leaks-android,True,memory leak
+Android debugging -> battery drains,"android,debugging,power-management",True,/questions/4958543/android-debugging-battery-drains,True,battery drain
+Out of memory in Android 2.3.2,"android,out-of-memory",True,/questions/4948270/out-of-memory-in-android-2-3-2,True,out of memory
+Where is the memory leak?,"android,memory-leaks",True,/questions/4724999/where-is-the-memory-leak,True,memory leak
+Android: Convert Stream to String without running out of memory,"java,android,json,out-of-memory",True,/questions/4729188/android-convert-stream-to-string-without-running-out-of-memory,True,out of memory
+tool to check memory leaks in android [closed],"android,memory,memory-leaks",True,/questions/4646157/tool-to-check-memory-leaks-in-android,True,memory leak
+android widget update from service - memory leak?,"android,service,timer,widget",True,/questions/4413828/android-widget-update-from-service-memory-leak,True,memory leak
+Upload more then 5 MB using HttpURLConnection leads Out of Memory Error,"android,file-upload,httpurlconnection",True,/questions/8641735/upload-more-then-5-mb-using-httpurlconnection-leads-out-of-memory-error,True,out of memory
+"Out of memory Exception, when dealing with bitmaps","java,android",True,/questions/8613537/out-of-memory-exception-when-dealing-with-bitmaps,True,out of memory
+ProgressDialog become unresponsive,"android,android-layout,progressdialog",True,/questions/8616132/progressdialog-become-unresponsive,True,unresponsive
+how to fix Application not responding?,"android,android-canvas,android-custom-view",True,/questions/8585595/how-to-fix-application-not-responding,True,application not responding
+Out of Memory when UrlEncodedFormEntity with an image,"android,image,image-processing,out-of-memory",True,/questions/8569060/out-of-memory-when-urlencodedformentity-with-an-image,True,out of memory
+Avoiding Out Of Memory Exception in applying filters to Images (Android),"android,image-processing,bitmap,out-of-memory",True,/questions/8571906/avoiding-out-of-memory-exception-in-applying-filters-to-images-android,True,out of memory
+Android - Device Memory Leak with Fragments,"android,memory,memory-leaks,process,android-debug",True,/questions/18883017/android-device-memory-leak-with-fragments,True,memory leak
+"Arraylist can not be created, out of memory exception","android,sqlite,service",True,/questions/18651551/arraylist-can-not-be-created-out-of-memory-exception,True,out of memory
+Adding custom view in a loop cause out of memory error,"android,memory-leaks,out-of-memory",True,/questions/18663134/adding-custom-view-in-a-loop-cause-out-of-memory-error,True,out of memory
+"Download large files using large byte array causes ""Out of memory""","java,android,android-asynctask,arrays,httpurlconnection",True,/questions/32909568/download-large-files-using-large-byte-array-causes-out-of-memory,True,out of memory
+Leakcanary report of memory leak using Otto,"java,android,android-fragments,memory-leaks,otto",True,/questions/32750850/leakcanary-report-of-memory-leak-using-otto,True,memory leak
+Out of Memory - memory optimisation,"android,out-of-memory",True,/questions/32685711/out-of-memory-memory-optimisation,True,out of memory
+Android webview unresponsive after long sleep,"android,webview,android-lifecycle",True,/questions/38067401/android-webview-unresponsive-after-long-sleep,True,unresponsive
+adding images in ListView shows out of memory,"android,listview",True,/questions/37959578/adding-images-in-listview-shows-out-of-memory,True,out of memory
+"Database operations in IntentService results into application halt,become unresponsive and giving ANR","android,retrofit,android-intentservice,jsonschema2pojo",True,/questions/37941284/database-operations-in-intentservice-results-into-application-halt-become-unresp,True,unresponsive
+How async tasks and cursors lead to memory leak?,android,True,/questions/37935723/how-async-tasks-and-cursors-lead-to-memory-leak,True,memory leak
+"Android memory leak on device, not on emulator","java,android,memory-leaks,garbage-collection",True,/questions/37758010/android-memory-leak-on-device-not-on-emulator,True,memory leak
+Converting JSONObject to JsonObject throwing out of memory exception [duplicate],"android,json,out-of-memory,retrofit2,gson",True,/questions/41123464/converting-jsonobject-to-jsonobject-throwing-out-of-memory-exception,True,out of memory
+Android: Memory Leak,"android,memory-leaks,android-memory,java-memory-leaks",True,/questions/41033095/android-memory-leak,True,memory leak
+Getting Out of memory error in Android Studio,"android,performance,android-kenburnsview",True,/questions/40859522/getting-out-of-memory-error-in-android-studio,True,out of memory
+Singleton usage creates memory leak in kotlin,"android,kotlin,singleton",True,/questions/55521604/singleton-usage-creates-memory-leak-in-kotlin,True,memory leak
+Memory leak of AudioTrack,"android,android-mediacodec,audiotrack",True,/questions/55177737/memory-leak-of-audiotrack,True,memory leak
+Memory leak while trying to hold a reference of Fragment view beyond onDestoryView(),"android,android-fragments,memory-leaks,android-navigation,leakcanary",True,/questions/55058501/memory-leak-while-trying-to-hold-a-reference-of-fragment-view-beyond-ondestoryvi,True,memory leak
+How to avoid memory leaks when using arraylist with for each?,"java,android,arraylist,memory-leaks",True,/questions/46901298/how-to-avoid-memory-leaks-when-using-arraylist-with-for-each,True,memory leak
+MapView in Fragment Memory Leak,"android,google-maps,android-fragments,memory-leaks",True,/questions/46707628/mapview-in-fragment-memory-leak,True,memory leak
+Android/Java: Fragment instantiating causes memory leak?,"java,android,android-fragments,memory-leaks",True,/questions/46612765/android-java-fragment-instantiating-causes-memory-leak,True,memory leak
+Memory leak in Android when trying to send a form with image to PHP server,"android,memory-leaks,bitmap,android-asynctask",True,/questions/12548203/memory-leak-in-android-when-trying-to-send-a-form-with-image-to-php-server,True,memory leak
+Out of memory exception for static images used in application,android,True,/questions/12525593/out-of-memory-exception-for-static-images-used-in-application,True,out of memory
+Android : How to test memory leak in an application?,"android,memory-leaks,android-emulator",True,/questions/12524267/android-how-to-test-memory-leak-in-an-application,True,memory leak
+Android Drawables memory leak,"android,memory-leaks,drawable",True,/questions/12438235/android-drawables-memory-leak,True,memory leak
+Unbinding drawables onPause() causing unresponsive back navigation and skipping this step cause memory overflow,"android,android-layout,android-image,android-memory",True,/questions/12395068/unbinding-drawables-onpause-causing-unresponsive-back-navigation-and-skipping,True,unresponsive
+Drop event when select OK to restart Launcher when ANR occurs,"android,exception,launcher",True,/questions/12365043/drop-event-when-select-ok-to-restart-launcher-when-anr-occurs,True, ANR 
+Out of memory error with gallery in Android,"android,gallery",True,/questions/8528864/out-of-memory-error-with-gallery-in-android,True,out of memory
+Android ndk out of memory issue,"android,java-native-interface,android-ndk,out-of-memory",True,/questions/8370116/android-ndk-out-of-memory-issue,True,out of memory
+Android out of memory error,"java,android,memory",True,/questions/12242655/android-out-of-memory-error,True,out of memory
+Messenger to Remote Service Causing Memory Leak,"android,service,memory-leaks",True,/questions/12204740/messenger-to-remote-service-causing-memory-leak,True,memory leak
+android - how to manage background images without memory leaks?,android,True,/questions/12200194/android-how-to-manage-background-images-without-memory-leaks,True,memory leak
+Why this image-switching code has memory leak?,"android,memory-leaks,imageview",True,/questions/12159852/why-this-image-switching-code-has-memory-leak,True,memory leak
+Bitmap out of memory,"android,bitmap,out-of-memory",True,/questions/12147554/bitmap-out-of-memory,True,out of memory
+Samsung Note 3: Activity Memory Leak after pressing SPen side button,"android,memory-leaks,samsung-mobile,galaxy,stylus-pen",True,/questions/45983528/samsung-note-3-activity-memory-leak-after-pressing-spen-side-button,True,memory leak
+UI Freezes Running multiple Threads in IntentService,"android,android-service,android-intentservice,android-thread",True,/questions/45970973/ui-freezes-running-multiple-threads-in-intentservice,True,UI freeze
+running out of memory with fragments,"java,android,android-fragments,out-of-memory",True,/questions/45947963/running-out-of-memory-with-fragments,True,out of memory
+Multiple Instance of Activity Out of memory,"android,android-intent,memory-leaks",True,/questions/45884774/multiple-instance-of-activity-out-of-memory,True,out of memory
+Can using context in helper class cause memory leak in android,"android,memory-management,memory-leaks",True,/questions/45710506/can-using-context-in-helper-class-cause-memory-leak-in-android,True,memory leak
+Linux out of memory process killing my android app,"android,out-of-memory",True,/questions/16047554/linux-out-of-memory-process-killing-my-android-app,True,out of memory
+Android AsyncTask out of memory via http request,"java,android,performance,asynchronous,android-asynctask",True,/questions/15801504/android-asynctask-out-of-memory-via-http-request,True,out of memory
+How do you determine the audio latency (AudioTrack) on Android?,"java,android,audio,audiotrack",True,/questions/15802659/how-do-you-determine-the-audio-latency-audiotrack-on-android,True,latency
+Android Bitmap Memory Issue - Error: Out of memory on a 8294416-byte allocation,"android,bitmap,imageview,out-of-memory,heap-memory",True,/questions/15756221/android-bitmap-memory-issue-error-out-of-memory-on-a-8294416-byte-allocation,True,out of memory
+Android - Out of memory issue in S3,"android,uiimageview,out-of-memory",True,/questions/15741636/android-out-of-memory-issue-in-s3,True,out of memory
+Why am I running out of memory?,"java,android,bitmap",True,/questions/15711819/why-am-i-running-out-of-memory,True,out of memory
+The buttons in my android application are unresponsive,"java,android,overriding",True,/questions/15688071/the-buttons-in-my-android-application-are-unresponsive,True,unresponsive
+ListView memory leak in Android,android,True,/questions/15699343/listview-memory-leak-in-android,True,memory leak
+Out of Memory when using compresstojpeg on multiple YuvImage one at a time,"android,image-processing,out-of-memory,yuv",True,/questions/15696165/out-of-memory-when-using-compresstojpeg-on-multiple-yuvimage-one-at-a-time,True,out of memory
+"Android Handler, memory leak?","android,multithreading,memory,handler,memory-leaks",True,/questions/15630321/android-handler-memory-leak,True,memory leak
+Out of memory error in Android - Why does the GC not work?,"android,user-interface,garbage-collection,out-of-memory",True,/questions/15618176/out-of-memory-error-in-android-why-does-the-gc-not-work,True,out of memory
+Android Activity Lifecycle and Singleton and mutual references persistance (memory leaks),"android,memory-leaks,singleton,lifecycle,data-persistence",True,/questions/15597622/android-activity-lifecycle-and-singleton-and-mutual-references-persistance-memo,True,memory leak
+Android Out Of Memory error with 20MB text file in HashMap,"java,android,out-of-memory",True,/questions/27621597/android-out-of-memory-error-with-20mb-text-file-in-hashmap,True,out of memory
+"out of memory of android application,when BitmapFactory.nativeDecodeStream()","android,memory",True,/questions/27538750/out-of-memory-of-android-application-when-bitmapfactory-nativedecodestream,True,out of memory
+SQLite cursor error: Out of memory,android,True,/questions/27515702/sqlite-cursor-error-out-of-memory,True,out of memory
+Android Activity State Loss,"android,android-activity",True,/questions/27467196/android-activity-state-loss,True,state loss
+Out of memory error: Java heap memory on Android Studio,"java,android,android-studio",True,/questions/27438145/out-of-memory-error-java-heap-memory-on-android-studio,True,out of memory
+Memory leak in asynctask called repeatedly,"android,memory-leaks,android-asynctask",True,/questions/27416398/memory-leak-in-asynctask-called-repeatedly,True,memory leak
+Out of Memory Error Failing on String,"java,android,out-of-memory",True,/questions/27365863/out-of-memory-error-failing-on-string,True,out of memory
+Memory leak due to android.widget.BubblePopupHelper,"android,memory-leaks",True,/questions/27267071/memory-leak-due-to-android-widget-bubblepopuphelper,True,memory leak
+Physical Menu / Overflow Button Unresponsive in Certain Views,"android,android-layout,button,orientation",True,/questions/27236440/physical-menu-overflow-button-unresponsive-in-certain-views,True,unresponsive
+Uploading large file from Android app gives out of memory error despite buffering,"java,php,android,out-of-memory,dataoutputstream",True,/questions/39167973/uploading-large-file-from-android-app-gives-out-of-memory-error-despite-bufferin,True,out of memory
+Android - RxJava vs AsyncTask to prevent getActivity() memory leak,"android,memory-leaks,android-asynctask,rx-java",True,/questions/28325637/android-rxjava-vs-asynctask-to-prevent-getactivity-memory-leak,True,memory leak
+Out of Memory Error on High Resolution mobile phones,"android,out-of-memory,heap-memory",True,/questions/28320999/out-of-memory-error-on-high-resolution-mobile-phones,True,out of memory
+Mupdf memory leak on Android,"android,memory-leaks,mupdf",True,/questions/28301998/mupdf-memory-leak-on-android,True,memory leak
+Having a shared Object between Activity and Fragment: Runtime changes?,"android,android-activity,android-fragments",True,/questions/28301265/having-a-shared-object-between-activity-and-fragment-runtime-changes,True,runtime change
+Android - Out of memory while loading bitmaps,"android,memory,android-activity,bitmap",True,/questions/28272534/android-out-of-memory-while-loading-bitmaps,True,out of memory
+FileChannel.transferFrom fails for larger files with Out of memory Error,"android,filechannel",True,/questions/28088408/filechannel-transferfrom-fails-for-larger-files-with-out-of-memory-error,True,out of memory
+Button Unresponsive,"android,eclipse,sqlite,button,authentication",True,/questions/28073984/button-unresponsive,True,unresponsive
+Changable Text update slowdown in andEngine,"android,andengine",True,/questions/11668113/changable-text-update-slowdown-in-andengine,True,slowdown
+"Listener or Notification on ""Launch timeout has expired, giving up wake lock""","android,android-activity",True,/questions/11581256/listener-or-notification-on-launch-timeout-has-expired-giving-up-wake-lock,True,launch time
+How to trace memory leaks in android application,"android,memory-leaks",True,/questions/11519852/how-to-trace-memory-leaks-in-android-application,True,memory leak
+GUI freezes on periodically returning data from service to activity,"android,android-service,android-2.3-gingerbread",True,/questions/11431567/gui-freezes-on-periodically-returning-data-from-service-to-activity,True,UI freeze
+Android app - app works but is very sluggish,"android,performance,progress-bar",True,/questions/11425133/android-app-app-works-but-is-very-sluggish,True,sluggish
+Application not responding,"java,android,eclipse,ksoap2",True,/questions/11424374/application-not-responding,True,application not responding
+dalvikvm-heap out of memory large size image,"android,bitmapimage",True,/questions/25438108/dalvikvm-heap-out-of-memory-large-size-image,True,out of memory
+"listview gets out of memory exception, but with no memory leaks?","android,garbage-collection,android-3.0-honeycomb,out-of-memory,android-4.0-ice-cream-sandwich",True,/questions/11387269/listview-gets-out-of-memory-exception-but-with-no-memory-leaks,True,"memory leak
+out of memory"
+Android: Out of memory after creating and skewing Bitmap from Drawing Cache,"android,bitmap,out-of-memory",True,/questions/16936884/android-out-of-memory-after-creating-and-skewing-bitmap-from-drawing-cache,True,out of memory
+Memory leaks with custom font for set custom font,"android,android-layout,android-intent,android-emulator,android-listview",True,/questions/16901930/memory-leaks-with-custom-font-for-set-custom-font,True,memory leak
+Google Map custom Marker Out of Memory Error (API V2),"android,google-maps,google-maps-markers,google-maps-android-api-2",True,/questions/16887017/google-map-custom-marker-out-of-memory-error-api-v2,True,out of memory
+Android - Write sensor readings into .txt file. UI freezes,"android,multithreading,android-lifecycle",True,/questions/16768109/android-write-sensor-readings-into-txt-file-ui-freezes,True,UI freeze
+Out of Memory error with Bitmap,"android,android-canvas,android-image",True,/questions/16765899/out-of-memory-error-with-bitmap,True,out of memory
+Latency issue for application on HTC ONE developed using Sencha Touch 2.1(Android 4.0.x),"android,extjs,sencha-touch,sencha-touch-2",True,/questions/16732672/latency-issue-for-application-on-htc-one-developed-using-sencha-touch-2-1androi,True,latency
+UI delayed showing with asynctask,"android,android-asynctask",True,/questions/16673089/ui-delayed-showing-with-asynctask,True,UI delay
+Out of Memory on Bitmap Android,"android,memory,memory-management,memory-leaks,out-of-memory",True,/questions/16536329/out-of-memory-on-bitmap-android,True,out of memory
+how could I update a progress bar on three fragments without causing memory leaks?,"android,callback,fragment,progress",True,/questions/22155337/how-could-i-update-a-progress-bar-on-three-fragments-without-causing-memory-leak,True,memory leak
+Xamarin Universal Image Loader Out of Memory exception,"android,memory-leaks,xamarin,universal-image-loader",True,/questions/21895581/xamarin-universal-image-loader-out-of-memory-exception,True,out of memory
+Delphi Android Memory Leak(or another slowdown),"android,delphi,memory-leaks,firemonkey,delphi-xe5",True,/questions/21880046/delphi-android-memory-leakor-another-slowdown,True,"slowdown
+memory leak"
+Android out of memory exception - download an image as bitmap,"android,android-imageview,android-memory,android-bitmap",True,/questions/21781960/android-out-of-memory-exception-download-an-image-as-bitmap,True,out of memory
+Android. Memory leak causing out of memory error. Using View Pager.,"android,android-fragments,memory-leaks,android-viewpager,out-of-memory",True,/questions/26665489/android-memory-leak-causing-out-of-memory-error-using-view-pager,True,"memory leak
+out of memory"
+Android: memory leaks due to member variables?,"android,memory-leaks",True,/questions/26603778/android-memory-leaks-due-to-member-variables,True,memory leak
+How to connect server database without data loss/fail in android?,"android,database,sqlite,http,synchronization",True,/questions/26374960/how-to-connect-server-database-without-data-loss-fail-in-android,True,data loss
+why kotlin by lazy can cause memory leak in android?,"android,memory-leaks,kotlin",True,/questions/51718733/why-kotlin-by-lazy-can-cause-memory-leak-in-android,True,memory leak
+Out of memory when displaying images in ListView,"android,dart,flutter",True,/questions/51506036/out-of-memory-when-displaying-images-in-listview,True,out of memory
+Memory leak with ProgressDialog in android Application class,"android,memory-leaks,progressdialog,lottie",True,/questions/51474302/memory-leak-with-progressdialog-in-android-application-class,True,memory leak
+Posting MainThread Runnables Memory Leak Safe Android,"android,memory-leaks,runnable",True,/questions/51466336/posting-mainthread-runnables-memory-leak-safe-android,True,memory leak
+Accessing data of destroyed activity means I have a memory leak?,"java,android,memory-leaks,java-memory-leaks",True,/questions/51462462/accessing-data-of-destroyed-activity-means-i-have-a-memory-leak,True,memory leak
+"Android, CountDownTimer latency",android,True,/questions/40215673/android-countdowntimer-latency,True,latency
+"""Warning: Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)""","java,android,memory-leaks,android-volley",True,/questions/40094020/warning-do-not-place-android-context-classes-in-static-fields-this-is-a-memor,True,memory leak
+"Memory Leak, but how can I pass a different context than the one of the activity to solve the Leak?","android,kotlin,memory-leaks,android-fingerprint-api,leakcanary",True,/questions/53481621/memory-leak-but-how-can-i-pass-a-different-context-than-the-one-of-the-activity,True,memory leak
+Is Java GC run when I'm out of memory?,"java,android,garbage-collection",True,/questions/25242033/is-java-gc-run-when-im-out-of-memory,True,out of memory
+"Out of Memory Error in middle of the app, using BitmapFactory option","android,bitmap,r.java-file",True,/questions/25182925/out-of-memory-error-in-middle-of-the-app-using-bitmapfactory-option,True,out of memory
+travis-ci build keeps failing with ShellCommandUnresponsiveException,"android,travis-ci",True,/questions/33403743/travis-ci-build-keeps-failing-with-shellcommandunresponsiveexception,True,unresponsive
+savedInstanceState causes a memory leak when returning to fragment,"android,kotlin,android-fragments,memory-leaks",True,/questions/74581947/savedinstancestate-causes-a-memory-leak-when-returning-to-fragment,True,memory leak
+Android reporting ANR on the CookieManager.getInstance(),"android,cookies",True,/questions/73802032/android-reporting-anr-on-the-cookiemanager-getinstance,True, ANR 
+View Pager Memory Leak with Bitmaps and Volley,"android,memory-management,memory-leaks,bitmap,android-viewpager",True,/questions/19916337/view-pager-memory-leak-with-bitmaps-and-volley,True,memory leak
+Closing Input Stream to stop resource leaking,"android,inputstream",True,/questions/19881453/closing-input-stream-to-stop-resource-leaking,True,resource leak
+Out of memory Exception when creating bitmap for 2nd time,"java,android,exception,bitmap,out-of-memory",True,/questions/19765356/out-of-memory-exception-when-creating-bitmap-for-2nd-time,True,out of memory
+BitmapFactory.decodeFile out of memory with images 2400x2400,"android,bitmap",True,/questions/19678665/bitmapfactory-decodefile-out-of-memory-with-images-2400x2400,True,out of memory
+Memory Leak on one instance of a View,"java,android,memory-management,memory-leaks,out-of-memory",True,/questions/19651357/memory-leak-on-one-instance-of-a-view,True,memory leak
+Loading too many JPEG Files(100 s of ) cause out of memory error,"java,android,image,image-processing",True,/questions/19605750/loading-too-many-jpeg-files100-s-of-cause-out-of-memory-error,True,out of memory
+How to avoid the battery drain while implementing the GPS?,android,True,/questions/5964925/how-to-avoid-the-battery-drain-while-implementing-the-gps,True,battery drain
+Out of memory error when putting large JSON (InputStream) to String,"java,android,string,out-of-memory",True,/questions/5842201/out-of-memory-error-when-putting-large-json-inputstream-to-string,True,out of memory
+Canvas and surfaceView example crash/freeze - Memory Leak?,"android,canvas,surfaceview",True,/questions/5650810/canvas-and-surfaceview-example-crash-freeze-memory-leak,True,memory leak
+Android out of memory prevention,"android,memory,download,bitmap,out-of-memory",True,/questions/5579793/android-out-of-memory-prevention,True,out of memory
+Android - memory leak or?,"android,memory,spinner,memory-leaks",True,/questions/5577316/android-memory-leak-or,True,memory leak
+bitmap.copy() throws out of memory error,"android,universal-image-loader",True,/questions/23763405/bitmap-copy-throws-out-of-memory-error,True,out of memory
+Clueless About a (Possible) Android Memory Leak,"java,android,memory-leaks,bitmap,eclipse-memory-analyzer",True,/questions/23652549/clueless-about-a-possible-android-memory-leak,True,memory leak
+Data loss while sending image over socket from android client to Java server,"java,android,sockets,networking",True,/questions/23639286/data-loss-while-sending-image-over-socket-from-android-client-to-java-server,True,data loss
+Could passing Context to a static helper method as an argument potentially cause a memory leak?,"java,android",True,/questions/23625937/could-passing-context-to-a-static-helper-method-as-an-argument-potentially-cause,True,memory leak
+how to clean up FragmentPagerAdapter on destroy for memory leaks,"android,memory-leaks,out-of-memory,fragmentpageradapter",True,/questions/23602551/how-to-clean-up-fragmentpageradapter-on-destroy-for-memory-leaks,True,memory leak
+android-getting error out of memory with showing images,"android,memory,imageview",True,/questions/23443406/android-getting-error-out-of-memory-with-showing-images,True,out of memory
+Memory Leak with Single Method,"java,android,memory-leaks,heap-memory",True,/questions/18179026/memory-leak-with-single-method,True,memory leak
+Android out of memory error on choosing second image,"android,memory,out-of-memory,main-activity",True,/questions/18114726/android-out-of-memory-error-on-choosing-second-image,True,out of memory
+Rotating the phone causes memory out of memory,"android,memory-leaks,bitmap,rotation,drawable",True,/questions/17996888/rotating-the-phone-causes-memory-out-of-memory,True,out of memory
+Out of memory while creating bitmaps on device,"android,bitmap,out-of-memory",True,/questions/17990086/out-of-memory-while-creating-bitmaps-on-device,True,out of memory
+Will Looping a Runnable Cause a Memory Leak,"android,memory-management,handler",True,/questions/17985176/will-looping-a-runnable-cause-a-memory-leak,True,memory leak
+How to release memory in android to avoid memory leak,"android,performance,memory-leaks",True,/questions/17894903/how-to-release-memory-in-android-to-avoid-memory-leak,True,memory leak
+Android - Out of memory Error. When it run on real device,android,True,/questions/17855325/android-out-of-memory-error-when-it-run-on-real-device,True,out of memory
+android mmap fails with out of memory,"android,memory,android-ndk,mmap",True,/questions/33897711/android-mmap-fails-with-out-of-memory,True,out of memory
+OpenCL Android Matrix Multiplication Out of memory (mmap fail errno 12),"android,matrix,opencl,mmap,multiplication",True,/questions/33821178/opencl-android-matrix-multiplication-out-of-memory-mmap-fail-errno-12,True,out of memory
+Android Out of Memory error on drawable folder [duplicate],"android,out-of-memory,runtime-error",True,/questions/33779866/android-out-of-memory-error-on-drawable-folder,True,out of memory
+Android bitmap/ byte array memory leak,"java,android,memory-leaks,bitmap",True,/questions/33771946/android-bitmap-byte-array-memory-leak,True,memory leak
+How to get scaled bitmap with respect to screen size with out getting Out of memory exception,"android,bitmap,out-of-memory",True,/questions/33392964/how-to-get-scaled-bitmap-with-respect-to-screen-size-with-out-getting-out-of-mem,True,out of memory
+How OOM(out of memory excepetion) happens in android?,"android,imageview,android-bitmap",True,/questions/33341709/how-oomout-of-memory-excepetion-happens-in-android,True,out of memory
+Out of Memory error - possibly due to memory leak?,"java,android,memory,memory-leaks,out-of-memory",True,/questions/33352160/out-of-memory-error-possibly-due-to-memory-leak,True,"memory leak
+out of memory"
+out of memory error in file manager,"android,listview,out-of-memory",True,/questions/33235201/out-of-memory-error-in-file-manager,True,out of memory
+Android Media player keeps app instance and cause a memory leak,"android,memory-leaks,android-mediaplayer,leakcanary",True,/questions/33221516/android-media-player-keeps-app-instance-and-cause-a-memory-leak,True,memory leak
+Possible Memory leak through FinalizerReference,"java,android,memory-leaks",True,/questions/33666382/possible-memory-leak-through-finalizerreference,True,memory leak
+Out of Memory using Retrofit 2 for downloading a file,"java,android,retrofit",True,/questions/33662253/out-of-memory-using-retrofit-2-for-downloading-a-file,True,out of memory
+Why doesn't the MediaRecorder function cause ANR error?,android,True,/questions/33541279/why-doesnt-the-mediarecorder-function-cause-anr-error,True, ANR 
+Does android View reference passed to outside class create memory leak?,"android,view,memory-leaks",True,/questions/33480978/does-android-view-reference-passed-to-outside-class-create-memory-leak,True,memory leak
+How ANR Error dialog box is shown on main thread,"android,android-activity,android-anr-dialog",True,/questions/25030865/how-anr-error-dialog-box-is-shown-on-main-thread,True, ANR 
+Add and remove WebView from FrameLayout in Fragment dynamically causes memory leak (Grow heap (frag case)),"android,android-fragments,memory-leaks,webview",True,/questions/24968178/add-and-remove-webview-from-framelayout-in-fragment-dynamically-causes-memory-le,True,memory leak
+OpenCV - Android - low latency Camera Preview in setting pixel value,"android,opencv,camera,set,pixel",True,/questions/24930519/opencv-android-low-latency-camera-preview-in-setting-pixel-value,True,latency
+Memory Leak while using Admob interstitial ads,"android,memory,android-activity,memory-leaks,eclipse-memory-analyzer",True,/questions/24902845/memory-leak-while-using-admob-interstitial-ads,True,memory leak
+Out of memory in onActivityResult,"android,exception,bitmap,out-of-memory",True,/questions/24804906/out-of-memory-in-onactivityresult,True,out of memory
+Universal Image Loader gets out of memory with Samsung devices,"android,caching,universal-image-loader,inflate-exception",True,/questions/24678846/universal-image-loader-gets-out-of-memory-with-samsung-devices,True,out of memory
+Android - is this a memory leak?,"android,memory-leaks,garbage-collection",True,/questions/37230495/android-is-this-a-memory-leak,True,memory leak
+android UI lag on some devices,"android,android-fragments,android-gridview,navigation-drawer",True,/questions/37158466/android-ui-lag-on-some-devices,True,UI lag
+Out of memory with jack,"android,out-of-memory,jack-compiler",True,/questions/37098997/out-of-memory-with-jack,True,out of memory
+Listview out of memory exception in viewholder,"android,memory,memory-leaks,out-of-memory,android-viewholder",True,/questions/37073081/listview-out-of-memory-exception-in-viewholder,True,out of memory
+Will running AsyncTask within AsyncTask cause memory leaks?,"android,android-asynctask",True,/questions/36967351/will-running-asynctask-within-asynctask-cause-memory-leaks,True,memory leak
+How to analyze ANR in sharedPreferences,"android,sharedpreferences,android-anr-dialog",True,/questions/36905415/how-to-analyze-anr-in-sharedpreferences,True, ANR 
+Out of memory error when loading bitmap from Uri,"android,bitmap",True,/questions/36885469/out-of-memory-error-when-loading-bitmap-from-uri,True,out of memory
+ListView Out of Memory Exception,"android,listview",True,/questions/36861256/listview-out-of-memory-exception,True,out of memory
+Android bitmap out of memory error (mapviewBalloons),"android,bitmap,out-of-memory",True,/questions/10718823/android-bitmap-out-of-memory-error-mapviewballoons,True,out of memory
+Android StringBuilder out of memory with large XML file,"java,android,out-of-memory",True,/questions/10621261/android-stringbuilder-out-of-memory-with-large-xml-file,True,out of memory
+Android memory leaks,"android,memory",True,/questions/10607447/android-memory-leaks,True,memory leak
+Android: Does static link to Activity always leads to Memory Leak?,"android,memory,static,memory-leaks",True,/questions/10585698/android-does-static-link-to-activity-always-leads-to-memory-leak,True,memory leak
+memory leak while bitmap processing,"android,bitmap,out-of-memory",True,/questions/10518899/memory-leak-while-bitmap-processing,True,memory leak
+AsyncTask and Out Of Memory issue in Android,"android,asynchronous,bitmap,android-asynctask",True,/questions/10479313/asynctask-and-out-of-memory-issue-in-android,True,out of memory
+Android - fragment with three listviews crashes with out of memory error,"android,android-listview",True,/questions/26941509/android-fragment-with-three-listviews-crashes-with-out-of-memory-error,True,out of memory
+Picasso Library - Out of Memory,"android,picasso",True,/questions/26938310/picasso-library-out-of-memory,True,out of memory
+Nature of Android memory leaks on orientation change and garbage collection,"android,android-activity,memory-leaks,android-asynctask,orientation-changes",True,/questions/26932262/nature-of-android-memory-leaks-on-orientation-change-and-garbage-collection,True,memory leak
+Catch Out Of Memory Java/Android,"java,android",True,/questions/26860845/catch-out-of-memory-java-android,True,out of memory
+ViewPager Out of Memory + ImageView,"android,imageview,out-of-memory,android-pageradapter",True,/questions/26840104/viewpager-out-of-memory-imageview,True,out of memory
+Getting Memory leak on android fragment,"android,gridview,android-fragments,memory-leaks,android-arrayadapter",True,/questions/30112248/getting-memory-leak-on-android-fragment,True,memory leak
+Out of memory when select image from gallery for the third times Android,"java,c#,android,memory,xamarin",True,/questions/30040807/out-of-memory-when-select-image-from-gallery-for-the-third-times-android,True,out of memory
+Why callback method for asynchronous network call can't cause memory leak when activity finished?,"java,android,jvm,okhttp",True,/questions/49064577/why-callback-method-for-asynchronous-network-call-cant-cause-memory-leak-when-a,True,memory leak
+Put String result from Encode Base64 to JSONObject Out Of Memory,"android,json,base64,out-of-memory",True,/questions/48943122/put-string-result-from-encode-base64-to-jsonobject-out-of-memory,True,out of memory
+Android memory leak accountmanager dependency,"android,memory-leaks,retrofit2,accountmanager",True,/questions/48927389/android-memory-leak-accountmanager-dependency,True,memory leak
+Is it a memory leak if an Activity implements a callback and that reference is passed for a network call in another thread and the screen is rotated?,"java,android,android-activity,memory-leaks,listener",True,/questions/48909688/is-it-a-memory-leak-if-an-activity-implements-a-callback-and-that-reference-is-p,True,memory leak
+Out of memory issue after updating buildToolsVersion '23.0.1' in Android studio,"android,android-studio,build.gradle,android-build,build-tools",True,/questions/33075646/out-of-memory-issue-after-updating-buildtoolsversion-23-0-1-in-android-studio,True,out of memory
+Handling response timeout in android using volley,"android,android-volley",True,/questions/34743414/handling-response-timeout-in-android-using-volley,True,response time
+Android Java out of memory exception loading spritsheets,"java,android,bitmap,out-of-memory",True,/questions/34619333/android-java-out-of-memory-exception-loading-spritsheets,True,out of memory
+acceptable libgdx memory consumption,"android,memory,libgdx",True,/questions/34614079/acceptable-libgdx-memory-consumption,True,memory consumption
+Android: Out of memory Error on launch of Drawer layout,"java,android,android-studio,out-of-memory,navigation-drawer",True,/questions/34560332/android-out-of-memory-error-on-launch-of-drawer-layout,True,out of memory
+How to solve Memory Leaks?,"java,android,memory-leaks",True,/questions/48839442/how-to-solve-memory-leaks,True,memory leak
+Memory leaks in context,"android,static,android-context",True,/questions/48848728/memory-leaks-in-context,True,memory leak
+Getting Out of Memory Error even for a small JSON Response,"android,json,performance,out-of-memory",True,/questions/48748695/getting-out-of-memory-error-even-for-a-small-json-response,True,out of memory
+Understanding Memory leaks for Context and ContextWrapper,"android,memory-leaks",True,/questions/48760837/understanding-memory-leaks-for-context-and-contextwrapper,True,memory leak
+Adobe AIR UI performance issues when doing I/O,"android,actionscript-3,flash,mobile,air",True,/questions/12043790/adobe-air-ui-performance-issues-when-doing-i-o,True,UI performance issue
+How to solve the Out of Memory issue while displaying image in android?,"android,out-of-memory",True,/questions/12016716/how-to-solve-the-out-of-memory-issue-while-displaying-image-in-android,True,out of memory
+Unzipping process making the device unresponsive,"java,android,unzip",True,/questions/11922432/unzipping-process-making-the-device-unresponsive,True,unresponsive
+"How rotate picture from ""onPictureTaken"" without Out of memory Exception?","android,bitmap,bitmapfactory",True,/questions/11883752/how-rotate-picture-from-onpicturetaken-without-out-of-memory-exception,True,out of memory
+How to handle 'force close' due late response time from server,"android,multithreading,android-activity,forceclose",True,/questions/11880162/how-to-handle-force-close-due-late-response-time-from-server,True,response time
+Memory leak caused by img.setBackgroundResource,"java,android,animation,garbage-collection,android-animation",True,/questions/11861908/memory-leak-caused-by-img-setbackgroundresource,True,memory leak
+Android: BitmapFactory.decodeStream() out of memory with a 400KB file with 2MB free heap,"android,heap-memory",True,/questions/11820266/android-bitmapfactory-decodestream-out-of-memory-with-a-400kb-file-with-2mb-f,True,out of memory
+Strange ANR in StringBuilder,"android,string,android-anr-dialog",True,/questions/11807084/strange-anr-in-stringbuilder,True, ANR 
+Java.nio.channels.ServerSocketChannel - accept() memory leak,"java,android",True,/questions/11796577/java-nio-channels-serversocketchannel-accept-memory-leak,True,memory leak
+Why caching inflated layout in a static variable could be a memory leak?,"android,layout,layout-inflater",True,/questions/11736071/why-caching-inflated-layout-in-a-static-variable-could-be-a-memory-leak,True,memory leak
+Android application becomes irresponsive,"android,jakarta-mail,android-service",True,/questions/11715334/android-application-becomes-irresponsive,True,irresponsive
+Android - Avoid memory leaks for images extracted from Gallery,"android,android-layout,android-intent,android-emulator,android-widget",True,/questions/11686361/android-avoid-memory-leaks-for-images-extracted-from-gallery,True,memory leak
+Retained Fragments with UI and memory leaks,"android,memory-leaks,android-fragments",True,/questions/13421945/retained-fragments-with-ui-and-memory-leaks,True,memory leak
+Android Out of memory exception while downloading multiple images(>2mb each) from server,"android,bitmap,out-of-memory",True,/questions/13396174/android-out-of-memory-exception-while-downloading-multiple-images2mb-each-fro,True,out of memory
+Will this code from Android SDK sample cause a memory leak of the parent Activity?,android,True,/questions/13389306/will-this-code-from-android-sdk-sample-cause-a-memory-leak-of-the-parent-activit,True,memory leak
+How to handle Out of Memory error when loading single Bitmap from Camera,"android,bitmap,camera,xamarin.android,out-of-memory",True,/questions/13369229/how-to-handle-out-of-memory-error-when-loading-single-bitmap-from-camera,True,out of memory
+Memory Leak Error Android [closed],"java,android,memory-leaks,out-of-memory",True,/questions/13248070/memory-leak-error-android,True,memory leak
+Does sharedpreferences become null when application runs through out of memory issue,"android,sharedpreferences",True,/questions/13231515/does-sharedpreferences-become-null-when-application-runs-through-out-of-memory-i,True,out of memory
+how to solve out of memory bitmap size exceeds exception in android [duplicate],"android,android-layout",True,/questions/13231450/how-to-solve-out-of-memory-bitmap-size-exceeds-exception-in-android,True,out of memory
+android - Out of memory Exception,"android,bitmap,out-of-memory",True,/questions/13226195/android-out-of-memory-exception,True,out of memory
+Android Memory Leak? Bitmap exceeds VM budget error with Fragments,"android,android-fragments,bitmap,out-of-memory",True,/questions/13178270/android-memory-leak-bitmap-exceeds-vm-budget-error-with-fragments,True,memory leak
+Recyclerview Out Of Memory Error (using Volley),"java,android,json,android-recyclerview,android-volley",True,/questions/50776083/recyclerview-out-of-memory-error-using-volley,True,out of memory
+Context.startForegroundService() ANR without actually calling it,"android,android-service,android-8.0-oreo,android-anr-dialog,foreground-service",True,/questions/50595247/context-startforegroundservice-anr-without-actually-calling-it,True, ANR 
+Activities not destroyed by the system before out of memory on Galaxy Nexus,"android,memory-management",True,/questions/9171941/activities-not-destroyed-by-the-system-before-out-of-memory-on-galaxy-nexus,True,out of memory
+Long running ProgressDialog shows Application not responding (ANR) dialog,"android,service,android-asynctask",True,/questions/9145925/long-running-progressdialog-shows-application-not-responding-anr-dialog,True,application not responding
+Application not responding status when the orientation is changed from the portrait to landscape,android,True,/questions/9059655/application-not-responding-status-when-the-orientation-is-changed-from-the-portr,True,application not responding
+Android: slow response after clicking TabWidget,android,True,/questions/8967728/android-slow-response-after-clicking-tabwidget,True,slow response
+Memory Leak in Android,android,True,/questions/8970420/memory-leak-in-android,True,memory leak
+Android Activities never GC'ed causing out of memory exception,"java,android,memory,garbage-collection",True,/questions/8918922/android-activities-never-gced-causing-out-of-memory-exception,True,out of memory
+Adding a simple ScrollView to Gallery causes a memory leak,"android,memory,scrollview",True,/questions/8900212/adding-a-simple-scrollview-to-gallery-causes-a-memory-leak,True,memory leak
+How to write a large file from an applications assets folder to the SD Card without getting an Out of Memory Error?,"java,android,file-io,out-of-memory",True,/questions/8820837/how-to-write-a-large-file-from-an-applications-assets-folder-to-the-sd-card-with,True,out of memory
+"Android - sluggish animation when using ViewAnimator, is it possible to use hardware acceleration?","android,animation,hardware-acceleration",True,/questions/8803086/android-sluggish-animation-when-using-viewanimator-is-it-possible-to-use-hard,True,sluggish
+android mapview slow and unresponsive,"android,android-mapview",True,/questions/8796580/android-mapview-slow-and-unresponsive,True,unresponsive
+How to destroy a dialog fragment completely for memory leak issue?,"android,memory-leaks",True,/questions/60918546/how-to-destroy-a-dialog-fragment-completely-for-memory-leak-issue,True,memory leak
+Fragment view memory leak despite setting parent view to null in onDestroyView,"android,android-studio,android-fragments,memory-leaks,leakcanary",True,/questions/60672013/fragment-view-memory-leak-despite-setting-parent-view-to-null-in-ondestroyview,True,memory leak
+leakcanary FirestoreRecyclerAdapter memory leak,"android,android-recyclerview,memory-leaks,leakcanary",True,/questions/60484054/leakcanary-firestorerecycleradapter-memory-leak,True,memory leak
+Can RecyclerView with onClickListener in constructor cause memory leak?,"android,android-recyclerview,memory-leaks",True,/questions/60353158/can-recyclerview-with-onclicklistener-in-constructor-cause-memory-leak,True,memory leak
+Android Studio Out Of Memory Error ViewFlipper,"javascript,android,out-of-memory",True,/questions/37627542/android-studio-out-of-memory-error-viewflipper,True,out of memory
+HashMap into ArrayList Out of Memory,"java,android,arraylist,hashmap",True,/questions/37613820/hashmap-into-arraylist-out-of-memory,True,out of memory
+ViewPager memory leak,"android,memory-leaks,android-viewpager",True,/questions/37591376/viewpager-memory-leak,True,memory leak
+How to get something useful from this ANR log,"android,sharedpreferences,android-anr-dialog",True,/questions/37549578/how-to-get-something-useful-from-this-anr-log,True, ANR 
+Why is there latency with ORMLite when I print results?,"android,ormlite",True,/questions/42275895/why-is-there-latency-with-ormlite-when-i-print-results,True,latency
+Out of memory with LruCache?,"android,android-lru-cache",True,/questions/42231143/out-of-memory-with-lrucache,True,out of memory
+Android maps v2 maps becomes unresponsive on orientation changed,"android,android-fragments,android-maps-v2",True,/questions/14488566/android-maps-v2-maps-becomes-unresponsive-on-orientation-changed,True,unresponsive
+Repeating 6 bitmas taken from drawable on map causes out of memory error,"android,bitmap",True,/questions/14466402/repeating-6-bitmas-taken-from-drawable-on-map-causes-out-of-memory-error,True,out of memory
+Out of memory while reading large xml file from server using Post,android,True,/questions/14457110/out-of-memory-while-reading-large-xml-file-from-server-using-post,True,out of memory
+Android app becomes unresponsive when back button is pressed and crashes on android emulator,"android,android-activity,intentservice",True,/questions/14456054/android-app-becomes-unresponsive-when-back-button-is-pressed-and-crashes-on-andr,True,unresponsive
+Out of memory issue while loading bitmaps in Android,"android,android-imageview,android-image,android-memory",True,/questions/14437180/out-of-memory-issue-while-loading-bitmaps-in-android,True,out of memory
+Memory leak with Android app?,"android,json,memory-leaks",True,/questions/14445751/memory-leak-with-android-app,True,memory leak
+Large Array - Out of Memory Error,"java,android,arrays,out-of-memory,ram",True,/questions/14405295/large-array-out-of-memory-error,True,out of memory
+Out of Memory Error while loading bitmaps,"android,bitmap,out-of-memory",True,/questions/14359024/out-of-memory-error-while-loading-bitmaps,True,out of memory
+Out of memory error while parsing a large JSON using Jackson library on Android,"java,android,json,jackson,out-of-memory",True,/questions/14323727/out-of-memory-error-while-parsing-a-large-json-using-jackson-library-on-android,True,out of memory
+Handling runtime changes in Android for a simple app - do I need to use a Bundle?,android,True,/questions/14298866/handling-runtime-changes-in-android-for-a-simple-app-do-i-need-to-use-a-bundle,True,runtime change
+How to avoid OOM to load large images from android resource,"android,resources,out-of-memory",True,/questions/52195458/how-to-avoid-oom-to-load-large-images-from-android-resource,True, oom 
+it's possible add a variable to the Proguard Crash Report (Google Play ANR & Blocks),"android,proguard,android-proguard,google-play-developer-api",True,/questions/52169409/its-possible-add-a-variable-to-the-proguard-crash-report-google-play-anr-blo,True, ANR 
+Application runs into ANR before having App onCreate() called,"java,android,android-gradle-plugin",True,/questions/52158794/application-runs-into-anr-before-having-app-oncreate-called,True, ANR 
+Why in Google App Engine Always 11 secs of Latency coming only for the first requests?,"android,node.js,google-app-engine,google-cloud-platform",True,/questions/52129452/why-in-google-app-engine-always-11-secs-of-latency-coming-only-for-the-first-req,True,latency
+Android Studio Out Of Memory Error when i run app,"android,android-drawable,logcat",True,/questions/52129432/android-studio-out-of-memory-error-when-i-run-app,True,out of memory

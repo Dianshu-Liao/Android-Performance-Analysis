@@ -18,9 +18,7 @@ Due to GitHub's limited capacity, we have uploaded all our source code and data 
    **- **Run** **`statistic_literature_review.py`** and **`statistic_real_world.py`** to gather all the data involved in the paper and their statistics.
 
 
-## Data
-
-### Data Files
+## Data during the data collection process.
 
 - **User Reviews**:
   - **`real_world_study/UserReviewData/AppRankList.csv`**: Contains data on 7,681 apps.

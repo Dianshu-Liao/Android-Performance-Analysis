@@ -1,0 +1,415 @@
+1.Non-static inner classes holding implicit references
+Problem: Fragment will not get garbage collected until the Runnable finishes because the inner class holds an implicit reference to the containing Fragment.
+Root Cause: Non-static inner classes holding implicit references to their containing classes.
+Solution: Use a WeakReference to the containing object or to the Activity/Fragment.
+https://stackoverflow.com/questions/54814017/could-this-runnable-class-cause-memory-leaks
+https://stackoverflow.com/questions/55521604/singleton-usage-creates-memory-leak-in-kotlin
+
+2.Using Activity Context inappropriately
+Problem: Initialization using Activity context instead of Application context causes memory leak.
+Root Cause: Holding references to Activity context in long-lived objects.
+Solution: Use applicationContext instead.
+https://stackoverflow.com/questions/76828546/android-memory-leak-in-mediaprojection
+https://stackoverflow.com/questions/35308231/memory-leak-with-googleapiclient-detected-by-android-studio
+https://stackoverflow.com/questions/55521604/singleton-usage-creates-memory-leak-in-kotlin
+https://stackoverflow.com/questions/56102382/is-passing-context-as-a-parameter-to-a-method-in-a-singleton-class-causes-memory
+
+3.Dialogs not dismissed properly
+Problem: Dialogs causing WindowLeaked exception when not dismissed before Activity finishes.
+Root Cause: Not dismissing dialogs in onDestroy.
+Solution: Dismiss dialogs before finishing the Activity.
+https://stackoverflow.com/questions/18485982/android-leaked-window-app-adopts-an-anr-state
+% The WindowLeaked exception occurs because you did not dismiss the MyProgressDialog before the activity ended; therefore, it leaked memory associated with it.
+% WindowLeaked exceptions generally occur when there is some sort of asynchronous task that finishes after the Activity that started it has been destroyed. This type of exception mainly occurs in the case of Dialogs, i.e., we do not dismiss the dialogs before the Activity Context is destroyed.
+% So it is better to put a check before showing the dialog, as follows:
+% if(getActivity()!= null && !getActivity().isFinishing()){
+%             Dialog.show();
+% }
+% Solution for the above issue is to dismiss the MyProgressDialog before finish the activity.
+
+
+
+
+4.Static UI elements
+Problem: Static UI elements holding references to Activity.
+Root Cause: Static fields holding UI references, leading to memory leaks.
+Solution: Avoid static UI elements, use model objects and reinitialize UI based on model.
+https://stackoverflow.com/questions/70058797/memory-leaks-when-using-static-context-items-in-android
+
+
+
+5.Bitmaps not being recycled
+Problem: Bitmaps attached to ImageView not being recycled.
+Root Cause: Not setting ImageView to null before recycling bitmaps.
+Solution: Clear bitmap references in onPause.
+https://stackoverflow.com/questions/36141094/android-bitmap-causing-out-of-memory-error
+
+
+6.Inefficient image handling
+Problem: Loading large images without proper scaling or caching.
+Root Cause: Using setImageURI for large images, leading to high memory usage.
+Solution: Scale and cache images properly.
+https://stackoverflow.com/questions/2966547/gridview-out-of-memory-error
+% No proper scaling and cache management of loaded images. Loading large images directly using the setImageURI method can take up a lot of memory, especially when opening and closing the app quickly and frequently, memory consumption can accumulate and eventually lead to out of memory.
+% to fix:
+% Iterate through all ImageViews in the GridView in the Activity's onPause() method and set the callbacks for their Drawables to null, which breaks circular references and prevents memory leaks.
+
+
+
+7.Repetitive API calls
+Problem: Frequent API calls causing high resource usage.
+Root Cause: Inefficient API usage patterns.
+Solution: Optimize API usage to reduce frequency and improve efficiency.
+https://stackoverflow.com/questions/65231576/how-to-resolve-anr-problem-occured-in-sensoreventlistener-operating-separete-thr
+(this can be an example with code)
+% Repeated calls to the same API
+% In Android, a service runs on the main thread, which already has a Looper assigned to it.In your code, when the service starts, it calls Looper.prepare() and Looper.loop() on the main thread, which can lead to unexpected behaviour in your application.
+% Delete the following code from SwingArmSensorService class
+% if(Looper.myLooper() == null) {
+%     Looper.prepare();
+% }
+% Looper.loop();
+
+
+8.Frequent state updates
+Problem: Frequent updates causing UI lag.
+Root Cause: Continuous updates to progress dialogs or UI elements.
+Solution: Optimize update frequency and use efficient update mechanisms.
+https://stackoverflow.com/questions/17345623/how-to-prevent-ui-lag-when-updating-notification-while-downloading-file
+% Currently, I'm using an AsyncTask in my application to download a large file in the background, and the progress of the download is displayed in a ProgressDialog, which is updated via onProgressUpdate.
+% I've done this before for an upload function, showing % in the notification, but the idea is exactly the same!
+% Have your AsyncTask keep track of the percentage of download completion and only call publishProgress when the percentage changes. that way, publishProgress is only called when the download percentage changes and the notification needs to be updated. this would solve the UI lag problem.
+
+
+9.Improper handling of runtime changes
+Problem: Activity restart due to runtime changes.
+Root Cause: Not handling configuration changes properly.
+Solution: Handle configuration changes explicitly.
+https://stackoverflow.com/questions/5356696/memory-leak-in-very-simple-app
+% android:configChanges="keyboardHidden|orientation"
+
+10.Incorrect API calling sequences
+Problem: Incorrect order of API calls leading to unexpected behavior.
+Root Cause: Misplaced super.onDestroy() calls.
+Solution: Ensure correct sequence of API calls.
+https://stackoverflow.com/questions/18261150/what-is-causing-a-possible-memory-leak-or-crash-in-the-following-code
+% super.onDestroy() must be the first call of the onDestroy method if you override it.
+% to fix:
+% Swapping calling sequences
+
+11.Recursive object creation
+Problem: Endless recursion leading to memory exhaustion.
+Root Cause: Recursive instantiation of objects.
+Solution: Avoid recursive object creation, use proper instantiation patterns.
+https://stackoverflow.com/questions/36284689/android-studio-app-randomly-runs-out-of-memory
+% Your class MainActivity duplicates the creation of a new instance of MainActivity because of the variable declaration and initialisation of the
+% MainActivity mainActivity = new MainActivity()；
+% will cause endless recursion to create instances of MainActivity.
+% If you need an instance of your MainActivity class, just use the this keyword.
+
+
+12.WindowManagerGlobal.sDefaultWindowManager Holding Strong References
+Problem: When dynamically setting ActionBar in Fragment, references may be retained even after Fragment and Activity are destroyed.
+Root Cause: Strong references held by WindowManagerGlobal.sDefaultWindowManager.
+Solution: In onDestroy, set ActionBar to null to release references.
+https://stackoverflow.com/questions/63895734/windowmanagerglobal-sdefaultwindowmanager-memory-leak
+% WindowManagerGlobal.sDefaultWindowManager holds strong references to the View and Context. When an ActionBar is dynamically set in a Fragment, these references may be retained even after the Fragment and Activity have been destroyed. If these references are not explicitly cleaned up, a memory leak can occur.
+% to fix: Set ActionBar to null in the Activity's onDestroy() method to dereference the Activity and ensure that the ActionBar does not continue to hold a reference to the Activity when the Activity is destroyed, allowing the rubbish collector to reclaim memory correctly.
+
+13.Bad API Calling
+Problem: Memory leak due to frequent calls to Typeface.createFromAsset.
+Root Cause: Creating a new Typeface object each time from the assets folder.
+How to Fix: Cache the Typeface to avoid memory leaks and increase speed.
+https://stackoverflow.com/questions/16901930/memory-leaks-with-custom-font-for-set-custom-font
+% For example, in Android applications, every time Typeface.createFromAsset is called to load a font from the assets folder, a new Typeface object is created. If this method is called frequently, it can lead to memory leaks, especially on older devices. This is because each time a new object is created it takes up extra memory and reading the assets file is relatively slow.
+% You should cache the TypeFace, otherwise you might risk memory leaks on older handsets. Caching will increase speed as well since it's not super fast to read from assets all the time.
+
+
+
+
+14.Using Activity Context for Large Resource Caching
+Problem: Memory leak from caching large resources.
+Root Cause: Loading resources using activity context instead of application context.
+How to Fix: Use application context to load resources.
+https://stackoverflow.com/questions/13490493/memory-leaks-in-android-application
+% Are you using static variables to cache large resources?
+% If yes, it is a common mistake in Android applications to load such resources using the activity context. This causes the activity and all its resources to persist, even if they are no longer needed.
+% To resolve this issue, use the application application context to load such resources!
+
+
+15.Variable Leak
+Problem: Memory leak due to variable not being set to null after thread completion.
+Root Cause: Thread finishes without setting the variable to null.
+How to Fix: Set the variable to null when the thread finishes.
+https://stackoverflow.com/questions/13699925/context-and-memory-leaks
+% variable leak
+% When the Thread finishes (ie: the run() method is complete) just set variable c to null. That should take care of your memory leak.
+
+
+
+16.Upload Large Size File to Server
+Problem: Out of memory error when uploading large files.
+Root Cause: Data not being chunked.
+How to Fix: Use con.setChunkedStreamingMode(1024) to chunk data.
+https://stackoverflow.com/questions/32117585/outputstream-out-of-memory-error-while-sending-file-to-http
+https://stackoverflow.com/questions/8820837/how-to-write-a-large-file-from-an-applications-assets-folder-to-the-sd-card-with
+% Data not chunked
+% Use chunkedStreamingMode, which helps you to chunk the data by a specific size.
+% con.setChunkedStreamingMode(1024);
+
+% Reading a very large file at once results in out of memory
+% The trick is not to try to read the whole file at once, but to read it in small chunks and write each chunk to the same memory segment before reading the next one. The following version will read the file in 1K chunks. This is just an example - you need to determine the correct block size.
+
+
+
+17.Uploading Large File to PHP Server
+Problem: Out of memory error while uploading a large file.
+Root Cause: System buffers the request before sending.
+How to Fix: Use conn.setChunkedStreamingMode(...).
+https://stackoverflow.com/questions/39167973/uploading-large-file-from-android-app-gives-out-of-memory-error-despite-bufferin
+% I am trying to upload a large video file (~900MB) to a PHP server using POST. I'm using FileInputStream to read the file and DataOutputStream to write the file to the HTTPUrlConnection. despite having a 1024 byte buffer, I end up running out of memory, here is my code
+% The reason for the problem is most likely that the system is buffering the request before sending it to the server.
+% To prevent this (the request being buffered), you can use the
+% conn.setChunkedStreamingMode(....) ;
+% where conn is an instance of HttpURLConnection.
+
+
+
+18.ANR Issue with CookieManager
+Problem: ANR when trying to get CookieManager instance.
+Root Cause: CookieManager being accessed on the main thread.
+How to Fix: Use coroutines to access CookieManager.
+https://stackoverflow.com/questions/73802032/android-reporting-anr-on-the-cookiemanager-getinstance
+% Getting an instance of CookieManager
+% I have an ANR problem when trying to get an instance of CookieManager in Android.
+% In my code, I was just trying to get an instance of cookieManager.
+% I solved the problem by adding the cookieManager to the coroutines.
+% And, there is a link to help understand https://developer.android.com/reference/android/webkit/CookieManager#setAcceptCookie(boolean). cookies are enabled by default. default. we don't need to set it explicitly.
+
+
+19.Incorrect Buffer Size Allocation
+Problem: Memory issues due to small buffer size.
+Root Cause: Allocated buffer size of 8 bytes.
+How to Fix: Use the default buffer size or a more appropriate size.
+https://stackoverflow.com/questions/14445751/memory-leak-with-android-app
+% You've allocated a buffer size of 8 bytes. That is very small.
+% Unless you really know what you're doing, just use the default size with the alternative single-argument constructor
+
+
+20.Creating Threads in Constructor
+Problem: Memory leak from creating threads in the constructor.
+Root Cause: Threads created in the constructor.
+How to Fix: Avoid creating threads in the constructor, create them in appropriate lifecycle methods.
+https://stackoverflow.com/questions/7227624/android-surfaceview-threads-and-memory-leaks
+% Create new thread in constructor function
+% When creating a thread in onSurfaceCreated, you should not create a new thread in the constructor function.
+% Otherwise it leads to memory leak
+
+
+21.RecyclerView OnClickListener Unresponsive
+Problem: RecyclerView's OnClickListener not working.
+Root Cause: OnClickListener not set in the ViewHolder constructor.
+How to Fix: Set the OnClickListener in the ViewHolder constructor.
+https://stackoverflow.com/questions/42448803/recyclerview-onclicklistener-is-unresponsive
+% forgot to set the onClickListener in your ViewHolder constructor causing RecyclerView OnClicklistener is unresponsive
+
+
+
+
+22.ScrollView and ConstraintLayout Issue
+Problem: Button becomes unclickable when the keyboard appears.
+Root Cause: Fixed height for ScrollView causing overlap.
+How to Fix: Set ScrollView's height to 0dp and use constraints.
+https://stackoverflow.com/questions/77586552/button-unresponsive-after-click-on-text-field
+% Using ConstraintLayout
+% When EditText is clicked, the keyboard pops up, and since the height of the ScrollView is fixed, this causes the ScrollView to override the button, and the button becomes unclickable.
+% SET THE HEIGHT OF THE SCROLLVIEW TO 0dp: When using ConstraintLayout, set the height of the ScrollView to 0dp to allow it to fill according to the available space instead of using a fixed height.
+% ADVICE: If you use ConstraintLayout try not to hard code sizes and rely on constraints if possible.
+
+
+23.Misuse of AlarmManager
+Problem: Poor memory management with AlarmManager.
+Root Cause: Storing AlarmManager instances in shared preferences.
+How to Fix: Store only the time in shared preferences and create alarms as needed.
+https://stackoverflow.com/questions/34487717/android-converting-arraylist-to-gson-runs-out-of-memory
+% AlarmManager is a system level class. Putting an array of AlarmManager in each CurrentAlarm and then putting them in sharedPrefs sounds like a really bad idea.
+% Just set the long time only in the sharedPrefs to retrieve later. Why need to create all alarms before hand ? Just an example without knowing your entire app/idea, run a Service once a day or something, check the time from shared pref and then create Alarm at that time.
+
+
+
+24.Static fields holding UI
+Problem: Memory leak due to circular reference.
+Root Cause: Runnable maintaining a reference to the activity.
+How to Fix: Use a static inner class and weak references.
+https://stackoverflow.com/questions/17985176/will-looping-a-runnable-cause-a-memory-leak
+% The problem is that you have created a circular reference. You declared runnable as a non-static inner class, which means that it automatically maintains a reference to activity. runnable itself is a member variable of activity, which ends the loop. The rubbish collector will never be able to free these objects because there is always a live reference.
+% Using a static inner class with a weak reference to activity is the safest way to solve the problem. You can see a good code example here. If mainHandler were another non-static inner class, it would create a second circular reference for the same reason, so you have to do the same thing here.
+
+
+
+25.Static Method Call Leading to Memory Leak
+Problem: Memory leak due to static method usage.
+Root Cause: Using static fields for context-sensitive data.
+How to Fix: Remove static keyword and avoid static context usage.
+https://stackoverflow.com/questions/39792656/how-to-use-a-class-with-a-context-argument-in-a-static-context-without-causing-a
+% A static method is called in "onCreate" to invoke the listener
+% To use a field in a listener, it is not necessary to set it as a static field. Also, you shouldn't do this because you're right that doing so could lead to a memory leak :-) Just remove the static keyword and run the code!
+
+
+
+26.Redundant Drawing
+Problem: Performance issue from redundant drawing.
+Root Cause: Drawing the same content repeatedly.
+How to Fix: Use a boolean to check if drawing is necessary.
+https://stackoverflow.com/questions/42944376/dash-path-effect-making-screen-sluggish
+% Draw exactly the same content for each iteration
+% You only need to keep a boolean value indicating whether something needs to be drawn or not. Currently, it's not necessary to draw the exact same content for every iteration
+
+
+
+27.Widgets in Static Fields
+Problem: Memory leak from placing widgets in static fields.
+Root Cause: Static references to UI components.
+How to Fix: Move logic to activity or fragment, use event bus, or hold instances in non-static fields.
+https://stackoverflow.com/questions/44169270/do-not-place-android-context-classes-in-static-fields-this-is-a-memory-leak
+% Do not put widgets in static fields.
+% Fix options include
+% Remove the class. Move all this logic to an activity (or fragment) where the widgets can be accessed directly.
+% Use an event bus (LocalBroadcastManager, greenrobot's EventBus, etc.). Have your code post messages on the bus when state changes. Have the user interface (activity or fragment) subscribe to messages on the bus and update the widget.
+% Let your activity/fragment hold an instance of CommentsAudioPlayer and make the fields in CommentsAudioPlayer non-static fields.
+% Of these three options, the first is simpler, cleaner, less memory consuming, and faster to execute.
+
+
+
+28.Static Drawable Reference
+Problem: Memory leak due to static drawable reference.
+Root Cause: Static drawable created with activity context.
+How to Fix: Use application context for drawable creation and unbind drawable on activity exit.
+https://stackoverflow.com/questions/6567647/avoid-memory-leaks-on-android
+% The actual problem with this code is not the context passed when the drawable was created, but the private static drawable sBackground; the static drawable was created with Activity as the context, so in this case there is a static reference to the drawable that references Activity, which is the reason for the leak. As long as this reference exists, Activity remains in memory and leaks all its views.
+% For this reason, a Drawable should be created using the application context, not a TextView. creating a TextView using "this" is perfectly fine.
+% Edit: In fact, it probably won't make much difference. The problem is that once a Drawable object is bound to a view, there is a reference to the view, which in turn references the activity.Therefore, you need to "unbind" the drawable view when exiting the activity.
+
+29.Mismatched Read/Write Methods
+Problem: Unexpected values due to mismatched read/write methods.
+Root Cause: Incorrect method pairing for read and write.
+How to Fix: Match read and write methods properly.
+https://stackoverflow.com/questions/8004674/android-getparcelablearraylist-error-out-of-memory
+% If the read and write methods don't match, an unexpected value will be read, which will mess up the whole parcel.
+% If you really want an int value, use (int) in.readDouble() instead of in.readInt().
+
+
+30.Runnable Holding Reference to Activity
+Problem: Memory leak due to Runnable holding activity reference.
+Root Cause: Anonymous Runnable keeping activity in memory.
+How to Fix: Remove callbacks in onPause and use weak references
+https://stackoverflow.com/questions/17778077/would-anonymous-handler-or-runnable-create-a-memory-leak
+% As long as this Runnable-based anonymous class is in the queue (100 milliseconds in this case), it will maintain a reference to the external Activity class.
+% Of course, this memory leak is not a problem in itself, but depending on the execution of the internal code at runtime, it can cause bigger problems, such as crashing the application when trying to display a dialogue box after the Activity has been killed. In this case you will see nice informative exceptions.
+% I was going to post a similar answer. Do you think removing callbacks from handlers will solve this problem? -Yes.
+% Yes. I usually remove the Runnable in onPause.
+% The Looper in the main thread is defined as static, so it is a root MessageQueue that holds all messages and Runnables until they are processed. Yes, there is something that keeps your Activity in memory and doesn't leave until the Runnable's run method is executed.
+
+
+31.Scheduling Large Number of Tasks
+Problem: UI unresponsiveness from scheduling many tasks.
+Root Cause: Large number of Runnables scheduled to execute simultaneously.
+How to Fix: Schedule next Runnable upon current one’s execution.
+https://stackoverflow.com/questions/30580482/android-ui-freezes-although-use-of-handler-and-postdelay
+% Scheduling a large number of tasks at the same time: A large number of Runnables were scheduled in a very short period of time, and all tasks were executed at the same time after 500ms, resulting in a large amount of system resources being used up.
+% Frequent execution of time-consuming tasks: Frequently executed time-consuming tasks take up a lot of CPU resources, resulting in other tasks not being able to be executed in time, which leads to unresponsive UI.
+% You want to schedule 10000/500 runtimes in a very short period of time, and all runtimes start at the same time after 500 milliseconds. This is probably not what you want.
+% What you want is to schedule the next Runnable when the current Runnable starts.
+
+
+
+
+32.Long-running Progress Dialog
+Problem: ANR due to long-running progress dialog
+Root Cause: Progress dialog disabling interaction for too long.
+How to Fix: Use an alternative method to notify user of progress.
+33.https://stackoverflow.com/questions/9145925/long-running-progressdialog-shows-application-not-responding-anr-dialog
+% The only thing I can think of is the ANR is due to the progress dialog disabling interaction for so long。
+% try removing the dialog and using a different method to notify the user of progress.
+
+
+
+
+33.Menu Button Unresponsive
+Problem: Menu button unresponsive.
+Root Cause: Issues with switch-case handling in onOptionsItemSelected.
+How to Fix: Use if-else instead of switch for menu item handling.
+https://stackoverflow.com/questions/27236440/physical-menu-overflow-button-unresponsive-in-certain-views
+% 34.使用switches导致Menu Button Un responsive
+% Ok, I think you need to edit your onOptionsItemSelected override to handle the different menu items。
+% here is an example that uses an if else instead of switch as using switches has issues in library projects
+
+
+34.Many OnClickListeners for EditTexts
+Problem: High memory usage from multiple OnClickListeners.
+Root Cause: Creating separate OnClickListener for each EditText.
+How to Fix: Use a single OnClickListener for all EditTexts.
+https://stackoverflow.com/questions/13521844/running-out-of-memory-using-many-edittexts-and-onclicklisteners
+% If you create a new OnClickListener for each EditText object, even though they all operate the same way, this will take up a lot of memory.
+% As @alex.veprik says: Try using one OnClickListener and assigning it to all EditText objects. % It's also wise to assign the EditText object to a new OnClickListener.
+% It would also be wise to put the creation of the EditText objects in a loop, and only store the list of all boxes in a member variable. That way, instead of having 150 variables, you'll only need one variable to store the list, while keeping all references. (This won't affect your memory issues, but is good code style)
+% List<EditText> boxes = new ArrayList<EditText>()；
+% for (int i = 0; i < NBR_OF_BOXES; i++) {
+%     boxes.add(new EditText())；
+% }
+
+
+35.Object Creation Issue
+Problem: Memory leak from custom TextView.
+Root Cause: Creating Typeface object each time.
+How to Fix: Cache Typeface object to avoid memory leaks.
+https://stackoverflow.com/questions/20942671/runtimeexception-native-typeface-cannot-be-made-or-memory-leak-for-custom-textv
+% Object Creation issue
+
+36.Recursive Object Creation
+Problem: Out of memory from recursive object creation.
+Root Cause: Recursive initialization of activities and objects.
+How to Fix: Avoid recursive object creation and manage lifecycle properly.
+https://stackoverflow.com/questions/33352160/out-of-memory-error-possibly-due-to-memory-leak
+https://stackoverflow.com/questions/36284689/android-studio-app-randomly-runs-out-of-memory
+% Memory overflow due to recursive object creation.
+% Specifically, when a BoardActivity is initialised, it creates a Move object, which in turn creates a Player object, which in turn creates a new BoardActivity object, forming an infinite loop. % I'm guessing the AppCompatActivity is an android activity.
+% I'm guessing the AppCompatActivity is an android activity. Android activities are pretty heavy and allocates some good amount of heap memory when initialised. This is basically why you are running out of memory so quickly.
+This is basically why you are running out of memory so quickly. Either create one and start with the main activity, or use AndroidManifest to load it as the default activity.
+% Also, instead of creating a separate OnClickListener for each button, you can create a single OnClickListener and check the button id with an if statement to determine which button was clicked!
+% example2.
+% Your class MainActivity duplicates the creation of a new instance of MainActivity as the variables are declared and initialised
+% MainActivity mainActivity = new MainActivity();
+% will result in endless recursion to create instances of MainActivity.
+
+
+37.Incorrect PendingIntent Usage
+Problem: ANR due to incorrect PendingIntent usage.
+Root Cause: Null context passed to PendingIntent.
+How to Fix: Pass the correct context to PendingIntent.
+https://stackoverflow.com/questions/35190272/android-service-not-working-after-reboot-giving-anr-error
+% Instead of PendingIntentpendingIntent=PendingIntent.getService(null, 0, service, 0);
+% I had to pass in the context as the first argument, in the receiver, as shown below
+% PendingIntentpendingIntent=PendingIntent.getService(context, 0, service, 0);
+
+
+38.Syntax Error in if Statement
+Problem: Unresponsive data handling due to if statement error.
+Root Cause: Incorrect if condition in onActivityResult.
+How to Fix: Correct the if condition syntax.
+https://stackoverflow.com/questions/72618203/unresponsive-data-getdata-for-pick-image-request
+% I guess it was a syntax error in the if statement within the onActivityResult
+%  if (resultCode == PICK_IMAGE_REQUEST && resultCode == RESULT_OK && data != null && data.getData() != null){
+% Correction :
+%  if (requestCode == PICK_IMAGE_REQUEST && resultCode == RESULT_OK && data != null && data.getData() != null){
+% At the moment the issue is resolved and image could be chosen and displayed within the app.
+% in if condition, resultCode -> requestCode.
+
+
+39.Nested Constructor Calls Causing Unresponsiveness
+Problem: Custom spinner component becomes unresponsive.
+Root Cause: Incorrect nested calls to constructors.
+How to Fix: Ensure super() is called only once in each constructor.
+https://stackoverflow.com/questions/45396432/why-is-my-custom-spinner-disabled-unresponsive
+% Nested calls to constructor cause code to be unresponsive
+% Instead, call super() constructor from each one.

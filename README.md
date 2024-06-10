@@ -6,16 +6,7 @@ This artifact package includes all the data and code in the paper **''Automatic 
 Due to GitHub's limited capacity, we have uploaded all our source code and data to Google Cloud Drive. You can access this link to our source code and data: https://drive.google.com/file/d/13Gidayqi1hyYMIfRGXVG07aoXQ0hMM3U/view?usp=sharing
 
 
-## Source Code
 
-1. **Crawling Data**:
-   - **Run** **`Real_World_Data_Process/1_crawl_GitHub_Code_Repositories.py`**, **`Real_World_Data_Process/1_crawl_GitHub_Commits.py`**, **`Real_World_Data_Process/1_crawl_User_Reviews.py`**, **`Real_World_Data_Process/1_1_crawl_StackOverflow.py`**, **`Real_World_Data_Process/1_2_Adding_Code_Tag_to_SO.py`** to crawl GitHub issues and commits, user reviews, and Stack Overflow discussions.
-
-2. **Filtering Data**:
-   **- Run **`Real_World_Data_Process/2_data_processor.py`** to filter out user reviews, GitHub issues, commits, and Stack Overflow discussions related to performance issues based on keywords.**
-
-3. **Statistic Data**:
-   **- **Run** **`statistic_literature_review.py`** and **`statistic_real_world.py`** to gather all the data involved in the paper and their statistics.
 
 
 ## Data during the data collection process.
@@ -59,3 +50,14 @@ Due to GitHub's limited capacity, we have uploaded all our source code and data 
 
 5. **`real_world_study/Manually_Checked_Data/all_relations_and_how_many_tools_addressed.csv`** lists the number of tools available to address each performance issue caused by specific factors.
 
+## Source Code
+
+1. **Crawling Data**:
+   - **Run** **`Literature_Review_Data_Process/Paper_search_ACM.py`**, **`Literature_Review_Data_Process/paper_search_IEEE.py`**, **`Literature_Review_Data_Process/paper_search_science_direct.py`**, **`Literature_Review_Data_Process/paper_search_springer.py`**, **`Literature_Review_Data_Process/paper_search_wiley.py`** to crawl papers in five libraries.
+   - **Run** **`Real_World_Data_Process/1_crawl_GitHub_Code_Repositories.py`**, **`Real_World_Data_Process/1_crawl_GitHub_Commits.py`**, **`Real_World_Data_Process/1_crawl_User_Reviews.py`**, **`Real_World_Data_Process/1_1_crawl_StackOverflow.py`**, **`Real_World_Data_Process/1_2_Adding_Code_Tag_to_SO.py`** to crawl GitHub issues and commits, user reviews, and Stack Overflow discussions.
+   
+3. **Filtering Data**:
+   **- Run **`Real_World_Data_Process/2_data_processor.py`** to filter out user reviews, GitHub issues, commits, and Stack Overflow discussions related to performance issues based on keywords.**
+
+4. **Statistic Data**:
+   **- **Run** **`statistic_literature_review.py`** and **`statistic_real_world.py`** to gather all the data involved in the paper and their statistics.

@@ -1,0 +1,27 @@
+suncat: helping developers understand and predict performance problems in smartphone applications
+a survey of performance optimization for mobile applications
+characterizing and detecting resource leaks in android applications
+detecting energy bugs and hotspots in mobile apps
+characterizing and detecting performance bugs for smartphone applications
+light-weight, inter-procedural and callback-aware resource leak detection for android apps
+fixing resource leaks in android apps with light-weight static analysis and low-overhead instrumentation
+energy-aware test-suite minimization for android apps
+automated energy optimization of http requests for mobile applications
+investigating the energy impact of android smells
+energypatch: repairing resource leaks to improve energy-efficiency of android apps
+search-based energy testing of android
+energy refactorings for android in the large and in the wild
+detecting and diagnosing energy issues for mobile applications
+combatting energy issues for mobile applications
+mining energy-greedy api usage patterns in android apps: an empirical study
+remove rats from your code: automated optimization of resource inefficient database writes for mobile applications
+characterizing and detecting inefficient image displaying issues in android apps
+detecting resource utilization bugs induced by variant lifecycles in android
+detecting and fixing data loss issues in android apps
+ddldroid: efficiently detecting data loss issues in android apps
+quantifying the performance impact of sql antipatterns on mobile applications
+systematic testing for resource leaks in android applications
+greendroid: automated diagnosis of energy inefficiency for smartphone applications
+diagdroid: android performance diagnosis via anatomizing asynchronous executions
+aging or glitching? what leads to poor android responsiveness and what can we do about it?
+where is the energy spent inside my app?: fine grained energy accounting on smartphones with eprof

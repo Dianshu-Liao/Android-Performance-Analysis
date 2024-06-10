@@ -7,22 +7,22 @@ import time
 import tqdm
 import pickle
 
-# 获取所有app的commits/main/的链接
+# Get links to commits/main/ for all apps
 def get_app_commits_main_url(path = './data/GitHub_Repo_Data/FDdata'):
-    # 获取路径下所有CSV文件
+
     csv_files = [f for f in os.listdir(path) if f.endswith('.csv')]
     commits_links_list = []
-    # 遍历所有CSV文件
+
     for file in csv_files:
-        # 完整的文件路径
+
         full_path = os.path.join(path, file)
-        # 读取CSV文件
+
         df = pd.read_csv(full_path)
         # 检查是否有 'gitlink' 列
         if 'gitLink' in df.columns:
             df['gitLink'].apply(lambda x: commits_links_list.append(x + '/commits/main/'))
         else:
-            print(f"文件：{file} 中没有 'gitLink' 属性")
+            print(f"File：{file} contains no 'gitLink' attribute")
 
     return list(set(commits_links_list))
 
@@ -32,20 +32,20 @@ def get_commits(commits_links_list):
     commit_file_id = 0
     unsuccessful_url_links_list = []
     unsuccessful_commit_links_list = []
-    # 获取每一个app的commit list
+    # Get the commit list for each app
     for commits_link in tqdm.tqdm(commits_links_list):
         has_next = True
         next_url = commits_link
         print('url:{}, commit_file_id: {}'.format(next_url, commit_file_id))
         # page_num = 0
-        while has_next:  # 如果有下一页，则翻页继续爬取
+        while has_next:
             # if page_num >= 10:
             #     break
             # page_num += 1
             # print(f'commits_link: {next_url}\n')
 
 
-            # 去除非github链接
+            # exclude the non-github link
             if not next_url.startswith("https://github.com/"):
                 break
             response = None
@@ -55,17 +55,17 @@ def get_commits(commits_links_list):
                     response.raise_for_status()
                     break
                 except requests.exceptions.HTTPError as e:
-                    print(f"尝试 {attempt + 1}/3 失败: {e}")
+                    print(f"tried {attempt + 1}/3 failed: {e}")
                     if attempt < 1:
-                        print(f"等待2秒后重试...")
-                        time.sleep(2)  # 等待指定的秒数后再次尝试
+                        print(f"Wait 2 seconds and retry...")
+                        time.sleep(2)
                     else:
                         has_next = False
-                        print("重试次数用尽，停止尝试。")
+                        print("Retry count is exhausted, stop trying")
                         unsuccessful_url_links_list.append(next_url)
             if (has_next == False):
                 break
-            # 使用BeautifulSoup解析HTML内容
+
             soup = BeautifulSoup(response.content, 'html.parser')
             a_next = soup.find('a', attrs={'data-testid': 'pagination-next-button'})
             if a_next != None:
@@ -78,13 +78,13 @@ def get_commits(commits_links_list):
 
             divs = soup.find_all('div', attrs={'data-testid': 'listview-item-title-container'})
             for div in divs:
-                # 获取div中的所有a标签
+
                 a_tags = div.find_all('a')
                 commit_title = ''
                 commit_link = ''
                 issue_id = ''
                 issue_link = ''
-                # 检查a标签的数量并相应处理
+
                 if len(a_tags) == 1:
                     commit_title = a_tags[0].text
                     commit_link = 'https://github.com' + a_tags[0]['href']
@@ -106,26 +106,12 @@ def get_commits(commits_links_list):
                 try:
                     commit_response = requests.get(commit_link)
                 except requests.exceptions.HTTPError as e:
-                    print(f"尝试失败: {e}")
+                    print(f"tried failed: {e}")
                     unsuccessful_commit_links_list.append(commit_link)
 
 
-                # for attempt in range(3):
-                #     commit_response = requests.get(commit_link)
-                #     try:
-                #         commit_response.raise_for_status()
-                #         # 如果请求成功，跳出循环
-                #         break
-                #     except requests.exceptions.HTTPError as e:
-                #         print(f"尝试 {attempt + 1}/3 失败: {e}")
-                #         if attempt < 2:
-                #             print(f"等待2秒后重试...")
-                #             time.sleep(2)  # 等待指定的秒数后再次尝试
-                #         else:
-                #             print("重试次数用尽，停止尝试。")
-
                 commit_soup = BeautifulSoup(commit_response.content, 'html.parser')
-                # 获取class = commit-desc的div中的pre标签的文本内容
+
                 commit_desc_div = commit_soup.find('div', class_='commit-desc')
                 commit_desc = ''
                 if (commit_desc_div != None):

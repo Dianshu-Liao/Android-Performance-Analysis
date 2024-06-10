@@ -18,44 +18,42 @@ import numpy as np
 
 def fetch_app_list(app_link):
     try:
-        # 发送请求并获取网页内容
         request_link = app_link
         # AppBrain
         response = requests.get(app_link)
-        response.raise_for_status()  # 如果请求有问题则抛出异常
+        response.raise_for_status()
 
-        # 使用BeautifulSoup解析HTML内容
         soup = BeautifulSoup(response.content, 'html.parser')
 
-        # 查找ranking_table
+        # find ranking_table
         ranking_table = soup.find('table', id='rankings-table')
 
-        # 检查ranking_table是否找到
+        # check if ranking_table is finded
         if not ranking_table:
             return "Specified div not found."
 
-        # 初始化一个列表来存储结果
+
         link_text_list = []
         num = 0
-        # 遍历每个应用程序的行
+
         for index, tr in enumerate(ranking_table.find('tbody').children):
             if index == 0 or not isinstance(tr, Tag):
-                continue  # 跳过表头
+                continue
             num += 1
             app_cell = tr.find('td', class_='ranking-app-cell')
             if not app_cell:
                 print('Not found!')
                 break
-            # 获取应用程序名称的链接和文本
+
             app_link = app_cell.find_all('a')[0]['href']
             app_id = app_link.split("/")[-1]
             app_name = app_cell.find_all('a')[0].text.strip()
 
-            # 获取开发者的链接和文本
+            #  Get developer links and text
             developer_link = app_cell.find_all('a')[1]['href']
             developer_name = app_cell.find_all('a')[1].text.strip()
 
-            # 获取类别的链接和文本
+            # Get category links and text
             category_cell = tr.find('td', class_='ranking-app-cell').find_next_sibling('td')
             if not category_cell:
                 print("no category!")
@@ -63,11 +61,10 @@ def fetch_app_list(app_link):
             category_link = category_cell.find('a')['href']
             category_name = category_cell.find('a').text.strip()
 
-            # 将信息添加到列表
             link_text_list.append(
                 [app_id, app_name, developer_link, developer_name, category_link, category_name, request_link])
 
-        # print(num)
+
 
         return link_text_list
     except requests.RequestException as e:
@@ -77,8 +74,6 @@ def fetch_app_list(app_link):
 
 
 
-
-# 获取应用评价
 def fetch_app_reviews(app_id):
     result = reviews_all(
         app_id,
@@ -97,10 +92,6 @@ def fetch_app_reviews(app_id):
             'at': review['at'].strftime("%Y%m%d"),
             'appVersion': review.get('appVersion', None)
         }
-        # if len(reformate_reviews) < 2000:
-        #     reformate_reviews.append(reformate_review)
-        # else:
-        #     break
 
         reformate_reviews.append(reformate_review)
 
@@ -109,21 +100,6 @@ def fetch_app_reviews(app_id):
 
 
 
-
-def reviews_filter(app_reviews):
-    # # 过滤用关键词
-    # keywords = load_keywords()
-    # keywords = [item.lower() for item in keywords]
-
-    performance_negative_reviews = []
-    if len(app_reviews) > 0:
-        for review in app_reviews:
-            if review['content'] is None:
-                continue
-            if not classify_review(review['content'].lower()):
-                performance_negative_reviews.append(review)
-
-    return performance_negative_reviews
 
 
 def get_app_link_list():
@@ -166,8 +142,8 @@ def all_needed_apps(app_link_list, saved_path):
     np.save(saved_path, all_apps)
 
 def main():
-    # app_link_list = get_app_link_list()
-    # all_needed_apps(app_link_list, saved_path='saved_app_list.npy')
+    app_link_list = get_app_link_list()
+    all_needed_apps(app_link_list, saved_path='saved_app_list.npy')
 
     all_apps = list(np.load('saved_app_list.npy'))
     unique_app_ids = []
@@ -251,7 +227,7 @@ def main():
                     review_created_version = review['reviewCreatedVersion']
                     review_time = review['at']
                     app_id = app_list[i][0]
-                    # 找到与此评论相关的应用信息
+
                     app_info = next((app for app in app_list if app[0][0] == app_id), None)
                     if app_info:
                         app_name = app_info[1]

@@ -1,0 +1,48 @@
+SunCat: helping developers understand and predict performance problems in smartphone applications
+CLAPP: characterizing loops in Android applications
+A Survey of Performance Optimization for Mobile Applications
+What is keeping my phone awake?: characterizing and detecting no-sleep energy bugs in smartphone apps
+Characterizing and detecting resource leaks in Android applications
+Detecting energy bugs and hotspots in mobile apps
+Characterizing and detecting performance bugs for smartphone applications
+Light-Weight, Inter-Procedural and Callback-Aware Resource Leak Detection for Android Apps
+Fixing Resource Leaks in Android Apps with Light-Weight Static Analysis and Low-Overhead Instrumentation
+Energy-aware test-suite minimization for Android apps
+Content-Centric Energy Management of Mobile Displays
+Automated energy optimization of HTTP requests for mobile applications
+Investigating the energy impact of Android smells
+Every pixel counts: Fine-grained UI rendering analysis for mobile applications
+Where has my battery gone? Finding sensor related energy black holes in smartphone applications
+RuntimeDroid: Restarting-Free Runtime Change Handling for Android Apps
+Hang doctor: runtime detection and diagnosis of soft hangs for smartphone apps
+EnergyPatch: Repairing Resource Leaks to Improve Energy-Efficiency of Android Apps
+Efficiently manifesting asynchronous programming errors in Android apps
+Search-Based Energy Testing of Android
+EnergyDx: Diagnosing Energy Anomaly in Mobile Apps by Identifying the Manifestation Point
+Energy Refactorings for Android in the Large and in the Wild
+Detecting and diagnosing energy issues for mobile applications
+IMGDroid: Detecting image loading defects in Android applications
+Combatting Energy Issues for Mobile Applications
+Mining energy-greedy API usage patterns in Android apps: an empirical study
+An Empirical Study of Local Database Usage in Android Applications
+Retrofitting concurrency for Android applications through refactoring
+Remove RATs from your code: automated optimization of resource inefficient database writes for mobile applications
+The rise of Android code smells: who is to blame?
+ServDroid: Detecting Service Usage Inefficiencies in Android Applications
+Characterizing and detecting inefficient image displaying issues in android apps
+Static Asynchronous Component Misuse Detection for Android Applications
+Data loss detector: automatically revealing data loss bugs in Android apps
+Automated construction of energy test oracles for Android
+Detecting resource utilization bugs induced by variant lifecycles in Android
+Detecting and fixing data loss issues in Android apps
+Transparent Runtime Change Handling for Android Apps
+DDLDroid: Efficiently Detecting Data Loss Issues in Android Apps
+Quantifying the Performance Impact of SQL Antipatterns on Mobile Applications
+Systematic testing for resource leaks in Android applications
+GreenDroid: Automated Diagnosis of Energy Inefficiency for Smartphone Applications
+Study and Refactoring of Android Asynchronous Programming
+Understanding and Detecting Wake Lock Misuses for Android Applications
+Experience Report: Detecting Poor-Responsive UI in Android Applications
+DiagDroid: Android performance diagnosis via anatomizing asynchronous executions
+Aging or Glitching? What Leads to Poor Android Responsiveness and What Can We Do About It?
+Where is the energy spent inside my app?: fine grained energy accounting on smartphones with Eprof

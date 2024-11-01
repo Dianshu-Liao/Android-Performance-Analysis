@@ -1,0 +1,87 @@
+resource consumption
+response time
+energy leak
+memory bloat
+launch time
+Slow rendering
+ SR 
+frozen Frames
+ FF 
+application not responding
+ ANR 
+system not responding
+ SNR 
+UI freeze
+UI lag
+resource leak
+memory consumption
+memory shortage
+energy drain
+energy waste
+energy issue
+resource utilization bug
+energy bug
+energy inefficiency
+Energy defect
+battery drain
+slowdown
+energy hotspot
+resource inefficient
+laggy UI
+soft hang
+energy black hole
+unresponsive
+latency
+sluggish
+poor responsiveness
+energy consumption
+memory leak
+wasted energy
+sleep conflicts
+energy-heavy execution
+User-perceived delay
+UI rendering
+slow responsiveness
+code smell
+memory churn
+battery shortage
+memory waste
+out of memory
+ oom 
+energy-greedy
+slow response
+lagged response
+irresponsive
+responds slowly
+UI delay
+energy draw
+battery drop
+battery draw
+battery conserve
+battery hit
+cpu consumption
+cpu usage
+cpu utilization
+CPU contention
+gpu usage
+gpu consumption
+graphics rendering
+network performance
+network consumption
+data consumption
+storage consumption
+data usage
+app size
+apk size
+startup latency
+startup delay
+APK cache
+launch latency
+launch delay
+launch time
+network latency
+cache size
+janky frames
+storage space
+data storage
+GPU rendering

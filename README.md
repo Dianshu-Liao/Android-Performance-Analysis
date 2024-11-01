@@ -51,7 +51,7 @@ Due to GitHub's limited capacity, we have uploaded all our source code and data 
 
 1. **Crawling Data**:
    - **Run** **`Large_Scale_RealWorld_Exploratory/1_crawl_GitHub_Code_Repositories.py`**, **`Large_Scale_RealWorld_Exploratory/1_crawl_GitHub_Commits.py`**, **`Large_Scale_RealWorld_Exploratory/1_crawl_User_Reviews.py`**, **`Large_Scale_RealWorld_Exploratory/1_1_crawl_StackOverflow.py`**, **`Large_Scale_RealWorld_Exploratory/1_2_Adding_Code_Tag_to_SO.py`** to crawl GitHub issues and commits, user reviews, and Stack Overflow discussions.
-  - **Run** **`Literature_Review/paper_search_in_five_repos.py`** to crawl and filter papers in five libraries.
+   - **Run** **`Literature_Review/paper_search_in_five_repos.py`** to crawl and filter papers in five libraries.
    
 2. **Filtering Data**:
    **- Run **`Large_Scale_RealWorld_Exploratory/2_data_processor.py`** to filter out user reviews, GitHub issues, commits, and Stack Overflow discussions related to performance issues based on keywords.**

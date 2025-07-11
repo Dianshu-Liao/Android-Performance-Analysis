@@ -1,0 +1,79 @@
+keyword,title,publication
+mobile_gpu,Mobile GPU 101,SIGGRAPH Courses '24: ACM SIGGRAPH 2024 Courses
+mobile_gpu,GPU Acceleration for Mobile Networking Simluations,HOTMOBILE '24: Proceedings of the 25th International Workshop on Mobile Computing Systems and Applications
+mobile_gpu,GPU-Based Parallel Path Planning for Mobile Robot Navigation in Dynamic Environments,SOICT '23: Proceedings of the 12th International Symposium on Information and Communication Technology
+mobile_gpu,A GPU-enabled mobile telemedicine training system for graphic rendering,MobiCom '22: Proceedings of the 28th Annual International Conference on Mobile Computing And Networking
+mobile_gpu,Pantheon: Preemptible Multi-DNN Inference on Mobile Edge GPUs,"MOBISYS '24: Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications and Services"
+mobile_gpu,YOLOv3-mobile for Real-time Pedestrian Detection on Embedded GPU,ICGSP '21: Proceedings of the 5th International Conference on Graphics and Signal Processing
+mobile_gpu,Minimizing GPU Kernel Launch Overhead in Deep Learning Inference on Mobile GPUs,HotMobile '21: Proceedings of the 22nd International Workshop on Mobile Computing Systems and Applications
+mobile_gpu,Towards Real-time CNN Inference from a Video Stream on a Mobile GPU (WiP Paper),"LCTES '20: The 21st ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems"
+mobile_gpu,User interaction aware reinforcement learning for power and thermal efficiency of CPU-GPU mobile MPSoCs,"DATE '20: Proceedings of the 23rd Conference on Design, Automation and Test in Europe"
+mobile_gpu,Triangle Dropping: An Occluded-geometry Predictor for Energy-efficient Mobile GPUs,"ACM Transactions on Architecture and Code Optimization (TACO), Volume 19, Issue 3"
+mobile_gpu,GPU based High Definition Parallel Video Codec Optimization in Mobile Device,MobiCom '18: Proceedings of the 24th Annual International Conference on Mobile Computing and Networking
+mobile_gpu,Mobile GPU compute exploring the mobile GPU through OpenCL,SIGGRAPH '14: ACM SIGGRAPH 2014 Talks
+mobile_gpu,Exploiting Activation Sparsity for Fast CNN Inference on Mobile GPUs,"ACM Transactions on Embedded Computing Systems (TECS), Volume 20, Issue 5s"
+mobile_gpu,Mapping parallelism in a functional IR through constraint satisfaction: a case study on convolution for mobile GPUs,CC 2022: Proceedings of the 31st ACM SIGPLAN International Conference on Compiler Construction
+mobile_gpu,Synergistic CPU-GPU Frequency Capping for Energy-Efficient Mobile Games,"ACM Transactions on Embedded Computing Systems (TECS), Volume 17, Issue 2"
+mobile_gpu,Accelerating Mobile Audio Sensing Algorithms through On-Chip GPU Offloading,"MobiSys '17: Proceedings of the 15th Annual International Conference on Mobile Systems, Applications, and Services"
+mobile_gpu,Adaptive multi-rate ray sampling on mobile ray tracing GPU,SA '16: SIGGRAPH ASIA 2016 Mobile Graphics and Interactive Applications
+mobile_gpu,Profiling and optimizing deep learning inference on mobile GPUs,APSys '20: Proceedings of the 11th ACM SIGOPS Asia-Pacific Workshop on Systems
+mobile_gpu,Dynamic rendering quality scaling for mobile GPU,SA '15: SIGGRAPH Asia 2015 Posters
+mobile_gpu,Improving mobile gaming performance through cooperative CPU-GPU thermal management,DAC '16: Proceedings of the 53rd Annual Design Automation Conference
+mobile_gpu,Training Machine Learning Network on Adreno Mobile GPUs Using OpenCL,IWOCL '20: Proceedings of the International Workshop on OpenCL
+mobile_gpu,Automatic generation of specialized direct convolutions for mobile GPUs,GPGPU '20: Proceedings of the 13th Annual Workshop on General Purpose Processing using Graphics Processing Unit
+mobile_gpu,Managing GPU buffers for caching more apps in mobile systems,EMSOFT '15: Proceedings of the 12th International Conference on Embedded Software
+mobile_gpu,Impact of CPU-GPU data transfers on mobile device GPGPU,SIGGRAPH '15: ACM SIGGRAPH 2015 Talks
+mobile_gpu,An efficient hybrid ray tracing and rasterizer architecture for mobile GPU,SA '15: SIGGRAPH Asia 2015 Mobile Graphics and Interactive Applications
+mobile_gpu,Realizing the compute potential of the mobile GPU,SIGGRAPH '14: ACM SIGGRAPH 2014 Panels
+mobile_gpu,A User-Centric CPU-GPU Governing Framework for 3D Games on Mobile Devices,ICCAD '15: Proceedings of the IEEE/ACM International Conference on Computer-Aided Design
+mobile_gpu,CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices,"MobiSys '22: Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services"
+mobile_gpu,Accelerating a computer vision algorithm on a mobile SoC using CPU-GPU co-processing: a case study on face detection,MOBILESoft '16: Proceedings of the International Conference on Mobile Software Engineering and Systems
+mobile_gpu,Integrated CPU-GPU Power Management for 3D Mobile Games,DAC '14: Proceedings of the 51st Annual Design Automation Conference
+mobile_gpu,A control-theoretic approach for energy efficient CPU-GPU subsystem in mobile platforms,DAC '15: Proceedings of the 52nd Annual Design Automation Conference
+mobile_gpu,Saving energy without defying deadlines on mobile GPU-based heterogeneous systems,CODES '14: Proceedings of the 2014 International Conference on Hardware/Software Codesign and System Synthesis
+mobile_gpu,New directions and developments in mobile GPU design,SIGGRAPH '13: ACM SIGGRAPH 2013 Mobile
+mobile_gpu,ParallelFusion: Towards Maximum Utilization of Mobile GPU for DNN Inference,EMDL'21: Proceedings of the 5th International Workshop on Embedded and Mobile Deep Learning
+mobile_gpu,Eliminating redundant fragment shader executions on a mobile GPU via hardware memoization,ISCA '14: Proceeding of the 41st annual international symposium on Computer architecuture
+mobile_gpu,Towards memory friendly long-short term memory networks (LSTMs) on mobile GPUs,MICRO-51: Proceedings of the 51st Annual IEEE/ACM International Symposium on Microarchitecture
+mobile_gpu,Analysis of OpenCL Support for Mobile GPUs on Android,IWOCL '18: Proceedings of the International Workshop on OpenCL
+mobile_gpu,Heimdall: mobile GPU coordination platform for augmented reality applications,MobiCom '20: Proceedings of the 26th Annual International Conference on Mobile Computing and Networking
+mobile_gpu,Hybrid CPU-GPU Distributed Framework for Large Scale Mobile Networks Simulation,DS-RT '12: Proceedings of the 2012 IEEE/ACM 16th International Symposium on Distributed Simulation and Real Time Applications
+mobile_gpu,Boosting mobile GPU performance with a decoupled access/execute fragment processor,ISCA '12: Proceedings of the 39th Annual International Symposium on Computer Architecture
+mobile_gpu,Cost-effective frame rate control for mobile GPUs,SA '16: SIGGRAPH ASIA 2016 Posters
+mobile_gpu,Design and optimization of image processing algorithms on mobile GPU,SIGGRAPH '11: ACM SIGGRAPH 2011 Posters
+mobile_gpu,Reusing MRTs for mobile GPUs,SA '15: SIGGRAPH Asia 2015 Posters
+mobile_gpu,Z2 traversal order for VR stereo rendering on tile-based mobile GPUs,SA '16: SIGGRAPH ASIA 2016 Technical Briefs
+mobile_gpu,PhoneBit: efficient gpu-accelerated binary neural network inference engine for mobile phones,"DATE '20: Proceedings of the 23rd Conference on Design, Automation and Test in Europe"
+mobile_gpu,Romou: rapidly generate high-performance tensor kernels for mobile GPUs,MobiCom '22: Proceedings of the 28th Annual International Conference on Mobile Computing And Networking
+mobile_gpu,Power-efficient context sensing using mobile GPUs,UbiComp/ISWC'15 Adjunct: Adjunct Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2015 ACM International Symposium on Wearable Computers
+mobile_gpu,Utilizing RF-I and intelligent scheduling for better throughput/watt in a mobile GPU memory system,"ACM Transactions on Architecture and Code Optimization (TACO), Volume 8, Issue 4"
+mobile_gpu,Compressed coverage masks for path rendering on mobile GPUs,i3D '15: Proceedings of the 19th Symposium on Interactive 3D Graphics and Games
+mobile_gpu,Milkomeda: Safeguarding the Mobile GPU Interface Using WebGL Security Checks,CCS '18: Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security
+mobile_gpu,A feasibility study of ray tracing on mobile GPUs,SA '14: SIGGRAPH Asia 2014 Mobile Graphics and Interactive Applications
+mobile_gpu,LiteReconfig: cost and content aware reconfiguration of video object detection systems for mobile GPUs,EuroSys '22: Proceedings of the Seventeenth European Conference on Computer Systems
+mobile_gpu,A large-scale mobile facial recognition system using embedded GPUs,HPC '14: Proceedings of the High Performance Computing Symposium
+mobile_gpu,MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU,EMDL '17: Proceedings of the 1st International Workshop on Deep Learning for Mobile Systems and Applications
+mobile_gpu,DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications,"MobiSys '17: Proceedings of the 15th Annual International Conference on Mobile Systems, Applications, and Services"
+mobile_gpu,Demo: DeepMon: Building Mobile GPU Deep Learning Models for Continuous Vision Applications,"MobiSys '17: Proceedings of the 15th Annual International Conference on Mobile Systems, Applications, and Services"
+mobile_gpu,ML-Gov: a machine learning enhanced integrated CPU-GPU DVFS governor for mobile gaming,ESTIMedia '17: Proceedings of the 15th IEEE/ACM Symposium on Embedded Systems for Real-Time Multimedia
+mobile_gpu,PAQSIM: Fast Performance Model for Graphics Workload on Mobile GPUs,"LCTES '20: The 21st ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems"
+mobile_gpu,Kahawai: High-Quality Mobile Gaming Using GPU Offload,"MobiSys '15: Proceedings of the 13th Annual International Conference on Mobile Systems, Applications, and Services"
+mobile_gpu,FCM: Towards Fine-Grained GPU Power Management for Closed Source Mobile Games,GLSVLSI '16: Proceedings of the 26th edition on Great Lakes Symposium on VLSI
+mobile_gpu,Demo: GPU-based Image Recognition and Object Detection on Commodity Mobile Devices,"MobiSys '16 Companion: Proceedings of the 14th Annual International Conference on Mobile Systems, Applications, and Services Companion"
+mobile_gpu,Co-Cap: energy-efficient cooperative CPU-GPU frequency capping for mobile games,SAC '16: Proceedings of the 31st Annual ACM Symposium on Applied Computing
+mobile_gpu,DeepSense: A GPU-based Deep Convolutional Neural Network Framework on Commodity Mobile Devices,WearSys '16: Proceedings of the 2016 Workshop on Wearable Systems and Applications
+mobile_gpu,VComputeLib: Enabling Cross-Platform GPGPU on Mobile and Embedded GPUs,MoMM2019: Proceedings of the 17th International Conference on Advances in Mobile Computing & Multimedia
+mobile_gpu,GPU-based Real-Time Execution of Vehicular Mobility Models in Large-Scale Road Network Scenarios,PADS '09: Proceedings of the 2009 ACM/IEEE/SCS 23rd Workshop on Principles of Advanced and Distributed Simulation
+mobile_gpu,HiCAP: Hierarchical FSM-based Dynamic Integrated CPU-GPU Frequency Capping Governor for Energy-Efficient Mobile Gaming,ISLPED '16: Proceedings of the 2016 International Symposium on Low Power Electronics and Design
+mobile_gpu,GoCAD: GPU-Assisted Online Content-Adaptive Display Power Saving for Mobile Devices in Internet Streaming,WWW '16: Proceedings of the 25th International Conference on World Wide Web
+mobile_gpu,Demo: Kahawai: high-quality mobile gaming using GPU offload,"MobiSys '14: Proceedings of the 12th annual international conference on Mobile systems, applications, and services"
+mobile_gpu,Unity: the chase: pushing the limits of modern mobile GPU,SIGGRAPH '13: ACM SIGGRAPH 2013 Mobile
+mobile_gpu,Pattern matching in OpenCL: GPU vs CPU energy consumption on two mobile chipsets,IWOCL '14: Proceedings of the International Workshop on OpenCL 2013 & 2014
+mobile_gpu,Parallel frame rendering: trading responsiveness for energy on a mobile GPU,PACT '13: Proceedings of the 22nd international conference on Parallel architectures and compilation techniques
+mobile_gpu,SGRT: a mobile GPU architecture for real-time ray tracing,HPG '13: Proceedings of the 5th High-Performance Graphics Conference
+mobile_gpu,SGRT: a scalable mobile GPU architecture based on ray tracing,SIGGRAPH '12: ACM SIGGRAPH 2012 Talks
+mobile_gpu,SGRT: a scalable mobile GPU architecture based on ray tracing,SIGGRAPH '12: ACM SIGGRAPH 2012 Posters
+mobile_gpu,Poster: towards mobile GPU-accelerated context processing for continuous sensing applications on smartphones,"MobiSys '12: Proceedings of the 10th international conference on Mobile systems, applications, and services"
+mobile_gpu,The afterpulse: state-of-the-art rendering on mobile GPUs,SIGGRAPH '16: ACM SIGGRAPH 2016 Real-Time Live!
+mobile_gpu,MobiRT: an implementation of OpenGL ES-based CPU-GPU hybrid ray tracer for mobile devices,SA '10: ACM SIGGRAPH ASIA 2010 Sketches
+mobile_gpu,Efficient Execution on GPUs of Field-Based Vehicular Mobility Models,PADS '08: Proceedings of the 22nd Workshop on Principles of Advanced and Distributed Simulation

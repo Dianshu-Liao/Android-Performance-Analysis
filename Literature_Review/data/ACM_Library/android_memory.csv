@@ -1,0 +1,16 @@
+keyword,title,publication
+android_memory,DroidPerf: Profiling Memory Objects on Android Devices,ACM MobiCom '23: Proceedings of the 29th Annual International Conference on Mobile Computing and Networking
+android_memory,Memory Usage Comparison in an Android Application: Basic Object-Oriented Programming vs Decorator Design Pattern: Coding styles for keeping low memory usage in a mobile application.,ITCC '22: Proceedings of the 4th International Conference on Information Technology and Computer Communications
+android_memory,Memory corruption attacks within Android TEEs: a case study based on OP-TEE,"ARES '20: Proceedings of the 15th International Conference on Availability, Reliability and Security"
+android_memory,App-Agnostic Post-Execution Semantic Analysis of Android In-Memory Forensics Artifacts,ACSAC '20: Proceedings of the 36th Annual Computer Security Applications Conference
+android_memory,A Method of Android Application Forensics Based on Heap Memory Analysis,CSAE '18: Proceedings of the 2nd International Conference on Computer Science and Application Engineering
+android_memory,"Investigating the Influence of CPU Load, Memory Usage and Environmental Conditions on the Jittering of Android Devices","ICNCC '18: Proceedings of the 2018 VII International Conference on Network, Communication and Computing"
+android_memory,Extending app installable memory in Android smartphones,MOBILESoft '16: Proceedings of the International Conference on Mobile Software Engineering and Systems
+android_memory,Automation of Memory Leak Detection and Correction on Android JNI (poster),"MobiSys '19: Proceedings of the 17th Annual International Conference on Mobile Systems, Applications, and Services"
+android_memory,Android ION Hazard: the Curse of Customizable Memory Management System,CCS '16: Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security
+android_memory,Memory hacking analysis in mobile devices for hybrid model of copyright protection for Android apps,RACS '13: Proceedings of the 2013 Research in Adaptive and Convergent Systems
+android_memory,META: Memory Exploration Tool for Android Devices,MobiCom '18: Proceedings of the 24th Annual International Conference on Mobile Computing and Networking
+android_memory,MemScope: Analyzing Memory Duplication on Android Systems,APSys '15: Proceedings of the 6th Asia-Pacific Workshop on Systems
+android_memory,GUITAR: Piecing Together Android App GUIs from Memory Images,CCS '15: Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security
+android_memory,Evaluation of Posture Memory Retentivity using Coached Humanoid Robot,HRI '18: Companion of the 2018 ACM/IEEE International Conference on Human-Robot Interaction
+android_memory,VCR: App-Agnostic Recovery of Photographic Evidence from Android Device Memory Images,CCS '15: Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security

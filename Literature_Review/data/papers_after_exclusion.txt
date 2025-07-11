@@ -1,0 +1,60 @@
+On the Impact of the Critical CSS Technique on the Performance and Energy Consumption of Mobile Browsers
+Making web applications more energy efficient for OLED smartphones
+What is keeping my phone awake?: characterizing and detecting no-sleep energy bugs in smartphone apps
+Leveraging program analysis to reduce user-perceived latency in mobile applications
+ecoCode: a SonarQube Plugin to Remove Energy Smells from Android Projects
+Comparing the Energy Efficiency of WebAssembly and JavaScript in Web Applications on Android Mobile Devices
+Automated construction of energy test oracles for Android
+Search-based energy testing of Android
+Multi-Objective Optimization of Energy Consumption of GUIs in Android Apps
+µDroid: an energy-aware mutation testing framework for Android
+Energy-aware test-suite minimization for Android apps
+A study on the energy consumption of Android app development approaches
+Improving energy consumption in Android apps
+Optimizing energy consumption of GUIs in Android apps: a multi-objective approach
+Mining energy-greedy API usage patterns in Android apps: an empirical study
+GEMMA: multi-objective optimization of energy consumption of GUIs in Android apps
+Combatting Energy Issues for Mobile Applications
+Cost-Effective Strategies for Building Energy Efficient Mobile Applications
+Detecting and diagnosing energy issues for mobile applications
+Advancing energy testing of mobile applications
+Automated energy optimization of HTTP requests for mobile applications
+Detecting energy bugs and hotspots in mobile apps
+APE: an annotation language and middleware for energy-efficient mobile application development
+EARMO: an energy-aware refactoring approach for mobile apps
+Battery-aware transformations in mobile applications
+Remove RATs from your code: automated optimization of resource inefficient database writes for mobile applications
+Detecting resource utilization bugs induced by variant lifecycles in Android
+Relda2: an effective static analysis tool for resource leak detection in Android apps
+Characterizing and detecting resource leaks in android applications
+DiagDroid: Android performance diagnosis via anatomizing asynchronous executions
+Mining test repositories for automatic detection of UI performance regressions in Android apps
+Improving responsiveness of Android activity navigation via genetic improvement
+Characterizing and detecting performance bugs for smartphone applications
+SunCat: helping developers understand and predict performance problems in smartphone applications
+A Survey of Performance Optimization for Mobile Applications
+Quantifying the Performance Impact of SQL Antipatterns on Mobile Applications
+GreenDroid: Automated Diagnosis of Energy Inefficiency for Smartphone Applications
+An Empirical Study of the Energy Consumption of Android Applications
+EnergyPatch: Repairing Resource Leaks to Improve Energy-Efficiency of Android Apps
+Investigating the energy impact of Android smells
+Detecting Display Energy Hotspots in Android Apps
+Energy Refactorings for Android in the Large and in the Wild
+Improving Energy Efficiency of Android Devices by Preventing Redundant Frame Generation
+Light-Weight, Inter-Procedural and Callback-Aware Resource Leak Detection for Android Apps
+Systematic testing for resource leaks in Android applications
+Fixing Resource Leaks in Android Apps with Light-Weight Static Analysis and Low-Overhead Instrumentation
+Learning Performance Optimization from Code Changes for Android Apps
+How developers detect and fix performance bottlenecks in Android apps
+A Quantitative and Qualitative Investigation of Performance-Related Commits in Android Apps
+Systematically Testing and Diagnosing Responsiveness for Android Apps
+Aging or Glitching? What Leads to Poor Android Responsiveness and What Can We Do About It?
+Characterizing and Detecting Inefficient Image Displaying Issues in Android Apps
+An empirical study on the performance and energy costs of ads and analytics in mobile web apps
+On the impact of code smells on the energy consumption of mobile applications
+Automated repair of resource leaks in Android applications
+A large-scale empirical study on mobile performance: energy, run-time and memory
+What can Android mobile app developers do about the energy consumption of machine learning?
+DroidLeaks: a comprehensive database of resource leaks in Android apps
+Characterizing the evolution of statically-detectable performance issues of Android apps
+Where is the energy spent inside my app?: fine grained energy accounting on smartphones with Eprof

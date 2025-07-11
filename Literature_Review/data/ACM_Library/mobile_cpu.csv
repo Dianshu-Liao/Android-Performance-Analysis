@@ -1,0 +1,27 @@
+keyword,title,publication
+mobile_cpu,ConvReLU++: Reference-based Lossless Acceleration of Conv-ReLU Operations on Mobile CPU,"MobiSys '23: Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services"
+mobile_cpu,User interaction aware reinforcement learning for power and thermal efficiency of CPU-GPU mobile MPSoCs,"DATE '20: Proceedings of the 23rd Conference on Design, Automation and Test in Europe"
+mobile_cpu,Video on Mobile CPU: UHD Video Parallel Decoding for Asymmetric Multicores,MMSys'17: Proceedings of the 8th ACM on Multimedia Systems Conference
+mobile_cpu,Synergistic CPU-GPU Frequency Capping for Energy-Efficient Mobile Games,"ACM Transactions on Embedded Computing Systems (TECS), Volume 17, Issue 2"
+mobile_cpu,Improving mobile gaming performance through cooperative CPU-GPU thermal management,DAC '16: Proceedings of the 53rd Annual Design Automation Conference
+mobile_cpu,Impact of CPU-GPU data transfers on mobile device GPGPU,SIGGRAPH '15: ACM SIGGRAPH 2015 Talks
+mobile_cpu,A User-Centric CPU-GPU Governing Framework for 3D Games on Mobile Devices,ICCAD '15: Proceedings of the IEEE/ACM International Conference on Computer-Aided Design
+mobile_cpu,CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices,"MobiSys '22: Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services"
+mobile_cpu,Integrated CPU-GPU Power Management for 3D Mobile Games,DAC '14: Proceedings of the 51st Annual Design Automation Conference
+mobile_cpu,Accelerating a computer vision algorithm on a mobile SoC using CPU-GPU co-processing: a case study on face detection,MOBILESoft '16: Proceedings of the International Conference on Mobile Software Engineering and Systems
+mobile_cpu,A control-theoretic approach for energy efficient CPU-GPU subsystem in mobile platforms,DAC '15: Proceedings of the 52nd Annual Design Automation Conference
+mobile_cpu,Flexible group-level pruning of deep neural networks for fast inference on mobile CPUs: work-in-progress,"CASES '19: Proceedings of the International Conference on Compliers, Architectures and Synthesis for Embedded Systems Companion"
+mobile_cpu,Constructing timing-based covert channels in mobile networks by adjusting CPU frequency,HASP '14: Proceedings of the Third Workshop on Hardware and Architectural Support for Security and Privacy
+mobile_cpu,Hybrid CPU-GPU Distributed Framework for Large Scale Mobile Networks Simulation,DS-RT '12: Proceedings of the 2012 IEEE/ACM 16th International Symposium on Distributed Simulation and Real Time Applications
+mobile_cpu,Optimizing General-Purpose CPUs for Energy-Efficient Mobile Web Computing,"ACM Transactions on Computer Systems (TOCS), Volume 35, Issue 1"
+mobile_cpu,A robust seamless communication architecture for next-generation mobile terminals on multi-CPU SoCs,"ACM Transactions on Embedded Computing Systems (TECS), Volume 9, Issue 3"
+mobile_cpu,AsyMo: scalable and efficient deep-learning inference on asymmetric mobile CPUs,MobiCom '21: Proceedings of the 27th Annual International Conference on Mobile Computing and Networking
+mobile_cpu,ML-Gov: a machine learning enhanced integrated CPU-GPU DVFS governor for mobile gaming,ESTIMedia '17: Proceedings of the 15th IEEE/ACM Symposium on Embedded Systems for Real-Time Multimedia
+mobile_cpu,Towards a domain-extensible compiler: optimizing an image processing pipeline on mobile CPUs,CGO '21: Proceedings of the 2021 IEEE/ACM International Symposium on Code Generation and Optimization
+mobile_cpu,CPU/power-constrained mobile devices,MULTIMEDIA '01: Proceedings of the ninth ACM international conference on Multimedia
+mobile_cpu,Co-Cap: energy-efficient cooperative CPU-GPU frequency capping for mobile games,SAC '16: Proceedings of the 31st Annual ACM Symposium on Applied Computing
+mobile_cpu,Energy-efficient soft real-time CPU scheduling for mobile multimedia systems,SOSP '03: Proceedings of the nineteenth ACM symposium on Operating systems principles
+mobile_cpu,HiCAP: Hierarchical FSM-based Dynamic Integrated CPU-GPU Frequency Capping Governor for Energy-Efficient Mobile Gaming,ISLPED '16: Proceedings of the 2016 International Symposium on Low Power Electronics and Design
+mobile_cpu,Pattern matching in OpenCL: GPU vs CPU energy consumption on two mobile chipsets,IWOCL '14: Proceedings of the International Workshop on OpenCL 2013 & 2014
+mobile_cpu,Supercomputing with commodity CPUs: are mobile SoCs ready for HPC?,"SC '13: Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis"
+mobile_cpu,MobiRT: an implementation of OpenGL ES-based CPU-GPU hybrid ray tracer for mobile devices,SA '10: ACM SIGGRAPH ASIA 2010 Sketches

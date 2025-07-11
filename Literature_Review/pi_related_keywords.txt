@@ -1,0 +1,15 @@
+performance
+resource
+response
+energy
+memory
+launch
+freeze
+lag
+battery
+responsiveness
+cpu
+gpu
+storage
+latency
+issue

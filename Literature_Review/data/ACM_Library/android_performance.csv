@@ -1,0 +1,30 @@
+keyword,title,publication
+android_performance,Measuring and Optimizing the Performance of the Android Virtualization Framework,SAC '24: Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing
+android_performance,Work-in-Progress: CLERR: A High-performance Cross-layer Method for Eliminating Rendering Redundancy in Android,EMSOFT '23: Proceedings of the International Conference on Embedded Software
+android_performance,Causal impact of Android go on mobile web performance,IMC '22: Proceedings of the 22nd ACM Internet Measurement Conference
+android_performance,Network and Application Performance Measurement Challenges on Android Devices,"ACM SIGMETRICS Performance Evaluation Review (SIGMETRICS), Volume 48, Issue 3"
+android_performance,Evaluating the performance of Android based Cross-Platform App Development Frameworks,ICCIP '20: Proceedings of the 6th International Conference on Communication and Information Processing
+android_performance,Demystifying application performance management libraries for Android,ASE '19: Proceedings of the 34th IEEE/ACM International Conference on Automated Software Engineering
+android_performance,Influencing Human Performance: Investigating the Effect of Non-humanoid Robot Feedback on Task Performance,HRI '24: Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction
+android_performance,Development of mobile academic information system (AIS) UIN Syarif Hidayatullah Jakarta based on Android with performance evaluation based on ISO/ IEC 25010,MoMM '20: Proceedings of the 18th International Conference on Advances in Mobile Computing & Multimedia
+android_performance,Android App Performance Detection Framework Based on Dynamic Analysis of Function Call Graphs,WSSE '19: Proceedings of the 1st World Symposium on Software Engineering
+android_performance,An In-depth Performance Analysis and Optimization for Android Screencast,CSAE '18: Proceedings of the 2nd International Conference on Computer Science and Application Engineering
+android_performance,On adopting linters to deal with performance concerns in Android apps,ASE '18: Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering
+android_performance,Performance Improvement of TCP Communication based on Cooperative Congestion Control in Android Terminals,IMCOM '18: Proceedings of the 12th International Conference on Ubiquitous Information Management and Communication
+android_performance,DiagDroid: Android performance diagnosis via anatomizing asynchronous executions,FSE 2016: Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering
+android_performance,Boosting the Guessing Attack Performance on Android Lock Patterns with Smudge Attacks,ASIA CCS '17: Proceedings of the 2017 ACM on Asia Conference on Computer and Communications Security
+android_performance,Object lifetime trend of modern Android applications for GC performance improvement,IMCOM '17: Proceedings of the 11th International Conference on Ubiquitous Information Management and Communication
+android_performance,An empirical study of the performance impacts of Android code smells,MOBILESoft '16: Proceedings of the International Conference on Mobile Software Engineering and Systems
+android_performance,Energy-aware performance evaluation of Android custom kernels,GREENS '15: Proceedings of the Fourth International Workshop on Green and Sustainable Software
+android_performance,Mining test repositories for automatic detection of UI performance regressions in Android apps,MSR '16: Proceedings of the 13th International Conference on Mining Software Repositories
+android_performance,Impact of GC design on power and performance for Android,SYSTOR '15: Proceedings of the 8th ACM International Systems and Storage Conference
+android_performance,Chiromancer: a tool for boosting Android application performance,MOBILESoft 2014: Proceedings of the 1st International Conference on Mobile Software Engineering and Systems
+android_performance,Performance and power profiling for emulated Android systems,"ACM Transactions on Design Automation of Electronic Systems (TODAES), Volume 19, Issue 2"
+android_performance,Optimizing storage performance of Android smartphone,ICUIMC '13: Proceedings of the 7th International Conference on Ubiquitous Information Management and Communication
+android_performance,Performance evaluation of android IPC for continuous sensing applications,"ACM SIGMOBILE Mobile Computing and Communications Review (SIGMOBILE), Volume 16, Issue 4"
+android_performance,Micropayment scheme implementation on the Android platform with performance evaluation,MoMM '12: Proceedings of the 10th International Conference on Advances in Mobile Computing & Multimedia
+android_performance,Performance analysis of security enforcement on Android operating system,RACS '11: Proceedings of the 2011 ACM Symposium on Research in Applied Computation
+android_performance,ReTriple: reduction of redundant rendering on android devices for performance and energy optimizations,DAC '20: Proceedings of the 57th ACM/EDAC/IEEE Design Automation Conference
+android_performance,High performance mobile 3D GIS- IVJ/WWJ on Android,COM.Geo '10: Proceedings of the 1st International Conference and Exhibition on Computing for Geospatial Research & Application
+android_performance,"Design, development and performance evaluation of reconfigured mobile Android phone for people who are blind or visually impaired",SIGDOC '10: Proceedings of the 28th ACM International Conference on Design of Communication
+android_performance,Non-humanoid creature performance from human acting,SIGGRAPH '16: ACM SIGGRAPH 2016 Posters

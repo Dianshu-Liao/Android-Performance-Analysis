@@ -1,0 +1,71 @@
+keyword,title,publication
+smartphone_energy,SmolPhone: a smartphone with energy limits,IGSC '23: Proceedings of the 14th International Green and Sustainable Computing Conference
+smartphone_energy,"BaMbI, a battery free and energy harvesting smartphone","MobiSys '22: Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services"
+smartphone_energy,Establishing Smartphone User Behavior Model Based on Energy Consumption Data,"ACM Transactions on Knowledge Discovery from Data (TKDD), Volume 16, Issue 2"
+smartphone_energy,Energy and Emissions of Machine Learning on Smartphones vs. the Cloud,"Communications of the ACM (CACM), Volume 67, Issue 2"
+smartphone_energy,Flamingo: A User-Centric System for Fast and Energy-Efficient DNN Training on Smartphones,DistributedML '23: Proceedings of the 4th International Workshop on Distributed Machine Learning
+smartphone_energy,Saving energy on smartphones through edge computing: an experimental evaluation,NET4us '22: Proceedings of the ACM SIGCOMM Workshop on Networked Sensing Systems for a Sustainable Society
+smartphone_energy,Exploiting Dynamic Thermal Energy Harvesting for Reusing in Smartphone with Mobile Applications,ASPLOS '18: Proceedings of the Twenty-Third International Conference on Architectural Support for Programming Languages and Operating Systems
+smartphone_energy,Exploring Eye Adaptation in Head-Mounted Display for Energy Efficient Smartphone Virtual Reality,HotMobile '18: Proceedings of the 19th International Workshop on Mobile Computing Systems & Applications
+smartphone_energy,Exploring Novice Approaches to Smartphone-based Thermographic Energy Auditing: A Field Study,CHI '17: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems
+smartphone_energy,Energy-Efficient Aquatic Environment Monitoring Using Smartphone-Based Robots,"ACM Transactions on Sensor Networks (TOSN), Volume 12, Issue 3"
+smartphone_energy,"Energy considerations for ABR video streaming to smartphones: measurements, models and insights",MMSys '20: Proceedings of the 11th ACM Multimedia Systems Conference
+smartphone_energy,Smartphone Energy Drain in the Wild: Analysis and Implications,SIGMETRICS '15: Proceedings of the 2015 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems
+smartphone_energy,Storage-aware smartphone energy savings,UbiComp '13: Proceedings of the 2013 ACM international joint conference on Pervasive and ubiquitous computing
+smartphone_energy,Energy and Performance of Smartphone Radio Bundling in Outdoor Environments,WWW '15: Proceedings of the 24th International Conference on World Wide Web
+smartphone_energy,Accurate energy expenditure estimation using smartphone sensors,WH '13: Proceedings of the 4th Conference on Wireless Health
+smartphone_energy,Energy expenditure estimation with smartphone body sensors,BodyNets '13: Proceedings of the 8th International Conference on Body Area Networks
+smartphone_energy,Navigating visually impaired travelers in a large train station using smartphone and bluetooth low energy,SAC '16: Proceedings of the 31st Annual ACM Symposium on Applied Computing
+smartphone_energy,Evaluating impact of storage on smartphone energy efficiency,UbiComp '13 Adjunct: Proceedings of the 2013 ACM conference on Pervasive and ubiquitous computing adjunct publication
+smartphone_energy,How is energy consumed in smartphone display applications?,HotMobile '13: Proceedings of the 14th Workshop on Mobile Computing Systems and Applications
+smartphone_energy,An investigation into energy-saving programming practices for Android smartphone app development,GREENS 2014: Proceedings of the 3rd International Workshop on Green and Sustainable Software
+smartphone_energy,"Smartphone Background Activities in the Wild: Origin, Energy Drain, and Optimization",MobiCom '15: Proceedings of the 21st Annual International Conference on Mobile Computing and Networking
+smartphone_energy,Diversity in smartphone energy consumption,"S3 '10: Proceedings of the 2010 ACM workshop on Wireless of the students, by the students, for the students"
+smartphone_energy,Energy efficient multi-player smartphone gaming using 3D spatial subdivisioning and pvs techniques,IMMPD '13: Proceedings of the 3rd ACM international workshop on Interactive multimedia on mobile & portable devices
+smartphone_energy,A methodology for energy performance testing of smartphone applications,AST '12: Proceedings of the 7th International Workshop on Automation of Software Test
+smartphone_energy,The systems hacker's guide to the galaxy energy usage in a modern smartphone,APSys '13: Proceedings of the 4th Asia-Pacific Workshop on Systems
+smartphone_energy,User-aware energy efficient streaming strategy for smartphone based video playback applications,"DATE '13: Proceedings of the Conference on Design, Automation and Test in Europe"
+smartphone_energy,An empirical approach to smartphone energy level prediction,UbiComp '11: Proceedings of the 13th international conference on Ubiquitous computing
+smartphone_energy,Performance-Energy Trade-offs in Smartphones,"MSWiM '16: Proceedings of the 19th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems"
+smartphone_energy,Energy-delay tradeoffs in smartphone applications,"MobiSys '10: Proceedings of the 8th international conference on Mobile systems, applications, and services"
+smartphone_energy,Mobility prediction-based smartphone energy optimization for everyday location monitoring,SenSys '11: Proceedings of the 9th ACM Conference on Embedded Networked Sensor Systems
+smartphone_energy,Deep parameter optimisation on Android smartphones for energy minimisation: a tale of woe and a proof-of-concept,GECCO '17: Proceedings of the Genetic and Evolutionary Computation Conference Companion
+smartphone_energy,On Energy Security of Smartphones,CODASPY '16: Proceedings of the Sixth ACM Conference on Data and Application Security and Privacy
+smartphone_energy,Processor-network speed scaling for energy: delay tradeoff in smartphone applications,"IEEE/ACM Transactions on Networking (TON), Volume 24, Issue 3"
+smartphone_energy,Energy-Efficient Localization and Tracking on Smartphones: Design Principle and Solutions,CFI '16: Proceedings of the 11th International Conference on Future Internet Technologies
+smartphone_energy,Flexible And Effective Energy Management In Smartphones,PhDForum '15: Proceedings of the 2015 on MobiSys PhD Forum
+smartphone_energy,Demystifying Energy Usage in Smartphones,DAC '14: Proceedings of the 51st Annual Design Automation Conference
+smartphone_energy,Reducing Energy Consumption of Alarm-induced Wake-ups on Android Smartphones,HotMobile '15: Proceedings of the 16th International Workshop on Mobile Computing Systems and Applications
+smartphone_energy,Bootstrapping energy debugging on smartphones: a first look at energy bugs in mobile devices,HotNets-X: Proceedings of the 10th ACM Workshop on Hot Topics in Networks
+smartphone_energy,NavyDroid: Detecting Energy Inefficiency Problems for Smartphone Applications,Internetware '17: Proceedings of the 9th Asia-Pacific Symposium on Internetware
+smartphone_energy,Making web applications more energy efficient for OLED smartphones,ICSE 2014: Proceedings of the 36th International Conference on Software Engineering
+smartphone_energy,Categorizing configuration parameters of smartphones for energy performance testing,AST 2014: Proceedings of the 9th International Workshop on Automation of Software Test
+smartphone_energy,Reducing energy consumption of smartphones using user-perceived response time analysis,HotMobile '14: Proceedings of the 15th Workshop on Mobile Computing Systems and Applications
+smartphone_energy,"Multipath TCP in Smartphones: Impact on Performance, Energy, and CPU Utilization",MobiWac '17: Proceedings of the 15th ACM International Symposium on Mobility Management and Wireless Access
+smartphone_energy,A method for characterizing energy consumption in Android smartphones,GREENS '13: Proceedings of the 2nd International Workshop on Green and Sustainable Software
+smartphone_energy,Future of mobile software for smartphones and drones: energy and performance,MOBILESoft '17: Proceedings of the 4th International Conference on Mobile Software Engineering and Systems
+smartphone_energy,Enabling energy-aware mobile data offloading for smartphones through vertical collaboration,CoNEXT Student '12: Proceedings of the 2012 ACM conference on CoNEXT student workshop
+smartphone_energy,A context-based energy optimization algorithm for periodic localization in smartphones,MobiGIS '12: Proceedings of the First ACM SIGSPATIAL International Workshop on Mobile Geographic Information Systems
+smartphone_energy,Energy-efficient mobile video management using smartphones,MMSys '11: Proceedings of the second annual ACM conference on Multimedia systems
+smartphone_energy,Energy-efficient positioning for smartphones using Cell-ID sequence matching,"MobiSys '11: Proceedings of the 9th international conference on Mobile systems, applications, and services"
+smartphone_energy,Impacts of data interchange formats on energy consumption and performance in smartphones,OSDOC '11: Proceedings of the 2011 Workshop on Open Source and Design of Communication
+smartphone_energy,Where is the energy spent inside my app?: fine grained energy accounting on smartphones with Eprof,EuroSys '12: Proceedings of the 7th ACM european conference on Computer Systems
+smartphone_energy,Improving energy efficiency of location sensing on smartphones,"MobiSys '10: Proceedings of the 8th international conference on Mobile systems, applications, and services"
+smartphone_energy,Energy-efficient rate-adaptive GPS-based positioning for smartphones,"MobiSys '10: Proceedings of the 8th international conference on Mobile systems, applications, and services"
+smartphone_energy,Selection and execution of user level test cases for energy cost evaluation of smartphones,AST '11: Proceedings of the 6th International Workshop on Automation of Software Test
+smartphone_energy,Samba: a smartphone-based robot system for energy-efficient aquatic environment monitoring,IPSN '15: Proceedings of the 14th International Conference on Information Processing in Sensor Networks
+smartphone_energy,Poster abstract: eNav: a smartphone-based energy efficient vehicular navigation system,IPSN '14: Proceedings of the 13th international symposium on Information processing in sensor networks
+smartphone_energy,ADEL: an automatic detector of energy leaks for smartphone applications,CODES+ISSS '12: Proceedings of the eighth IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis
+smartphone_energy,Piggyback CrowdSensing (PCS): energy efficient crowdsourcing of mobile sensor data by exploiting smartphone app opportunities,SenSys '13: Proceedings of the 11th ACM Conference on Embedded Networked Sensor Systems
+smartphone_energy,Too Many Pixels to Perceive: Subpixel Shutoff for Display Energy Reduction on OLED Smartphones,MM '17: Proceedings of the 25th ACM international conference on Multimedia
+smartphone_energy,TIDE: A User-Centric Tool for Identifying Energy Hungry Applications on Smartphones,"IEEE/ACM Transactions on Networking (TON), Volume 25, Issue 3"
+smartphone_energy,Poster: Energy-efficient Web Browsing in Smartphones,"MobiSys '16 Companion: Proceedings of the 14th Annual International Conference on Mobile Systems, Applications, and Services Companion"
+smartphone_energy,Streaming over 3G and LTE: how to save smartphone energy in radio access network-friendly way,MoVid '13: Proceedings of the 5th Workshop on Mobile Video
+smartphone_energy,What is keeping my phone awake?: characterizing and detecting no-sleep energy bugs in smartphone apps,"MobiSys '12: Proceedings of the 10th international conference on Mobile systems, applications, and services"
+smartphone_energy,DR. Swap: energy-efficient paging for smartphones,ISLPED '14: Proceedings of the 2014 international symposium on Low power electronics and design
+smartphone_energy,NEAT: a novel energy analysis toolkit for free-roaming smartphones,SenSys '14: Proceedings of the 12th ACM Conference on Embedded Network Sensor Systems
+smartphone_energy,Reaching for the clouds: contextually enhancing smartphones for energy efficiency,HP-MOSys '13: Proceedings of the 2nd ACM workshop on High performance mobile opportunistic systems
+smartphone_energy,E3: energy-efficient engine for frame rate adaptation on smartphones,SenSys '13: Proceedings of the 11th ACM Conference on Embedded Networked Sensor Systems
+smartphone_energy,ACM HotMobile 2013 poster: an energy efficient semantic context model for managing privacy on smartphones,"ACM SIGMOBILE Mobile Computing and Communications Review (SIGMOBILE), Volume 17, Issue 3"
+smartphone_energy,A case for micro-cellstores: energy-efficient data management on recycled smartphones,DaMoN '11: Proceedings of the Seventh International Workshop on Data Management on New Hardware
+smartphone_energy,Wireless wakeups revisited: energy management for voip over wi-fi smartphones,"MobiSys '07: Proceedings of the 5th international conference on Mobile systems, applications and services"

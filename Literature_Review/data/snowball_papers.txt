@@ -1,0 +1,25 @@
+CLAPP: characterizing loops in Android applications
+Content-Centric Energy Management of Mobile Displays
+Every pixel counts: Fine-grained UI rendering analysis for mobile applications
+Where has my battery gone? Finding sensor related energy black holes in smartphone applications
+Hang doctor: runtime detection and diagnosis of soft hangs for smartphone apps
+Efficiently manifesting asynchronous programming errors in Android apps
+EnergyDx: Diagnosing Energy Anomaly in Mobile Apps by Identifying the Manifestation Point
+IMGDroid: Detecting image loading defects in Android applications
+An Empirical Study of Local Database Usage in Android Applications
+Retrofitting concurrency for Android applications through refactoring
+The rise of Android code smells: who is to blame?
+ServDroid: Detecting Service Usage Inefficiencies in Android Applications
+Static Asynchronous Component Misuse Detection for Android Applications
+Study and Refactoring of Android Asynchronous Programming
+Understanding and Detecting Wake Lock Misuses for Android Applications
+Experience Report: Detecting Poor-Responsive UI in Android Applications
+Catalog of energy patterns for mobile applications
+Enforcing Green Code With Android Lint
+Refactoring Android-specific Energy Smells: A Plugin for Android Studio
+DynAMICS: A Tool-Based Method for the Specification and Dynamic Detection of Android Behavioral Code Smells
+Lightweight detection of Android-specific code smells: The aDoctor project
+An empirical study of Android behavioural code smells detection
+Android Code Smells: From Introduction to Refactoring
+Investigating types and survivability of performance bugs in mobile apps
+A systematic literature review on Android-specific smells

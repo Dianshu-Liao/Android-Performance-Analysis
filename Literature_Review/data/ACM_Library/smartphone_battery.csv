@@ -1,0 +1,16 @@
+keyword,title,publication
+smartphone_battery,"BaMbI, a battery free and energy harvesting smartphone","MobiSys '22: Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services"
+smartphone_battery,Crowdsensing-based smartphone use guide for battery life extension,UbiComp '16: Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing
+smartphone_battery,How much battery does dark mode save?: an accurate OLED display power profiler for modern smartphones,"MobiSys '21: Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services"
+smartphone_battery,Monetary Assessment of Battery Life on Smartphones,CHI '16: Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems
+smartphone_battery,Characterizing and modeling the impact of wireless signal strength on smartphone battery drain,SIGMETRICS '13: Proceedings of the ACM SIGMETRICS/international conference on Measurement and modeling of computer systems
+smartphone_battery,Demo: Wireless Link Selection on Smartphone: Throughput vs Battery Drain,MobiCom '15: Proceedings of the 21st Annual International Conference on Mobile Computing and Networking
+smartphone_battery,Sudden Drop in the Battery Level?: Understanding Smartphone State of Charge Anomaly,"ACM SIGOPS Operating Systems Review (SIGOPS), Volume 49, Issue 2"
+smartphone_battery,Sudden drop in the battery level?: understanding smartphone state of charge anomaly,HotPower '15: Proceedings of the Workshop on Power-Aware Computing and Systems
+smartphone_battery,UBAR: User- and Battery-aware Resource Management for Smartphones,"ACM Transactions on Embedded Computing Systems (TECS), Volume 20, Issue 3"
+smartphone_battery,Why application errors drain battery easily?: a study of memory leaks in smartphone apps,HotPower '13: Proceedings of the Workshop on Power-Aware Computing and Systems
+smartphone_battery,Battery optimization in smartphones for remote health monitoring systems to enhance user adherence,PETRA '14: Proceedings of the 7th International Conference on PErvasive Technologies Related to Assistive Environments
+smartphone_battery,Battery cell configuration for organic light emitting diode display in modern smartphones and tablet-PCs,ICCAD '12: Proceedings of the International Conference on Computer-Aided Design
+smartphone_battery,Accurate online power estimation and automatic battery behavior based power model generation for smartphones,CODES/ISSS '10: Proceedings of the eighth IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis
+smartphone_battery,Powerlet: an active battery interface for smartphones,UbiComp '14: Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing
+smartphone_battery,PowerVisor: a battery virtualization scheme for smartphones,MCS '12: Proceedings of the third ACM workshop on Mobile cloud computing and services

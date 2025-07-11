@@ -1,0 +1,64 @@
+keyword,title,publication
+mobile_latency,A Benchmark for ML Inference Latency on Mobile Devices,"EdgeSys '24: Proceedings of the 7th International Workshop on Edge Systems, Analytics and Networking"
+mobile_latency,JitBright: towards Low-Latency Mobile Cloud Rendering through Jitter Buffer Optimization,NOSSDAV '24: Proceedings of the 34th edition of the Workshop on Network and Operating System Support for Digital Audio and Video
+mobile_latency,nnPerf: Demystifying DNN Runtime Inference Latency on Mobile Platforms,SenSys '23: Proceedings of the 21st ACM Conference on Embedded Networked Sensor Systems
+mobile_latency,RTCSR: Zero-latency Aware Super-resolution for WebRTC Mobile Video Streaming,EMS '23: Proceedings of the 2023 Workshop on Emerging Multimedia Systems
+mobile_latency,Predicting Inference Latency of Neural Architectures on Mobile Devices,ICPE '23: Proceedings of the 2023 ACM/SPEC International Conference on Performance Engineering
+mobile_latency,Rectifying Skewed Kernel Page Reclamation in Mobile Devices for Improving User-Perceivable Latency,"ACM Transactions on Embedded Computing Systems (TECS), Volume 22, Issue 5s"
+mobile_latency,Reducing Mobile Web Latency Through Adaptively Selecting Transport Protocol,"IEEE/ACM Transactions on Networking (TON), Volume 31, Issue 5"
+mobile_latency,ASFL: Adaptive Semi-asynchronous Federated Learning for Balancing Model Accuracy and Total Latency in Mobile Edge Networks,ICPP '23: Proceedings of the 52nd International Conference on Parallel Processing
+mobile_latency,Nebula: Reliable Low-latency Video Transmission for Mobile Cloud Gaming,WWW '22: Proceedings of the ACM Web Conference 2022
+mobile_latency,Invited Paper: Intelligent Agent Support for Achieving Low Latency in Cloud-Native NextG Mobile Core Networks,ICDCN '23: Proceedings of the 24th International Conference on Distributed Computing and Networking
+mobile_latency,Uncovering Latent Patterns in Service-Level Spatiotemporal Mobile Traffic,GeoPrivacy '24: Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Geo-Privacy and Data Utility for Smart Societies
+mobile_latency,Impact of Response Latency on User Behaviour in Mobile Web Search,CHIIR '21: Proceedings of the 2021 Conference on Human Information Interaction and Retrieval
+mobile_latency,Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels,HotMobile '21: Proceedings of the 22nd International Workshop on Mobile Computing Systems and Applications
+mobile_latency,The Effect of Latency on High Precision Micro Instructions in Mobile AR,MobileHCI '20: 22nd International Conference on Human-Computer Interaction with Mobile Devices and Services
+mobile_latency,Architecture of Integrated Machine Learning in Low Latency Mobile VR Graphics Pipeline,SA '19: SIGGRAPH Asia 2019 Technical Briefs
+mobile_latency,Low Latency Mobile Augmented Reality with Flexible Tracking,MobiCom '18: Proceedings of the 24th Annual International Conference on Mobile Computing and Networking
+mobile_latency,RemoteGL - Towards Low-latency Interactive Cloud Graphics Experience for Mobile Devices (demo),"MobiSys '19: Proceedings of the 17th Annual International Conference on Mobile Systems, Applications, and Services"
+mobile_latency,Latency Adaptive Streaming of 8K 360 Degree Video to Mobile VR Headsets (demo),"MobiSys '19: Proceedings of the 17th Annual International Conference on Mobile Systems, Applications, and Services"
+mobile_latency,Mitigating the Latency-Accuracy Trade-off in Mobile Data Analytics Systems,MobiCom '18: Proceedings of the 24th Annual International Conference on Mobile Computing and Networking
+mobile_latency,Leveraging program analysis to reduce user-perceived latency in mobile applications,ICSE '18: Proceedings of the 40th International Conference on Software Engineering
+mobile_latency,Latency and throughput characterization of convolutional neural networks for mobile computer vision,MMSys '18: Proceedings of the 9th ACM Multimedia Systems Conference
+mobile_latency,Toward client-centric approaches for latency minimization in mobile applications,MOBILESoft '17: Proceedings of the 4th International Conference on Mobile Software Engineering and Systems
+mobile_latency,A Measurement Study on Achieving Imperceptible Latency in Mobile Cloud Gaming,MMSys'17: Proceedings of the 8th ACM on Multimedia Systems Conference
+mobile_latency,Affordable system for measuring motion-to-photon latency of virtual reality in mobile devices,SA '17: SIGGRAPH Asia 2017 Posters
+mobile_latency,Dissecting the End-to-end Latency of Interactive Mobile Video Applications,HotMobile '17: Proceedings of the 18th International Workshop on Mobile Computing Systems and Applications
+mobile_latency,Mobile VR on edge cloud: a latency-driven design,MMSys '19: Proceedings of the 10th ACM Multimedia Systems Conference
+mobile_latency,Reducing Power Consumption and Latency in Mobile Devices Using an Event Stream Model,"ACM Transactions on Embedded Computing Systems (TECS), Volume 16, Issue 1"
+mobile_latency,Tutti: coupling 5G RAN and mobile edge computing for latency-critical video analytics,MobiCom '22: Proceedings of the 28th Annual International Conference on Mobile Computing And Networking
+mobile_latency,Latency tolerance techniques for real-time ray tracing on mobile computing platform,SA '15: SIGGRAPH Asia 2015 Mobile Graphics and Interactive Applications
+mobile_latency,mGEMM: low-latency convolution with minimal memory overhead optimized for mobile devices,"MobiSys '22: Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services"
+mobile_latency,A Mobile Cloud Computing Middleware for Low Latency Offloading of Big Data,Mobidata '15: Proceedings of the 2015 Workshop on Mobile Big Data
+mobile_latency,Latency-optimized broadcast in mobile ad hoc networks without node coordination,MobiHoc '14: Proceedings of the 15th ACM international symposium on Mobile ad hoc networking and computing
+mobile_latency,A low-latency service composition approach in mobile ad hoc networks,SAC '14: Proceedings of the 29th Annual ACM Symposium on Applied Computing
+mobile_latency,Service-oriented heterogeneous resource sharing for optimizing service latency in mobile cloud,MobileCloud '13: Proceedings of the first international workshop on Mobile cloud computing & networking
+mobile_latency,Modeling latency for 3G mobile networks,ICWET '11: Proceedings of the International Conference & Workshop on Emerging Trends in Technology
+mobile_latency,"Balancing energy, latency and accuracy for mobile sensor data classification",SenSys '11: Proceedings of the 9th ACM Conference on Embedded Networked Sensor Systems
+mobile_latency,A comprehensive simulation study of low latency handoffs in mobile IPv4 for VoiP in IEEE 802.11b WLAN,PM2HW2N '12: Proceedings of the 7th ACM workshop on Performance monitoring and measurement of heterogeneous wireless and wired networks
+mobile_latency,Building low-latency remote rendering systems for interactive 3D graphics rendering on mobile devices,MM '11: Proceedings of the 19th ACM international conference on Multimedia
+mobile_latency,"The latency, accuracy, and battery (LAB) abstraction: programmer productivity and energy efficiency for continuous mobile context sensing",OOPSLA '13: Proceedings of the 2013 ACM SIGPLAN international conference on Object oriented programming systems languages & applications
+mobile_latency,Modeling latency—lifetime trade-off for target detection in mobile sensor networks,"ACM Transactions on Sensor Networks (TOSN), Volume 7, Issue 1"
+mobile_latency,Latent Wander: an Alternative Interface for Interactive and Serendipitous Discovery of Large AV Archives,"SUMAC '23: Proceedings of the 5th Workshop on analySis, Understanding and proMotion of heritAge Contents"
+mobile_latency,Jaguar: Low Latency Mobile Augmented Reality with Flexible Tracking,MM '18: Proceedings of the 26th ACM international conference on Multimedia
+mobile_latency,ExLL: an extremely low-latency congestion control for mobile cellular networks,CoNEXT '18: Proceedings of the 14th International Conference on emerging Networking EXperiments and Technologies
+mobile_latency,APPx: an automated app acceleration framework for low latency mobile app,CoNEXT '18: Proceedings of the 14th International Conference on emerging Networking EXperiments and Technologies
+mobile_latency,MARVEL: Enabling Mobile Augmented Reality with Low Energy and Low Latency,SenSys '18: Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems
+mobile_latency,Secure and low latency handoff scheme for proxy mobile IPv6,"Mobility '08: Proceedings of the International Conference on Mobile Technology, Applications, and Systems"
+mobile_latency,On the latency for information dissemination in mobile wireless networks,MobiHoc '08: Proceedings of the 9th ACM international symposium on Mobile ad hoc networking and computing
+mobile_latency,Poster: Edge-cloud Enhancement -- Latency-aware Virtual Cluster Placement for Supporting Cloud Applications in Mobile Edge Networks,MobiCom '19: The 25th Annual International Conference on Mobile Computing and Networking
+mobile_latency,Mobile video surveillance with low-bandwidth low-latency video streaming,MV '07: Proceedings of the international workshop on Workshop on mobile video
+mobile_latency,DPaxos: Managing Data Closer to Users for Low-Latency and Mobile Applications,SIGMOD '18: Proceedings of the 2018 International Conference on Management of Data
+mobile_latency,Latent Mobility Pattern Estimation in the Migration Game,ICGDA '19: Proceedings of the 2019 2nd International Conference on Geoinformatics and Data Analysis
+mobile_latency,Analytic modeling of detection latency in mobile sensor networks,IPSN '06: Proceedings of the 5th international conference on Information processing in sensor networks
+mobile_latency,Energy consumption vs. latency in a new boundary identification method for WSNs with a mobile sink,MobiWac '08: Proceedings of the 6th ACM international symposium on Mobility management and wireless access
+mobile_latency,Latent space segmentation for mobile gait analysis,"ACM Transactions on Embedded Computing Systems (TECS), Volume 12, Issue 4"
+mobile_latency,Peregrine: Low-latency queries on Hive warehouse data,"XRDS: Crossroads, The ACM Magazine for Students (XRDS), Volume 19, Issue 1"
+mobile_latency,Improving mobile IP handover latency on end-to-end TCP in UMTS/WCDMA networks,CoNEXT '05: Proceedings of the 2005 ACM conference on Emerging network experiment and technology
+mobile_latency,MASES: Mobility And Slack Enhanced Scheduling For Latency-Optimized Pipelined Dataflow Graphs,SCOPES '18: Proceedings of the 21st International Workshop on Software and Compilers for Embedded Systems
+mobile_latency,Outatime: Using Speculation to Enable Low-Latency Continuous Interaction for Mobile Cloud Gaming,"GetMobile: Mobile Computing and Communications (SIGMOBILE-GETMOBILE), Volume 19, Issue 3"
+mobile_latency,Outatime: Using Speculation to Enable Low-Latency Continuous Interaction for Mobile Cloud Gaming,"MobiSys '15: Proceedings of the 13th Annual International Conference on Mobile Systems, Applications, and Services"
+mobile_latency,A comparison of mechanisms for improving mobile IP handoff latency for end-to-end TCP,MobiCom '03: Proceedings of the 9th annual international conference on Mobile computing and networking
+mobile_latency,A scalable low-latency cache invalidation strategy for mobile environments,MobiCom '00: Proceedings of the 6th annual international conference on Mobile computing and networking
+mobile_latency,Demo: DeLorean: using speculation to enable low-latency continuous interaction for mobile cloud gaming,"MobiSys '14: Proceedings of the 12th annual international conference on Mobile systems, applications, and services"
+mobile_latency,Rendezvous: supporting real-time collaborative mobile gaming in high latency environments,ACE '05: Proceedings of the 2005 ACM SIGCHI International Conference on Advances in computer entertainment technology

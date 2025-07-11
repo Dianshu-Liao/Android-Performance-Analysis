@@ -1,0 +1,34 @@
+keyword,title,publication
+android_issue,Taxonomy of Security-related Issues in Android Apps: An Empirical Study,RENE '24: Proceedings of the 2024 Workshop on Replications and Negative Results
+android_issue,Compatibility Issue Detection for Android Apps Based on Path-Sensitive Semantic Analysis,ICSE '23: Proceedings of the 45th International Conference on Software Engineering
+android_issue,CONAN: Statically Detecting Connectivity Issues in Android Applications,ESEC/FSE 2023: Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+android_issue,ConfFix: Repairing Configuration Compatibility Issues in Android Apps,ISSTA 2023: Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis
+android_issue,Automated and Context-Aware Repair of Color-Related Accessibility Issues for Android Apps,ESEC/FSE 2023: Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+android_issue,"API compatibility issue detection, testing and analysis for Android apps",ASE '21: Proceedings of the 36th IEEE/ACM International Conference on Automated Software Engineering
+android_issue,DDLDroid: Efficiently Detecting Data Loss Issues in Android Apps,ISSTA 2023: Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis
+android_issue,DDLDroid: A Static Analyzer for Automatically Detecting Data Loss Issues in Android Applications,ISSTA 2023: Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis
+android_issue,AccessiText: automated detection of text accessibility issues in Android apps,ESEC/FSE 2022: Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+android_issue,Android API Field Evolution and Its Induced Compatibility Issues,ESEM '22: Proceedings of the 16th ACM / IEEE International Symposium on Empirical Software Engineering and Measurement
+android_issue,Detecting and fixing data loss issues in Android apps,ISSTA 2022: Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis
+android_issue,Towards automatically repairing compatibility issues in published Android apps,ICSE '22: Proceedings of the 44th International Conference on Software Engineering
+android_issue,Mining Android API Usage to Generate Unit Test Cases for Pinpointing Compatibility Issues,ASE '22: Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering
+android_issue,iFixDataloss: a tool for detecting and fixing data loss issues in Android apps,ISSTA 2022: Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis
+android_issue,Automatically detecting API-induced compatibility issues in Android apps: a comparative analysis (replicability study),ISSTA 2022: Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis
+android_issue,Characterizing and detecting configuration compatibility issues in Android apps,ASE '21: Proceedings of the 36th IEEE/ACM International Conference on Automated Software Engineering
+android_issue,Mining Android crash fixes in the absence of issue- and change-tracking systems,ISSTA 2019: Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis
+android_issue,"Accessibility issues in Android apps: state of affairs, sentiments, and ways forward",ICSE '20: Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering
+android_issue,Characterizing Android app signing issues,ASE '19: Proceedings of the 34th IEEE/ACM International Conference on Automated Software Engineering
+android_issue,On the Relation between Code Elements and Accessibility Issues in Android Apps,SAST '20: Proceedings of the 5th Brazilian Symposium on Systematic and Automated Software Testing
+android_issue,How Android developers handle evolution-induced API compatibility issues: a large-scale study,ICSE '20: Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering
+android_issue,Duplicate issue detection for the Android open source project,SoftwareMining 2016: Proceedings of the 5th International Workshop on Software Mining
+android_issue,Data-driven solutions to detect API compatibility issues in Android: an empirical study,MSR '19: Proceedings of the 16th International Conference on Mining Software Repositories
+android_issue,Taming Android fragmentation: characterizing and detecting compatibility issues for Android apps,ASE '16: Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering
+android_issue,Understanding and detecting callback compatibility issues for Android applications,ASE '18: Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering
+android_issue,ACID: an API compatibility issue detector for Android apps,ICSE '22: Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: Companion Proceedings
+android_issue,Understanding and detecting evolution-induced compatibility issues in Android apps,ASE '18: Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering
+android_issue,CiD: automating the detection of API-related compatibility issues in Android apps,ISSTA 2018: Proceedings of the 27th ACM SIGSOFT International Symposium on Software Testing and Analysis
+android_issue,Woodpecker: identifying and fixing Android UI display issues,ICSE '22: Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: Companion Proceedings
+android_issue,Unveiling exception handling bug hazards in Android based on GitHub and Google code issues,MSR '15: Proceedings of the 12th Working Conference on Mining Software Repositories
+android_issue,Pivot: learning API-device correlations to facilitate Android compatibility issue detection,ICSE '19: Proceedings of the 41st International Conference on Software Engineering
+android_issue,SetDroid: detecting user-configurable setting issues of Android apps via metamorphic fuzzing,ICSE '21: Proceedings of the 43rd International Conference on Software Engineering: Companion Proceedings
+android_issue,Analyzing confidentiality and privacy concerns: insights from Android issue logs,EASE '15: Proceedings of the 19th International Conference on Evaluation and Assessment in Software Engineering

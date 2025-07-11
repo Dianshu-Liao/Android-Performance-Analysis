@@ -1,0 +1,354 @@
+keyword,title,publication
+mobile_latency,Design and Evaluation of a Low-Latency Checkpointing Scheme for Mobile Computing Systems,The Computer Journal
+mobile_latency,Low Latency Mobile Backhauling using Optical Wireless Links,Broadband Coverage in Germany. 9th ITG Symposium. Proceedings
+mobile_latency,Multi-Connectivity Management for Mobile Ultra-Reliable Low-Latency Communications,WSA 2020; 24th International ITG Workshop on Smart Antennas
+mobile_latency,Low-latency high-efficiency mobile fronthaul with TDM-PON (mobile-PON),Journal of Optical Communications and Networking
+mobile_latency,Experimental demonstration of high-throughput low-latency mobile fronthaul supporting 48 20-MHz LTE signals with 59-Gb/s CPRI-equivalent rate and 2-μs processing latency,2015 European Conference on Optical Communication (ECOC)
+mobile_latency,Mobile-PON: A high-efficiency low-latency mobile fronthaul based on functional split and TDM-PON with a unified scheduler,2017 Optical Fiber Communications Conference and Exhibition (OFC)
+mobile_latency,A scalable low-latency cache invalidation strategy for mobile environments,IEEE Transactions on Knowledge and Data Engineering
+mobile_latency,Computation Offloading and Resource Allocation for Wireless Powered Mobile Edge Computing With Latency Constraint,IEEE Wireless Communications Letters
+mobile_latency,Towards immersive tactile Internet experiences: Low-latency FiWi enhanced mobile networks with edge intelligence [Invited],Journal of Optical Communications and Networking
+mobile_latency,Demonstration of VR / AR offloading to Mobile Edge Cloud for low latency 5G gaming application,2018 15th IEEE Annual Consumer Communications & Networking Conference (CCNC)
+mobile_latency,Offloading Optimization for Low-Latency Secure Mobile Edge Computing Systems,IEEE Wireless Communications Letters
+mobile_latency,Optimizing DRX configuration to improve battery power saving and latency of active mobile applications over LTE-A network,2013 IEEE Wireless Communications and Networking Conference (WCNC)
+mobile_latency,A Data-Scheduling Mechanism for Multi-Homed Mobile Terminals with Disparate Link Latencies,2010 IEEE 72nd Vehicular Technology Conference - Fall
+mobile_latency,Fast Handover Latency Analysis in Proxy Mobile IPv6,2010 IEEE Global Telecommunications Conference GLOBECOM 2010
+mobile_latency,Adaptive DRX configuration to optimize device power saving and latency of mobile applications over LTE advanced network,2013 IEEE International Conference on Communications (ICC)
+mobile_latency,A 240×180 10mW 12us latency sparse-output vision sensor for mobile applications,2013 Symposium on VLSI Circuits
+mobile_latency,MOBMAC - an energy efficient and low latency MAC for mobile wireless sensor networks,"2005 Systems Communications (ICW'05, ICHSN'05, ICMCS'05, SENET'05)"
+mobile_latency,Field experimental evaluation of beamtracking and latency performance for 5G mmWave radio access in outdoor mobile environment,"2016 IEEE 27th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)"
+mobile_latency,Latency-Aware Offloading for Mobile Edge Computing Networks,IEEE Communications Letters
+mobile_latency,Virtualized EAST–WEST PON architecture supporting low-latency communication for mobile functional split based on multiaccess edge computing,Journal of Optical Communications and Networking
+mobile_latency,Mobile relays based federation of multiple wireless sensor network segments with reduced-latency,2013 IEEE International Conference on Communications (ICC)
+mobile_latency,Leveraging Program Analysis to Reduce User-Perceived Latency in Mobile Applications,2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)
+mobile_latency,Latency-Oblivious Incentive Service Offloading in Mobile Edge Computing,2018 IEEE/ACM Symposium on Edge Computing (SEC)
+mobile_latency,Latency Aware Optimal Workload Assignment in Mobile Edge Cloud Offloading Network,2018 IEEE 4th International Conference on Computer and Communications (ICCC)
+mobile_latency,A first study on using MPTCP to reduce latency for cloud based mobile applications,2015 IEEE Symposium on Computers and Communication (ISCC)
+mobile_latency,Minimizing Latency for 5G Multimedia and V2X Applications using Mobile Edge Computing,2019 2nd International Conference on Intelligent Communication and Computational Techniques (ICCT)
+mobile_latency,Data Offloading and Sharing for Latency Minimization in Augmented Reality Based on Mobile-Edge Computing,2018 IEEE 88th Vehicular Technology Conference (VTC-Fall)
+mobile_latency,NFV-Based Mobile Edge Computing for Lowering Latency of 4K Video Streaming,2018 Tenth International Conference on Ubiquitous and Future Networks (ICUFN)
+mobile_latency,Real-time low latency movement sonification in stroke rehabilitation based on a mobile platform,2014 IEEE International Conference on Consumer Electronics (ICCE)
+mobile_latency,Delivery latency minimization in wireless sensor networks with mobile sink,2015 IEEE International Conference on Communications (ICC)
+mobile_latency,Analysis of Handover Latency for Mobile IPv6 and mSCTP,ICC Workshops - 2008 IEEE International Conference on Communications Workshops
+mobile_latency,Packet Error Rate and Latency Requirements for a Mobile Wireless Access System in an IP Network,2007 IEEE 66th Vehicular Technology Conference
+mobile_latency,A Low-Latency Traffic Estimation Based TDM-PON Mobile Front-Haul for Small Cell Cloud-RAN Employing Feed-Forward Artificial Neural Network,2018 20th International Conference on Transparent Optical Networks (ICTON)
+mobile_latency,Latency requirement for 5G mobile communications,"2018 10th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)"
+mobile_latency,Mobile agent platform design optimisations for minimising network overhead and latency in agent migrations,"IEEE Global Telecommunications Conference, 2004. GLOBECOM '04."
+mobile_latency,A Parallel Duplicate Address Detection (PDAD) mechanism to reduce handoff latency of Mobile Internet Protocol version 6 (MIPv6),2011 4th International Conference on Mechatronics (ICOM)
+mobile_latency,Latency-Optimal Task Offloading for Mobile-Edge Computing System in 5G Heterogeneous Networks,2018 IEEE 87th Vehicular Technology Conference (VTC Spring)
+mobile_latency,Mobile edge computing and field trial results for 5G low latency scenario,China Communications
+mobile_latency,A Secure TOF-Based Transceiver with Low Latency and sub-cm Ranging for Mobile Authentication Applications,2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)
+mobile_latency,A Latency-Aware Task Offloading in Mobile Edge Computing Network for Distributed Elevated LiDAR,2020 IEEE International Symposium on Circuits and Systems (ISCAS)
+mobile_latency,NG-PON2 Demonstration with Small Delay Variation and Low Latency for 5G Mobile Fronthaul,2017 European Conference on Optical Communication (ECOC)
+mobile_latency,Distributed low-latency rendering for mobile AR,Proceedings IEEE and ACM International Symposium on Augmented Reality
+mobile_latency,Latency Modeling for Mobile Edge Computing Using LTE Measurements,2018 IEEE 88th Vehicular Technology Conference (VTC-Fall)
+mobile_latency,Energy Efficient Fog RAN (F-RAN) with Flexible BBU Resource Assignment for Latency Aware Mobile Edge Computing (MEC) Services,2019 IEEE 90th Vehicular Technology Conference (VTC2019-Fall)
+mobile_latency,Field-Trial Evaluation of Low-Latency and Timing-Accurate 100G Ethernet Aggregator for Converged Mobile X-haul,2018 European Conference on Optical Communication (ECOC)
+mobile_latency,Control plane latency reduction for service chaining in mobile edge computing system,2017 13th International Conference on Network and Service Management (CNSM)
+mobile_latency,Reducing Authorizing Registration Latency for Proxy Mobile IPv6 Route Optimization,2007 International Conference on Convergence Information Technology (ICCIT 2007)
+mobile_latency,Low latency handoff for nested mobile networks,"CCNC 2006. 2006 3rd IEEE Consumer Communications and Networking Conference, 2006."
+mobile_latency,Impact of wireless link delay on handover latency in Mobile IPv6 environment,2014 International Conference on Issues and Challenges in Intelligent Computing Techniques (ICICT)
+mobile_latency,Joint optimization of latency and energy consumption for mobile edge computing based proximity detection in road networks,China Communications
+mobile_latency,An IEEE 802.21 MIH Functionality Assisted Proxy Mobile IPv6 for Reducing Handover Latency and Signaling Cost,2013 10th International Conference on Information Technology: New Generations
+mobile_latency,Analysis and Optimization of the Latency Budget in Wireless Systems with Mobile Edge Computing,ICC 2022 - IEEE International Conference on Communications
+mobile_latency,Latency-aware Placement for State Management Functions in Service-based 5G Mobile Core Network,2018 IEEE Seventh International Conference on Communications and Electronics (ICCE)
+mobile_latency,Reducing Uplink Transmission Latency for Applying TDM-PON to Mobile Fronthaul,2018 European Conference on Optical Communication (ECOC)
+mobile_latency,An efficient fast neighbor discovery (EFND) scheme to reduce handover latency in mobile IPv6,2006 8th International Conference Advanced Communication Technology
+mobile_latency,Low-Latency Cooperative Computation Offloading for Mobile Edge Computing,"2019 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)"
+mobile_latency,Overview of Handover Latency and Resource Consumption in Hierarchical Mobile IPv6 Protocol and GPS Approaches,2012 Third International Conference on Intelligent Systems Modelling and Simulation
+mobile_latency,Mobile-aware scheduling for low latency backhaul over DOCSIS,"2017 IEEE 28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)"
+mobile_latency,Reducing Call Setup Latency in Mobile VoIP Systems,IEEE Communications Letters
+mobile_latency,A low latency handoff scheme using positional information for mobile IP based networks,GLOBECOM '03. IEEE Global Telecommunications Conference (IEEE Cat. No.03CH37489)
+mobile_latency,Comparison of different mobility management schemes for reducing handover latency in Mobile IPv6,2009 International Conference on Industrial Mechatronics and Automation
+mobile_latency,4+G mobile backhaul over OFDMA/TDMA-PON to 200 cell sites per fiber with 10Gb/s upstream burst-mode operation enabling < 1ms transmission latency,OFC/NFOEC
+mobile_latency,Low-latency implementation of DFT-based transform domain channel estimation system in Mobile WiMAX system,2009 9th International Symposium on Communications and Information Technology
+mobile_latency,QoS Measurement: A Comparative Study of Speeds and Latency for 5G Network Using Different Speed Test Applications for Mobile Phones,"2021 IEEE 7th International Conference on Smart Instrumentation, Measurement and Applications (ICSIMA)"
+mobile_latency,Analysis of vertical handover latency for IEEE 802.21-enabled Proxy Mobile IPv6,13th International Conference on Advanced Communication Technology (ICACT2011)
+mobile_latency,A Novel Adaptive SR-SW-ARQ/FEC Scheme for an Ultra Low-Latency Mobile Network,2006 IEEE 63rd Vehicular Technology Conference
+mobile_latency,A Reactive Tunneling (RT) Scheme to Improve Handover Latency over the Mobile Network Environment,2008 Fourth Advanced International Conference on Telecommunications
+mobile_latency,Efficient mobile backhaul architecture offering ultra-short latency for handovers,2016 18th International Conference on Transparent Optical Networks (ICTON)
+mobile_latency,Experimental Demonstration of 100 Gb/s Optical Packet Network for Mobile Fronthaul with Load-Independent Ultra-low Latency,2017 European Conference on Optical Communication (ECOC)
+mobile_latency,Using context transfer mechanisms to Improve Mobile IMS-IPv6 Handover Latency and QoS provisioning,2008 2nd International Conference on Internet Multimedia Services Architecture and Applications
+mobile_latency,Handover latency analysis on mobile Ethernet,"IEEE Wireless Communications and Networking Conference, 2005"
+mobile_latency,Experimental Evaluation of Adaptive SR-SW-ARQ/FEC Scheme for Ultra Low-Latency Mobile Networks,2007 IEEE Wireless Communications and Networking Conference
+mobile_latency,End-to-End Latency Distribution in Future Mobile Communication Networks,WSA 2020; 24th International ITG Workshop on Smart Antennas
+mobile_latency,Trajectory Prediction of Multiple RoboCup F-180 Autonomous Mobile Robots for Perception-Latency Compensation,2006 IEEE 3rd Latin American Robotics Symposium
+mobile_latency,A multi-level method for minimizing data gathering latency in wireless sensor networks using mobile elements,"2017 International Conference on Electrical, Computer and Communication Engineering (ECCE)"
+mobile_latency,A Scheme to reduce the handoff latency using mSCTP in Fast Mobile IPv6,2007 Second International Conference on Systems and Networks Communications (ICSNC 2007)
+mobile_latency,Low-latency fiber-wireless bridge for flexible fronthauling in future mobile networks,2015 10th European Microwave Integrated Circuits Conference (EuMIC)
+mobile_latency,The cellular mobile IPv6 using low latency handoff algorithm for the packet-based cellular network,2000 Digest of Technical Papers. International Conference on Consumer Electronics. Nineteenth in the Series (Cat. No.00CH37102)
+mobile_latency,Latency Evaluation and Modelling in Distributed SDN-based Mobile Networks,2019 27th Telecommunications Forum (TELFOR)
+mobile_latency,A Low-Latency L2 Handoff between WiBro and cdma2000 Mobile Networks,2008 International Conference on Convergence and Hybrid Information Technology
+mobile_latency,Low-latency fiber-wireless bridge for flexible fronthauling in future mobile networks,2015 European Microwave Conference (EuMC)
+mobile_latency,Min-Max Latency Optimization for Intelligent Reflecting Surface-Assisted Mobile Edge Computing,2022 IEEE 22nd International Conference on Communication Technology (ICCT)
+mobile_latency,Mobile user locating mechanism based on network latency,IEEE 54th Vehicular Technology Conference. VTC Fall 2001. Proceedings (Cat. No.01CH37211)
+mobile_latency,Toward Client-Centric Approaches for Latency Minimization in Mobile Applications,2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft)
+mobile_latency,Low latency-oriented Reliable Slicing for URLLC services over TDM-PON based Mobile Edge Computing enabled Cloud Radio Access Network,2021 19th International Conference on Optical Communications and Networks (ICOCN)
+mobile_latency,LL-VAS: Adaptation Method for Low-Latency 360-degree Video Streaming over Mobile Networks,2022 IEEE Symposium on Computers and Communications (ISCC)
+mobile_latency,A method for reducing TCP latency due to consecutive packet losses in mobile networks,2016 18th Asia-Pacific Network Operations and Management Symposium (APNOMS)
+mobile_latency,Low Latency Symbol Level Transmission Scheme for Mobile Fronthaul with Intra PHY Split RAN Architecture,2017 European Conference on Optical Communication (ECOC)
+mobile_latency,FTT-5G Networks: Low-Latency FiWi Enhanced Mobile Networks With Edge Intelligence,2019 IEEE Photonics Society Summer Topical Meeting Series (SUM)
+mobile_latency,Using the Capacity and Low Latency of Mobile Edge Clouds for Community Applications,2021 Optical Fiber Communications Conference and Exhibition (OFC)
+mobile_latency,A  Low-Latency and Smooth Handover Scheme for Mobile IPv6,2008 IEEE Pacific-Asia Workshop on Computational Intelligence and Industrial Application
+mobile_latency,Minimum Latency Data Diffusion in Intermittently Connected Mobile Networks,2012 IEEE 75th Vehicular Technology Conference (VTC Spring)
+mobile_latency,Modeling of Dynamic Trend of Latency Variations on Mobile Network Using Markov Regime Switching,2014 IEEE 38th International Computer Software and Applications Conference Workshops
+mobile_latency,Latency Optimization for Mobile Edge Computing with Dynamic Energy Harvesting,"2019 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)"
+mobile_latency,Latency Minimization in Uplink Non-Orthogonal Multiple Access-based Mobile Edge Computing,"2020 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)"
+mobile_latency,Low latency optimisation of content based publish subscribe for real-time mobile gaming applications,25th IEEE International Conference on Distributed Computing Systems Workshops
+mobile_latency,The Study of Mobile IPv6 Packet Handover Latency at Different Wireless Networks,2006 International Conference on Electrical and Computer Engineering
+mobile_latency,Latency constrained trajectory planning in wireless sensor networks with mobile sink,2017 3rd IEEE International Conference on Computer and Communications (ICCC)
+mobile_latency,Design and Verification of Low Latency Access Network based on Mobile Edge Computing,2020 International Conference on Information and Communication Technology Convergence (ICTC)
+mobile_latency,Low latency Binding Update mechanism using MIPv6 for mobile Internet television,2010 International Conference on Distributed Frameworks for Multimedia Applications
+mobile_latency,ONU Interconnection for Reducing Latency in TWDM-PON Based Mobile Front- and Middle-Hauls by using Wavelength Mobility,2023 International Workshop on Fiber Optics on Access Networks (FOAN)
+mobile_latency,Optimizing handoff latency for mobile IPv6 based environments,2011 Annual IEEE India Conference
+mobile_latency,Optical slot switching latency in mobile backhaul networks,2014 The European Conference on Optical Communication (ECOC)
+mobile_latency,Reduced latency in restricted flooding routing protocol for Mobile Ad Hoc Network,2007 Asia-Pacific Conference on Applied Electromagnetics
+mobile_latency,An Implementation of Low-latency and High-reliability Mobile Edge Computing System,2020 IEEE MTT-S International Wireless Symposium (IWS)
+mobile_latency,SDN Based Real-Time Latency Measurement and its Monitoring for 5G Mobile Convergence Passive Optical Networks,2019 Asia Communications and Photonics Conference (ACP)
+mobile_latency,Live Demo of Low-Latency and Timing-Accurate Mobile X-haul Based on SDN-Enabled 100G Ethernet Aggregator,2018 European Conference on Optical Communication (ECOC)
+mobile_latency,Optimal Security Cost for Latency-Aware Service Provisioning in Mobile Edge Computing,"2020 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI)"
+mobile_latency,Compensating for the latency of data acquisition for localization in mobile wireless sensor networks,"2009 International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP)"
+mobile_latency,Delay-based TCP considering the latency by data link layer of mobile broadband network,2013 IEEE Global Communications Conference (GLOBECOM)
+mobile_latency,A Highly Mobile SDM-OFDM System Using Reduced-Complexity-and-Latency Processing,Year: 2007 | Conference Paper | Publisher: IEEE
+mobile_latency,Joint Task Partition and Computation Offloading for Latency-Sensitive Services in Mobile Edge Networks,"2022 18th International Conference on Mobility, Sensing and Networking (MSN)"
+mobile_latency,Handoff latency of voice over internet protocol in Mobile IPv6,2008 IEEE International RF and Microwave Conference
+mobile_latency,Dynamic mobile X-haul reconfiguration by fast network switching for low-latency MEC service,IEICE Communications Express
+mobile_latency,Efficient mobile fronthaul serving massive MIMO new radio services using single-IF with sample-wise TDM for reduced RRH complexity and ultra-low latency,2017 Optical Fiber Communications Conference and Exhibition (OFC)
+mobile_latency,Coordinating Multi-access Edge Computing with Mobile Fronthaul for Optimizing 5G End-to-End Latency,2018 Optical Fiber Communications Conference and Exposition (OFC)
+mobile_latency,Reduction of latency in mobile multi-hop relay(MMR) networks,Year: 2009 | Conference Paper | Publisher: IEEE
+mobile_latency,Wireless Service Aware Latency Optimization in a Time Division Multiplexing Passive Optical Network Based Mobile Fronthaul,2017 Asia Communications and Photonics Conference (ACP)
+mobile_latency,Handling latency in broadcast disk system for mobile computing,2010 International Conference on Distributed Frameworks for Multimedia Applications
+mobile_latency,Antenna Design for Robust Millimeter Wave LoS-MIMO Link in Mobile Analog Repeater Achieving Low Latency and High Capacity,2024 IEEE 21st Consumer Communications & Networking Conference (CCNC)
+mobile_latency,Low Latency DBA Scheme for 5G Mobile Service in Multilane-Based 50G-EPON,2019 Asia Communications and Photonics Conference (ACP)
+mobile_latency,Energy and latency impact of outsourcing decisions in mobile image processing,"2013 International Conference on Computing, Networking and Communications (ICNC)"
+mobile_latency,A QoS scheme to address communication latency issues for critical network flows in best-effort networks using mobile agents,Canadian Conference on Electrical and Computer Engineering 2004 (IEEE Cat. No.04CH37513)
+mobile_latency,Reducing Web Latency in Mobile Network,Year: 2009 | Conference Paper | Publisher: IEEE
+mobile_latency,Latency and Quality Perception in Mobile Touchscreen Interactions Research in the Field of Human Centered Computing,"2018 8th International Conference on Cloud Computing, Data Science & Engineering (Confluence)"
+mobile_latency,Performance modeling on handover latency in Mobile IP Regional Registration,"2008 IEEE 19th International Symposium on Personal, Indoor and Mobile Radio Communications"
+mobile_latency,Power and latency limitations in secondary spectrum reuse for mobile and home wireless systems,2014 International Symposium on Wireless Personal Multimedia Communications (WPMC)
+mobile_latency,Network Based Cooperative Deep Learning Methodology for Minimal Latency in IoT and Mobile Video Transmission Environments,2020 IEEE International Conference on Consumer Electronics (ICCE)
+mobile_latency,A low-latency checkpointing scheme for mobile computing systems,29th Annual International Computer Software and Applications Conference (COMPSAC'05)
+mobile_latency,Balancing energy saving and latency in mobile collector based delay sensitive wireless sensor network,"2017 International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET)"
+mobile_latency,Reducing contents access latency in mobile content oriented networks,2014 International Conference on Information and Communication Technology Convergence (ICTC)
+mobile_latency,Enabling Service Continuity Support for Low-Latency Services over Mobile Edge with Ubiquitous Mobility,2024 International Conference on Networking and Network Applications (NaNA)
+mobile_latency,Novel convergence of fixed-access and mobile network architectures with ultra-low latency multi-slicing,2023 24st Asia-Pacific Network Operations and Management Symposium (APNOMS)
+mobile_latency,Cost-Efficient NFV-Enabled Mobile Edge-Cloud for Low Latency Mobile Applications,IEEE Transactions on Network and Service Management
+mobile_latency,Seamless Support of Low Latency Mobile Applications with NFV-Enabled Mobile Edge-Cloud,2016 5th IEEE International Conference on Cloud Networking (Cloudnet)
+mobile_latency,Energy-Latency Tradeoff for Energy-Aware Offloading in Mobile Edge Computing Networks,IEEE Internet of Things Journal
+mobile_latency,Latency Minimization for Intelligent Reflecting Surface Aided Mobile Edge Computing,IEEE Journal on Selected Areas in Communications
+mobile_latency,Latency Optimization for Resource Allocation in Mobile-Edge Computation Offloading,IEEE Transactions on Wireless Communications
+mobile_latency,Multi-User Computation Partitioning for Latency Sensitive Mobile Cloud Applications,IEEE Transactions on Computers
+mobile_latency,Mobile Edge Computing and Networking for Green and Low-Latency Internet of Things,IEEE Communications Magazine
+mobile_latency,Hermes: Latency Optimal Task Assignment for Resource-constrained Mobile Computing,IEEE Transactions on Mobile Computing
+mobile_latency,Offloading Schemes in Mobile Edge Computing for Ultra-Reliable Low Latency Communications,IEEE Access
+mobile_latency,Latency Minimization for D2D-Enabled Partial Computation Offloading in Mobile Edge Computing,IEEE Transactions on Vehicular Technology
+mobile_latency,Latency and Reliability-Aware Task Offloading and Resource Allocation for Mobile Edge Computing,2017 IEEE Globecom Workshops (GC Wkshps)
+mobile_latency,Wireless Networks for Mobile Edge Computing: Spatial Modeling and Latency Analysis,IEEE Transactions on Wireless Communications
+mobile_latency,Joint Resource Allocation for Latency-Sensitive Services Over Mobile Edge Computing Networks With Caching,IEEE Internet of Things Journal
+mobile_latency,Integrated Millimeter Wave and Sub-6 GHz Wireless Networks: A Roadmap for Joint Mobile Broadband and Ultra-Reliable Low-Latency Communications,IEEE Wireless Communications
+mobile_latency,Latency-Aware IoT Service Provisioning in UAV-Aided Mobile-Edge Computing Networks,IEEE Internet of Things Journal
+mobile_latency,A Progressive Approach to Reducing Data Collection Latency in Wireless Sensor Networks with Mobile Elements,IEEE Transactions on Mobile Computing
+mobile_latency,Joint Optimization of Energy Consumption and Latency in Mobile Edge Computing for Internet of Things,IEEE Internet of Things Journal
+mobile_latency,Deep Reinforcement Learning Based Latency Minimization for Mobile Edge Computing With Virtualization in Maritime UAV Communication Network,IEEE Transactions on Vehicular Technology
+mobile_latency,Two-Stage Offloading Optimization for Energy–Latency Tradeoff With Mobile Edge Computing in Maritime Internet of Things,IEEE Internet of Things Journal
+mobile_latency,Mobile Vehicles as Fog Nodes for Latency Optimization in Smart Cities,IEEE Transactions on Vehicular Technology
+mobile_latency,HetMEC: Latency-Optimal Task Assignment and Resource Allocation for Heterogeneous Multi-Layer Mobile Edge Computing,IEEE Transactions on Wireless Communications
+mobile_latency,A Low-Latency Communication Scheme for Mobile Wireless Sensor Control Systems,"IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+mobile_latency,Punctured Scheduling for Critical Low Latency Data on a Shared Channel with Mobile Broadband,2017 IEEE 86th Vehicular Technology Conference (VTC-Fall)
+mobile_latency,Real-time and low latency embedded computer vision hardware based on a combination of FPGA and mobile CPU,2014 IEEE/RSJ International Conference on Intelligent Robots and Systems
+mobile_latency,Low-latency mobile IP handoff for infrastructure-mode wireless LANs,IEEE Journal on Selected Areas in Communications
+mobile_latency,Latency Control in Software-Defined Mobile-Edge Vehicular Networking,IEEE Communications Magazine
+mobile_latency,Hermes: Latency optimal task assignment for resource-constrained mobile computing,2015 IEEE Conference on Computer Communications (INFOCOM)
+mobile_latency,Ultra-Low Latency Mobile Networking,IEEE Network
+mobile_latency,Partial Offloading for Latency Minimization in Mobile-Edge Computing,GLOBECOM 2017 - 2017 IEEE Global Communications Conference
+mobile_latency,Energy-Aware Mobile Edge Computing and Routing for Low-Latency Visual Data Processing,IEEE Transactions on Multimedia
+mobile_latency,Joint Task Partitioning and User Association for Latency Minimization in Mobile Edge Computing Networks,IEEE Transactions on Vehicular Technology
+mobile_latency,Leveraging the Power of Prediction: Predictive Service Placement for Latency-Sensitive Mobile Edge Computing,IEEE Transactions on Wireless Communications
+mobile_latency,Latency-Aware Path Planning for Disconnected Sensor Networks With Mobile Sinks,IEEE Transactions on Industrial Informatics
+mobile_latency,Energy-Efficient Resource Allocation for Latency-Sensitive Mobile Edge Computing,IEEE Transactions on Vehicular Technology
+mobile_latency,An Enhanced Fast Handover with Low Latency for Mobile IPv6,IEEE Transactions on Wireless Communications
+mobile_latency,Joint Channel and Queue Aware Scheduling for Latency Sensitive Mobile Edge Computing With Power Constraints,IEEE Transactions on Wireless Communications
+mobile_latency,Latency-Aware Service Function Chain Placement in 5G Mobile Networks,2019 IEEE Conference on Network Softwarization (NetSoft)
+mobile_latency,Modeling Mobile Edge Computing Deployments for Low Latency Multimedia Services,IEEE Transactions on Broadcasting
+mobile_latency,Ultra-Low Latency Multi-Task Offloading in Mobile Edge Computing,IEEE Access
+mobile_latency,Joint Computation Partitioning and Resource Allocation for Latency Sensitive Applications in Mobile Edge Clouds,IEEE Transactions on Services Computing
+mobile_latency,Dynamic Power–Latency Tradeoff for Mobile Edge Computation Offloading in NOMA-Based Networks,IEEE Internet of Things Journal
+mobile_latency,Combined Virtual Mobile Core Network Function Placement and Topology Optimization with Latency Bounds,2015 Fourth European Workshop on Software Defined Networks
+mobile_latency,QoE-Aware Computation Offloading Scheduling to Capture Energy-Latency Tradeoff in Mobile Clouds,"2016 13th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)"
+mobile_latency,Latency and Reliability-Aware Workload Assignment in IoT Networks With Mobile Edge Clouds,IEEE Transactions on Network and Service Management
+mobile_latency,Latency-Oblivious Distributed Task Scheduling for Mobile Edge Computing,2018 IEEE Global Communications Conference (GLOBECOM)
+mobile_latency,Anticipatory Mobility Management by Big Data Analytics for Ultra-Low Latency Mobile Networking,2018 IEEE International Conference on Communications (ICC)
+mobile_latency,Latency Optimization for Cellular Assisted Mobile Edge Computing via Non-Orthogonal Multiple Access,IEEE Transactions on Vehicular Technology
+mobile_latency,Latency aware mobile task assignment and load balancing for edge cloudlets,2017 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops)
+mobile_latency,Efficient and Low Latency Detection of Intruders in Mobile Active Authentication,IEEE Transactions on Information Forensics and Security
+mobile_latency,Lightweight service replication for ultra-short latency applications in mobile edge networks,2017 IEEE International Conference on Communications (ICC)
+mobile_latency,MnasFPN: Learning Latency-Aware Pyramid Architecture for Object Detection on Mobile Devices,2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+mobile_latency,Minimizing data collection latency in wireless sensor network with multiple mobile elements,2012 Proceedings IEEE INFOCOM
+mobile_latency,A Scalable Energy vs. Latency Trade-Off in Full-Duplex Mobile Edge Computing Systems,IEEE Transactions on Communications
+mobile_latency,QoE-Aware Computation Offloading to Capture Energy-Latency-Pricing Tradeoff in Mobile Clouds,IEEE Transactions on Mobile Computing
+mobile_latency,FAST: Flexible and Low-Latency State Transfer in Mobile Edge Computing,IEEE Access
+mobile_latency,Joint Computation Partitioning and Resource Allocation for Latency Sensitive Applications in Mobile Edge Clouds,2017 IEEE 10th International Conference on Cloud Computing (CLOUD)
+mobile_latency,Mobile edge computing and field trial results for 5G low latency scenario,China Communications
+mobile_latency,A Low-Latency MPTCP Scheduler for Live Video Streaming in Mobile Networks,IEEE Transactions on Wireless Communications
+mobile_latency,UAV-Aided Low Latency Mobile Edge Computing with mmWave Backhaul,ICC 2019 - 2019 IEEE International Conference on Communications (ICC)
+mobile_latency,Energy-Latency-Aware Task Offloading and Approximate Computing at the Mobile Edge,2019 IEEE 16th International Conference on Mobile Ad Hoc and Sensor Systems (MASS)
+mobile_latency,Motion Prediction and Pre-Rendering at the Edge to Enable Ultra-Low Latency Mobile 6DoF Experiences,IEEE Open Journal of the Communications Society
+mobile_latency,Experimental Characterization of Mobile IoT Application Latency,IEEE Internet of Things Journal
+mobile_latency,Head and Body Motion Prediction to Enable Mobile VR Experiences with Low Latency,2019 IEEE Global Communications Conference (GLOBECOM)
+mobile_latency,Joint Radio and Computation Resource Management for Low Latency Mobile Edge Computing,2018 IEEE Global Communications Conference (GLOBECOM)
+mobile_latency,"Provisioning low latency, resilient mobile edge clouds for 5G",2017 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
+mobile_latency,IEEE 802.11-Based Mobile IP Fast Handoff Latency Analysis,2007 IEEE International Conference on Communications
+mobile_latency,Latency and Reliability Oriented Collaborative Optimization for Multi-UAV Aided Mobile Edge Computing System,IEEE INFOCOM 2020 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
+mobile_latency,Energy-Aware Mobile Edge Computing for Low-Latency Visual Data Processing,2017 IEEE 5th International Conference on Future Internet of Things and Cloud (FiCloud)
+mobile_latency,Latency Minimization for Wireless Powered Mobile Edge Computing Networks With Nonlinear Rectifiers,IEEE Transactions on Vehicular Technology
+mobile_latency,Low-Latency Video Streaming With Congestion Control in Mobile Ad-Hoc Networks,IEEE Transactions on Multimedia
+mobile_latency,Analytic modeling of detection latency in mobile sensor networks,2006 5th International Conference on Information Processing in Sensor Networks
+mobile_latency,Preemptive Scheduling of Latency Critical Traffic and Its Impact on Mobile Broadband Performance,2018 IEEE 87th Vehicular Technology Conference (VTC Spring)
+mobile_latency,Latency in Broad-Band Mobile Networks,VTC Spring 2009 - IEEE 69th Vehicular Technology Conference
+mobile_latency,Extremely Interactive and Low-Latency Services in 5G and Beyond Mobile Systems,IEEE Communications Standards Magazine
+mobile_latency,Reducing information gathering latency through Mobile Aerial Sensor Network,2013 Proceedings IEEE INFOCOM
+mobile_latency,Collaborative Cloud and Edge Mobile Computing in C-RAN Systems With Minimal End-to-End Latency,IEEE Transactions on Signal and Information Processing over Networks
+mobile_latency,Passive optical network based mobile backhaul enabling ultra-low latency for communications among base stations,Journal of Optical Communications and Networking
+mobile_latency,Low Latency DWBA Scheme for Mini-Slot Based 5G new Radio in a Fixed and Mobile Converged TWDM-PON,Journal of Lightwave Technology
+mobile_latency,Mobile fronthaul over latency-optimized time division multiplexed passive optical networks,2015 IEEE International Conference on Communication Workshop (ICCW)
+mobile_latency,Energy-Latency Aware Offloading for Hierarchical Mobile Edge Computing,IEEE Access
+mobile_latency,Latency-aware Hybrid Edge Cloud Framework for Mobile Augmented Reality Applications,"2020 17th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)"
+mobile_latency,Latency Minimization for Mobile Edge Computing Networks,IEEE Transactions on Mobile Computing
+mobile_latency,On distribution and limits of information dissemination latency and speed in mobile cognitive radio networks,2011 Proceedings IEEE INFOCOM
+mobile_latency,Resource Allocation for Low-Latency Mobile Edge Computation Offloading in NOMA Networks,2018 IEEE Global Communications Conference (GLOBECOM)
+mobile_latency,Practical Enhancement and Evaluation of a Low-Latency Network Model Using Mobile Edge Computing,2017 IEEE 41st Annual Computer Software and Applications Conference (COMPSAC)
+mobile_latency,Reducing Latency for Multimedia Broadcast Services Over Mobile Networks,IEEE Transactions on Multimedia
+mobile_latency,Identifying latency factors in SDN-based Mobile Core Networks,2016 IEEE Symposium on Computers and Communication (ISCC)
+mobile_latency,Dynamic control of RLC buffer size for latency minimization in mobile RAN,2018 IEEE Wireless Communications and Networking Conference (WCNC)
+mobile_latency,Energy Efficiency in Latency-Constrained Application Offloading From Mobile Clients to Multiple Virtual Machines,IEEE Transactions on Signal Processing
+mobile_latency,Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices,IEEE Transactions on Mobile Computing
+mobile_latency,Reliability and Latency Aware Code-Partitioning Offloading in Mobile Edge Computing,2019 IEEE Wireless Communications and Networking Conference (WCNC)
+mobile_latency,Privacy-Preserving Coded Mobile Edge Computing for Low-Latency Distributed Inference,IEEE Journal on Selected Areas in Communications
+mobile_latency,Latency-aware Service Placement and Live Migrations in 5G and Beyond Mobile Systems,ICC 2020 - 2020 IEEE International Conference on Communications (ICC)
+mobile_latency,Low latency integrated point-to-multipoint and e-band point-to-point backhaul for mobile small cells,2014 IEEE International Conference on Communications Workshops (ICC)
+mobile_latency,Mobile Edge Computing for Ultra-Reliable and Low-Latency Communications,IEEE Communications Standards Magazine
+mobile_latency,Scalable and Low-Latency Federated Learning With Cooperative Mobile Edge Networking,IEEE Transactions on Mobile Computing
+mobile_latency,Deploying Image Deblurring across Mobile Devices: A Perspective of Quality and Latency,2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
+mobile_latency,Low latency virtual network embedding for mobile networks,2016 IEEE International Conference on Communications (ICC)
+mobile_latency,Latency Prediction for Delay-sensitive V2X Applications in Mobile Cloud/Edge Computing Systems,GLOBECOM 2020 - 2020 IEEE Global Communications Conference
+mobile_latency,Realizing Transparent OS/Apps Compression in Mobile Devices at Zero Latency Overhead,IEEE Transactions on Computers
+mobile_latency,Latency-Aware Adaptive Video Summarization for Mobile Edge Clouds,IEEE Transactions on Multimedia
+mobile_latency,Mobile Low Latency Services in 5G,2015 IEEE 81st Vehicular Technology Conference (VTC Spring)
+mobile_latency,Reducing handover latency in future IP-based wireless networks: proxy mobile IPv6 with simultaneous bindings,"2008 International Symposium on a World of Wireless, Mobile and Multimedia Networks"
+mobile_latency,Low-Latency Synchronous Clock Distribution and Recovery for DWDM-OFDMA-Based Optical Mobile Backhaul,Journal of Lightwave Technology
+mobile_latency,Reducing data collection latency in Wireless sensor networks with mobile elements,2011 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
+mobile_latency,MDINFERENCE: Balancing Inference Accuracy and Latency for Mobile Applications,2020 IEEE International Conference on Cloud Engineering (IC2E)
+mobile_latency,Novel Wake-up Scheme for Energy-Efficient Low-Latency Mobile Devices in 5G Networks,IEEE Transactions on Mobile Computing
+mobile_latency,Latency Reduction for Mobile Edge Computing in HetNets by Uplink and Downlink Decoupled Access,IEEE Wireless Communications Letters
+mobile_latency,Execution Latency and Energy Consumption Tradeoff in Mobile-Edge Computing Systems,2019 IEEE/CIC International Conference on Communications in China (ICCC)
+mobile_latency,Latency Minimization in a Fuzzy-Based Mobile Edge Orchestrator for IoT Applications,IEEE Communications Letters
+mobile_latency,Optimizing Energy-Latency Trade-off in Wireless Sensor Networks with Mobile Element,2010 IEEE 16th International Conference on Parallel and Distributed Systems
+mobile_latency,Learning based Latency Minimization Techniques in Mobile Edge Computing (MEC) systems: A Comprehensive Survey,"2021 International Conference on System, Computation, Automation and Networking (ICSCAN)"
+mobile_latency,Low-latency mobile data collection for Wireless Rechargeable Sensor Networks,2015 IEEE International Conference on Communications (ICC)
+mobile_latency,Latency-Minimized and Energy-Efficient Online Task Offloading for Mobile Edge Computing with Stochastic Heterogeneous Tasks,2019 IEEE 25th International Conference on Parallel and Distributed Systems (ICPADS)
+mobile_latency,On the Information Freshness and Tail Latency Trade-Off in Mobile Networks,2019 IEEE Global Communications Conference (GLOBECOM)
+mobile_latency,Modeling Detection Latency with Collaborative Mobile Sensing Architecture,IEEE Transactions on Computers
+mobile_latency,Optical Slot Switching Latency in Mobile Backhaul Networks,Journal of Lightwave Technology
+mobile_latency,A Minimized Latency Collaborative Computation Offloading Game Under Mobile Edge Computing for Indoor Localization,IEEE Access
+mobile_latency,Machine Learning Enables Predictive Resource Recommendation for Minimal Latency Mobile Networking,"2021 IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)"
+mobile_latency,Cooperative Service Placement and Request Routing in Mobile Edge Networks for Latency-Sensitive Applications,IEEE Systems Journal
+mobile_latency,Equating user performance among communication latency distributions and simulation fidelities for a teleoperated mobile robot,2015 IEEE International Conference on Robotics and Automation (ICRA)
+mobile_latency,Multiplexing of latency-critical communication and mobile broadband on a shared channel,2018 IEEE Wireless Communications and Networking Conference (WCNC)
+mobile_latency,Service Deployment for Latency Sensitive Applications in Mobile Edge Computing,2018 Sixth International Conference on Advanced Cloud and Big Data (CBD)
+mobile_latency,Cost and Latency Tradeoff in Mobile Edge Computing: A Distributed Game Approach,2019 IEEE International Conference on Big Data and Smart Computing (BigComp)
+mobile_latency,Latency-aware joint virtual machine and policy consolidation for mobile edge computing,2018 15th IEEE Annual Consumer Communications & Networking Conference (CCNC)
+mobile_latency,Latency Minimization for UAV-Enabled URLLC-Based Mobile Edge Computing Systems,IEEE Transactions on Wireless Communications
+mobile_latency,Understanding processing latency of SDN based mobility management in mobile core networks,"2016 IEEE 27th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)"
+mobile_latency,Latency Minimization for mmWave D2D Mobile Edge Computing Systems: Joint Task Allocation and Hybrid Beamforming Design,IEEE Transactions on Vehicular Technology
+mobile_latency,Latency Reduction for Mobile Backhaul by Pipelining LTE and DOCSIS,GLOBECOM 2017 - 2017 IEEE Global Communications Conference
+mobile_latency,Spectral-Efficient RIS-Aided RSMA URLLC: Toward Mobile Broadband Reliable Low Latency Communication (mBRLLC) System,IEEE Transactions on Wireless Communications
+mobile_latency,Layer 4 Accelerator (L4A) for Optimizing Network Protocol Latencies in Mobile Devices,2018 IEEE 20th International Conference on High Performance Computing and Communications; IEEE 16th International Conference on Smart City; IEEE 4th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)
+mobile_latency,Elasticity Control for Latency-Intolerant Mobile Edge Applications,2020 IEEE/ACM Symposium on Edge Computing (SEC)
+mobile_latency,A Proposal for Reducing Handover Latency and Improving Route Optimization in Proxy Mobile IPv6,2008 10th International Conference on Advanced Communication Technology
+mobile_latency,Reliability-Guaranteed Uplink Resource Management in Proactive Mobile Network for Minimal Latency Communications,IEEE Transactions on Wireless Communications
+mobile_latency,Reducing User Perceived Latency with a Middleware for Mobile SOA Access,2009 IEEE International Conference on Web Services
+mobile_latency,On the design of an energy-efficient low-latency integrated protocol for distributed mobile sensor networks,"International Workshop on Wireless Ad-Hoc Networks, 2004."
+mobile_latency,Multi-carrier Measurement Study of Mobile Network Latency: The Tale of Hong Kong and Helsinki,2019 15th International Conference on Mobile Ad-Hoc and Sensor Networks (MSN)
+mobile_latency,Joint Optimization of Execution Latency and Energy Consumption for Mobile Edge Computing with Data Compression and Task Allocation,2019 International Symposium on Electrical and Electronics Engineering (ISEE)
+mobile_latency,WebPro: A proxy-based approach for low latency web browsing on mobile devices,2015 IEEE 23rd International Symposium on Quality of Service (IWQoS)
+mobile_latency,Min–Max Latency Optimization for IRS-Aided Cell-Free Mobile Edge Computing Systems,IEEE Internet of Things Journal
+mobile_latency,A Low-Latency Scanning with Association Mechanism for Real-Time Communication in Mobile WiMAX,IEEE Transactions on Wireless Communications
+mobile_latency,Deep Reinforcement Learning for Online Latency Aware Workload Offloading in Mobile Edge Computing,GLOBECOM 2022 - 2022 IEEE Global Communications Conference
+mobile_latency,Improving Energy Efficiency of Ultra-Reliable Low-Latency and Delay Tolerant Services in Mobile Edge Computing Systems,2019 IEEE International Conference on Communications Workshops (ICC Workshops)
+mobile_latency,Enhancement of handoff latency reduction mechanism of mobile internet protocol version 6 (MIPv6),2012 International Conference on Computer and Communication Engineering (ICCCE)
+mobile_latency,Task Partitioning and User Association for Latency Minimization in Mobile Edge Computing Networks,IEEE INFOCOM 2021 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
+mobile_latency,Low latency techniques for mobile backhaul over DOCSIS,2018 IEEE Wireless Communications and Networking Conference (WCNC)
+mobile_latency,Latency Control in Edge Information Cache and Dissemination for Unmanned Mobile Machines,IEEE Transactions on Industrial Informatics
+mobile_latency,"High quality, low latency in-home streaming of multimedia applications for mobile devices",2014 Federated Conference on Computer Science and Information Systems
+mobile_latency,FAST: Flexible and Low-Latency State Transfer in Mobile Edge Computing,GLOBECOM 2020 - 2020 IEEE Global Communications Conference
+mobile_latency,Service Chaining Graph: Latency- and Energy-aware Mobile VR Deployment over MEC Infrastructures,GLOBECOM 2022 - 2022 IEEE Global Communications Conference
+mobile_latency,Deep Learning-Assisted Online Task Offloading for Latency Minimization in Heterogeneous Mobile Edge,IEEE Transactions on Mobile Computing
+mobile_latency,Ultrareliable Low-Latency Slicing in Space–Air–Ground Multiaccess Edge Computing Networks for Next-Generation Internet of Things and Mobile Applications,IEEE Internet of Things Journal
+mobile_latency,Latency Minimization for Full-Duplex Mobile-Edge Computing System,ICC 2019 - 2019 IEEE International Conference on Communications (ICC)
+mobile_latency,Improving Ultra-Reliable Low-Latency Communication in multiplexing with Enhanced Mobile Broadband in grant-free resources,"2019 IEEE 30th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)"
+mobile_latency,Carry-on State Service Handover between Edge Hosts for Latency Strict Applications in Mobile Networks,2018 21st International Symposium on Wireless Personal Multimedia Communications (WPMC)
+mobile_latency,A Convex Hull Based Optimization to Reduce the Data Delivery Latency of the Mobile Elements in Wireless Sensor Networks,2013 IEEE 10th International Conference on High Performance Computing and Communications & 2013 IEEE International Conference on Embedded and Ubiquitous Computing
+mobile_latency,Mobility-Aware Latency-Efficient Cache Placement in Mobile Edge Networks,2020 IEEE 22nd International Conference on High Performance Computing and Communications; IEEE 18th International Conference on Smart City; IEEE 6th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)
+mobile_latency,Reducing User Perceived Latency in Mobile Processes,2010 IEEE International Conference on Web Services
+mobile_latency,Low consumption dynamic time synchronization for mobile and high latency underwater acoustic communication networks,2016 IEEE/OES China Ocean Acoustics (COA)
+mobile_latency,Energy-Efficient Resource Allocation for Latency-Sensitive Mobile Edge Computing,2018 IEEE 88th Vehicular Technology Conference (VTC-Fall)
+mobile_latency,Latency Synchronization for Social VR with Mobile Edge Computing,ICC 2022 - IEEE International Conference on Communications
+mobile_latency,Learning-Based Query Scheduling and Resource Allocation for Low-Latency Mobile-Edge Video Analytics,IEEE Internet of Things Journal
+mobile_latency,Latency Minimization for Mobile Edge Computing Enhanced Proximity Detection in Road Networks,IEEE Transactions on Network Science and Engineering
+mobile_latency,DGL: Device Generic Latency Model for Neural Architecture Search on Mobile Devices,IEEE Transactions on Mobile Computing
+mobile_latency,Group-Query-as-a-Service for Secure Low-Latency Opportunistic RF Spectrum Access in Mobile Edge Computing Enabled Wireless Networks,2018 27th International Conference on Computer Communication and Networks (ICCCN)
+mobile_latency,Learning-Assisted Write Latency Optimization for Mobile Storage,2019 IEEE 25th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)
+mobile_latency,A Lean Networking Framework (LeaNet): Potential Technical Space and Approaches for Latency Sensitive Mobile Services,IEEE Network
+mobile_latency,Dynamic Spectrum Allocation Enabled Multi-user Latency Minimization in Mobile Edge Computing,"2020 16th International Conference on Mobility, Sensing and Networking (MSN)"
+mobile_latency,Reducing Event Latency and Power Consumption in Mobile Devices by Using a Kernel-Level Display Server,IEEE Transactions on Mobile Computing
+mobile_latency,Low-Latency Mobile Virtual Reality Content Delivery for Unmanned Aerial Vehicle-Enabled Wireless Networks With Energy Constraints,IEEE Transactions on Vehicular Technology
+mobile_latency,Energy-Latency Computation Offloading and Approximate Computing in Mobile-Edge Computing Networks,IEEE Transactions on Network and Service Management
+mobile_latency,Design of an Enhanced Bearer Buffer for Latency Minimization in the Mobile RAN,2019 IEEE Global Communications Conference (GLOBECOM)
+mobile_latency,"CORL2: Exploring Cooperative Opportunities, Reducing Latency and Prolonging Network Lifetime for Data Collection Using Mobile Sinks in Wireless Sensor Networks",IEEE Sensors Journal
+mobile_latency,Mixed-initiative multimedia for mobile devices: Design of a semantically-relevant low-latency system for news video recommendations,IEEE Southeastcon 2009
+mobile_latency,A Scheduling Framework for Latency Optimization on 5G Mobile Edge Computing Infrastructures,2019 IEEE Globecom Workshops (GC Wkshps)
+mobile_latency,Optimizing soft handoff latency and access network selection for next generation mobile communication networks,2016 Future Technologies Conference (FTC)
+mobile_latency,Welcome: Low Latency and Energy Efficient Neighbor Discovery for Mobile and IoT Devices,"2018 14th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)"
+mobile_latency,Latency Minimization for Multi-UAV Aided Mobile Edge Computing,2023 IEEE 9th World Forum on Internet of Things (WF-IoT)
+mobile_latency,Control Aspects for Using RIS in Latency-Constrained Mobile Edge Computing,"2023 57th Asilomar Conference on Signals, Systems, and Computers"
+mobile_latency,Latency Optimization for Mobile Edge Computing Based Proximity Detection in Road Networks,2020 IEEE/CIC International Conference on Communications in China (ICCC Workshops)
+mobile_latency,Ultra-Low-Latency Distributed Deep Neural Network over Hierarchical Mobile Networks,2019 IEEE Global Communications Conference (GLOBECOM)
+mobile_latency,Admission Control with Latency Considerations for 5G Mobile Edge Computing,"2023 IEEE 24th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)"
+mobile_latency,Latency-aware SDN-based Mobile Edge Computation Offloading in Industrial IoT,"2023 28th International Computer Conference, Computer Society of Iran (CSICC)"
+mobile_latency,Energy-Latency Aware Intelligent Reflecting Surface Aided Multi-Cell Mobile Edge Computing,IEEE Transactions on Green Communications and Networking
+mobile_latency,Statistical Characterization of Closed-Loop Latency at the Mobile Edge,IEEE Transactions on Communications
+mobile_latency,Spatial Modeling and Latency Analysis for Mobile Edge Computing in Wireless Networks,2018 IEEE International Conference on Communications (ICC)
+mobile_latency,Effects of mobility on latency in a WSN that accommodates mobile nodes,2015 IEEE Wireless Communications and Networking Conference (WCNC)
+mobile_latency,MeFILL: A Multi-edged Framework for Intelligent and Low Latency Mobile IoT Services,2020 IEEE Wireless Communications and Networking Conference (WCNC)
+mobile_latency,Min-Max Latency Minimization for Energy-Constrained Multi-UAV Mobile Edge Computing,IEEE Transactions on Network Science and Engineering
+mobile_latency,Congestion Control as a Service: Towards Low Latency Mobile Uploading,2024 IEEE/ACM 32nd International Symposium on Quality of Service (IWQoS)
+mobile_latency,Distributed latency estimation using global knowledge for mobile collaborative applications,2015 International Wireless Communications and Mobile Computing Conference (IWCMC)
+mobile_latency,Joint Optimization of Latency and Reward for Offloading Dependent Tasks in Mobile Edge Computing,2021 20th International Conference on Ubiquitous Computing and Communications (IUCC/CIT/DSCI/SmartCNS)
+mobile_latency,Accurate Deep Learning Inference Latency Prediction over Dynamic Running Mobile Devices,"2023 19th International Conference on Mobility, Sensing and Networking (MSN)"
+mobile_latency,Minimizing Service Latency Through Image-Based Microservice Caching and Randomized Request Routing in Mobile Edge Computing,IEEE Internet of Things Journal
+mobile_latency,Reducing Latency through Efficient Channel Allocation Methods for Multiversion Data Dissemination in Mobile Computing Environment,2008 16th International Conference on Advanced Computing and Communications
+mobile_latency,Deploying a Machine Translation Model on a Mobile Device with Improved Latency Constraints,"2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)"
+mobile_latency,Joint Upload-Download Transmission Scheme for Low-Latency Mobile Live Video Streaming,2023 IEEE/ACM 31st International Symposium on Quality of Service (IWQoS)
+mobile_latency,On Latency Bounds for ROS Messaging in Cloud-Enabled Mobile Robots,2022 IEEE 8th World Forum on Internet of Things (WF-IoT)
+mobile_latency,Latency Estimation and Computational Task Offloading in Vehicular Mobile Edge Computing Applications,IEEE Transactions on Vehicular Technology
+mobile_latency,Multi-UAV-Assisted Offloading for Joint Optimization of Energy Consumption and Latency in Mobile Edge Computing,IEEE Systems Journal
+mobile_latency,Smart Healthcare with Hybrid Mobile Edge-Quantum Computing: Dynamic Computation Offloading for Latency Improvement,2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall)
+mobile_latency,Reducing Mobile Web Latency Through Adaptively Selecting Transport Protocol,IEEE/ACM Transactions on Networking
+mobile_latency,Transformer-Assisted Deep Reinforcement Learning for Distributed Latency-Sensitive Task Offloading in Mobile Edge Computing,ICC 2024 - IEEE International Conference on Communications
+mobile_latency,Multi-IRS Aided Mobile Edge Computing for High Reliability and Low Latency Services,IEEE Transactions on Network and Service Management
+mobile_latency,Latency-Constrained Dynamic Computation Offloading in Mobile Edge Computing using Multi-Agent Reinforcement Learning,GLOBECOM 2023 - 2023 IEEE Global Communications Conference
+mobile_latency,Dynamic Task Division and Allocation in Mobile Edge Computing Systems: A Latency Oriented Approach via Deep Q-Learning Network,2022 IEEE 23rd International Conference on High Performance Switching and Routing (HPSR)
+mobile_latency,Reliability-Optimal Offloading for Mobile Edge-Computing in Low-Latency Industrial IoT Networks,IEEE Transactions on Wireless Communications
+mobile_latency,EdgeOPT: A Competitive Algorithm for Online Parallel Task Scheduling with Latency Guarantee in Mobile Edge Computing,IEEE Transactions on Communications
+mobile_latency,A Shortcut Through the IPX: Measuring Latencies in Global Mobile Roaming with Regional Breakouts,2024 8th Network Traffic Measurement and Analysis Conference (TMA)
+mobile_latency,Efficient Queue Control Policies for Latency-Critical Traffic in Mobile Networks,IEEE Transactions on Network and Service Management
+mobile_latency,Distributed Task Offloading and Resource Allocation for Latency Minimization in Mobile Edge Computing Networks,IEEE Transactions on Mobile Computing
+mobile_latency,Low latency universal buffer compression and decompression for mobile graphics applications,Year: 2010 | Conference Paper | Publisher: IEEE
+mobile_latency,Low-latency secure mobile communications,Year: 2005 | Conference Paper | Publisher: IEEE
+mobile_latency,SIQuA: server-aware image quality adaptation for optimizing server latency and capacity in wireless image data services [mobile radio],Year: 2004 | Conference Paper | Publisher: IEEE
+mobile_latency,Latency Optimization in UAV-Assisted Mobile Edge Computing Empowered by Caching Mechanisms,IEEE Journal on Miniaturization for Air and Space Systems
+mobile_latency,Resource Allocation in Passive Optical Networks for Low-Latency Mobile Fronthauling Services,IEEE Network
+mobile_latency,Extension of Mobile IP for Fast Authentication and Low Latency Handoff,11th European Wireless Conference 2005 - Next Generation wireless and Mobile Communications and Services
+mobile_latency,Energy and Latency-Aware Resource Management for UAV-Assisted Mobile Edge Computing Against Jamming,GLOBECOM 2023 - 2023 IEEE Global Communications Conference
+mobile_latency,Adaptive media playout buffer management for latency optimization of mobile live streaming,2017 IEEE International Conference on Multimedia & Expo Workshops (ICMEW)
+mobile_latency,Load-Aware Computation Offloading with Latency Limitation in Mobile Edge Computing,"2023 3rd International Conference on Neural Networks, Information and Communication Engineering (NNICE)"

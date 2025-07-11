@@ -1,0 +1,582 @@
+keyword,title,publication,matched_venue,remain,analyzed
+mobile_performance,“Inconsistent Performance”: Understanding Concerns of Real-World Users on Smart Mobile Health Applications Through Analyzing App Reviews,UIST '22 Adjunct: Adjunct Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology,ist ,no,not in venue list
+mobile_performance,On the Impact of the Critical CSS Technique on the Performance and Energy Consumption of Mobile Browsers,EASE '22: Proceedings of the 26th International Conference on Evaluation and Assessment in Software Engineering,"ase 
+ease 
+international conference on evaluation and assessment in software engineering",yes,only target problem
+mobile_performance,Performance bottlenecks identification in cloudified mobile networks,MobiCom '20: Proceedings of the 26th Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_performance,"Global mobile network aggregators: taxonomy, roaming performance and optimization","MobiSys '22: Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services","mobisys 
+international conference on mobile systems, applications and services",no,no need
+mobile_performance,Investigating the Correlation between Performance Scores and Energy Consumption of Mobile Web Apps,EASE '20: Proceedings of the 24th International Conference on Evaluation and Assessment in Software Engineering,"ase 
+ease 
+international conference on evaluation and assessment in software engineering",no,no need
+mobile_performance,An In-depth Analysis of the Impact of Battery Usage Patterns on Performance of Task Allocation Algorithms in Sparse Mobile Crowdsensing,"MSWIM '19: Proceedings of the 22nd International ACM Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",mswim ,no,no need
+mobile_performance,Session details: PAPER SESSION 8: Mobile Performance,"MobiSys '17: Proceedings of the 15th Annual International Conference on Mobile Systems, Applications, and Services",mobisys ,no,no need
+mobile_performance,"Communications-based Formation Control of Mobile Robots: Modeling, Analysis and Performance Evaluation","MSWiM '20: Proceedings of the 23rd International ACM Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",mswim ,no,no need
+mobile_performance,Improved Mobile Robot Programming Performance through Real-time Program Assessment,ITiCSE '17: Proceedings of the 2017 ACM Conference on Innovation and Technology in Computer Science Education,icse ,no,not in venue list
+mobile_performance,"A Method and a Tool for Commercial Performance Evaluation of a Company: The case of a ""Mobile Telephony Operator""",ICIST '20: Proceedings of the 10th International Conference on Information Systems and Technologies,ist ,no,not in venue list
+mobile_performance,Romou: rapidly generate high-performance tensor kernels for mobile GPUs,MobiCom '22: Proceedings of the 28th Annual International Conference on Mobile Computing And Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_performance,Rethinking Energy-Performance Trade-Off in Mobile Web Page Loading,MobiCom '15: Proceedings of the 21st Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_performance,Performance Evaluation of a Wireless Network using a VoIP Traffic Generator on a Mobile Device,SAICSIT '14: Proceedings of the Southern African Institute for Computer Scientist and Information Technologists Annual Conference 2014 on SAICSIT 2014 Empowered by Technology,ist ,no,not in venue list
+mobile_performance,Mobile-Health Tool Use and Community Health Worker Performance in the Kenyan Context: A Task-Technology Fit Perspective,SAICSIT '14: Proceedings of the Southern African Institute for Computer Scientist and Information Technologists Annual Conference 2014 on SAICSIT 2014 Empowered by Technology,ist ,no,not in venue list
+mobile_performance,Mobile network performance evaluation using the radio frequency network channel emulation simulation tool(RFnest™),MobiCom '13: Proceedings of the 19th annual international conference on Mobile computing & networking,mobicom ,no,no need
+mobile_performance,Handover performance in the IEEE 802.16 mobile networks,SIMUTools '10: Proceedings of the 3rd International ICST Conference on Simulation Tools and Techniques,icst ,no,not in venue list
+mobile_performance,Design and performance evaluation of an energy-aware scheduling framework for mobile WiMAX,"MSWIM '10: Proceedings of the 13th ACM international conference on Modeling, analysis, and simulation of wireless and mobile systems",mswim ,no,no need
+mobile_performance,Delay-throughput performance in mobile ad-hoc networks with heterogeneous nodes,"MSWiM '09: Proceedings of the 12th ACM international conference on Modeling, analysis and simulation of wireless and mobile systems",mswim ,no,no need
+mobile_performance,Performance assertions for mobile devices,ISSTA '06: Proceedings of the 2006 international symposium on Software testing and analysis,"issta 
+international symposium on software testing and analysis",no,no need
+mobile_performance,ZIPT: Zero-Integration Performance Testing of Mobile App Designs,UIST '17: Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology,ist ,no,not in venue list
+mobile_performance,Poster: Application-Layer Optimization of Performance vs Energy in Mobile Network I/O,"MobiSys '17: Proceedings of the 15th Annual International Conference on Mobile Systems, Applications, and Services",mobisys ,no,no need
+mobile_performance,Performance analysis of the mobile IP fast authentication protocol,"MSWiM '04: Proceedings of the 7th ACM international symposium on Modeling, analysis and simulation of wireless and mobile systems",mswim ,no,no need
+mobile_performance,UML based modeling and performance analysis of mobile systems,"MSWiM '04: Proceedings of the 7th ACM international symposium on Modeling, analysis and simulation of wireless and mobile systems",mswim ,no,no need
+mobile_performance,Performance evaluation of a streaming based protocol for 3D virtual environment exploration on mobile devices,MSWiM '06: Proceedings of the 9th ACM international symposium on Modeling analysis and simulation of wireless and mobile systems,mswim ,no,no need
+mobile_performance,Improving TCP performance over wireless networks with collaborative multi-homed mobile hosts,"MobiSys '05: Proceedings of the 3rd international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_performance,Improving TCP performance over mobile ad hoc networks by exploiting cross-layer information awareness,MobiCom '04: Proceedings of the 10th annual international conference on Mobile computing and networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_performance,Performance analysis of optimized smooth handoff in mobile IP,MSWiM '02: Proceedings of the 5th ACM international workshop on Modeling analysis and simulation of wireless and mobile systems,mswim ,no,no need
+mobile_performance,The performance impact of traffic patterns on routing protocols in mobile ad hoc networks,"MSWiM '04: Proceedings of the 7th ACM international symposium on Modeling, analysis and simulation of wireless and mobile systems",mswim ,no,no need
+mobile_performance,Performance evaluation of mobile wireless networks: a new perspective,"MSWIM '01: Proceedings of the 4th ACM international workshop on Modeling, analysis and simulation of wireless and mobile systems",mswim ,no,no need
+mobile_performance,Demo: Mapping global mobile performance trends with mobilyzer and mobiPerf,"MobiSys '14: Proceedings of the 12th annual international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_performance,Multi-hop mobile wireless network design: implicit cross-layer loss models and performance sensitivities,MobiCom '08: Proceedings of the 14th ACM international conference on Mobile computing and networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_performance,Improving TCP performance over mobile ad-hoc networks with out-of-order detection and response,MobiHoc '02: Proceedings of the 3rd ACM international symposium on Mobile ad hoc networking & computing,mobihoc ,no,no need
+mobile_performance,Analysis of TCP performance over mobile ad hoc networks,MobiCom '99: Proceedings of the 5th annual ACM/IEEE international conference on Mobile computing and networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_performance,A comparison of TCP performance over three routing protocols for mobile ad hoc networks,MobiHoc '01: Proceedings of the 2nd ACM international symposium on Mobile ad hoc networking & computing,mobihoc ,no,no need
+mobile_performance,Evaluating the performance of mobile agent-based message communication among mobile hosts in large ad hoc wireless network,"MSWiM '99: Proceedings of the 2nd ACM international workshop on Modeling, analysis and simulation of wireless and mobile systems",mswim ,no,no need
+mobile_performance,Performance analysis of mobile agents for filtering data streams on wireless networks,"MSWIM '00: Proceedings of the 3rd ACM international workshop on Modeling, analysis and simulation of wireless and mobile systems",mswim ,no,no need
+mobile_performance,"PROTEUS: network performance forecast for real-time, interactive mobile applications","MobiSys '13: Proceeding of the 11th annual international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_performance,"System and process modelling for design, management and performance evaluation of present and future mobile networks","MSWIM '01: Proceedings of the 4th ACM international workshop on Modeling, analysis and simulation of wireless and mobile systems",mswim ,no,no need
+mobile_performance,Scenario-based performance analysis of routing protocols for mobile ad-hoc networks,MobiCom '99: Proceedings of the 5th annual ACM/IEEE international conference on Mobile computing and networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_performance,Performance comparison of mobile support strategies,MobiCom '95: Proceedings of the 1st annual international conference on Mobile computing and networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_performance,Poster: collective mobile sensing for wireless network performance monitoring,"MobiSys '11: Proceedings of the 9th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_performance,CTG: a connectivity trace generator for testing the performance of opportunistic mobile systems,ESEC-FSE '07: Proceedings of the the 6th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering,fse ,no,no need
+smartphone_energy,"BaMbI, a battery free and energy harvesting smartphone","MobiSys '22: Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services","mobisys 
+international conference on mobile systems, applications and services",no,no need
+smartphone_energy,"Smartphone Background Activities in the Wild: Origin, Energy Drain, and Optimization",MobiCom '15: Proceedings of the 21st Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+smartphone_energy,Performance-Energy Trade-offs in Smartphones,"MSWiM '16: Proceedings of the 19th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",mswim ,no,no need
+smartphone_energy,Energy-delay tradeoffs in smartphone applications,"MobiSys '10: Proceedings of the 8th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+smartphone_energy,Flexible And Effective Energy Management In Smartphones,PhDForum '15: Proceedings of the 2015 on MobiSys PhD Forum,mobisys ,no,no need
+smartphone_energy,Making web applications more energy efficient for OLED smartphones,ICSE 2014: Proceedings of the 36th International Conference on Software Engineering,"icse
+international conference on software engineering",yes,only target problem
+smartphone_energy,Energy-efficient positioning for smartphones using Cell-ID sequence matching,"MobiSys '11: Proceedings of the 9th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+smartphone_energy,Where is the energy spent inside my app?: fine grained energy accounting on smartphones with Eprof,EuroSys '12: Proceedings of the 7th ACM european conference on Computer Systems,eurosys ,yes,yes
+smartphone_energy,Improving energy efficiency of location sensing on smartphones,"MobiSys '10: Proceedings of the 8th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+smartphone_energy,Energy-efficient rate-adaptive GPS-based positioning for smartphones,"MobiSys '10: Proceedings of the 8th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+smartphone_energy,Poster: Energy-efficient Web Browsing in Smartphones,"MobiSys '16 Companion: Proceedings of the 14th Annual International Conference on Mobile Systems, Applications, and Services Companion",mobisys ,no,no need
+smartphone_energy,What is keeping my phone awake?: characterizing and detecting no-sleep energy bugs in smartphone apps,"MobiSys '12: Proceedings of the 10th international conference on Mobile systems, applications, and services",mobisys ,yes,yes
+smartphone_energy,Wireless wakeups revisited: energy management for voip over wi-fi smartphones,"MobiSys '07: Proceedings of the 5th international conference on Mobile systems, applications and services","mobisys 
+international conference on mobile systems, applications and services",no,no need
+mobile_latency,Low Latency Mobile Augmented Reality with Flexible Tracking,MobiCom '18: Proceedings of the 24th Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_latency,RemoteGL - Towards Low-latency Interactive Cloud Graphics Experience for Mobile Devices (demo),"MobiSys '19: Proceedings of the 17th Annual International Conference on Mobile Systems, Applications, and Services",mobisys ,no,no need
+mobile_latency,Latency Adaptive Streaming of 8K 360 Degree Video to Mobile VR Headsets (demo),"MobiSys '19: Proceedings of the 17th Annual International Conference on Mobile Systems, Applications, and Services",mobisys ,no,no need
+mobile_latency,Mitigating the Latency-Accuracy Trade-off in Mobile Data Analytics Systems,MobiCom '18: Proceedings of the 24th Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_latency,Leveraging program analysis to reduce user-perceived latency in mobile applications,ICSE '18: Proceedings of the 40th International Conference on Software Engineering,"icse 
+international conference on software engineering",yes,only target problem
+mobile_latency,Tutti: coupling 5G RAN and mobile edge computing for latency-critical video analytics,MobiCom '22: Proceedings of the 28th Annual International Conference on Mobile Computing And Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_latency,mGEMM: low-latency convolution with minimal memory overhead optimized for mobile devices,"MobiSys '22: Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services","mobisys 
+international conference on mobile systems, applications and services",no,no need
+mobile_latency,Latency-optimized broadcast in mobile ad hoc networks without node coordination,MobiHoc '14: Proceedings of the 15th ACM international symposium on Mobile ad hoc networking and computing,"mobihoc 
+mobile ad hoc networking and computing",no,no need
+mobile_latency,On the latency for information dissemination in mobile wireless networks,MobiHoc '08: Proceedings of the 9th ACM international symposium on Mobile ad hoc networking and computing,"mobihoc 
+mobile ad hoc networking and computing",no,no need
+mobile_latency,Poster: Edge-cloud Enhancement -- Latency-aware Virtual Cluster Placement for Supporting Cloud Applications in Mobile Edge Networks,MobiCom '19: The 25th Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_latency,A comparison of mechanisms for improving mobile IP handoff latency for end-to-end TCP,MobiCom '03: Proceedings of the 9th annual international conference on Mobile computing and networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_latency,A scalable low-latency cache invalidation strategy for mobile environments,MobiCom '00: Proceedings of the 6th annual international conference on Mobile computing and networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_latency,Demo: DeLorean: using speculation to enable low-latency continuous interaction for mobile cloud gaming,"MobiSys '14: Proceedings of the 12th annual international conference on Mobile systems, applications, and services",mobisys ,no,no need
+smartphone_battery,How much battery does dark mode save?: an accurate OLED display power profiler for modern smartphones,"MobiSys '21: Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services",mobisys ,no,no need
+smartphone_battery,Demo: Wireless Link Selection on Smartphone: Throughput vs Battery Drain,MobiCom '15: Proceedings of the 21st Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_gpu,A GPU-enabled mobile telemedicine training system for graphic rendering,MobiCom '22: Proceedings of the 28th Annual International Conference on Mobile Computing And Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_gpu,Pantheon: Preemptible Multi-DNN Inference on Mobile Edge GPUs,"MOBISYS '24: Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications and Services","mobisys 
+international conference on mobile systems, applications and services",no,no need
+mobile_gpu,GPU based High Definition Parallel Video Codec Optimization in Mobile Device,MobiCom '18: Proceedings of the 24th Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_gpu,Accelerating Mobile Audio Sensing Algorithms through On-Chip GPU Offloading,"MobiSys '17: Proceedings of the 15th Annual International Conference on Mobile Systems, Applications, and Services",mobisys ,no,no need
+mobile_gpu,CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices,"MobiSys '22: Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services","mobisys 
+international conference on mobile systems, applications and services",no,no need
+mobile_gpu,Heimdall: mobile GPU coordination platform for augmented reality applications,MobiCom '20: Proceedings of the 26th Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_gpu,LiteReconfig: cost and content aware reconfiguration of video object detection systems for mobile GPUs,EuroSys '22: Proceedings of the Seventeenth European Conference on Computer Systems,eurosys ,no,no need
+mobile_gpu,DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications,"MobiSys '17: Proceedings of the 15th Annual International Conference on Mobile Systems, Applications, and Services",mobisys ,no,no need
+mobile_gpu,Demo: DeepMon: Building Mobile GPU Deep Learning Models for Continuous Vision Applications,"MobiSys '17: Proceedings of the 15th Annual International Conference on Mobile Systems, Applications, and Services",mobisys ,no,no need
+mobile_gpu,Kahawai: High-Quality Mobile Gaming Using GPU Offload,"MobiSys '15: Proceedings of the 13th Annual International Conference on Mobile Systems, Applications, and Services",mobisys ,no,no need
+mobile_gpu,Demo: GPU-based Image Recognition and Object Detection on Commodity Mobile Devices,"MobiSys '16 Companion: Proceedings of the 14th Annual International Conference on Mobile Systems, Applications, and Services Companion",mobisys ,no,no need
+mobile_gpu,Demo: Kahawai: high-quality mobile gaming using GPU offload,"MobiSys '14: Proceedings of the 12th annual international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_gpu,Poster: towards mobile GPU-accelerated context processing for continuous sensing applications on smartphones,"MobiSys '12: Proceedings of the 10th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_cpu,ConvReLU++: Reference-based Lossless Acceleration of Conv-ReLU Operations on Mobile CPU,"MobiSys '23: Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services","mobisys 
+international conference on mobile systems, applications and services",no,no need
+mobile_cpu,AsyMo: scalable and efficient deep-learning inference on asymmetric mobile CPUs,MobiCom '21: Proceedings of the 27th Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+android_energy,E-MANAFA: Energy Monitoring and ANAlysis tool For Android,ASE '22: Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering,"ase 
+automated software engineering",no,no need
+android_energy,ecoCode: a SonarQube Plugin to Remove Energy Smells from Android Projects,ASE '22: Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering,"ase 
+automated software engineering",yes,yes
+android_energy,A black box technique to reduce energy consumption of Android apps,ICSE-NIER '22: Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: New Ideas and Emerging Results,international conference on software engineering,no,bytecode level
+android_energy,Comparing the Energy Efficiency of WebAssembly and JavaScript in Web Applications on Android Mobile Devices,EASE '22: Proceedings of the 26th International Conference on Evaluation and Assessment in Software Engineering,"ase 
+ease 
+international conference on evaluation and assessment in software engineering",yes,only target problem
+android_energy,Automated construction of energy test oracles for Android,ESEC/FSE 2020: Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering,"esec/fse 
+fse ",yes,yes
+android_energy,Search-based energy testing of Android,ICSE '19: Proceedings of the 41st International Conference on Software Engineering,"icse 
+international conference on software engineering",yes,yes
+android_energy,Detection of energy inefficiencies in Android wear watch faces,ESEC/FSE 2018: Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering,"esec/fse 
+fse ",no,no need
+android_energy,Multi-Objective Optimization of Energy Consumption of GUIs in Android Apps,"ACM Transactions on Software Engineering and Methodology (TOSEM), Volume 27, Issue 3","transactions on software engineering
+transactions on software engineering and methodology",yes,only target problem
+android_energy,µDroid: an energy-aware mutation testing framework for Android,ESEC/FSE 2017: Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering,"esec/fse 
+fse ",yes,only target problem
+android_energy,Measuring and optimizing android smartwatch energy consumption: poster,MobiCom '16: Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+android_energy,Energy-aware test-suite minimization for Android apps,ISSTA 2016: Proceedings of the 25th International Symposium on Software Testing and Analysis,"issta 
+international symposium on software testing and analysis",yes,yes
+android_energy,A study on the energy consumption of Android app development approaches,MSR '17: Proceedings of the 14th International Conference on Mining Software Repositories,msr ,yes,only target problem
+android_energy,Improving energy consumption in Android apps,ESEC/FSE 2015: Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering,"esec/fse 
+fse ",yes,yes
+android_energy,The accuracy of Android energy measurements for offloading computational expensive tasks: poster,MobiHoc '16: Proceedings of the 17th ACM International Symposium on Mobile Ad Hoc Networking and Computing,"mobihoc 
+mobile ad hoc networking and computing",no,no need
+android_energy,Optimizing energy consumption of GUIs in Android apps: a multi-objective approach,ESEC/FSE 2015: Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering,"esec/fse 
+fse ",yes,only target problem
+android_energy,Calculating source line level energy information for Android applications,ISSTA 2013: Proceedings of the 2013 International Symposium on Software Testing and Analysis,"issta 
+international symposium on software testing and analysis",no,no need
+android_energy,Mining energy-greedy API usage patterns in Android apps: an empirical study,MSR 2014: Proceedings of the 11th Working Conference on Mining Software Repositories,msr ,yes,yes
+android_energy,GreenHub farmer: real-world data for Android energy mining,MSR '19: Proceedings of the 16th International Conference on Mining Software Repositories,msr ,no,not performance issue analysis
+android_energy,"GreenSource: a large-scale collection of Android code, tests and energy metrics",MSR '19: Proceedings of the 16th International Conference on Mining Software Repositories,msr ,no,not performance issue analysis
+android_energy,GEMMA: multi-objective optimization of energy consumption of GUIs in Android apps,ICSE-C '17: Proceedings of the 39th International Conference on Software Engineering Companion,international conference on software engineering,yes,yes
+android_energy,PETrA: a software-based tool for estimating the energy profile of Android applications,ICSE-C '17: Proceedings of the 39th International Conference on Software Engineering Companion,international conference on software engineering,no,no need
+android_energy,Poster: a smart scheduling mechanism for energy saving in android system,"MobiSys '12: Proceedings of the 10th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+android_energy,Poster: an energy profiler for android applications used in the real world,"MobiSys '12: Proceedings of the 10th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+phone_memory,Imaginary phone: learning imaginary interfaces by transferring spatial memory from a familiar device,UIST '11: Proceedings of the 24th annual ACM symposium on User interface software and technology,ist ,no,not in venue list
+mobile_energy,"SERENUS: Alleviating Low-Battery Anxiety Through Real-time, Accurate, and User-Friendly Energy Consumption Prediction of Mobile Applications",UIST '24: Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology,ist ,no,not in venue list
+mobile_energy,Combatting Energy Issues for Mobile Applications,"ACM Transactions on Software Engineering and Methodology (TOSEM), Volume 32, Issue 1","transactions on software engineering
+transactions on software engineering and methodology",yes,yes
+mobile_energy,Cost-Effective Strategies for Building Energy Efficient Mobile Applications,ICSE '23: Proceedings of the 45th International Conference on Software Engineering: Companion Proceedings,"icse 
+international conference on software engineering",yes,yes
+mobile_energy,EEFL: High-Speed Wireless Communications Inspired Energy Efficient Federated Learning over Mobile Devices,"MobiSys '23: Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services","mobisys 
+international conference on mobile systems, applications and services",no,no need
+mobile_energy,eGEN: an energy-saving modeling language and code generator for location-sensing of mobile apps,ESEC/FSE 2022: Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering,"esec/fse 
+fse ",no,no need
+mobile_energy,Detecting and diagnosing energy issues for mobile applications,ISSTA 2020: Proceedings of the 29th ACM SIGSOFT International Symposium on Software Testing and Analysis,"issta 
+international symposium on software testing and analysis",yes,yes
+mobile_energy,Impact of programming languages on energy consumption for mobile devices,ESEC/FSE 2020: Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering,"esec/fse 
+fse ",no,not performance issue
+mobile_energy,Optimizing Energy Efficiency of Browsers in Energy-Aware Scheduling-enabled Mobile Devices,MobiCom '19: The 25th Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_energy,Stochastic energy optimization for mobile GPS applications,ESEC/FSE 2018: Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering,"esec/fse 
+fse ",no,no need
+mobile_energy,Measuring the energy footprint of mobile testing frameworks,ICSE '18: Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings,"icse 
+international conference on software engineering",no,no need
+mobile_energy,A Context-driven Energy Assessment for Energy-aware Development of Mobile Sensing Applications,Ph.D. Forum '17: Proceedings of the 2017 Workshop on MobiSys 2017 Ph.D. Forum,mobisys ,no,no need
+mobile_energy,Advancing energy testing of mobile applications,ICSE-C '17: Proceedings of the 39th International Conference on Software Engineering Companion,international conference on software engineering,yes,yes
+mobile_energy,Towards a framework for detecting energy drain in mobile applications: an architecture overview,ISSTA '18: Companion Proceedings for the ISSTA/ECOOP 2018 Workshops,issta ,no,no need
+mobile_energy,Reducing energy consumption of resource-intensive scientific mobile applications via code refactoring,ICSE-C '17: Proceedings of the 39th International Conference on Software Engineering Companion,international conference on software engineering,no,no need
+mobile_energy,Automated energy optimization of HTTP requests for mobile applications,ICSE '16: Proceedings of the 38th International Conference on Software Engineering,"icse 
+international conference on software engineering",yes,yes
+mobile_energy,Nyx: a display energy optimizer for mobile web apps,ESEC/FSE 2015: Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering,"esec/fse 
+fse ",no,no need
+mobile_energy,Energy efficient multipath TCP for mobile devices,MobiHoc '14: Proceedings of the 15th ACM international symposium on Mobile ad hoc networking and computing,"mobihoc 
+mobile ad hoc networking and computing",no,no need
+mobile_energy,A Computing Profiling Procedure for Mobile Developers to Estimate Energy Cost,"MSWiM '15: Proceedings of the 18th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",mswim ,no,no need
+mobile_energy,Detecting energy bugs and hotspots in mobile apps,FSE 2014: Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of Software Engineering,fse ,yes,yes
+mobile_energy,Maximizing Mobiles Energy Saving Through Tasks Optimal Offloading Placement in two-tier Cloud,"MSWIM '18: Proceedings of the 21st ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",mswim ,no,no need
+mobile_energy,Energy aware self-adaptation in mobile systems,ICSE '13: Proceedings of the 2013 International Conference on Software Engineering,"icse 
+international conference on software engineering",no,no need
+mobile_energy,Energy Efficient and Fair Management of Sensing Applications on Heterogeneous Resource Mobile Devices,PhDForum '15: Proceedings of the 2015 on MobiSys PhD Forum,mobisys ,no,no need
+mobile_energy,Energy proportional image sensors for continuous mobile vision,"MobiSys '13: Proceeding of the 11th annual international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_energy,Estimating mobile application energy consumption using program analysis,ICSE '13: Proceedings of the 2013 International Conference on Software Engineering,"icse 
+international conference on software engineering",no,no need
+mobile_energy,APE: an annotation language and middleware for energy-efficient mobile application development,ICSE 2014: Proceedings of the 36th International Conference on Software Engineering,"icse 
+international conference on software engineering",yes,only target problem
+mobile_energy,An energy efficient adaptive HELLO algorithm for mobile ad hoc networks,"MSWiM '13: Proceedings of the 16th ACM international conference on Modeling, analysis & simulation of wireless and mobile systems",mswim ,no,no need
+mobile_energy,Energy characterization and optimization of image sensing toward continuous mobile vision,"MobiSys '13: Proceeding of the 11th annual international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_energy,Energy-efficient trajectory tracking for mobile devices,"MobiSys '11: Proceedings of the 9th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_energy,Using OMNeT++ for energy optimization simulations in mobile core networks,SIMUTOOLS '12: Proceedings of the 5th International ICST Conference on Simulation Tools and Techniques,icst ,no,not in venue list
+mobile_energy,Security versus energy tradeoffs in host-based mobile malware detection,"MobiSys '11: Proceedings of the 9th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_energy,Energy management in mobile devices with the cinder operating system,EuroSys '11: Proceedings of the sixth conference on Computer systems,eurosys ,no,no need
+mobile_energy,EXPRESS: an energy-efficient and secure framework for mobile edge computing and blockchain based smart systems,ASE '20: Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering,"ase 
+automated software engineering",no,no need
+mobile_energy,EMaaS: energy measurements as a service for mobile applications,ICSE-NIER '19: Proceedings of the 41st International Conference on Software Engineering: New Ideas and Emerging Results,international conference on software engineering,no,no need
+mobile_energy,Self-constructive high-rate system energy modeling for battery-powered mobile systems,"MobiSys '11: Proceedings of the 9th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_energy,Energy-accuracy trade-off for continuous mobile device location,"MobiSys '10: Proceedings of the 8th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_energy,Middleware for energy-awareness in mobile devices,COMSWARE '09: Proceedings of the Fourth International ICST Conference on COMmunication System softWAre and middlewaRE,icst ,no,not in venue list
+mobile_energy,Poster: Energy Efficient Mobile Video Transmission over Wireless Networks in IoT Applications,MobiCom '19: The 25th Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_energy,Detecting energy-greedy anomalies and mobile malware variants,"MobiSys '08: Proceedings of the 6th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_energy,On the limits of effective hybrid micro-energy harvesting on mobile CRFID sensors,"MobiSys '10: Proceedings of the 8th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_energy,EARMO: an energy-aware refactoring approach for mobile apps,ICSE '18: Proceedings of the 40th International Conference on Software Engineering,"icse 
+international conference on software engineering",yes,yes
+mobile_energy,A framework of energy efficient mobile sensing for automatic user state recognition,"MobiSys '09: Proceedings of the 7th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_energy,GfxDoctor: A Holistic Graphics Energy Profiler for Mobile Devices,EuroSys '17: Proceedings of the Twelfth European Conference on Computer Systems,eurosys ,no,no need
+mobile_energy,Session details: Energy conservation for mobile devices,"MobiSys '04: Proceedings of the 2nd international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_energy,Randomized energy aware routing algorithms in mobile ad hoc networks,"MSWiM '05: Proceedings of the 8th ACM international symposium on Modeling, analysis and simulation of wireless and mobile systems",mswim ,no,no need
+mobile_energy,ConMap: A Novel Framework for Optimizing Multicast Energy in Delay-constrained Mobile Wireless Networks,Mobihoc '17: Proceedings of the 18th ACM International Symposium on Mobile Ad Hoc Networking and Computing,"mobihoc 
+mobile ad hoc networking and computing",no,no need
+mobile_energy,Constructing minimum energy mobile wireless networks,MobiHoc '01: Proceedings of the 2nd ACM international symposium on Mobile ad hoc networking & computing,mobihoc ,no,no need
+mobile_energy,Poster: ETRACK: Energy Efficient Tracking a Mobile Object Using Under Water Sensors,"MobiSys '16 Companion: Proceedings of the 14th Annual International Conference on Mobile Systems, Applications, and Services Companion",mobisys ,no,no need
+mobile_energy,Energy-Adaptive Display System Designs for Future Mobile Environments,"MobiSys '03: Proceedings of the 1st international conference on Mobile systems, applications and services","mobisys 
+international conference on mobile systems, applications and services",no,no need
+mobile_energy,RnB: rate and brightness adaptation for rate-distortion-energy tradeoff in HTTP adaptive streaming over mobile devices,MobiCom '16: Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_energy,Poster: Extremely Parallel Resource Pre-Fetching for Energy Optimized Mobile Web Browsing,MobiCom '15: Proceedings of the 21st Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_energy,Poster: bPart - A Small and Versatile Bluetooth Low Energy Sensor Platform for Mobile Sensing,"MobiSys '15: Proceedings of the 13th Annual International Conference on Mobile Systems, Applications, and Services",mobisys ,no,no need
+mobile_energy,Tracko: Ad-hoc Mobile 3D Tracking Using Bluetooth Low Energy and Inaudible Signals for Cross-Device Interaction,UIST '15: Proceedings of the 28th Annual ACM Symposium on User Interface Software & Technology,ist ,no,not in venue list
+mobile_energy,Demo: sesame: self-constructive system energy modeling for battery-powered mobile systems,"MobiSys '11: Proceedings of the 9th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_energy,Poster: energy consumption impact of UHF RFID reader integration with mobile phones,"MobiSys '11: Proceedings of the 9th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_energy,EnTracked: energy-efficient robust position tracking for mobile devices,"MobiSys '09: Proceedings of the 7th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_energy,Catnap: exploiting high bandwidth wireless interfaces to save energy for mobile devices,"MobiSys '10: Proceedings of the 8th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_energy,Demo: e-gesture - a collaborative architecture for energy-efficient gesture recognition with hand-worn sensor and mobile devices,"MobiSys '11: Proceedings of the 9th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_energy,SeeMon: scalable and energy-efficient context monitoring framework for sensor-rich mobile environments,"MobiSys '08: Proceedings of the 6th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_energy,Dali: a communication-centric data abstraction layer for energy-constrained devices in mobile sensor networks,"MobiSys '07: Proceedings of the 5th international conference on Mobile systems, applications and services","mobisys 
+international conference on mobile systems, applications and services",no,no need
+mobile_battery,MixMax: Leveraging Heterogeneous Batteries to Alleviate Low Battery Experience for Mobile Users,"MobiSys '23: Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services","mobisys 
+international conference on mobile systems, applications and services",no,no need
+mobile_battery,Battery-aware transformations in mobile applications,ASE '16: Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering,"ase 
+automated software engineering",yes,only target problem
+mobile_resource,Resource Allocation for Stable LLM Training in Mobile Edge Computing,"MOBIHOC '24: Proceedings of the Twenty-fifth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing",mobihoc ,no,no need
+mobile_resource,Resource Allocation and Secure Wireless Communication in the Large Model based Mobile Edge Computing System,"MOBIHOC '24: Proceedings of the Twenty-fifth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing",mobihoc ,no,no need
+mobile_resource,Analyzing the Resource Usage Overhead of Mobile App Development Frameworks,EASE '23: Proceedings of the 27th International Conference on Evaluation and Assessment in Software Engineering,"ase 
+ease 
+international conference on evaluation and assessment in software engineering",no,no need
+mobile_resource,ICE: Collaborating Memory and Process Management for User Experience on Resource-limited Mobile Devices,EuroSys '23: Proceedings of the Eighteenth European Conference on Computer Systems,eurosys ,no,no need
+mobile_resource,Fair multi-resource allocation in mobile edge computing with multiple access points,"Mobihoc '20: Proceedings of the Twenty-First International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing",mobihoc ,no,no need
+mobile_resource,Towards Opportunistic Resource Sharing in Mobile Social Networks: an Evolutionary Game Theoretic Approach,Mobihoc '18: Proceedings of the Eighteenth ACM International Symposium on Mobile Ad Hoc Networking and Computing,"mobihoc 
+mobile ad hoc networking and computing",no,no need
+mobile_resource,Remove RATs from your code: automated optimization of resource inefficient database writes for mobile applications,ISSTA 2018: Proceedings of the 27th ACM SIGSOFT International Symposium on Software Testing and Analysis,"issta 
+international symposium on software testing and analysis",yes,yes
+mobile_resource,InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference,MobiCom '22: Proceedings of the 28th Annual International Conference on Mobile Computing And Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_resource,Characterizing resource usage for mobile web browsing,"MobiSys '14: Proceedings of the 12th annual international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_resource,Anticipatory Admission Control and Resource Allocation for Media Streaming in Mobile Networks,"MSWiM '15: Proceedings of the 18th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",mswim ,no,no need
+mobile_resource,An Ant-based Mobile Agent Approach to Resource Discovery in Grid Computing,SAICSIT '14: Proceedings of the Southern African Institute for Computer Scientist and Information Technologists Annual Conference 2014 on SAICSIT 2014 Empowered by Technology,ist ,no,not in venue list
+mobile_resource,Mobile online gaming via resource sharing,SIMUTOOLS '12: Proceedings of the 5th International ICST Conference on Simulation Tools and Techniques,icst ,no,not in venue list
+mobile_resource,Cloudlet-based cyber-foraging for mobile systems in resource-constrained edge environments,ICSE Companion 2014: Companion Proceedings of the 36th International Conference on Software Engineering,"icse 
+international conference on software engineering",no,no need
+mobile_resource,ShAir: extensible middleware for mobile peer-to-peer resource sharing,ESEC/FSE 2013: Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering,"esec/fse 
+fse ",no,no need
+mobile_resource,Profiling resource usage for mobile applications: a cross-layer approach,"MobiSys '11: Proceedings of the 9th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_resource,NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision,MobiCom '18: Proceedings of the 24th Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_resource,Implementing software on resource-constrained mobile sensors: experiences with Impala and ZebraNet,"MobiSys '04: Proceedings of the 2nd international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_resource,Demo: mobile application resource optimizer (ARO),"MobiSys '11: Proceedings of the 9th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_resource,On resource discovery in distributed systems with mobile hosts,MobiCom '96: Proceedings of the 2nd annual international conference on Mobile computing and networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_resource,LEO: scheduling sensor inference algorithms across heterogeneous mobile processors and network resources,MobiCom '16: Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_resource,iResTrac: an architecture for maintaining medical resource status with mobile devices,MobileHealth '11: Proceedings of the First ACM MobiHoc Workshop on Pervasive Wireless Healthcare,mobihoc ,no,no need
+mobile_resource,MaJaB: improving resource management for web-based applications on mobile devices,"MobiSys '09: Proceedings of the 7th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+android_resource,Detecting resource utilization bugs induced by variant lifecycles in Android,ISSTA 2022: Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis,"issta 
+international symposium on software testing and analysis",yes,yes
+android_resource,Relda2: an effective static analysis tool for resource leak detection in Android apps,ASE '16: Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering,"ase 
+automated software engineering",yes,only target problem
+android_resource,Characterizing and detecting resource leaks in android applications,ASE '13: Proceedings of the 28th IEEE/ACM International Conference on Automated Software Engineering,"ase 
+automated software engineering",yes,yes
+android_resource,JRebel.Android: runtime class- and resource reloading for android,ICSE '15: Proceedings of the 37th International Conference on Software Engineering - Volume 2,"icse 
+international conference on software engineering",no,no need
+android_resource,Demo: RecDroid: An Android Resource Access Permission Recommendation System,MobiHoc '15: Proceedings of the 16th ACM International Symposium on Mobile Ad Hoc Networking and Computing,"mobihoc 
+mobile ad hoc networking and computing",no,no need
+android_performance,Demystifying application performance management libraries for Android,ASE '19: Proceedings of the 34th IEEE/ACM International Conference on Automated Software Engineering,"ase 
+automated software engineering",no,no need
+android_performance,On adopting linters to deal with performance concerns in Android apps,ASE '18: Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering,"ase 
+automated software engineering",no,interview paper
+android_performance,DiagDroid: Android performance diagnosis via anatomizing asynchronous executions,FSE 2016: Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering,fse ,yes,yes
+android_performance,Mining test repositories for automatic detection of UI performance regressions in Android apps,MSR '16: Proceedings of the 13th International Conference on Mining Software Repositories,msr ,yes,only target problem
+mobile_responsiveness,SWAM: Revisiting Swap and OOMK for Improving Application Responsiveness on Mobile Devices,ACM MobiCom '23: Proceedings of the 29th Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_issue,MotorEase: Automated Detection of Motor Impairment Accessibility Issues in Mobile App UIs,ICSE '24: Proceedings of the IEEE/ACM 46th International Conference on Software Engineering,"icse 
+international conference on software engineering",no,no need
+mobile_issue,The Metamorphosis: Automatic Detection of Scaling Issues for Mobile Apps,ASE '22: Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering,"ase 
+automated software engineering",no,no need
+mobile_issue,Automated repair of size-based inaccessibility issues in mobile applications,ASE '21: Proceedings of the 36th IEEE/ACM International Conference on Automated Software Engineering,"ase 
+automated software engineering",no,no need
+mobile_issue,Accounting for roaming users on mobile data access: issues and root causes,"MobiSys '13: Proceeding of the 11th annual international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_issue,Poster: Detection of Cyberbullying in a Mobile Social Network: Systems Issues,"MobiSys '15: Proceedings of the 13th Annual International Conference on Mobile Systems, Applications, and Services",mobisys ,no,no need
+smartphone_resource,RecDroid: a resource access permission control portal and recommendation service for smartphone users,SPME '14: Proceedings of the ACM MobiCom workshop on Security and privacy in mobile environments,mobicom ,no,not in venue list
+smartphone_resource,Demo: CoMon - resource-aware cooperative context monitoring system for smartphone-centric sensor-rich pans,"MobiSys '11: Proceedings of the 9th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+smartphone_resource,SmartPhoto: a resource-aware crowdsourcing approach for image sensing with smartphones,MobiHoc '14: Proceedings of the 15th ACM international symposium on Mobile ad hoc networking and computing,"mobihoc 
+mobile ad hoc networking and computing",no,no need
+android_responsiveness,Improving responsiveness of Android activity navigation via genetic improvement,ICSE '22: Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: Companion Proceedings,"icse 
+international conference on software engineering",yes,yes
+phone_performance,"Camera phone based motion sensing: interaction techniques, applications and performance study",UIST '06: Proceedings of the 19th annual ACM symposium on User interface software and technology,ist ,no,not in venue list
+android_issue,Compatibility Issue Detection for Android Apps Based on Path-Sensitive Semantic Analysis,ICSE '23: Proceedings of the 45th International Conference on Software Engineering,"icse 
+international conference on software engineering",no,no need
+android_issue,CONAN: Statically Detecting Connectivity Issues in Android Applications,ESEC/FSE 2023: Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering,"esec/fse 
+fse ",no,no need
+android_issue,ConfFix: Repairing Configuration Compatibility Issues in Android Apps,ISSTA 2023: Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis,"issta 
+international symposium on software testing and analysis",no,no need
+android_issue,Automated and Context-Aware Repair of Color-Related Accessibility Issues for Android Apps,ESEC/FSE 2023: Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering,"esec/fse 
+fse ",no,no need
+android_issue,"API compatibility issue detection, testing and analysis for Android apps",ASE '21: Proceedings of the 36th IEEE/ACM International Conference on Automated Software Engineering,"ase 
+automated software engineering",no,no need
+android_issue,DDLDroid: Efficiently Detecting Data Loss Issues in Android Apps,ISSTA 2023: Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis,"issta 
+international symposium on software testing and analysis",no,no need
+android_issue,DDLDroid: A Static Analyzer for Automatically Detecting Data Loss Issues in Android Applications,ISSTA 2023: Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis,"issta 
+international symposium on software testing and analysis",no,no need
+android_issue,AccessiText: automated detection of text accessibility issues in Android apps,ESEC/FSE 2022: Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering,"esec/fse 
+fse ",no,no need
+android_issue,Android API Field Evolution and Its Induced Compatibility Issues,ESEM '22: Proceedings of the 16th ACM / IEEE International Symposium on Empirical Software Engineering and Measurement,"empirical software engineering
+esem 
+empirical software engineering and measurement",no,no need
+android_issue,Detecting and fixing data loss issues in Android apps,ISSTA 2022: Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis,"issta 
+international symposium on software testing and analysis",no,no need
+android_issue,Towards automatically repairing compatibility issues in published Android apps,ICSE '22: Proceedings of the 44th International Conference on Software Engineering,"icse 
+international conference on software engineering",no,no need
+android_issue,Mining Android API Usage to Generate Unit Test Cases for Pinpointing Compatibility Issues,ASE '22: Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering,"ase 
+automated software engineering",no,no need
+android_issue,iFixDataloss: a tool for detecting and fixing data loss issues in Android apps,ISSTA 2022: Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis,"issta 
+international symposium on software testing and analysis",no,no need
+android_issue,Automatically detecting API-induced compatibility issues in Android apps: a comparative analysis (replicability study),ISSTA 2022: Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis,"issta 
+international symposium on software testing and analysis",no,no need
+android_issue,Characterizing and detecting configuration compatibility issues in Android apps,ASE '21: Proceedings of the 36th IEEE/ACM International Conference on Automated Software Engineering,"ase 
+automated software engineering",no,no need
+android_issue,Mining Android crash fixes in the absence of issue- and change-tracking systems,ISSTA 2019: Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis,"issta 
+international symposium on software testing and analysis",no,no need
+android_issue,"Accessibility issues in Android apps: state of affairs, sentiments, and ways forward",ICSE '20: Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering,"icse 
+international conference on software engineering",no,no need
+android_issue,Characterizing Android app signing issues,ASE '19: Proceedings of the 34th IEEE/ACM International Conference on Automated Software Engineering,"ase 
+automated software engineering",no,no need
+android_issue,How Android developers handle evolution-induced API compatibility issues: a large-scale study,ICSE '20: Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering,"icse 
+international conference on software engineering",no,no need
+android_issue,Data-driven solutions to detect API compatibility issues in Android: an empirical study,MSR '19: Proceedings of the 16th International Conference on Mining Software Repositories,msr ,no,no need
+android_issue,Taming Android fragmentation: characterizing and detecting compatibility issues for Android apps,ASE '16: Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering,"ase 
+automated software engineering",no,no need
+android_issue,Understanding and detecting callback compatibility issues for Android applications,ASE '18: Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering,"ase 
+automated software engineering",no,no need
+android_issue,ACID: an API compatibility issue detector for Android apps,ICSE '22: Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: Companion Proceedings,"icse 
+international conference on software engineering",no,no need
+android_issue,Understanding and detecting evolution-induced compatibility issues in Android apps,ASE '18: Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering,"ase 
+automated software engineering",no,no need
+android_issue,CiD: automating the detection of API-related compatibility issues in Android apps,ISSTA 2018: Proceedings of the 27th ACM SIGSOFT International Symposium on Software Testing and Analysis,"issta 
+international symposium on software testing and analysis",no,no need
+android_issue,Woodpecker: identifying and fixing Android UI display issues,ICSE '22: Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: Companion Proceedings,"icse 
+international conference on software engineering",no,no need
+android_issue,Unveiling exception handling bug hazards in Android based on GitHub and Google code issues,MSR '15: Proceedings of the 12th Working Conference on Mining Software Repositories,msr ,no,no need
+android_issue,Pivot: learning API-device correlations to facilitate Android compatibility issue detection,ICSE '19: Proceedings of the 41st International Conference on Software Engineering,"icse 
+international conference on software engineering",no,no need
+android_issue,SetDroid: detecting user-configurable setting issues of Android apps via metamorphic fuzzing,ICSE '21: Proceedings of the 43rd International Conference on Software Engineering: Companion Proceedings,"icse 
+international conference on software engineering",no,no need
+android_issue,Analyzing confidentiality and privacy concerns: insights from Android issue logs,EASE '15: Proceedings of the 19th International Conference on Evaluation and Assessment in Software Engineering,"ase 
+ease 
+international conference on evaluation and assessment in software engineering",no,no need
+mobile_storage,A game-theoretic approach to storage offloading in PoC-based mobile blockchain mining,"Mobihoc '20: Proceedings of the Twenty-First International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing",mobihoc ,no,no need
+mobile_storage,It's in the Cloud: Theorizing Context-Specific Factors Influencing the Perception of Mobile Cloud Storage,"ACM SIGMIS Database: the DATABASE for Advances in Information Systems (SIGMIS), Volume 50, Issue 3",ase ,no,not in venue list
+mobile_storage,System-E: Enhancing Privacy on Mobile Systems through Content-Based Classification and Storage,"MobiSys '18: Proceedings of the 16th Annual International Conference on Mobile Systems, Applications, and Services",mobisys ,no,no need
+mobile_storage,QuickSync: Improving Synchronization Efficiency for Mobile Cloud Storage Services,MobiCom '15: Proceedings of the 21st Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_storage,PAN: providing reliable storage in mobile ad hoc networks with probabilistic quorum systems,MobiHoc '03: Proceedings of the 4th ACM international symposium on Mobile ad hoc networking & computing,mobihoc ,no,no need
+mobile_response,Evidence-based Teaching with the Help of Mobile Response System (MRS),ITiCSE '16: Proceedings of the 2016 ACM Conference on Innovation and Technology in Computer Science Education,icse ,no,not in venue list
+android_launch,Multiple-entry testing of Android applications by constructing activity launching contexts,ICSE '20: Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering,"icse 
+international conference on software engineering",no,no need
+android_response,"Linking User Requests, Developer Responses and Code Changes: Android OS Case Study",EASE '18: Proceedings of the 22nd International Conference on Evaluation and Assessment in Software Engineering 2018,"ase 
+ease 
+international conference on evaluation and assessment in software engineering",no,no need
+mobile_launch,Fast app launching for mobile devices using predictive user context,"MobiSys '12: Proceedings of the 10th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+android_memory,DroidPerf: Profiling Memory Objects on Android Devices,ACM MobiCom '23: Proceedings of the 29th Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+android_memory,Automation of Memory Leak Detection and Correction on Android JNI (poster),"MobiSys '19: Proceedings of the 17th Annual International Conference on Mobile Systems, Applications, and Services",mobisys ,no,no need
+android_memory,META: Memory Exploration Tool for Android Devices,MobiCom '18: Proceedings of the 24th Annual International Conference on Mobile Computing and Networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+smartphone_storage,Video: study of storage impact on smartphone application delay,"MobiSys '14: Proceedings of the 12th annual international conference on Mobile systems, applications, and services",mobisys ,no,no need
+mobile_memory,Memory-efficient DNN training on mobile devices,"MobiSys '22: Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services","mobisys 
+international conference on mobile systems, applications and services",no,no need
+smartphone_performance,Characterizing and detecting performance bugs for smartphone applications,ICSE 2014: Proceedings of the 36th International Conference on Software Engineering,"icse 
+international conference on software engineering",yes,yes
+smartphone_performance,SunCat: helping developers understand and predict performance problems in smartphone applications,ISSTA 2014: Proceedings of the 2014 International Symposium on Software Testing and Analysis,"issta 
+international symposium on software testing and analysis",yes,yes
+smartphone_performance,Constructing an Accurate and a High-Performance Power Profiler for Embedded Systems and Smartphones,"MSWIM '18: Proceedings of the 21st ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",mswim ,no,no need
+smartphone_performance,Anatomizing application performance differences on smartphones,"MobiSys '10: Proceedings of the 8th international conference on Mobile systems, applications, and services",mobisys ,no,no need
+phone_energy,"Demo: PhoneLets: offloading the phone off your phone for energy, cost and network load optimization",MobiCom '14: Proceedings of the 20th annual international conference on Mobile computing and networking,"mobicom 
+international conference on mobile computing and networking",no,no need
+mobile_performance,Performance evaluation of mobile adhoc network under black hole attack,International Conference on Software Engineering and Mobile Application Modelling and Development (ICSEMA 2012),international conference on software engineering,no,not in venue list
+mobile_performance,Performance Analytical Modeling of Mobile Edge Computing for Mobile Vehicular Applications: A Worst-Case Perspective,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Performance evaluation of mobile processes via abstract machines,IEEE Transactions on Software Engineering,transactions on software engineering,no,no need
+mobile_performance,MAC Performance and Improvement in Mobile Wireless Sensor Networks,"Eighth ACIS International Conference on Software Engineering, Artificial Intelligence, Networking, and Parallel/Distributed Computing (SNPD 2007)",international conference on software engineering,no,not in venue list
+mobile_performance,Performance Enhancement of Indoor Mobile Localization System using Unscented Kalman Filter,2006 SICE-ICASE International Joint Conference,ase ,no,no need
+mobile_performance,Performance Analysis of IPsec in Mobile IPv6 Scenarios,2007 16th IST Mobile and Wireless Communications Summit,ist ,no,no need
+mobile_performance,"An Efficient Mobile-Based Middleware Architecture for Building Robust, High-Performance Apps",2018 IEEE International Conference on Software Architecture Companion (ICSA-C),international conference on software architecture,no,no need
+mobile_performance,"High Performance, Lightweight GaAs Solar Cells for Aerospace and Mobile Applications",2017 IEEE 44th Photovoltaic Specialist Conference (PVSC),ist ,no,no need
+mobile_performance,Detection and Analysis of Performance Deterioration in Mobile Offloading System,2014 IEEE International Symposium on Software Reliability Engineering Workshops,international symposium on software reliability engineering,no,no need
+mobile_performance,Throughput performance of CDMA-ALOHA in S-band land mobile satellite channel,2000 IEEE Sixth International Symposium on Spread Spectrum Techniques and Applications. ISSTA 2000. Proceedings (Cat. No.00TH8536),issta ,no,not in venue list
+mobile_performance,Performance Comparison Between AODV and DSR In Mobile Ad-Hoc Network (MANET),2021 International Conference on Software Engineering & Computer Systems and 4th International Conference on Computational Science and Information Management (ICSECS-ICOCSIM),international conference on software engineering,no,no need
+mobile_performance,A hardware-in-the-loop simulation method of the network performance of high-speed railway mobile communication system,2011 6th International ICST Conference on Communications and Networking in China (CHINACOM),icst ,no,not in venue list
+mobile_performance,Performance analysis of two-way relaying satellite mobile communication,2011 6th International ICST Conference on Communications and Networking in China (CHINACOM),icst ,no,not in venue list
+mobile_performance,A Distance-Aware Forwarding protocol for beaconless communication in mobile ad hoc networks and its performance,2010 The 5th Annual ICST Wireless Internet Conference (WICON),icst ,no,not in venue list
+mobile_performance,Forward link performance simulation of a fixed-point CDMA2000-1x mobile demodulator,2000 IEEE Sixth International Symposium on Spread Spectrum Techniques and Applications. ISSTA 2000. Proceedings (Cat. No.00TH8536),issta ,no,no need
+mobile_performance,Performance analysis of a preemptive and priority reservation handoff scheme for integrated service-based wireless mobile networks,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Performance Analysis of Mobile Data Offloading in Heterogeneous Networks,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,"Performance Analysis of Handoff Techniques Based on Mobile IP, TCP-Migrate, and SIP",IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,On Improving TCP Performance over Mobile Data Networks,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,A Survey of Performance Optimization for Mobile Applications,IEEE Transactions on Software Engineering,transactions on software engineering,yes,yes
+mobile_performance,Superdiffusive Behavior of Mobile Nodes and Its Impact on Routing Protocol Performance,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Performance-Aware Energy Optimization on Mobile Devices in Cellular Network,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Mobile Cloud Performance Evaluation Using Stochastic Models,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,On the Forwarding Performance under Heterogeneous Contact Dynamics in Mobile Opportunistic Networks,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Demystifying the Imperfect Client-Side Cache Performance of Mobile Web Browsing,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Design and Performance Studies of an Adaptive Scheme for Serving Dynamic Web Content in a Mobile Computing Environment,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Multi-User Cooperative Mobile Video Streaming: Performance Analysis and Online Mechanism Design,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,How Expensive is Consistency? Performance Analysis of Consistent Rate Provisioning to Mobile Users in Cellular Networks,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Mobility Management Approaches for Mobile IP Networks: Performance Comparison and Use Recommendations,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Auction-Based Data Transaction in Mobile Networks: Data Allocation Design and Performance Analysis,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Handoff Performance in Wireless Mobile Networks with Unreliable Fading Channel,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Post-Streaming Rate Analysis—A New Approach to Mobile Video Streaming with Predictable Performance,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Design and performance studies of an adaptive cache retrieval scheme in a mobile computing environment,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Exploiting Heterogeneity for Improving Forwarding Performance in Mobile Opportunistic Networks: An Analytic Approach,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Quantifying the Performance Impact of SQL Antipatterns on Mobile Applications,2019 IEEE International Conference on Software Maintenance and Evolution (ICSME),international conference on software maintenance and evolution,yes,yes
+mobile_performance,Estimating Performance of Mobile Services from Comparative Output-Input Analysis of End-to-End Throughput,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Performance Analysis and Power Allocation for Covert Mobile Edge Computing With RIS-Aided NOMA,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Optimizing TCP Loss Recovery Performance Over Mobile Data Networks,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,From 6.2 to 0.15 seconds – an Industrial Case Study on Mobile Web Performance,2020 IEEE International Conference on Software Maintenance and Evolution (ICSME),international conference on software maintenance and evolution,no,no need
+mobile_performance,Supervisory Performance Control of Concurrent Mobile Apps for Energy Efficiency,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Performance modeling of level switching in multitier mobile communication systems,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Impact of Playout Buffering on Mobile TV Performance,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Towards Impact of Chunk-Level Characteristics on Mobile Live Streaming Performance,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Transparently Exploiting Device-Reserved Memory for Application Performance in Mobile Systems,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_performance,Design and Performance of Resonant Beam Communications—Part II: Mobile Scenario,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+smartphone_energy,GreenDroid: Automated Diagnosis of Energy Inefficiency for Smartphone Applications,IEEE Transactions on Software Engineering,transactions on software engineering,yes,yes
+smartphone_energy,Maximizing Charging Satisfaction of Smartphone Users via Wireless Energy Transfer,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+smartphone_energy,Sensing Human-Screen Interaction for Energy-Efficient Frame Rate Adaptation on Smartphones,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+smartphone_energy,Experimental Evaluation of WiFi Active Power/Energy Consumption Models for Smartphones,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+smartphone_energy,Context-Aware and Energy-Aware Video Streaming on Smartphones,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+smartphone_energy,QoE-based energy reduction by controlling the 3g cellular data traffic on the smartphone,2013 22nd ITC Specialist Seminar on Energy Efficient and Green Networking (SSEEGN),ist ,no,not in venue list
+smartphone_energy,Trade-offs for video-providers in LTE networks: Smartphone energy consumption vs wasted traffic,2013 22nd ITC Specialist Seminar on Energy Efficient and Green Networking (SSEEGN),ist ,no,not in venue list
+smartphone_energy,PASS: Reducing Redundant Notifications between a Smartphone and a Smartwatch for Energy Saving,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+smartphone_energy,A Personalized Network Activity-Aware Approach to Reducing Radio Energy Consumption of Smartphones,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_latency,Hermes: Latency Optimal Task Assignment for Resource-constrained Mobile Computing,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_latency,A Progressive Approach to Reducing Data Collection Latency in Wireless Sensor Networks with Mobile Elements,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_latency,QoE-Aware Computation Offloading to Capture Energy-Latency-Pricing Tradeoff in Mobile Clouds,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_latency,Latency Minimization for Mobile Edge Computing Networks,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_latency,Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_latency,Scalable and Low-Latency Federated Learning With Cooperative Mobile Edge Networking,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_latency,Novel Wake-up Scheme for Energy-Efficient Low-Latency Mobile Devices in 5G Networks,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_latency,Deep Learning-Assisted Online Task Offloading for Latency Minimization in Heterogeneous Mobile Edge,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_latency,DGL: Device Generic Latency Model for Neural Architecture Search on Mobile Devices,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_latency,Reducing Event Latency and Power Consumption in Mobile Devices by Using a Kernel-Level Display Server,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_latency,Distributed Task Offloading and Resource Allocation for Latency Minimization in Mobile Edge Computing Networks,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+android_storage,Design and Implementation of File Multi-Cloud Storage System Based on Android,2020 IEEE 11th International Conference on Software Engineering and Service Science (ICSESS),international conference on software engineering,no,not in venue list
+android_storage,Secure Storage of Data on Devices-Android based,2021 International Conference on Software Engineering & Computer Systems and 4th International Conference on Computational Science and Information Management (ICSECS-ICOCSIM),international conference on software engineering,no,not in venue list
+mobile_cpu,Energy-Aware CPU Frequency Scaling for Mobile Video Streaming,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+android_energy,PowDroid: Energy Profiling of Android Applications,2021 36th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW),automated software engineering,no,no need
+android_energy,eTagger - An Energy Pattern Tagging Tool for GitHub Issues in Android Projects,2022 IEEE International Conference on Software Maintenance and Evolution (ICSME),international conference on software maintenance and evolution,no,no need
+android_energy,An Empirical Study of the Energy Consumption of Android Applications,2014 IEEE International Conference on Software Maintenance and Evolution,international conference on software maintenance and evolution,yes,only target problem
+android_energy,"Software-based energy profiling of Android apps: Simple, efficient and reliable?","2017 IEEE 24th International Conference on Software Analysis, Evolution and Reengineering (SANER)","international conference on software analysis, evolution and reengineering",no,no need
+android_energy,EnergyPatch: Repairing Resource Leaks to Improve Energy-Efficiency of Android Apps,IEEE Transactions on Software Engineering,transactions on software engineering,yes,yes
+android_energy,Investigating the energy impact of Android smells,"2017 IEEE 24th International Conference on Software Analysis, Evolution and Reengineering (SANER)","international conference on software analysis, evolution and reengineering",yes,yes
+android_energy,Detecting Display Energy Hotspots in Android Apps,"2015 IEEE 8th International Conference on Software Testing, Verification and Validation (ICST)","international conference on software testing, verification and validation",yes,only target problem
+android_energy,Energy Refactorings for Android in the Large and in the Wild,"2020 IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER)","international conference on software analysis, evolution and reengineering",yes,yes
+android_energy,Improving Energy Efficiency of Android Devices by Preventing Redundant Frame Generation,IEEE Transactions on Mobile Computing,transactions on mobile computing,yes,only target problem
+android_energy,An Application-Specific Approach to Energy Optimization on Android Mobile Devices,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+android_energy,Black Box Technique to Reduce Energy Consumption of Android Apps,2022 IEEE/ACM 44th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER),international conference on software engineering,no,byte code level
+android_energy,O/S Level Interrupt Prediction for Performance and Energy Management on Android,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_energy,Mobile App Energy Consumption: A Study of Known Energy Issues in Mobile Applications and their Classification Schemes – Summary Plan,2020 IEEE International Conference on Software Maintenance and Evolution (ICSME),international conference on software maintenance and evolution,no,just a plan
+mobile_energy,Joint Mobile Data Gathering and Energy Provisioning in Wireless Rechargeable Sensor Networks,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_energy,A Framework of Joint Mobile Energy Replenishment and Data Gathering in Wireless Rechargeable Sensor Networks,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_energy,On the Trade-Off between Energy and Multicast Efficiency in 802.16e-Like Mobile Networks,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_battery,Impact of SIB Scheduling on the Standby Battery Life of Mobile Devices in UMTS,2007 16th IST Mobile and Wireless Communications Summit,ist ,no,not in venue list
+mobile_battery,Battery-Aware Mobile Data Service,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_battery,Enabling 3D Ambient Light Positioning with Mobile Phones and Battery-Free Chips,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_resource,Opportunistic dissemination of spatio-temporal resource information in mobile peer to peer networks,"Proceedings. 15th International Workshop on Database and Expert Systems Applications, 2004.",ase ,no,not in venue list
+android_resource,"Light-Weight, Inter-Procedural and Callback-Aware Resource Leak Detection for Android Apps",IEEE Transactions on Software Engineering,transactions on software engineering,yes,yes
+android_resource,Systematic testing for resource leaks in Android applications,2013 IEEE 24th International Symposium on Software Reliability Engineering (ISSRE),international symposium on software reliability engineering,yes,yes
+android_resource,Fixing Resource Leaks in Android Apps with Light-Weight Static Analysis and Low-Overhead Instrumentation,2016 IEEE 27th International Symposium on Software Reliability Engineering (ISSRE),international symposium on software reliability engineering,yes,yes
+android_resource,Resource Race Attacks on Android,"2020 IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER)","international conference on software analysis, evolution and reengineering",no,no need
+android_performance,Performance analysis for improved RAM utilization for Android applications,2012 CSI Sixth International Conference on Software Engineering (CONSEG),international conference on software engineering,no,no need
+android_performance,Learning Performance Optimization from Code Changes for Android Apps,"2019 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)","international conference on software testing, verification and validation",yes,yes
+android_performance,How developers detect and fix performance bottlenecks in Android apps,2015 IEEE International Conference on Software Maintenance and Evolution (ICSME),international conference on software maintenance and evolution,yes,only target problem
+android_performance,A Quantitative and Qualitative Investigation of Performance-Related Commits in Android Apps,2016 IEEE International Conference on Software Maintenance and Evolution (ICSME),international conference on software maintenance and evolution,yes,yes
+android_performance,Tuning Deep Learning Performance for Android Malware Detection,"2018 19th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD)",international conference on software engineering,no,not in venue list
+android_performance,A Tale of Two Fashions: An Empirical Study on the Performance of Native Apps and Web Apps on Android,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+smartphone_memory,Memory-Augmented Autoencoder Based Continuous Authentication on Smartphones With Conditional Transformer GANs,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_issue,Security issues in mobile ecommerce,Proceedings 11th International Workshop on Database and Expert Systems Applications,ase ,no,not in venue list
+mobile_issue,Data replication issues in mobile ad hoc networks,16th International Workshop on Database and Expert Systems Applications (DEXA'05),ase ,no,not in venue list
+mobile_issue,Research issues and overview of economic models in Mobile-P2P networks,18th International Workshop on Database and Expert Systems Applications (DEXA 2007),ase ,no,not in venue list
+mobile_issue,Electromagnetic compatibility issues in mobile computing,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_issue,Addressing security issues in programming languages for mobile code,Proceedings Ninth International Workshop on Database and Expert Systems Applications (Cat. No.98EX130),ase ,no,not in venue list
+mobile_issue,Supporting Developers in Addressing Human-Centric Issues in Mobile Apps,IEEE Transactions on Software Engineering,transactions on software engineering,no,no need
+mobile_issue,Research issues on mobile sensor networks,2010 5th International ICST Conference on Communications and Networking in China,icst ,no,not in venue list
+mobile_issue,An Empirical Analysis of Compatibility Issues for Industrial Mobile Games (Practical Experience Report),2022 IEEE 33rd International Symposium on Software Reliability Engineering (ISSRE),international symposium on software reliability engineering,no,no need
+mobile_issue,Regarding the Pagination of the October 2012 and November 2012 Issues of the IEEE Transactions on Mobile Computing,Regarding the Pagination of the October 2012 and November 2012 Issues of the IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_issue,Reviewers List For Special Issue On Mobile Computing,Reviewers List For Special Issue On Mobile Computing,ist ,no,not in venue list
+smartphone_resource,Seamless Dynamic Adaptive Streaming in LTE/Wi-Fi Integrated Network under Smartphone Resource Constraints,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+android_responsiveness,Systematically Testing and Diagnosing Responsiveness for Android Apps,2019 IEEE International Conference on Software Maintenance and Evolution (ICSME),international conference on software maintenance and evolution,yes,yes
+android_responsiveness,Aging or Glitching? What Leads to Poor Android Responsiveness and What Can We Do About It?,IEEE Transactions on Mobile Computing,transactions on mobile computing,yes,yes
+android_issue,A Manual Categorization of Android App Development Issues on Stack Overflow,2014 IEEE International Conference on Software Maintenance and Evolution,international conference on software maintenance and evolution,no,no need
+android_issue,Understanding and Detecting Fragmentation-Induced Compatibility Issues for Android Apps,IEEE Transactions on Software Engineering,transactions on software engineering,no,no need
+android_issue,Android Compatibility Issue Detection Using API Differences,"2021 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)","international conference on software analysis, evolution and reengineering",no,no need
+android_issue,Characterizing and Detecting Inefficient Image Displaying Issues in Android Apps,"2019 IEEE 26th International Conference on Software Analysis, Evolution and Reengineering (SANER)","international conference on software analysis, evolution and reengineering",yes,yes
+android_issue,How Maintainability Issues of Android Apps Evolve,2018 IEEE International Conference on Software Maintenance and Evolution (ICSME),international conference on software maintenance and evolution,no,no need
+android_issue,Studying Permission Related Issues in Android Wearable Apps,2018 IEEE International Conference on Software Maintenance and Evolution (ICSME),international conference on software maintenance and evolution,no,no need
+android_issue,"Runtime Permission Issues in Android Apps: Taxonomy, Practices, and Ways Forward",IEEE Transactions on Software Engineering,transactions on software engineering,no,no need
+android_issue,Detecting Android API Compatibility Issues With API Differences,IEEE Transactions on Software Engineering,transactions on software engineering,no,no need
+android_issue,Detecting Connectivity Issues in Android Apps,"2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)","international conference on software analysis, evolution and reengineering",no,no need
+android_issue,ScaleFix: An Automated Repair of UI Scaling Accessibility Issues in Android Applications,2023 IEEE International Conference on Software Maintenance and Evolution (ICSME),international conference on software maintenance and evolution,no,no need
+mobile_storage,Efficient Load Balancing Method for Mobile Applicable iSCSI-based Remote Storage Service,"Fourth International Conference on Software Engineering Research, Management and Applications (SERA'06)",international conference on software engineering,no,not in venue list
+mobile_storage,Privacy-Preserving Data Integrity Verification for Secure Mobile Edge Storage,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_storage,Decentralized and Compressed Data Storage for Mobile Crowdsensing,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_storage,Secure Data Deduplication With Dynamic Access Control for Mobile Cloud Storage,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_storage,An External Storage Support for Mobile Applications with Scare Resources,"2010 11th ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing",international conference on software engineering,no,not in venue list
+mobile_response,Mobile Augmented Reality System for Emergency Response,"2023 IEEE/ACIS 21st International Conference on Software Engineering Research, Management and Applications (SERA)",international conference on software engineering,no,not in venue list
+mobile_response,Demand Response in NOMA-Based Mobile Edge Computing: A Two-Phase Game-Theoretical Approach,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+android_latency,ShuffleDog: Characterizing and Adapting User-Perceived Latency of Android Apps,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,not in android app level
+android_memory,Heap Memory Snapshot Assisted Program Analysis for Android Permission Specification,"2020 IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER)","international conference on software analysis, evolution and reengineering",no,no need
+mobile_memory,A proposal of a memory management architecture for mobile computing environments,Proceedings 11th International Workshop on Database and Expert Systems Applications,ase ,no,not in venue list
+mobile_memory,"Mantis: Efficient Predictions of Execution Time, Energy Usage, Memory Usage and Network Usage on Smart Mobile Devices",IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_memory,Memory-Aware Active Learning in Mobile Sensing Systems,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_memory,C-RAM: Breaking Mobile Device Memory Barriers Using the Cloud,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+mobile_memory,MEC-DA: Memory-Efficient Collaborative Domain Adaptation for Mobile Edge Devices,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,no need
+smartphone_performance,A Case Study of Automating User Experience-Oriented Performance Testing on Smartphones,"2013 IEEE Sixth International Conference on Software Testing, Verification and Validation","international conference on software testing, verification and validation",no,no need
+smartphone_performance,Whom to Blame? Automatic Diagnosis of Performance Bottlenecks on Smartphones,IEEE Transactions on Mobile Computing,transactions on mobile computing,no,not in app level
+smartphone_performance,Smartphone Performance,HSPA+ Evolution to Release 12: Performance and Optimization,"ase 
+ease ",no,not in venue list
+mobile_performance,An empirical study on the performance and energy costs of ads and analytics in mobile web apps,Information and Software Technology,information and software technology,yes,only target problem
+mobile_performance,Response time evaluation of mobile applications combining network protocol analysis and information fusion,Information and Software Technology,information and software technology,no,no need
+mobile_performance,Performance and programming effort trade-offs of android persistence frameworks,Journal of Systems and Software,journal of systems and software,no,no need
+mobile_performance,Performance Evaluation of Fast Handover in Mobile IPv6 Based on Link-Layer Information,Journal of Systems and Software,journal of systems and software,no,no need
+mobile_performance,An input-centric performance model for computational offloading of mobile applications,Journal of Systems and Software,journal of systems and software,no,no need
+mobile_performance,An energy-efficient mobile transaction processing method using random back-off in wireless broadcast environments,Journal of Systems and Software,journal of systems and software,no,no need
+mobile_performance,On the impact of code smells on the energy consumption of mobile applications,Information and Software Technology,information and software technology,yes,only target problem
+mobile_performance,AIOLOS: Middleware for improving mobile application performance through cyber foraging,Journal of Systems and Software,journal of systems and software,no,no need
+mobile_performance,Towards collaborative storage scheduling using alternating direction method of multipliers for mobile edge cloud,Journal of Systems and Software,journal of systems and software,no,no need
+mobile_performance,Under storage constraints of epidemic backup node selection using HyMIS architecture for data replication in mobile peer-to-peer networks,Journal of Systems and Software,journal of systems and software,no,no need
+mobile_performance,Erratum to “Performance evaluation of fast handover in mobile IPv6 based on link layer informations” [J. Syst. Softw. 83 (2010) 1644–1650],Journal of Systems and Software,journal of systems and software,no,no need
+android_cpu,How resource utilization influences UI responsiveness of Android software,Information and Software Technology,information and software technology,no,not in app level
+mobile_latency,Energy-efficient low-latency audio on android,Journal of Systems and Software,journal of systems and software,no,no need
+mobile_cpu,Mobile device power models for energy efficient dynamic offloading at runtime,Journal of Systems and Software,journal of systems and software,no,no need
+android_energy,Energy efficient adaptation engines for android applications,Information and Software Technology,information and software technology,no,no need
+mobile_energy,A secure energy-efficient m-banking application for mobile devices,Journal of Systems and Software,journal of systems and software,no,no need
+mobile_energy,Estimation of the molar free energy of melting of crystals from solubility data according to the theory of the mobile disorder,Fluid Phase Equilibria,ase ,no,not in venue list
+mobile_battery,Blast injury of the finger caused by mobile battery explosion: A case report,Trauma Case Reports,ase ,no,not in venue list
+mobile_battery,Evisceration caused by the explosion of mobile phone battery: A rare form of domestic accident in a child,Journal of Pediatric Surgery Case Reports,ase ,no,not in venue list
+mobile_resource,Jejunal atresia causing failure to thrive: The role of camera mobile phones in aiding diagnosis in limited resource settings,Journal of Pediatric Surgery Case Reports,ase ,no,not in venue list
+mobile_resource,Autonomous mobile agent routing for efficient server resource allocation,Journal of Systems and Software,journal of systems and software,no,no need
+mobile_resource,"Operating a mobile photo radar enforcement program: A framework for site selection, resource allocation, scheduling, and evaluation",Case Studies on Transport Policy,ase ,no,not in venue list
+mobile_resource,Resource management for real-time tasks in mobile robotics,Journal of Systems and Software,journal of systems and software,no,no need
+android_resource,Automated repair of resource leaks in Android applications,Journal of Systems and Software,journal of systems and software,yes,only target problem
+android_performance,Exploring the use of static and dynamic analysis to improve the performance of the mining sandbox approach for android malware identification,Journal of Systems and Software,journal of systems and software,no,no need
+mobile_issue,Identifying security issues for mobile applications based on user review summarization,Information and Software Technology,information and software technology,no,no need
+mobile_issue,Guest Editors Introduction: Special Issue on User Feedback and Software Quality in the Mobile Domain,Information and Software Technology,information and software technology,no,no need
+mobile_issue,Introduction to the special issue on middleware for mobile data management,Journal of Systems and Software,journal of systems and software,no,no need
+android_issue,An empirical study on compatibility issues in Android API field evolution,Information and Software Technology,information and software technology,no,no need
+android_issue,Human values in software development artefacts: A case study on issue discussions in three Android applications,Information and Software Technology,information and software technology,no,no need
+mobile_storage,Cleaning policies in mobile computers using flash memory,Journal of Systems and Software,journal of systems and software,no,no need
+mobile_performance,"A large-scale empirical study on mobile performance: energy, run-time and memory",Empirical Software Engineering,empirical software engineering,yes,only target problem
+android_energy,What can Android mobile app developers do about the energy consumption of machine learning?,Empirical Software Engineering,empirical software engineering,yes,only target problem
+android_resource,DroidLeaks: a comprehensive database of resource leaks in Android apps,Empirical Software Engineering,empirical software engineering,yes,only target problem
+android_performance,Android decompiler performance on benign and malicious apps: an empirical study,Empirical Software Engineering,empirical software engineering,no,no need
+android_performance,Characterizing the evolution of statically-detectable performance issues of Android apps,Empirical Software Engineering,empirical software engineering,yes,only target problem
+android_responsiveness,AppSPIN: reconfiguration-based responsiveness testing and diagnosing for Android Apps,Automated Software Engineering,automated software engineering,no,core B
+android_response,Flair: efficient analysis of Android inter-component vulnerabilities in response to incremental changes,Empirical Software Engineering,empirical software engineering,no,no need
+android_battery,GreenHub: a large-scale collaborative dataset to battery consumption analysis of android devices,Empirical Software Engineering,empirical software engineering,no,no performance issue analysis
+mobile_battery,Challenges encountered during the management of pediatric facial soft tissue injury from a mobile battery blast: A case report,"Clinical Case ReportsVolume 9, Issue 9",ase ,no,not in venue list
+smartphone_issue,"Smartphone Triggered Security Challenges - Issues, Case Studies and Prevention","Cyber Security in Parallel and Distributed Computing: Concepts, Techniques, Applications and Case Studies",ase ,no,not in venue list

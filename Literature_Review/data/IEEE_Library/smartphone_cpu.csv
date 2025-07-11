@@ -1,0 +1,9 @@
+keyword,title,publication
+smartphone_cpu,23.3 A highly integrated smartphone SoC featuring a 2.5GHz octa-core CPU with advanced high-performance and low-power techniques,2015 IEEE International Solid-State Circuits Conference - (ISSCC) Digest of Technical Papers
+smartphone_cpu,CPU power consumption reduction in android smartphone,2015 3rd International Conference on Green Energy and Technology (ICGET)
+smartphone_cpu,2.5 A 7nm FinFET 2.5GHz/2.0GHz Dual-Gear Octa-Core CPU Subsystem with Power/Performance Enhancements for a Fully Integrated 5G Smartphone SoC,2020 IEEE International Solid-State Circuits Conference - (ISSCC)
+smartphone_cpu,35.1 An Octa-Core 2.8/2GHz Dual-Gear Sensor-Assisted High-Speed and Power-Efficient CPU in 7nm FinFET 5G Smartphone SoC,2021 IEEE International Solid-State Circuits Conference (ISSCC)
+smartphone_cpu,Mobile Application Aware Smartphone CPU Clock Frequency Optimization,2018 Sixth International Symposium on Computing and Networking Workshops (CANDARW)
+smartphone_cpu,Method of isolating and modelling active CPU consumption in modern smartphones using system-wide measurements,2020 International Semiconductor Conference (CAS)
+smartphone_cpu,Performance Improvement of Linux CPU Scheduler Using Policy Gradient Reinforcement Learning for Android Smartphones,IEEE Access
+smartphone_cpu,Enabling accurate and efficient modeling-based CPU power estimation for smartphones,2017 IEEE/ACM 25th International Symposium on Quality of Service (IWQoS)

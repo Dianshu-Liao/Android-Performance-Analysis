@@ -1,0 +1,38 @@
+keyword,title,publication
+android_memory,Dump and analysis of Android volatile memory on Wechat,2015 IEEE International Conference on Communications (ICC)
+android_memory,A memory management scheme for enhancing performance of applications on Android,2015 IEEE Recent Advances in Intelligent Computational Systems (RAICS)
+android_memory,Memory corruption vulnerabilities detection for Android binary software,"2015 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC)"
+android_memory,Enhancing application performance by memory partitioning in Android platforms,2013 IEEE International Conference on Consumer Electronics (ICCE)
+android_memory,Behavioural study of memory allocators for Android platform,2017 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)
+android_memory,Memory consumption saving by optimization of promotion condition of generational GC in android,2017 IEEE 6th Global Conference on Consumer Electronics (GCCE)
+android_memory,Memory behavior profiler for Android applications,2014 IEEE 3rd Global Conference on Consumer Electronics (GCCE)
+android_memory,Memory leak detection in android applications based on code patterns,2016 International Conference on Information Society (i-Society)
+android_memory,An Anti-Forensics Method against Memory Acquiring for Android Devices,2017 IEEE International Conference on Computational Science and Engineering (CSE) and IEEE International Conference on Embedded and Ubiquitous Computing (EUC)
+android_memory,Extending App Installable Memory in Android Smartphones,2016 IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft)
+android_memory,Memory management in android,2017 International Conference on Big Data Analytics and Computational Intelligence (ICBDAC)
+android_memory,Memory Obfuscation by Stack Randomization for Android Applications,2017 IEEE 11th International Conference on Application of Information and Communication Technologies (AICT)
+android_memory,i-Memory: An intelligence Android-based photo management system,2017 12th International Conference on Computer Science and Education (ICCSE)
+android_memory,Implementation of Fake News Detection Using Long Short Term Memory Method Base on Android,"2021 15th International Conference on Telecommunication Systems, Services, and Applications (TSSA)"
+android_memory,AmpleDroid Recovering Large Object Files from Android Application Memory,2020 IEEE International Workshop on Information Forensics and Security (WIFS)
+android_memory,Hybrid Optimization Based Long Short-Term Memory for Android Malware Detection,2023 International Conference on Evolutionary Algorithms and Soft Computing Techniques (EASCT)
+android_memory,Do Memories Haunt You? An Automated Black Box Testing Approach for Detecting Memory Leaks in Android Apps,IEEE Access
+android_memory,Characterization of Android Memory References and Implication to Hybrid Memory Management,IEEE Access
+android_memory,Testing of Memory Leak in Android Applications,2014 IEEE 15th International Symposium on High-Assurance Systems Engineering
+android_memory,Post-Mortem Memory Analysis of Cold-Booted Android Devices,2014 Eighth International Conference on IT Security Incident Management & IT Forensics
+android_memory,Accelerating Application Start-up with Nonvolatile Memory in Android Systems,IEEE Micro
+android_memory,Private Data Acquisition Method Based on System-Level Data Migration and Volatile Memory Forensics for Android Applications,IEEE Access
+android_memory,Data-in-use leakages from Android memory — Test and analysis,"2013 IEEE 9th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)"
+android_memory,Practicability study of android volatile memory forensic research,2015 IEEE International Workshop on Information Forensics and Security (WIFS)
+android_memory,In-memory credentials robbery on android phones,World Congress on Internet Security (WorldCIS-2013)
+android_memory,You can run but you cannot hide from memory: Extracting IM evidence of Android apps,2017 IEEE Symposium on Computers and Communications (ISCC)
+android_memory,Forensic Analysis of Email on Android Volatile Memory,2016 IEEE Trustcom/BigDataSE/ISPA
+android_memory,Design of an Intelligent Memory Reclamation Service on Android,2013 Conference on Technologies and Applications of Artificial Intelligence
+android_memory,Heap Memory Snapshot Assisted Program Analysis for Android Permission Specification,"2020 IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER)"
+android_memory,Responding to Targeted Stealthy Attacks on Android Using Timely-Captured Memory Dumps,IEEE Access
+android_memory,Comparison of Memory Consumptive Against the Use of Various Image Formats for App Onboarding Animation Assets on Android with Lottie JSON,2020 3rd International Conference on Computer and Informatics Engineering (IC2IE)
+android_memory,Forensics Analysis of Private Web Browsing Using Android Memory Acquisition,2021 12th International Conference on Information and Communication Systems (ICICS)
+android_memory,A Website Fingerprinting Attack based on the Virtual Memory of the Process on Android Devices,2021 26th IEEE Asia-Pacific Conference on Communications (APCC)
+android_memory,Extraction and Analysis of Volatile Memory in Android Systems: An Approach Focused on Trajectory Reconstruction Based on NMEA 0183 Standard,"2016 11th International Conference on Availability, Reliability and Security (ARES)"
+android_memory,Sparrow: Flexible Memory Deduplication in Android Systems with Similar-Page Awareness,"2024 Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+android_memory,An Adaptive Android Memory Management Based on a Lightweight PSO-LSTM Model,2024 IEEE Wireless Communications and Networking Conference (WCNC)
+android_memory,Development of Android-Based Pulmonary Monitoring System for Automated Lung Auscultation Using Long Short-Term Memory (LSTM) Network with Post-Processing from Edge Impulse,"2023 IEEE 5th Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (ECBIOS)"

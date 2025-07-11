@@ -1,0 +1,73 @@
+keyword,title,publication
+mobile_cpu,"Mobile CPU's rise to power: Quantifying the impact of generational mobile CPU design trends on performance, energy, and user satisfaction",2016 IEEE International Symposium on High Performance Computer Architecture (HPCA)
+mobile_cpu,Inside Tiger Lake: Intel’s Next Generation Mobile Client CPU,2020 IEEE Hot Chips 32 Symposium (HCS)
+mobile_cpu,PRINCIPIA: Opportunistic CPU and CPU-shares Allocation for Containerized Virtualization in Mobile Edge Computing,NOMS 2023-2023 IEEE/IFIP Network Operations and Management Symposium
+mobile_cpu,Impact of ultra low power and fast write operation of advanced perpendicular MTJ on power reduction for high-performance mobile CPU,2012 International Electron Devices Meeting
+mobile_cpu,Novel hybrid DRAM/MRAM design for reducing power of high performance mobile CPU,2012 International Electron Devices Meeting
+mobile_cpu,4.3 A 20nm 2.5GHz ultra-low-power tri-cluster CPU subsystem with adaptive power allocation for optimal mobile SoC performance,2016 IEEE International Solid-State Circuits Conference (ISSCC)
+mobile_cpu,3.4 A 10nm FinFET 2.8GHz tri-gear deca-core CPU complex with optimized power-delivery network for mobile SoC performance,2017 IEEE International Solid-State Circuits Conference (ISSCC)
+mobile_cpu,The Role of the CPU in Energy-Efficient Mobile Web Browsing,IEEE Micro
+mobile_cpu,"10.3 heterogeneous multi-processing quad-core CPU and dual-GPU design for optimal performance, power, and thermal tradeoffs in a 28nm mobile application processor",2014 IEEE International Solid-State Circuits Conference Digest of Technical Papers (ISSCC)
+mobile_cpu,A 600MIPS 120mW 70/spl mu/A leakage triple-CPU mobile application processor chip,"ISSCC. 2005 IEEE International Digest of Technical Papers. Solid-State Circuits Conference, 2005."
+mobile_cpu,"A Perpetuum Mobile 32bit CPU with 13.4pJ/cycle, 0.14µA sleep current using Reverse Body Bias Assisted 65nm SOTB CMOS technology",2014 IEEE COOL Chips XVII
+mobile_cpu,Performance evaluation of LDPC decoding on a general purpose mobile CPU,2013 IEEE Global Conference on Signal and Information Processing
+mobile_cpu,Using the CPU and GPU for real-time video enhancement on a mobile computer,IEEE 10th INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING PROCEEDINGS
+mobile_cpu,Design and implementation of a low power mobile CPU based embedded system for artificial leg control,2013 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+mobile_cpu,CPU and GPU parallel processing for mobile Augmented Reality,2013 6th International Congress on Image and Signal Processing (CISP)
+mobile_cpu,CPU Resource Resilience in Wireless Mobile Communications: Design and Evaluation on COTS Virtual Distributed Platform,2022 IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom)
+mobile_cpu,Promise of a low power mobile CPU based embedded system in artificial leg control,2012 Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+mobile_cpu,Runtime CPU scheduler customization framework for a flexible mobile operating system,2009 IEEE Student Conference on Research and Development (SCOReD)
+mobile_cpu,A 5nm 3.4GHz Tri-Gear ARMv9 CPU Subsystem in a Fully Integrated 5G Flagship Mobile SoC,2022 IEEE International Solid-State Circuits Conference (ISSCC)
+mobile_cpu,Mobile CPU Based Optimization of Fast Likelihood Computation for Continuous Speech Recognition,"2007 IEEE International Conference on Acoustics, Speech and Signal Processing - ICASSP '07"
+mobile_cpu,Systems engineering approach to CPU scheduling for mobile multimedia systems,2011 IEEE International Systems Conference
+mobile_cpu,A perpetuum mobile 32bit CPU on 65nm SOTB CMOS technology with reverse-body-bias assisted sleep mode,2014 IEEE Hot Chips 26 Symposium (HCS)
+mobile_cpu,Mobile Application Aware Smartphone CPU Clock Frequency Optimization,2018 Sixth International Symposium on Computing and Networking Workshops (CANDARW)
+mobile_cpu,Towards a parallelization and performance optimization of Viola and Jones algorithm in heterogeneous CPU-GPU mobile system,2015 15th International Conference on Intelligent Systems Design and Applications (ISDA)
+mobile_cpu,A New Direction for III–V FETs for Mobile CPU Operation Including Burst-Mode: In0.35Ga0.65As Channel,IEEE Electron Device Letters
+mobile_cpu,Mobile CPU power/performance benchmarking and process technology co-optimization,2014 IEEE International Conference on IC Design & Technology
+mobile_cpu,Speed-up image processing on mobile CPU and GPU,2015 Asia Pacific Conference on Multimedia and Broadcasting
+mobile_cpu,CPU and GPU gray scale image conversion on mobile platforms,"2017 9th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)"
+mobile_cpu,Effective Uilitzation of Modern Mobile CPU's Asymmetric Characteristics,2019 International SoC Design Conference (ISOCC)
+mobile_cpu,3D mobile CPU system assembly by Z-axis stack connector solutions,2010 Proceedings 60th Electronic Components and Technology Conference (ECTC)
+mobile_cpu,A hardwired polymorphic neural network for a CPU-less autonomous mobile robot,Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2003) (Cat. No.03CH37453)
+mobile_cpu,2.1 A 4nm 3.4GHz Tri-Gear Fully Out-of-Order ARMv9.2 CPU Subsystem-Based 5G Mobile SoC,2024 IEEE International Solid-State Circuits Conference (ISSCC)
+mobile_cpu,DACO: Pursuing Ultra-low Power Consumption via DNN-Adaptive CPU-GPU CO-optimization on Mobile Devices,"2024 Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+mobile_cpu,"UAV-Assisted Wireless Powered Cooperative Mobile Edge Computing: Joint Offloading, CPU Control, and Trajectory Optimization",IEEE Internet of Things Journal
+mobile_cpu,Joint Subcarrier and CPU Time Allocation for Mobile Edge Computing,2016 IEEE Global Communications Conference (GLOBECOM)
+mobile_cpu,Exploiting Non-Causal CPU-State Information for Energy-Efficient Mobile Cooperative Computing,IEEE Transactions on Wireless Communications
+mobile_cpu,Real-time and low latency embedded computer vision hardware based on a combination of FPGA and mobile CPU,2014 IEEE/RSJ International Conference on Intelligent Robots and Systems
+mobile_cpu,Integrated CPU-GPU power management for 3D mobile games,2014 51st ACM/EDAC/IEEE Design Automation Conference (DAC)
+mobile_cpu,Stabilizing CPU Frequency and Voltage for Temperature-Aware DVFS in Mobile Devices,IEEE Transactions on Computers
+mobile_cpu,Improving mobile gaming performance through cooperative CPU-GPU thermal management,2016 53nd ACM/EDAC/IEEE Design Automation Conference (DAC)
+mobile_cpu,OPTiC: Optimizing Collaborative CPU–GPU Computing on Mobile Devices With Thermal Constraints,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+mobile_cpu,A user-centric CPU-GPU governing framework for 3D games on mobile devices,2015 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
+mobile_cpu,A control-theoretic approach for energy efficient CPU-GPU subsystem in mobile platforms,2015 52nd ACM/EDAC/IEEE Design Automation Conference (DAC)
+mobile_cpu,Energy-Aware CPU Frequency Scaling for Mobile Video Streaming,IEEE Transactions on Mobile Computing
+mobile_cpu,User Interaction Aware Reinforcement Learning for Power and Thermal Efficiency of CPU-GPU Mobile MPSoCs,"2020 Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+mobile_cpu,On-Demand Mobile CPU Cooling With Thin-Film Thermoelectric Array,IEEE Micro
+mobile_cpu,An adaptive on-line CPU-GPU governor for games on mobile devices,2017 22nd Asia and South Pacific Design Automation Conference (ASP-DAC)
+mobile_cpu,Memory-aware cooperative CPU-GPU DVFS governor for mobile games,2015 13th IEEE Symposium on Embedded Systems For Real-time Multimedia (ESTIMedia)
+mobile_cpu,Hybrid CPU-GPU Distributed Framework for Large Scale Mobile Networks Simulation,2012 IEEE/ACM 16th International Symposium on Distributed Simulation and Real Time Applications
+mobile_cpu,CPU/GPU Collaboration Techniques for Transfer Learning on Mobile Devices,2017 IEEE 23rd International Conference on Parallel and Distributed Systems (ICPADS)
+mobile_cpu,Energy-Aware CPU Frequency Scaling for Mobile Video Streaming,2017 IEEE 37th International Conference on Distributed Computing Systems (ICDCS)
+mobile_cpu,A CPU Real-Time Face Alignment for Mobile Platform,IEEE Access
+mobile_cpu,"Co-Optimizing CPU Voltage, Memory Placement, and Task Offloading for Energy-Efficient Mobile Systems",IEEE Internet of Things Journal
+mobile_cpu,Estimating the Limits of CPU Power Management for Mobile Games,2017 IEEE International Conference on Computer Design (ICCD)
+mobile_cpu,An Adaptive CPU-GPU Governing Framework for Mobile Games on big.LITTLE Architectures,IEEE Transactions on Computers
+mobile_cpu,Practical Criteria for Scheduling CPU-Bound Jobs in Mobile Devices at the Edge,2018 IEEE International Conference on Cloud Engineering (IC2E)
+mobile_cpu,Behavior-Aware Integrated CPU-GPU Power Management for Mobile Games,"2016 IEEE 24th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)"
+mobile_cpu,Full-System Simulation of Mobile CPU/GPU Platforms,2019 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
+mobile_cpu,System-level power & energy estimation methodology and optimization techniques for CPU-GPU based mobile platforms,2014 IEEE 12th Symposium on Embedded Systems for Real-time Multimedia (ESTIMedia)
+mobile_cpu,Enabling Real-time AI Inference on Mobile Devices via GPU-CPU Collaborative Execution,2022 IEEE 28th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)
+mobile_cpu,Exploiting asymmetric CPU performance for fast startup of subsystem in mobile smart devices,IEEE Transactions on Consumer Electronics
+mobile_cpu,CPU resource control for mobile programs,"Proceedings. First and Third International Symposium on Agent Systems Applications, and Mobile Agents"
+mobile_cpu,A User-Centric CPU-GPU Governing Framework for 3-D Mobile Games,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+mobile_cpu,Opportunistic CPU Sharing in Mobile Edge Computing Deploying the Cloud-RAN,IEEE Transactions on Network and Service Management
+mobile_cpu,A Lightweight Pseudo CPU Hotplug Mechanism for Mobile Devices,"2016 10th International Conference on Next Generation Mobile Applications, Security and Technologies (NGMAST)"
+mobile_cpu,Performance Optimization of a Multimedia Player on a Mobile CPU Platform,2007 IEEE Workshop on Signal Processing Systems
+mobile_cpu,ReCalendar: calendaring and scheduling applications with CPU and energy resource guarantees for mobile devices,Year: 2003 | Conference Paper | Publisher: IEEE
+mobile_cpu,"Mobile Devices' Low Charge, High CPU Load, Number of Sensors, and OS Features Delay Sensor Data Readings","2024 International Conference on Computer, Information and Telecommunication Systems (CITS)"
+mobile_cpu,Accelerating a Computer Vision Algorithm on a Mobile SoC Using CPU-GPU Co-processing - A Case Study on Face Detection,2016 IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft)
+mobile_cpu,Machine Learning Based Predictive Models in Mobile Platforms Using CPU-GPU,"2020 7th International Conference on Internet of Things: Systems, Management and Security (IOTSMS)"
+mobile_cpu,MOC: Multi-Objective Mobile CPU-GPU Co-Optimization for Power-Efficient DNN Inference,2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)
+mobile_cpu,Adaptive Coding with CPU Energy Conservation for Mobile Video Calls,2012 IEEE International Conference on Multimedia and Expo

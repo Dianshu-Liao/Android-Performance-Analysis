@@ -1,0 +1,566 @@
+keyword,title,publication
+android_performance,A Lightweight malware detection technique based on hybrid fuzzy simulated annealing clustering in Android apps,Egyptian Informatics Journal
+android_performance,Machine learning approach to detect android malware using feature-selection based on feature importance score,Journal of Engineering Research
+android_performance,An Attention-Based Approach to Enhance the Detection and Classification of Android Malware,"Computers, Materials and Continua"
+android_performance,Leveraging application permissions and network traffic attributes for Android ransomware detection,Journal of Network and Computer Applications
+android_performance,PHIGrader: Evaluating the effectiveness of Manifest file components in Android malware detection using Multi Criteria Decision Making techniques,Journal of Network and Computer Applications
+android_performance,DCM-GIFT: An Android malware dynamic classification method based on gray-scale image and feature-selection tree,Information and Software Technology
+android_performance,A lightweight deep learning-based android malware detection framework,Expert Systems with Applications
+android_performance,Bioinspired artificial intelligence based android malware detection and classification for cybersecurity applications,Alexandria Engineering Journal
+android_performance,GMADV: An android malware variant generation and classification adversarial training framework,Journal of Information Security and Applications
+android_performance,A hybrid approach for Android malware detection using improved multi-scale convolutional neural networks and residual networks,Expert Systems with Applications
+android_performance,Unveiling vulnerabilities in deep learning-based malware detection: Differential privacy driven adversarial attacks,Computers & Security
+android_performance,The revolution and vision of explainable AI for Android malware detection and protection,Internet of Things
+android_performance,FAMCF: A few-shot Android malware family classification framework,Computers & Security
+android_performance,A systematic literature review on Android-specific smells,Journal of Systems and Software
+android_performance,MADRAS-NET: A deep learning approach for detecting and classifying android malware using Linknet,Measurement: Sensors
+android_performance,Machine Learning for Android Malware Detection: Mission Accomplished? A Comprehensive Review of Open Challenges and Future Perspectives,Computers & Security
+android_performance,Efficient android malware identification with limited training data utilizing multiple convolution neural network techniques,Engineering Applications of Artificial Intelligence
+android_performance,Strengthening LLM ecosystem security: Preventing mobile malware from manipulating LLM-based applications,Information Sciences
+android_performance,Outsmarting Android Malware with Cutting-Edge Feature Engineering and Machine Learning Techniques,"Computers, Materials and Continua"
+android_performance,GenDroid: A query-efficient black-box android adversarial attack framework,Computers & Security
+android_performance,Efficient concept drift handling for batch android malware detection models,Pervasive and Mobile Computing
+android_performance,SynDroid: An adaptive enhanced Android malware classification method based on CTGAN-SVM,Computers & Security
+android_performance,DL-AMDet: Deep learning-based malware detector for android,Intelligent Systems with Applications
+android_performance,LSTM-based Approach for Android Malware Detection,Procedia Computer Science
+android_performance,A temporal analysis and evaluation of fuzzy hashing algorithms for Android malware analysis,Forensic Science International: Digital Investigation
+android_performance,A Comparative Analysis of Machine Learning Algorithms for Android Malware Detection,Procedia Computer Science
+android_performance,Detecting Android malware: A multimodal fusion method with fine-grained feature,Information Fusion
+android_performance,How resource utilization influences UI responsiveness of Android software,Information and Software Technology
+android_performance,Android malware detection with MH-100K: An innovative dataset for advanced research,Data in Brief
+android_performance,Performance optimization opportunities in the Android software stack,"BenchCouncil Transactions on Benchmarks, Standards and Evaluations"
+android_performance,Explainable Classification Model for Android Malware Analysis Using API and Permission-Based Features,"Computers, Materials and Continua"
+android_performance,Android Malware Detection Using ResNet-50 Stacking,"Computers, Materials and Continua"
+android_performance,Exploring the use of static and dynamic analysis to improve the performance of the mining sandbox approach for android malware identification,Journal of Systems and Software
+android_performance,A multi-model ensemble learning framework for imbalanced android malware detection,Expert Systems with Applications
+android_performance,A review of deep learning models to detect malware in Android applications,Cyber Security and Applications
+android_performance,DroidEncoder: Malware detection using auto-encoder based feature extractor and machine learning algorithms,Computers and Electrical Engineering
+android_performance,"Android malware concept drift using system calls: Detection, characterization and challenges",Expert Systems with Applications
+android_performance,MDADroid: A novel malware detection method by constructing functionality-API mapping,Computers & Security
+android_performance,On-device Resilient Android Malware Detection using Incremental Learning,Procedia Computer Science
+android_performance,EfficientNet convolutional neural networks-based Android malware detection,Computers & Security
+android_performance,FAGnet: Family-aware-based android malware analysis using graph neural network,Knowledge-Based Systems
+android_performance,Permission-based Android malware analysis by using dimension reduction with PCA and LDA,Journal of Information Security and Applications
+android_performance,Towards a fair comparison and realistic evaluation framework of android malware detectors based on static analysis and machine learning,Computers & Security
+android_performance,An optimized and efficient android malware detection framework for future sustainable computing,Sustainable Energy Technologies and Assessments
+android_performance,A method of multidimensional software aging prediction based on ensemble learning: A case of Android OS,Information and Software Technology
+android_performance,Cross-device behavioral consistency: Benchmarking and implications for effective android malware detection,Machine Learning with Applications
+android_performance,A new adversarial malware detection method based on enhanced lightweight neural network,Computers & Security
+android_performance,Determinants of adoption of latest version smartphones: Theory and evidence,Technological Forecasting and Social Change
+android_performance,Android static taint analysis based on multi branch search association,Computers & Security
+android_performance,Deep learning feature exploration for Android malware detection,Applied Soft Computing
+android_performance,F2DC: Android malware classification based on raw traffic and neural networks,Computer Networks
+android_performance,Concept drift and cross-device behavior: Challenges and implications for effective android malware detection,Computers & Security
+android_performance,Automated malware detection using machine learning and deep learning approaches for android applications,Measurement: Sensors
+android_performance,Towards automated Android app internationalisation: An exploratory study,Journal of Systems and Software
+android_performance,High Performance Classification of Android Malware Using Ensemble Machine Learning,"Computers, Materials and Continua"
+android_performance,An Android Malware Detection and Classification Approach Based on Contrastive Lerning,Computers & Security
+android_performance,A multi-tiered feature selection model for android malware detection based on Feature discrimination and Information Gain,Journal of King Saud University - Computer and Information Sciences
+android_performance,On the relativity of time: Implications and challenges of data drift on long-term effective android malware detection,Computers & Security
+android_performance,Self-report user interfaces for patients with Rheumatic and Musculoskeletal Diseases: App review and usability experiments with mobile user interface components,Computers & Graphics
+android_performance,An effective end-to-end android malware detection method,Expert Systems with Applications
+android_performance,Comparative analysis of feature representations and machine learning methods in Android family classification,Computer Networks
+android_performance,DroidRL: Feature selection for android malware detection with reinforcement learning,Computers & Security
+android_performance,Robust deep learning early alarm prediction model based on the behavioural smell for android malware,Computers & Security
+android_performance,"Smart solutions for capsicum Harvesting: Unleashing the power of YOLO for Detection, Segmentation, growth stage Classification, Counting, and real-time mobile identification",Computers and Electronics in Agriculture
+android_performance,Dynamic analysis with Android container: Challenges and opportunities,Digital Investigation
+android_performance,KronoDroid: Time-based Hybrid-featured Dataset for Effective Android Malware Detection and Characterization,Computers & Security
+android_performance,RansomDroid: Forensic analysis and detection of Android Ransomware using unsupervised machine learning technique,Forensic Science International: Digital Investigation
+android_performance,Android application of rapid visual screening for buildings in Indian context,Structures
+android_performance,Vulnerability Evaluation of Android Malware Detectors against Adversarial Examples,Procedia Computer Science
+android_performance,Software micro-rejuvenation for Android mobile systems,Journal of Systems and Software
+android_performance,DroidEnemy: Battling adversarial example attacks for Android malware detection,Digital Communications and Networks
+android_performance,metaNet: Interpretable unknown mobile malware identification with a novel meta-features mining algorithm,Computer Networks
+android_performance,Deployment of mobile application using a novel CNN model for the detection of COVID-19 thoracic disease,Scientific African
+android_performance,Chapter 2: Performance tuning of Android applications using clustering and optimization heuristics,Advanced Data Mining Tools and Methods for Social Computing
+android_performance,CoviDetector: A transfer learning-based semi supervised approach to detect Covid-19 using CXR images,"BenchCouncil Transactions on Benchmarks, Standards and Evaluations"
+android_performance,GDroid: Android malware detection and classification with graph convolutional network,Computers & Security
+android_performance,A study on the real-time code-based GNSS positioning with Android smartphones,Measurement
+android_performance,Revisiting the impact of common libraries for android-related investigations,Journal of Systems and Software
+android_performance,Design and Evaluation of Tools for the Psychological Prevention of Injuries in Baseball Pitchers,The Open Sports Sciences Journal
+android_performance,Activity detection with google maps location history data: Factors affecting joint activity detection probability and its potential application on real social networks,Travel Behaviour and Society
+android_performance,The performance cost of software obfuscation for Android applications,Computers & Security
+android_performance,Android malware dataset construction methodology to minimize bias–variance tradeoff,ICT Express
+android_performance,Machine learning-based malware detection on Android devices using behavioral features,Materials Today: Proceedings
+android_performance,Cost effective Android-Antenna Tool (AAT) for the parameter calculation of antenna in android platform,Microprocessors and Microsystems
+android_performance,FCSCNN: Feature centralized Siamese CNN-based android malware identification,Computers & Security
+android_performance,Feasibility and performance evaluation of low-cost GNSS devices for sea level measurement based on GNSS-IR,Advances in Space Research
+android_performance,Optimization Techniques for Online MPC in Android Smartphones for Artificial Pancreas: A Comparison Study,IFAC-PapersOnLine
+android_performance,A lightweight improved YOLOv5s model and its deployment for detecting pitaya fruits in daytime and nighttime light-supplement environments,Computers and Electronics in Agriculture
+android_performance,Towards predictive analysis of android vulnerability using statistical codes and machine learning for IoT applications,Computer Communications
+android_performance,Comparative analysis of five convolutional neural networks and transfer learning classification approach for microplastics in wastewater treatment plants,Ecological Informatics
+android_performance,A security framework for mHealth apps on Android platform,Computers & Security
+android_performance,S3Feature: A static sensitive subgraph-based feature for android malware detection,Computers & Security
+android_performance,5: Android GNSS seismogeodesy,GNSS Seismogeodesy
+android_performance,PMTT: Parallel multi-scale temporal convolution network and transformer for predicting the time to aging failure of software systems,Journal of Systems and Software
+android_performance,IoT-based automatic deep learning model generation and the application on Empty-dish Recycling Robots,Internet of Things
+android_performance,A novel pre-cache schema for high performance Android system,Future Generation Computer Systems
+android_performance,Semi-supervised two-phase familial analysis of Android malware with normalized graph embedding,Knowledge-Based Systems
+android_performance,TDBAMLA: Temporal and dynamic behavior analysis in Android malware using LSTM and attention mechanisms,Computer Standards & Interfaces
+android_performance,Android-GAN: Defending against android pattern attacks using multi-modal generative network as anomaly detector,Expert Systems with Applications
+android_performance,Management information platform based on Internet of Things,Measurement: Sensors
+android_performance,An efficient approach for taint analysis of android applications,Computers & Security
+android_performance,Performance and programming effort trade-offs of android persistence frameworks,Journal of Systems and Software
+android_performance,Control flow obfuscation for Android applications,Computers & Security
+android_performance,"MobiPCR: Efficient, accurate, and strict ML-based mobile malware detection",Future Generation Computer Systems
+android_performance,Android code smells: From introduction to refactoring,Journal of Systems and Software
+android_performance,DeepAMD: Detection and identification of Android malware using high-efficient Deep Artificial Neural Network,Future Generation Computer Systems
+android_performance,Springbok: An App deployment accelerator for Android smart devices,Computers & Electrical Engineering
+android_performance,Android vs. SEAndroid: An empirical assessment,Pervasive and Mobile Computing
+android_performance,Mitigating adversarial evasion attacks of ransomware using ensemble learning,Computers and Electrical Engineering
+android_performance,A lightweight SOD-YOLOv5n model-based winter jujube detection and counting method deployed on Android,Computers and Electronics in Agriculture
+android_performance,DroidDet: Effective and robust detection of android malware using static analysis along with rotation forest model,Neurocomputing
+android_performance,From benchmarks to real apps: Exploring the energy impacts of performance-directed changes,Journal of Systems and Software
+android_performance,Detecting android malware using an improved filter based technique in embedded software,Microprocessors and Microsystems
+android_performance,CENDroid—A cluster-ensemble classifier for detecting malicious Android applications,Computers & Security
+android_performance,Flight control for a quadrotor of attitude control based on android system and using optimal-tuning design,Computers & Electrical Engineering
+android_performance,An empirical study on the performance and energy costs of ads and analytics in mobile web apps,Information and Software Technology
+android_performance,End-to-end malware detection for android IoT devices using deep learning,Ad Hoc Networks
+android_performance,Energy-efficient low-latency audio on android,Journal of Systems and Software
+android_performance,DL-Droid: Deep learning based android malware detection using real devices,Computers & Security
+android_performance,A malware detection model based on imbalanced heterogeneous graph embeddings,Expert Systems with Applications
+android_performance,A real-time deep learning approach for classifying cervical spine fractures,Healthcare Analytics
+android_performance,AppSpear: Automating the hidden-code extraction and reassembling of packed android malware,Journal of Systems and Software
+android_performance,DroidInjector: A process injection-based dynamic tracking system for runtime behaviors of Android applications,Computers & Security
+android_performance,Performing computation offloading on multiple platforms,Computer Communications
+android_performance,Computational analysis of starch for sustainable power generation towards integrated wearable IoT,Applied Energy
+android_performance,MSYM: A multichannel communication system for android devices,Computer Networks
+android_performance,Linux page fault analysis in android systems,Microprocessors and Microsystems
+android_performance,"A scalable, flow-and-context-sensitive taint analysis of android applications",Journal of Computer Languages
+android_performance,A smartphone application for site-specific pest management based on deep learning and spatial interpolation,Computers and Electronics in Agriculture
+android_performance,An explainable artificial intelligence model for multiple lung diseases classification from chest X-ray images using fine-tuned transfer learning,Decision Analytics Journal
+android_performance,CLAID: Closing the Loop on AI & Data Collection — A cross-platform transparent computing middleware framework for smart edge-cloud and digital biomarker applications,Future Generation Computer Systems
+android_performance,Motrol: A hardware-software device for batch benchmarking and profiling of in-lab mobile device clusters,HardwareX
+android_performance,Android based malware detection using a multifeature collaborative decision fusion approach,Neurocomputing
+android_performance,Learning features from enhanced function call graphs for Android malware detection,Neurocomputing
+android_performance,RoppDroid: Robust permission re-delegation prevention in Android inter-component communication,Computers & Security
+android_performance,Function-level obfuscation detection method based on Graph Convolutional Networks,Journal of Information Security and Applications
+android_performance,A general framework for comparing automatic testing techniques of Android mobile apps,Journal of Systems and Software
+android_performance,A root privilege management scheme with revocable authorization for Android devices,Journal of Network and Computer Applications
+android_performance,A real-time application-based convolutional neural network approach for tomato leaf disease classification,Array
+android_performance,"Movie aspects, tweet metrics, and movie revenues: The influence of iOS vs. Android",Decision Support Systems
+android_performance,Measuring power consumption in mobile devices for energy sustainable app development: A comparative study and challenges,Sustainable Computing: Informatics and Systems
+android_performance,Empirical feature learning in application-based samples: A case study,Journal of Computational Science
+android_performance,APK Auditor: Permission-based Android malware detection system,Digital Investigation
+android_performance,"Impact of mobile cross-platform development on CPU, memory and battery of mobile devices when using common mobile app features",Procedia Computer Science
+android_performance,Solution for Sound Playback Delay on Android Devices,Procedia Computer Science
+android_performance,AIM: An Android Interpretable Malware detector based on application class modeling,Journal of Information Security and Applications
+android_performance,Experimental performance of smart IoT-enabled drip irrigation system using and controlled through web-based applications,Smart Agricultural Technology
+android_performance,"Kynoid: Real-time enforcement of fine-grained, user-defined, and data-centric security policies for Android",Information Security Technical Report
+android_performance,Security-oriented view of app behaviour using textual descriptions and user-granted permission requests,Computers & Security
+android_performance,"Multi-labeling of complex, multi-behavioral malware samples",Computers & Security
+android_performance,An adaptive and configurable protection framework against android privilege escalation threats,Future Generation Computer Systems
+android_performance,A platform for automating battery-driven batch benchmarking and profiling of Android-based mobile devices,Simulation Modelling Practice and Theory
+android_performance,Compile-time code virtualization for android applications,Computers & Security
+android_performance,"Peer-to-peer publication, search and retrieval using the Android mobile platform",Computer Networks
+android_performance,Parallelisation of an interactive lattice-Boltzmann method on an Android-powered mobile device,Advances in Engineering Software
+android_performance,Design and Implementation of a TD_SCDMA Video Monitoring System Based on Android,Procedia Engineering
+android_performance,An approach for proactive mobile recommendations based on user-defined rules,Expert Systems with Applications
+android_performance,The Impact of Multiple API Connection Request to An Open-Source Android-based Currency Tracker's Performance and The Mitigation,Procedia Computer Science
+android_performance,EyeScreen: Development and Potential of a Novel Machine Learning Application to Detect Leukocoria,Ophthalmology Science
+android_performance,Android Application to Enhance Performance of Internship Program Implementing Cloud Computing Platform and Infrastructure,Procedia - Social and Behavioral Sciences
+android_performance,Measuring Android App Repackaging Prevalence based on the Permissions of App,Procedia Technology
+android_performance,Developing of mLearning for Discrete Mathematics Based on Android Platform,Procedia - Social and Behavioral Sciences
+android_performance,A pragmatic android malware detection procedure,Computers & Security
+android_performance,A Wireless Health Monitoring System based on Android Operating System,IERI Procedia
+android_performance,A monitoring system for intensive agriculture based on mesh networks and the android system,Computers and Electronics in Agriculture
+android_performance,Semantic reasoning on mobile devices: Do Androids dream of efficient reasoners?,Journal of Web Semantics
+android_performance,Android Malware Detection using LSI-based Reduced Opcode Feature Vector,Procedia Computer Science
+android_performance,Real-time fruit detection using deep neural networks on CPU (RTFD): An edge AI application,Computers and Electronics in Agriculture
+android_performance,Stealth attacks: An extended insight into the obfuscation effects on Android malware,Computers & Security
+android_performance,GSDroid: Graph Signal Based Compact Feature Representation for Android Malware Detection,Expert Systems with Applications
+android_performance,"Practical applicability of processing static, short-observation-time raw GNSS measurements provided by a smartphone under tree vegetation",Measurement
+android_performance,An app performance optimization advisor for mobile device app marketplaces,Sustainable Computing: Informatics and Systems
+android_performance,Smart-RTK: Multi-GNSS kinematic positioning approach on android smart devices with Doppler-smoothed-code filter and constant acceleration model,Advances in Space Research
+android_performance,AMalNet: A deep learning framework based on graph convolutional networks for malware detection,Computers & Security
+android_performance,SBTDDL: A novel framework for sensor-based threats detection on Android smartphones using deep learning,Computers & Security
+android_performance,A TAN based hybrid model for android malware detection,Journal of Information Security and Applications
+android_performance,How developers micro-optimize Android apps,Journal of Systems and Software
+android_performance,An integrated static detection and analysis framework for android,Pervasive and Mobile Computing
+android_performance,A hybrid approach of mobile malware detection in Android,Journal of Parallel and Distributed Computing
+android_performance,Real-time machine learning-based approach for pothole detection,Expert Systems with Applications
+android_performance,A lightweight CNN model for pepper leaf disease recognition in a human palm background,Heliyon
+android_performance,Design of Transboundary Observation System for Plant Protection UAV Based on Improved Winding Number Method and Android,IFAC-PapersOnLine
+android_performance,Extending Paralldroid with object oriented annotations,Parallel Computing
+android_performance,The development of SHS-SWTHS designing software based on windows and android mobile device platforms,Renewable Energy
+android_performance,A tractor hydraulic assisted embedded microprocessor-based penetrometer for soil compaction measurement,Journal of Terramechanics
+android_performance,Application of the grey Lotka–Volterra model to forecast the diffusion and competition analysis of the TV and smartphone industries,Technological Forecasting and Social Change
+android_performance,On the effectiveness of system API-related information for Android ransomware detection,Computers & Security
+android_performance,Discovering communities of malapps on Android-based mobile cyber-physical systems,Ad Hoc Networks
+android_performance,DroidKex: Fast extraction of ephemeral TLS keys from the memory of Android apps,Digital Investigation
+android_performance,TinyVisor: An extensible secure framework on android platforms,Computers & Security
+android_performance,Sharing runtime permission issues for developers based on similar-app review mining,Journal of Systems and Software
+android_performance,Machine-Learning based analysis and classification of Android malware signatures,Future Generation Computer Systems
+android_performance,"Booting, browsing and streaming time profiling, and bottleneck analysis on android-based systems",Journal of Network and Computer Applications
+android_performance,Android application classification and anomaly detection with graph-based permission patterns,Decision Support Systems
+android_performance,"Chapter 1: Testing Android Mobile Applications: Challenges, Strategies, and Approaches",Advances in Computers
+android_performance,RETRACTED: Design and deployment of android based mobile application for performance analysis of micro strip patch antenna,Microprocessors and Microsystems
+android_performance,A comprehensive investigation into robust malware detection with explainable AI,Cyber Security and Applications
+android_performance,Mining permission patterns for contrasting clean and malicious android applications,Future Generation Computer Systems
+android_performance,Mobile Multiplatform Development: An Experiment for Performance Analysis,Procedia Computer Science
+android_performance,Detecting personally identifiable information transmission in android applications using light-weight static analysis,Computers & Security
+android_performance,CANDYMAN: Classifying Android malware families by modelling dynamic traces with Markov chains,Engineering Applications of Artificial Intelligence
+android_performance,On the use of artificial malicious patterns for android malware detection,Computers & Security
+android_performance,Towards a practical framework for code offloading in the Internet of Things,Future Generation Computer Systems
+android_performance,An Android Based Mobile Robot for Monitoring and Surveillance,Procedia Manufacturing
+android_performance,ApLeaf: An efficient android-based plant leaf identification system,Neurocomputing
+android_performance,A simple and low-cost portable potentiostat with real-time data sharing for wireless electrochemical analyses,Journal of Electroanalytical Chemistry
+android_performance,IDeAuth: A novel behavioral biometric-based implicit deauthentication scheme for smartphones,Pattern Recognition Letters
+android_performance,An unmanned rice seeder with WiFi based mobile-control system for drudgery reduction,Smart Agricultural Technology
+android_performance,CoDRA: Context-based dynamically reconfigurable access control system for android,Journal of Network and Computer Applications
+android_performance,RootAgency: A digital signature-based root privilege management agency for cloud terminal devices,Information Sciences
+android_performance,On the Best Sensor for Keystrokes Inference Attack on Android,Procedia Technology
+android_performance,Privacy-preserving malware detection in Android-based IoT devices through federated Markov chains,Future Generation Computer Systems
+android_performance,Information management to improve the effectiveness of preventive maintenance activities with computerized maintenance management system at the intake system of circulating water pump,Procedia CIRP
+android_performance,Secure and flexible message-based communication for mobile apps within and across devices,Journal of Systems and Software
+android_performance,A privacy enforcing framework for Android applications,Computers & Security
+android_performance,Scalable and robust unsupervised android malware fingerprinting using community-based network partitioning,Computers & Security
+android_performance,A UML Model for Mobile Game on the Android OS,Procedia Engineering
+android_performance,Socialized policy administration,Computers & Security
+android_performance,Scalable and robust unsupervised Android malware fingerprinting using community-based network partitioning,Computers & Security
+android_performance,"User-experience of tablet operating system: An experimental investigation of Windows 8, iOS 6, and Android 4.2",Computers & Industrial Engineering
+android_performance,CDroid: practically implementation a formal-analyzed CIFC model on Android,Computers & Security
+android_performance,Static analysis of android apps: A systematic literature review,Information and Software Technology
+android_performance,Efficient android electronic nose design for recognition and perception of fruit odors using Kernel Extreme Learning Machines,Chemometrics and Intelligent Laboratory Systems
+android_performance,Understanding the impact of geotagging on location inference models for accurate generalization to non-geotagged datasets,Geomatica
+android_performance,Characterizing Android apps’ behavior for effective detection of malapps at large scale,Future Generation Computer Systems
+android_performance,Machine learning-based smart wearable system for cardiac arrest monitoring using hybrid computing,Biomedical Signal Processing and Control
+android_performance,"Android Library for Recognition of Activities of Daily Living: Implementation Considerations, Challenges, and Solutions",The Open Bioinformatics Journal
+android_performance,Jitana: A modern hybrid program analysis framework for android platforms,Journal of Computer Languages
+android_performance,Similarity-based Android malware detection using Hamming distance of static binary features,Future Generation Computer Systems
+android_performance,Imbalanced learning based on adaptive weighting and Gaussian function synthesizing with an application on Android malware detection,Information Sciences
+android_performance,Android malware detection with unbiased confidence guarantees,Neurocomputing
+android_performance,Design and Application of English Assisted Learning System Based on Mobile Learning Platform,Procedia Computer Science
+android_performance,Development of an Android-tablet-based system for analyzing light intensity distribution on a plant canopy surface,Computers and Electronics in Agriculture
+android_performance,API recommendation for the development of Android App features based on the knowledge mined from App stores,Science of Computer Programming
+android_performance,Biometric Identification on Android Smartphones,Procedia Computer Science
+android_performance,An explainable AI-based blood cell classification using optimized convolutional neural network,Journal of Pathology Informatics
+android_performance,Diagnostic accuracy of the PMcardio smartphone application for artificial intelligence–based interpretation of electrocardiograms in primary care (AMSTELHEART-1),Cardiovascular Digital Health Journal
+android_performance,Activity recognition with android phone using mixture-of-experts co-trained with labeled and unlabeled data,Neurocomputing
+android_performance,Flexible piezoelectric sensor based on PVDF-TrFE/Nanoclay composite nanofibers for physiological micro-vibration signal sensing,Measurement
+android_performance,Application of smartphone-image processing and transfer learning for rice disease and nutrient deficiency detection,Smart Agricultural Technology
+android_performance,VitaSi: A real-time contactless vital signs estimation system,Computers and Electrical Engineering
+android_performance,Application for the estimation of the standard citrus colour index (CCI) using image processing in mobile devices,Biosystems Engineering
+android_performance,Evaluation of contact synchronization algorithms for the Android platform,Mathematical and Computer Modelling
+android_performance,Transfer Learning Approach for Malware Images Classification on Android Devices Using Deep Convolutional Neural Network,Procedia Computer Science
+android_performance,A new method for experimental tuning of PI controllers based on the step response,ISA Transactions
+android_performance,Android Unikernel: Gearing mobile code offloading towards edge computing,Future Generation Computer Systems
+android_performance,Kiwifruit yield estimation using image processing by an Android mobile phone,IFAC-PapersOnLine
+android_performance,"Nearby connections strategies: Features, usage, and empirical performance evaluation",Internet of Things
+android_performance,AndroidOff:Offloading android application based on cost estimation,Journal of Systems and Software
+android_performance,Precise point positioning with mixed single- and dual-frequency GNSS observations from Android smartphones considering code-carrier inconsistency,Advances in Space Research
+android_performance,Ecofert: An Android application for the optimization of fertilizer cost in fertigation,Computers and Electronics in Agriculture
+android_performance,L-Bench: An Android benchmark set for low-power mobile GPUs,Computers & Graphics
+android_performance,Combining Automated GUI Exploration of Android apps with Capture and Replay through Machine Learning,Information and Software Technology
+android_performance,Software fault prediction based on change metrics using hybrid algorithms: An empirical study,Journal of King Saud University - Computer and Information Sciences
+android_performance,Online spraying quality assessment system of plant protection unmanned aerial vehicle based on Android client,Computers and Electronics in Agriculture
+android_performance,Connection-less BLE Performance Evaluation on Smartphones,Procedia Computer Science
+android_performance,AIOLOS: Middleware for improving mobile application performance through cyber foraging,Journal of Systems and Software
+android_performance,ShaderNN: A lightweight and efficient inference engine for real-time applications on mobile GPUs,Neurocomputing
+android_performance,Chapter 7: Performance of Android Forensics Data Recovery Tools,Contemporary Digital Forensic Investigations of Cloud and Mobile Applications
+android_performance,Chapter 6: Supervised Learning Based Detection of Malware on Android,Mobile Security and Privacy
+android_performance,Integrating an e-book Software with Vector Graphic Technology on Cloud Platform,Procedia - Social and Behavioral Sciences
+android_performance,Thin is green: Leveraging the thin-client paradigm for sustainable mobile computing,Computers & Electrical Engineering
+android_performance,Towards detection of juice filming charging attacks via supervised CPU usage analysis on smartphones,Computers & Electrical Engineering
+android_performance,A machine learning based approach to detect malicious android apps using discriminant system calls,Future Generation Computer Systems
+android_performance,Secure garbage collection: Preventing malicious data harvesting from deallocated Java objects inside the Dalvik VM,Journal of Information Security and Applications
+android_performance,Bluetooth Command and Control channel,Computers & Security
+android_performance,Behaviour analysis of inter-app communication using a lightweight monitoring app for malware detection,Expert Systems with Applications
+android_performance,IMCFN: Image-based malware classification using fine-tuned convolutional neural network architecture,Computer Networks
+android_performance,"Leveraging code-free deep learning for pill recognition in clinical settings: A multicenter, real-world study of performance across multiple platforms",Artificial Intelligence in Medicine
+android_performance,Wireless Mobile Robot Control With Tablet Computer,Procedia - Social and Behavioral Sciences
+android_performance,"QuickETC2-HQ: Improved ETC2 encoding techniques for real-time, high-quality texture compression",Computers & Graphics
+android_performance,Development of an android app to estimate chlorophyll content of corn leaves based on contact imaging,Computers and Electronics in Agriculture
+android_performance,Research on unsupervised feature learning for Android malware detection based on Restricted Boltzmann Machines,Future Generation Computer Systems
+android_performance,An efficient cloud-integrated distributed deep neural network framework for IoT malware classification,Future Generation Computer Systems
+android_performance,An empirical framework for defect prediction using machine learning techniques with Android software,Applied Soft Computing
+android_performance,A survey of malware detection using deep learning,Machine Learning with Applications
+android_performance,Text Encryption in Android Chat Applications using Elliptical Curve Cryptography (ECC),Procedia Computer Science
+android_performance,Citrus yield estimation based on images processed by an Android mobile phone,Biosystems Engineering
+android_performance,Research on Human Activity Recognition Algorithm Based on LSTM-1DCNN,"Computers, Materials and Continua"
+android_performance,Quantization Friendly MobileNet (QF-MobileNet) Architecture for Vision Based Applications on Embedded Platforms,Neural Networks
+android_performance,TomatoScan: An Android-based application for quality evaluation and ripening determination of tomato fruit,Computers and Electronics in Agriculture
+android_performance,Deep and broad URL feature mining for android malware detection,Information Sciences
+android_performance,A Model Checking-based Approach to Malicious Family Detection in iOS Environment,Procedia Computer Science
+android_performance,Facilitating the development of cross-platform mHealth applications for chronic supportive care and a case study,Journal of Biomedical Informatics
+android_performance,Comprehensive miscarriage dataset for an early miscarriage prediction,Data in Brief
+android_performance,An environment for automated measurement of energy consumed by mobile and embedded computing devices,Measurement
+android_performance,Kernelized correlation tracker on smartphones,Pervasive and Mobile Computing
+android_performance,Flexible resource monitoring of Java programs,Journal of Systems and Software
+android_performance,A framework of cloud-based virtual phones for secure intelligent information management,International Journal of Information Management
+android_performance,Introducing a general-purpose augmented reality platform for the use in engineering education,Advances in Industrial and Manufacturing Engineering
+android_performance,Mobile malware detection through analysis of deviations in application network behavior,Computers & Security
+android_performance,UI semantic component group detection: Grouping UI elements with similar semantics in mobile graphical user interface,Displays
+android_performance,Hack me if you can: Aggregating autoencoders for countering persistent access threats within highly imbalanced data,Future Generation Computer Systems
+android_performance,Fast & Furious: On the modelling of malware detection as an evolving data stream,Expert Systems with Applications
+android_performance,RESTful Web Services improve the efficiency of data transfer of a whole-farm simulator accessed by Android smartphones,Computers and Electronics in Agriculture
+android_performance,Hand gesture recognition method based on HOG-LBP features for mobile devices,Procedia Computer Science
+android_performance,IP packet-level encrypted traffic classification using machine learning with a light weight feature engineering method,Journal of Information Security and Applications
+android_performance,Colorimetric detection with aptamer-gold nanoparticle conjugates coupled to an android-based color analysis application for use in the field,Talanta
+android_performance,Efficient feature extraction model for validation performance improvement of duplicate bug report detection in software bug triage systems,Information and Software Technology
+android_performance,On the impact of code smells on the energy consumption of mobile applications,Information and Software Technology
+android_performance,Comprehensible software fault and effort prediction: A data mining approach,Journal of Systems and Software
+android_performance,Resource Usage Analysis of a Mobile Banking Application using Sensor-and-Touchscreen-Based Continuous Authentication,Procedia Computer Science
+android_performance,An android based ecodriving assistance system to improve safety and efficiency of internal combustion engine passenger cars,Transportation Research Part C: Emerging Technologies
+android_performance,"Convolutional neural network for substantiation of children's books, intelligent interactive communication and application analysis of voice question answering",Entertainment Computing
+android_performance,Extending a model-driven cross-platform development approach for business apps,Science of Computer Programming
+android_performance,Design of smartphone-controlled low-cost potentiostat for cyclic voltammetry analysis based on ESP32 microcontroller,Sensing and Bio-Sensing Research
+android_performance,App release strategy in the presence of competitive platforms’ quality upgrades,European Journal of Operational Research
+android_performance,Predicting the onset of psychotic experiences in daily life with the use of ambulatory sensor data – A proof-of-concept study,Schizophrenia Research
+android_performance,Travel Behavior Characterization Using Raw Accelerometer Data Collected from Smartphones,Procedia - Social and Behavioral Sciences
+android_performance,Predicting soil texture from smartphone-captured digital images and an application,Geoderma
+android_performance,Discriminative training of subject-dependent Gaussian mixture models for portable SSVEP identification,Smart Health
+android_performance,Differentiating signal from artefacts in cosmic ray detection: Applying Siamese spiking neural networks to CREDO experimental data,Measurement
+android_performance,A versatile wearable based on reconfigurable hardware for biomedical measurements,Measurement
+android_performance,Android Mobile Informatics Application for some Hereditary Diseases and Disorders (AMAHD): A complementary framework for medical practitioners and patients,Informatics in Medicine Unlocked
+android_performance,A new low-cost portable multispectral optical device for precise plant status assessment,Computers and Electronics in Agriculture
+android_performance,CETP: A novel semi-supervised framework based on contrastive pre-training for imbalanced encrypted traffic classification,Computers & Security
+android_performance,A mobile medical QR-code authentication system and its automatic FICE image evaluation application,Journal of Applied Research and Technology
+android_performance,MindEdit: A P300-based text editor for mobile devices,Computers in Biology and Medicine
+android_performance,An intelligent machine vision-based smartphone app for beef quality evaluation,Journal of Food Engineering
+android_performance,"Design, implementation, and evaluation of a game-based application for aiding chemical engineering and chemistry students to review the organic reactions",Education for Chemical Engineers
+android_performance,A blockchain based secure communication framework for community interaction,Journal of Information Security and Applications
+android_performance,Performance prediction by modelling 5KW solar penetration in power system,Materials Today: Proceedings
+android_performance,Bluetooth gas sensing module combined with smartphones for air quality monitoring,Chemosphere
+android_performance,A wireless point-of-care testing system for the detection of neuron-specific enolase with microfluidic paper-based analytical devices,Biosensors and Bioelectronics
+android_performance,The Application of Augmented Reality to Generate Realistic Interaction in the Property Sector,Procedia Computer Science
+android_performance,Fitting missing API puzzles with machine translation techniques,Expert Systems with Applications
+android_performance,Augmented Reality tool for the facilitation of the UAV flight inspection process during aircraft de-icing as a maintenance procedure,IFAC-PapersOnLine
+android_performance,Text Pin: Improving text selection with mode-augmented handles on touchscreen mobile devices,International Journal of Human-Computer Studies
+android_performance,From textual reviews to Individual Reputation Rankings: Leaving ratings aside solving MPC task,Expert Systems with Applications
+android_performance,Keystroke Dynamics on Android Platform,Procedia Technology
+android_performance,RansomCare: Data-centric detection and mitigation against smartphone crypto-ransomware,Computer Networks
+android_performance,Design of double-cross-based smartphone unlock mechanism,Computers & Security
+android_performance,Characterizing malicious Android apps by mining topic-specific data flow signatures,Information and Software Technology
+android_performance,Freeze and Crypt: Linux kernel support for main memory encryption,Computers & Security
+android_performance,An agnostic and efficient approach to identifying features from execution traces,Knowledge-Based Systems
+android_performance,Input extraction via motion-sensor behavior analysis on smartphones,Computers & Security
+android_performance,Multiplatform application for precision irrigation scheduling in strawberries,Agricultural Water Management
+android_performance,Chapter 13: Acoustic-based vital signs monitoring,Contactless Vital Signs Monitoring
+android_performance,Integrated ECC and Blowfish for Smartphone Security,Procedia Computer Science
+android_performance,SocioTelematics: Harnessing social interaction-relationships in developing automotive applications,Pervasive and Mobile Computing
+android_performance,CovertSYS: A systematic covert communication approach for providing secure end-to-end conversation via social networks,Journal of Information Security and Applications
+android_performance,Resource Usage Analysis of a Sensor-based Mobile Augmented Reality Application,Procedia Computer Science
+android_performance,Development of a mobile dose prediction system based on artificial neural networks for NPP emergencies with radioactive material releases,Annals of Nuclear Energy
+android_performance,Probabilistic program performance analysis with confidence intervals,Information and Software Technology
+android_performance,High sensitivity portable capacitive humidity sensor based on In2O3 nanocubes-decorated GO nanosheets and its wearable application in respiration detection,Sensors and Actuators B: Chemical
+android_performance,The associations of the gut microbiome composition and short-chain fatty acid concentrations with body fat distribution in children,Clinical Nutrition
+android_performance,Packet-level prediction of mobile-app traffic using multitask Deep Learning,Computer Networks
+android_performance,Smart Facial Emotion Recognition With Gender and Age Factor Estimation,Procedia Computer Science
+android_performance,Development of Voice Control Algorithm for Robotic Wheelchair Using MIN and LSTM Models,"Computers, Materials and Continua"
+android_performance,A new mobile diagnosis system for estimation of crop disease severity using deep transfer learning,Crop Protection
+android_performance,A review of artificial intelligence based malware detection using deep learning,Materials Today: Proceedings
+android_performance,Cost-effective ensemble models selection using deep reinforcement learning,Information Fusion
+android_performance,Detecting Android Botnet Applications Using Convolution Neural Network,"Computers, Materials and Continua"
+android_performance,Measurement of concrete crack feature with android smartphone APP based on digital image processing techniques,Measurement
+android_performance,Highly sensitive pregnancy test kit via oriented antibody conjugation on brush-type ligand-coated quantum beads,Biosensors and Bioelectronics
+android_performance,A spatial color co-recognition immunochromatographic assay based on the hue-saturation-brightness color space to classify Salmonella serogroups,Sensors and Actuators B: Chemical
+android_performance,Enhancing test reuse with GUI events deduplication and adaptive semantic matching,Science of Computer Programming
+android_performance,Evaluation of the usability of the digital platform navigator KardioUp for the journey of patients with chronic heart failure,Hellenic Journal of Cardiology
+android_performance,Network-assisted Smart Access Point Selection for Pervasive Real-time mHealth Applications,Procedia Computer Science
+android_performance,A Social IoT-based platform for the deployment of a smart parking solution,Computer Networks
+android_performance,Comparison of performance and combustion analysis of a VCR SI engine using audio transducers,Materials Today: Proceedings
+android_performance,Sampling in precision agriculture: A software for navigation in field activities,Sustainable Computing: Informatics and Systems
+android_performance,Estimation of trace-mercury concentration in water using a smartphone,Measurement
+android_performance,A new deep boosted CNN and ensemble learning based IoT malware detection,Computers & Security
+android_performance,NUI for an Artificial Simulation of an Interactive Sound Source Enhancement to Restore Spatial Listening Experience,Procedia Computer Science
+android_performance,AutoPrivacy: Automatic privacy protection and tagging suggestion for mobile social photo,Computers & Security
+android_performance,Optimizing power consumption in multicore smartphones,Journal of Parallel and Distributed Computing
+android_performance,Canadian Journal of Forest Research,3 September 2020
+android_performance,A link prediction approach for item recommendation with complex number,Knowledge-Based Systems
+android_performance,A Simple and Practical Embedded Software System Architecture,Procedia Computer Science
+android_performance,"N, S-co-doped carbon/Co1-xS nanocomposite with dual-enzyme activities for a smartphone-based colorimetric assay of total cholesterol in human serum",Analytica Chimica Acta
+android_performance,Content sharing with mobility in an infrastructure-less environment,Computer Networks
+android_performance,DAB: Dynamic and Agile Buffer-control for Streaming Videos on Mobile Devices,Procedia Computer Science
+android_performance,Improving prediction of real-time loneliness and companionship type using geosocial features of personal smartphone data,Smart Health
+android_performance,Device-independent cellular-based indoor location tracking using deep learning,Pervasive and Mobile Computing
+android_performance,Point-of-need detection of microcystin-LR using a smartphone-controlled electrochemical analyzer,Sensors and Actuators B: Chemical
+android_performance,Design and manufacturing a microcontroller based measurement device for honey adulteration detection,Journal of Food Composition and Analysis
+android_performance,TZMon: Improving mobile game security with ARM trustzone,Computers & Security
+android_performance,Colorimetric detection of glucose with smartphone-coupled µPADs: harnessing machine learning algorithms in variable lighting environments,Sensors and Actuators B: Chemical
+android_performance,Applying motivational techniques for user adherence to adopt a healthy lifestyle in a gamified application,Entertainment Computing
+android_performance,Experiment and enabled flow for GPGPU-Sim simulators with fixed-point instructions,Journal of Systems Architecture
+android_performance,Why energy matters? Profiling energy consumption of mobile crowdsensing data collection frameworks,Pervasive and Mobile Computing
+android_performance,Wearable Heat Stroke Detection System in IoT-based Environment,Procedia Computer Science
+android_performance,Alternative audiometric calibration methods: Evaluation of sound level measuring apps for audiometric calibration,Journal of Communication Disorders
+android_performance,CroudSTag: Social Group Formation with Facial Recognition and Mobile Cloud Services,Procedia Computer Science
+android_performance,MidHDC: Advanced Topics on Middleware Services for Heterogeneous Distributed Computing. Part 1,Future Generation Computer Systems
+android_performance,Performance analysis of machine learning algorithms and screening formulae for β–thalassemia trait screening of Indian antenatal women,International Journal of Medical Informatics
+android_performance,One enhanced secure access scheme for outsourced data,Information Sciences
+android_performance,“Server-less” Social Network for Enhanced Privacy,Procedia Computer Science
+android_performance,Towards a health software supporting platform for wearable devices,Procedia Computer Science
+android_performance,"Mobile phone applications in management of enuresis: The good, the bad, and the unreliable!",Journal of Pediatric Urology
+android_performance,Does it deliver what it promises? Evaluation of cognitive distraction caused by speech-based interfaces with detection response and box task,Transportation Research Part F: Traffic Psychology and Behaviour
+android_performance,Chapter 11: Improving malware detection with explainable machine learning,Explainable Deep Learning AI
+android_performance,Studying the Relationship Between the Usage of APIs Discussed in the Crowd and Post-Release Defects,Journal of Systems and Software
+android_performance,A portable smartphone-based hemoglobin point-of-care testing platform for accurate anemia diagnostics,Biosensors and Bioelectronics
+android_performance,A comparison of prefilters in ORB-based object detection,Pattern Recognition Letters
+android_performance,"Deep learning for cyber security intrusion detection: Approaches, datasets, and comparative study",Journal of Information Security and Applications
+android_performance,Evaluation of Freezanz automated misting system against mosquitoes,Acta Tropica
+android_performance,AdapTracer:Adaptive path profiling using arithmetic coding,Journal of Systems Architecture
+android_performance,Priority-driven spatial resource sharing scheduling for embedded graphics processing units,Journal of Systems Architecture
+android_performance,"Design of autonomous smartphone based quadrotor and implementation of navigation and guidance systems,",Mechatronics
+android_performance,Preference prediction based on a photo gallery analysis with scene recognition and object detection,Pattern Recognition
+android_performance,An efficient terrain Level of Detail implementation for mobile devices and performance study,"Computers, Environment and Urban Systems"
+android_performance,JFCGuard: Detecting juice filming charging attack via processor usage analysis on smartphones,Computers & Security
+android_performance,Investigation on parallel hybrid electric bicycle along with issuer management system for mountainous region,Journal of Cleaner Production
+android_performance,"Wearable, disposable and non-enzymatic fluorescence nanosensor for monitoring sweat glucose through smartphone",Microchemical Journal
+android_performance,NCVCS: Network-coding-based video conference system for mobile devices in multicast networks,Ad Hoc Networks
+android_performance,Towards the development of a citizens’ science-based acoustic rainfall sensing system,Journal of Hydrology
+android_performance,Accurate indoor positioning using IEEE 802.11mc round trip time,Pervasive and Mobile Computing
+android_performance,The analysis of aerobics intelligent fitness system for neurorobotics based on big data and machine learning,Heliyon
+android_performance,UDPF: A unified data provision framework for developing dynamic resource-oriented embedded applications,Journal of Systems Architecture
+android_performance,HRCal: An effective calibration system for heart rate detection during exercising,Journal of Network and Computer Applications
+android_performance,Multi-classification approaches for classifying mobile app traffic,Journal of Network and Computer Applications
+android_performance,Vehicle accident sub-classification modeling using stacked generalization: A multisensor fusion approach,Future Generation Computer Systems
+android_performance,Double sweep tracer for I-V curves characterization and continuous monitoring of photovoltaic facilities,Solar Energy
+android_performance,Detection of Laodelphax striatellus (small brown planthopper) based on improved YOLOv5,Computers and Electronics in Agriculture
+android_performance,Machine learning based mobile malware detection using highly imbalanced network traffic,Information Sciences
+android_performance,Design of a robotic walking stick with mobility assistance control technology (MAVI) for visually impaired people,Materials Today: Proceedings
+android_performance,Autonomous Tour Guide Robot using Embedded System Control,Procedia Computer Science
+android_performance,Compact wireless laparoscopic device for single-port laparoscopic surgery,Sensors and Actuators A: Physical
+android_performance,bleRPC: A plug-and-play RPC framework over BLE,Computer Communications
+android_performance,Embedded system in handheld water turbidity meter for smallholders,Microprocessors and Microsystems
+android_performance,Building a skeleton-based 3D body model with angle sensor data,Smart Health
+android_performance,Robust Malware Detection Models: Learning from Adversarial Attacks and Defenses,Forensic Science International: Digital Investigation
+android_performance,Learning software configuration spaces: A systematic literature review,Journal of Systems and Software
+android_performance,MIMETIC: Mobile encrypted traffic classification using multimodal deep learning,Computer Networks
+android_performance,Smartphone application-based colorimetric fish freshness monitoring using an indicator prepared by rub-coating of red cabbage on paper substrates,Colloids and Surfaces A: Physicochemical and Engineering Aspects
+android_performance,A fully integrated and handheld electrochemiluminescence device for detection of dopamine in bio-samples,Sensors and Actuators B: Chemical
+android_performance,Smart health record management with secure NFC-enabled mobile devices,Smart Health
+android_performance,Redefining Quality in Engineering Education through the Flipped Classroom Model,Procedia Computer Science
+android_performance,A middleware framework for application-aware and user-specific energy optimization in smart mobile devices,Pervasive and Mobile Computing
+android_performance,Private mobility-cast for opportunistic networks,Computer Networks
+android_performance,Phenotyping of individual apple tree in modern orchard with novel smartphone-based heterogeneous binocular vision and YOLOv5s,Computers and Electronics in Agriculture
+android_performance,A three-tier road condition classification system using a spiking neural network model,Journal of King Saud University - Computer and Information Sciences
+android_performance,The Impact of Features Extraction on the Sentiment Analysis,Procedia Computer Science
+android_performance,Design and Implementation of Remote Mechatronics Laboratory for e-Learning Using LabVIEW and Smartphone and Cross-platform Communication Toolkit (SCCT),Procedia Technology
+android_performance,Intelligently identifiable membrane immunochip sensor based on Braille-like code for simultaneous multi-veterinary drug detection,Sensors and Actuators B: Chemical
+android_performance,PAT: A precise reward scheme achieving anonymity and traceability for crowdcomputing in public clouds,Future Generation Computer Systems
+android_performance,Chapter 18: An algorithm for mobile vision-based localization of skewed nutrition labels that maximizes specificity,"Emerging Trends in Image Processing, Computer Vision and Pattern Recognition"
+android_performance,Thread based microfluidic platform for urinary creatinine analysis,Sensors and Actuators B: Chemical
+android_performance,A solanaceae disease recognition model based on SE-Inception,Computers and Electronics in Agriculture
+android_performance,Data mining in mobile ECG based biometric identification,Journal of Network and Computer Applications
+android_performance,Mobile Financial Management Application using Google Cloud Vision API,Procedia Computer Science
+android_performance,"Federated learning review: Fundamentals, enabling technologies, and future applications",Information Processing & Management
+android_performance,EPMDroid: Efficient and privacy-preserving malware detection based on SGX through data fusion,Information Fusion
+android_performance,Development of Urine Hydration System Based on Urine Color and Support Vector Machine,Procedia Computer Science
+android_performance,Open code biometric tap pad for smartphones,Journal of Information Security and Applications
+android_performance,Testing the usability of smartphone surface gestures on different sizes of smartphones by different age groups of users,Computers in Human Behavior
+android_performance,Interaction with touchscreen smartphones in patients with essential tremor and healthy individuals,Neurología (English Edition)
+android_performance,Flexible pH sensors based on printed nanocomposites of single-wall carbon nanotubes and Nafion,Applied Surface Science
+android_performance,Interacción con pantalla táctil de smartphone en pacientes con temblor esencial y sujetos sanos,Neurología
+android_performance,Chapter 14: Computationally efficient integrity verification for shared data in cloud storage,Edge-of-Things in Personalized Healthcare Support Systems
+android_performance,Partial mobile application offloading to the cloud for energy-efficiency with security measures,Sustainable Computing: Informatics and Systems
+android_performance,Human-interactive drone system remotely controlled by printed strain/pressure sensors consisting of carbon-based nanocomposites,Composites Science and Technology
+android_performance,The state of the art in measurement-based experiments on the mobile web,Information and Software Technology
+android_performance,Development of a multiplexed giant magnetoresistive biosensor array prototype to quantify ovarian cancer biomarkers,Biosensors and Bioelectronics
+android_performance,Feasibility of retrieving effective reflector height using GNSS-IR from a single-frequency android smartphone SNR data,Digital Signal Processing
+android_performance,CAMEO: A novel context-aware middleware for opportunistic mobile social networks,Pervasive and Mobile Computing
+android_performance,Fast Directional Handoff and lightweight retransmission protocol for enhancing multimedia quality in indoor WLANs,Computer Networks
+android_performance,Adaptable mobile cloud computing environment with code transfer based on machine learning,Pervasive and Mobile Computing
+android_performance,An innovative and low-cost gapless traceability system of fresh vegetable products using RF technologies and EPCglobal standard,Computers and Electronics in Agriculture
+android_performance,EVAPO: A smartphone application to estimate potential evapotranspiration using cloud gridded meteorological data from NASA-POWER system,Computers and Electronics in Agriculture
+android_performance,Regularized Particle Filter based algorithm for the state estimation of orphan gamma source in real time using a backpack gamma spectrometry system,Applied Radiation and Isotopes
+android_performance,Development of a mobile computing framework to aid decision-making on organic fertilizer management using a crop growth model,Computers and Electronics in Agriculture
+android_performance,Effectiveness of rescue Me CPR! smartphone app providing real-time guidance to untrained bystanders performing CPR,Heliyon
+android_performance,Optimized device centric aggregation mechanisms for mobile devices with multiple wireless interfaces,Computer Networks
+android_performance,"GPU-powered, interactive flow simulation on a peer-to-peer group of mobile devices",Advances in Engineering Software
+android_performance,Enhanced Forensic Process for Improving Mobile Cloud Traceability in Cloud-Based Mobile Applications,Procedia Computer Science
+android_performance,A lightweight API recommendation method for App development based on multi-objective evolutionary algorithm,Science of Computer Programming
+android_performance,A middleware for opportunistic content distribution,Computer Networks
+android_performance,Context-supported local crowd mapping via collaborative sensing with mobile phones,Pervasive and Mobile Computing
+android_performance,Flexible ZnO:PVDF based free standing piezoelectric nanogenerator for vibrational energy harvesting and wearable shoe insole pedometer sensor,Journal of Alloys and Compounds
+android_performance,"Performance of Four Respiratory Rate Counters to Support Community Health Workers to Detect the Symptoms of Pneumonia in Children in Low Resource Settings: A Prospective, Multicentre, Hospital-Based, Single-Blinded, Comparative Trial",EClinicalMedicine
+android_performance,"Problem solving, confidence and frustration when carrying out familiar tasks on non-familiar mobile devices",Computers in Human Behavior
+android_performance,Teacher Development and ICT: The Effectiveness of a Training Program for In-service School Teachers,Procedia - Social and Behavioral Sciences
+android_performance,"Self-adhesive, stretchable, and dry silver nanorods embedded polydimethylsiloxane biopotential electrodes for electrocardiography",Sensors and Actuators A: Physical
+android_performance,High-fidelity real-time simulation on deployed platforms,Computers & Fluids
+android_performance,SFPM: A Secure and Fine-Grained Privacy-Preserving Matching Protocol for Mobile Social Networking,Big Data Research
+android_performance,Towards point-of-care diagnosis of Alzheimer’s disease: Multi-analyte based portable chemiresistive platform for simultaneous detection of β-amyloid (1–40) and (1–42) in plasma,Biosensors and Bioelectronics
+android_performance,Machine learning based approach to analyze file meta data for smart phone file triage,Forensic Science International: Digital Investigation
+android_performance,Hybrid classification engine for cardiac arrhythmia cloud service in elderly healthcare management,Journal of Visual Languages & Computing
+android_performance,A low-cost and small USV platform for water quality monitoring,HardwareX
+android_performance,An end-to-end pollution analysis and detection system using artificial intelligence and object detection algorithms,Decision Analytics Journal
+android_performance,Access protocol aware controller design for eMBB traffic in SD-CDN,Computer Networks
+android_performance,Design and performance evaluation of the “iTIVA” algorithm for manual infusion of intravenous anesthetics based on effect-site target,Colombian Journal of Anesthesiology
+android_performance,A new real-time lossless data compression algorithm for ECG and PPG signals,Biomedical Signal Processing and Control
+android_performance,Spectrophotometer on-the-go: The development of a 2-in-1 UV–Vis portable Arduino-based spectrophotometer,Sensors and Actuators A: Physical
+android_performance,C5.0: Advanced Decision Tree (ADT) classification model for agricultural data analysis on cloud,Computers and Electronics in Agriculture
+android_performance,Urban road pavements monitoring and assessment using bike and e-scooter as probe vehicles,Case Studies in Construction Materials
+android_performance,SpECTRUM: Smart ECosystem for sTRoke patient׳s Upper limbs Monitoring,Smart Health
+android_performance,Towards PWA in Healthcare,Procedia Computer Science
+android_performance,Beyond socket options: Towards fully extensible Linux transport stacks,Computer Communications
+android_performance,Smartphone based approximate localization using user highlighted texts from images,Pervasive and Mobile Computing
+android_performance,Understanding the asymmetric perceptions of smartphone security from security feature perspective: A comparative study,Telematics and Informatics
+android_performance,Callback2Vec: Callback-aware hierarchical embedding for mobile application,Information Sciences
+android_performance,Peer-assisted video on-demand streaming system in practical WiFi-based mobile opportunistic networks,Journal of Network and Computer Applications
+android_performance,Transfer learning approach for classification and noise reduction on noisy web data,Expert Systems with Applications
+android_performance,Machine learning-based colorimetric determination of glucose in artificial saliva with different reagents using a smartphone coupled μPAD,Sensors and Actuators B: Chemical
+android_performance,Face mask recognition from audio: The MASC database and an overview on the mask challenge,Pattern Recognition
+android_performance,Blockchain for secure location verification,Journal of Parallel and Distributed Computing
+android_performance,"Cost-effective, wireless, and portable smartphone-based electrochemical system for on-site monitoring and spatial mapping of the nitrite contamination in water",Sensors and Actuators B: Chemical
+android_performance,Delay-constrained streaming in hybrid cellular and cooperative ad hoc networks,Computer Communications
+android_performance,Smartphone-based tactile cueing improves motor performance in Parkinson's disease,Parkinsonism & Related Disorders
+android_performance,Smartphone-based detection of leaf color levels in rice plants,Computers and Electronics in Agriculture
+android_performance,Point-of-use electroanalytical platform based on homemade potentiostat and smartphone for multivariate data processing,Electrochimica Acta
+android_performance,Development of a smartphone-based balance assessment system for subjects with chronic stroke,Annals of Physical and Rehabilitation Medicine
+android_performance,Assessing a novel way to measure three common rehabilitation outcome measures using a custom mobile phone application,Gait & Posture
+android_performance,"Effects of ionospheric constraints in Precise Point Positioning processing of geodetic, low-cost and smartphone GNSS measurements",Measurement
+android_performance,Smartphone-interfaced 3D printed toxicity biosensor integrating bioluminescent “sentinel cells”,Sensors and Actuators B: Chemical
+android_performance,Water salinity detection using a smartphone,Sensors and Actuators B: Chemical
+android_performance,Development of a paperless web-based quality assurance recording system for the implementation of TG 142 for linear accelerator quality assurance,Physica Medica
+android_performance,Andro-AutoPsy: Anti-malware system based on similarity matching of malware and malware creator-centric information,Digital Investigation
+android_performance,Supporting distributed product configuration by integrating heterogeneous variability modeling approaches,Information and Software Technology
+android_performance,An Analysis and Design of Mobile Business Intelligence System for Productivity Measurement and Evaluation in Tire Curing Production Line,Procedia Manufacturing
+android_performance,Asfault: A low-cost system to evaluate pavement conditions in real-time using smartphones and machine learning,Pervasive and Mobile Computing
+android_performance,An integrated portable system for single chip simultaneous measurement of multiple disease associated metabolites,Biosensors and Bioelectronics
+android_performance,Smartphone-based portable electrochemical biosensing system for detection of circulating microRNA-21 in saliva as a proof-of-concept,Sensors and Actuators B: Chemical
+android_performance,Neural architecture search for real-time quality assessment of wearable multi-lead ECG on mobile devices,Biomedical Signal Processing and Control
+android_performance,An Augmented Reality inspection tool to support workers in Industry 4.0 environments,Computers in Industry
+android_performance,Forensic analysis techniques for fragmented flash memory pages in smartphones,Digital Investigation
+android_performance,Increased central adiposity is associated with pro-inflammatory immunoglobulin G N-glycans,Immunobiology
+android_performance,Mobi-SAGE-RS: A sparse additive generative model-based mobile application recommender system,Knowledge-Based Systems
+android_performance,Diseño y evaluación del desempeño del algoritmo «iTIVA» para la administración manual de anestésicos intravenosos según objetivo en sitio efecto,Revista Colombiana de Anestesiología
+android_performance,Towards high accuracy GNSS real-time positioning with smartphones,Advances in Space Research
+android_performance,"Big data vs accurate data in health research: Large-scale physical activity monitoring, smartphones, wearable devices and risk of unconscious bias",Medical Hypotheses
+android_performance,High intensity interval training combined with L-citrulline supplementation: Effects on physical performance in healthy older adults,Experimental Gerontology
+android_performance,Cerium metal organic framework mediated molecular threading for point-of-care colorimetric assays,Biosensors and Bioelectronics
+android_performance,Context-aware RAON middleware for opportunistic network,Pervasive and Mobile Computing
+android_performance,Advanced Algorithms for Location-Based Smart Mobile Augmented Reality Applications,Procedia Computer Science
+android_performance,TControl: A mobile app to follow up tobacco-quitting patients,Computer Methods and Programs in Biomedicine
+android_performance,Diagnosis of COVID-19 via acoustic analysis and artificial intelligence by monitoring breath sounds on smartphones,Journal of Biomedical Informatics
+android_performance,A comparison of mobile form controls for different tasks,Computer Standards & Interfaces
+android_performance,Quadratic polynomial guided fuzzy C-means and dual attention mechanism for medical image segmentation,Displays
+android_performance,Maximizing mobiles energy saving through tasks optimal offloading placement in two-tier cloud: A theoretical and an experimental study,Computer Communications
+android_performance,A privacy-preserving smart parking system using an IoT elliptic curve based security platform,Computer Communications
+android_performance,Educare App: Mobile application for clinical duties of nursing students and nurse educators,Enfermería Clínica
+android_performance,Large-scale intent analysis for identifying large-review-effort code changes,Information and Software Technology
+android_performance,Visceral Adipose Tissue Quantification Using Lunar Prodigy,Journal of Clinical Densitometry
+android_performance,An intelligent mobile application for diagnosis of crop diseases in Pakistan using fuzzy inference system,Computers and Electronics in Agriculture
+android_performance,2: An efficient ambient intelligent–assisted people searching for Internet of Things–based health-care system,Assistive Technology for the Elderly
+android_performance,Dynamic framework for building highly-localized mobile web DTN applications,Computer Communications
+android_performance,All-inorganic halide perovskite tuned robust mechanical-energy harvester: Self driven posture monitor and power source for portable electronics,Applied Materials Today
+android_performance,Smart healthcare support for remote patient monitoring during covid-19 quarantine,Informatics in Medicine Unlocked
+android_performance,Using crowd sourcing to locate and characterize conflicts for vulnerable modes,Accident Analysis & Prevention
+android_performance,"Associations among Geriatric Nutrition Risk Index, bone mineral density, body composition and handgrip strength in patients receiving hemodialysis",Nutrition
+android_performance,"Chapter 8: An effective blockchain-based, decentralized application for smart building system management",Real-Time Data Analytics for Large Scale Sensor Data
+android_performance,Digital image-based quantification of chlorpyrifos in water samples using a lipase embedded paper based device,Talanta
+android_performance,"Association between whey protein, regional fat mass, and strength in resistance-trained men: a cross-sectional study",Applied Physiology Nutrition and Metabolism
+android_performance,Fast analysis of ketamine using a colorimetric immunosorbent assay on a paper-based analytical device,Sensors and Actuators B: Chemical
+android_performance,Large universe attribute based access control with efficient decryption in cloud storage system,Journal of Systems and Software
+android_performance,Offline computer-aided diagnosis for Glaucoma detection using fundus images targeted at mobile devices,Computer Methods and Programs in Biomedicine
+android_performance,Real-world large-scale study on adaptive notification scheduling on smartphones,Pervasive and Mobile Computing
+android_performance,Mobile phone-based evaluation of latent tuberculosis infection: Proof of concept for an integrated image capture and analysis system,Computers in Biology and Medicine
+android_performance,RINGA: Design and verification of finite state machine for self-adaptive software at runtime,Information and Software Technology
+android_performance,The influence of type of feedback during tablet-based delivery of intensive treatment for childhood apraxia of speech,Journal of Communication Disorders
+android_performance,Towards an efficient and Energy-Aware mobile big health data architecture,Computer Methods and Programs in Biomedicine
+android_performance,Bi-directional Long Short-Term Memory model to analyze psychological effects on gamers,Applied Soft Computing
+android_performance,Integrating a mobile health applications for self-management to enhance Telecare system,Telematics and Informatics
+android_performance,Elaboration of an instrument to evaluate the recognition of Brazilian melodies in children,Brazilian Journal of Otorhinolaryngology
+android_performance,Multi-sensor system with Bluetooth connectivity for non-invasive measurements of human body physical parameters,Sensors and Actuators A: Physical
+android_performance,2345: Developing Conflict Analysis as a Surrogate Safety Measure Using an Expert Survey,Journal of Transport & Health
+android_performance,Application mobile utilisant des capteurs d’activité physique connectés pour l’accompagnement thérapeutique du patient diabétique,European Research in Telemedicine / La Recherche Européenne en Télémédecine
+android_performance,"Using a low-cost, real-time electronic immunization registry in Pakistan to demonstrate utility of data for immunization programs and evidence-based decision making to achieve SDG-3: Insights from analysis of Big Data on vaccines",International Journal of Medical Informatics
+android_performance,Enhancing Adherence to Prescribed Opioids Using a Mobile-Based App: A Feasibility Study in Non-Cancer Pain,Blood
+android_performance,Spontaneous Motor Tempo is the Easiest Pace to Act Upon for Both the Emergent and the Predictive Timing Modes,Procedia - Social and Behavioral Sciences

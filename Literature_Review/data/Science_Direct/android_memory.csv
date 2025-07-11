@@ -1,0 +1,127 @@
+keyword,title,publication
+android_memory,VolMemDroid—Investigating android malware insights with volatile memory artifacts,Expert Systems with Applications
+android_memory,Decoding digital interactions: An extensive study of TeamViewer's Forensic Artifacts across Windows and android platforms,Forensic Science International: Digital Investigation
+android_memory,cRGB_Mem: At the intersection of memory forensics and machine learning,Forensic Science International: Digital Investigation
+android_memory,LSTM-based Approach for Android Malware Detection,Procedia Computer Science
+android_memory,Digital forensic analysis of the private mode of browsers on Android,Computers & Security
+android_memory,MADRAS-NET: A deep learning approach for detecting and classifying android malware using Linknet,Measurement: Sensors
+android_memory,Improved chimp optimization algorithm (ICOA) feature selection and deep neural network framework for internet of things (IOT) based android malware detection,Measurement: Sensors
+android_memory,A review of deep learning models to detect malware in Android applications,Cyber Security and Applications
+android_memory,How resource utilization influences UI responsiveness of Android software,Information and Software Technology
+android_memory,Development of a deep stacked ensemble with process based volatile memory forensics for platform independent malware detection and classification,Expert Systems with Applications
+android_memory,On-device Resilient Android Malware Detection using Incremental Learning,Procedia Computer Science
+android_memory,One key to rule them all: Recovering the master key from RAM to break Android's file-based encryption,Forensic Science International: Digital Investigation
+android_memory,TDBAMLA: Temporal and dynamic behavior analysis in Android malware using LSTM and attention mechanisms,Computer Standards & Interfaces
+android_memory,Android static taint analysis based on multi branch search association,Computers & Security
+android_memory,Automated malware detection using machine learning and deep learning approaches for android applications,Measurement: Sensors
+android_memory,Live acquisition of main memory data from Android smartphones and smartwatches,Digital Investigation
+android_memory,Android malware detection through machine learning on kernel task structures,Neurocomputing
+android_memory,Acquisition and analysis of volatile memory from android devices,Digital Investigation
+android_memory,You are what the permissions told me! Android malware detection based on hybrid tactics,Journal of Information Security and Applications
+android_memory,"Every step you take, I'll be tracking you: Forensic analysis of the tile tracker application",Forensic Science International: Digital Investigation
+android_memory,Software micro-rejuvenation for Android mobile systems,Journal of Systems and Software
+android_memory,Evaluating the privacy of Android mobile applications under forensic analysis,Computers & Security
+android_memory,metaNet: Interpretable unknown mobile malware identification with a novel meta-features mining algorithm,Computer Networks
+android_memory,New acquisition method based on firmware update protocols for Android smartphones,Digital Investigation
+android_memory,DroidKex: Fast extraction of ephemeral TLS keys from the memory of Android apps,Digital Investigation
+android_memory,Android malware classification using optimum feature selection and ensemble machine learning,Internet of Things and Cyber-Physical Systems
+android_memory,Static malware detection and attribution in android byte-code through an end-to-end deep system,Future Generation Computer Systems
+android_memory,The body fat-cognition relationship in healthy older individuals: Does gynoid vs android distribution matter?,"The Journal of nutrition, health and aging"
+android_memory,Mitigating adversarial evasion attacks of ransomware using ensemble learning,Computers and Electrical Engineering
+android_memory,Time series forecast modeling of vulnerabilities in the android operating system using ARIMA and deep learning methods,Sustainable Computing: Informatics and Systems
+android_memory,New flash memory acquisition methods based on firmware update protocols for LG Android smartphones,Digital Investigation
+android_memory,A survey of Android exploits in the wild,Computers & Security
+android_memory,Chapter 4: Android file systems and data structures,Android Forensics
+android_memory,How developers micro-optimize Android apps,Journal of Systems and Software
+android_memory,Function-level obfuscation detection method based on Graph Convolutional Networks,Journal of Information Security and Applications
+android_memory,Android OS parameters measurement on S3C6410,IFAC-PapersOnLine
+android_memory,"Impact of mobile cross-platform development on CPU, memory and battery of mobile devices when using common mobile app features",Procedia Computer Science
+android_memory,Measuring power consumption in mobile devices for energy sustainable app development: A comparative study and challenges,Sustainable Computing: Informatics and Systems
+android_memory,Applications IO profiling and analysis for smart devices,Journal of Systems Architecture
+android_memory,Secure garbage collection: Preventing malicious data harvesting from deallocated Java objects inside the Dalvik VM,Journal of Information Security and Applications
+android_memory,Factorizing 2FA: Forensic analysis of two-factor authentication applications,Forensic Science International: Digital Investigation
+android_memory,CoDRA: Context-based dynamically reconfigurable access control system for android,Journal of Network and Computer Applications
+android_memory,Snapchat Analysis to Discover Digital Forensic Artifacts on Android Smartphone,Procedia Computer Science
+android_memory,Inference attack in Android Activity based on program fingerprint,Journal of Network and Computer Applications
+android_memory,Physical activity forecasting with time series data using Android smartphone,Pervasive and Mobile Computing
+android_memory,Design and Application of English Assisted Learning System Based on Mobile Learning Platform,Procedia Computer Science
+android_memory,Android-GAN: Defending against android pattern attacks using multi-modal generative network as anomaly detector,Expert Systems with Applications
+android_memory,LogExtractor: Extracting digital evidence from android log messages via string and taint analysis,Forensic Science International: Digital Investigation
+android_memory,CLAID: Closing the Loop on AI & Data Collection — A cross-platform transparent computing middleware framework for smart edge-cloud and digital biomarker applications,Future Generation Computer Systems
+android_memory,Quantization Friendly MobileNet (QF-MobileNet) Architecture for Vision Based Applications on Embedded Platforms,Neural Networks
+android_memory,Toward a more dependable hybrid analysis of android malware using aspect-oriented programming,Computers & Security
+android_memory,A security framework for mHealth apps on Android platform,Computers & Security
+android_memory,Freeze and Crypt: Linux kernel support for main memory encryption,Computers & Security
+android_memory,Android/OSGi-based vehicular network management system,Computer Communications
+android_memory,SADUS: Secure data deletion in user space for mobile devices,Computers & Security
+android_memory,Scalable and robust unsupervised android malware fingerprinting using community-based network partitioning,Computers & Security
+android_memory,CDroid: practically implementation a formal-analyzed CIFC model on Android,Computers & Security
+android_memory,Scalable and robust unsupervised Android malware fingerprinting using community-based network partitioning,Computers & Security
+android_memory,Forensic analysis of the ChatSecure instant messaging application on android smartphones,Digital Investigation
+android_memory,IFHNFS: fast indexing information in mobile devices,Procedia Computer Science
+android_memory,Forensic analysis of social networking applications on mobile devices,Digital Investigation
+android_memory,Bangkok Bus Route Planning API,Procedia Computer Science
+android_memory,MEM-TET: Improved Triplet Network for Intrusion Detection System,"Computers, Materials and Continua"
+android_memory,AndrODet: An adaptive Android obfuscation detector,Future Generation Computer Systems
+android_memory,Development of Voice Control Algorithm for Robotic Wheelchair Using MIN and LSTM Models,"Computers, Materials and Continua"
+android_memory,Dropping malware through sound injection: A comparative analysis on Android operating systems,Computers & Security
+android_memory,Towards a sustainable monitoring: A self-powered smart transportation infrastructure skin,Nano Energy
+android_memory,Android Unikernel: Gearing mobile code offloading towards edge computing,Future Generation Computer Systems
+android_memory,A visual approach to interpreting NAND flash memory,Digital Investigation
+android_memory,An app performance optimization advisor for mobile device app marketplaces,Sustainable Computing: Informatics and Systems
+android_memory,Decrypting live SSH traffic in virtual environments,Digital Investigation
+android_memory,TrCMP: A dependable app usage inference design for user behavior analysis through cyber-physical parameters,Journal of Systems Architecture
+android_memory,Hack me if you can: Aggregating autoencoders for countering persistent access threats within highly imbalanced data,Future Generation Computer Systems
+android_memory,A metadata-based method for recovering files and file traces from YAFFS2,Digital Investigation
+android_memory,Live memory forensics of mobile phones,Digital Investigation
+android_memory,A smart decision support system to diagnose arrhythymia using ensembled ConvNet and ConvNet-LSTM model,Expert Systems with Applications
+android_memory,DeepReality: An open source framework to develop AI-based augmented reality applications,Expert Systems with Applications
+android_memory,PUFPass: A password management mechanism based on software/hardware codesign,Integration
+android_memory,Websocket to Support Real Time Smart Home Applications,Procedia Computer Science
+android_memory,UFace: Your universal password that no one can see,Computers & Security
+android_memory,RESTful Web Services improve the efficiency of data transfer of a whole-farm simulator accessed by Android smartphones,Computers and Electronics in Agriculture
+android_memory,PAL: A pseudo assembly language for optimizing secure function evaluation in mobile devices,Journal of Information Security and Applications
+android_memory,Algorithms for Automatic Generation of Logical Questions on Mobile Devices,IERI Procedia
+android_memory,Forensic analysis techniques for fragmented flash memory pages in smartphones,Digital Investigation
+android_memory,A review of artificial intelligence based malware detection using deep learning,Materials Today: Proceedings
+android_memory,A commentary of Digital contact tracing in MIT Technology Review 2021,Fundamental Research
+android_memory,ShaderNN: A lightweight and efficient inference engine for real-time applications on mobile GPUs,Neurocomputing
+android_memory,EPMDroid: Efficient and privacy-preserving malware detection based on SGX through data fusion,Information Fusion
+android_memory,"Integrating a spoken dialogue system, nursing records, and activity data collection based on smartphones",Computer Methods and Programs in Biomedicine
+android_memory,L-Bench: An Android benchmark set for low-power mobile GPUs,Computers & Graphics
+android_memory,Certificate Injection-Based Encrypted Traffic Forensics in AI Speaker Ecosystem,Forensic Science International: Digital Investigation
+android_memory,An efficient terrain Level of Detail implementation for mobile devices and performance study,"Computers, Environment and Urban Systems"
+android_memory,Enhanced cache attack on AES applicable on ARM-based devices with new operating systems,Computer Networks
+android_memory,Flexible resource monitoring of Java programs,Journal of Systems and Software
+android_memory,PF-Miner: A practical paired functions mining method for Android kernel in error paths,Journal of Systems and Software
+android_memory,Research on Human Activity Recognition Algorithm Based on LSTM-1DCNN,"Computers, Materials and Continua"
+android_memory,A mobile computer aided system for optic nerve head detection,Computer Methods and Programs in Biomedicine
+android_memory,Mobile collaborative computing on the fly,Pervasive and Mobile Computing
+android_memory,Cognitive Load Management of Cultural Heritage Information: An Application Multi-Mix for Recreational Learners,Procedia - Social and Behavioral Sciences
+android_memory,A wireless point-of-care testing system for the detection of neuron-specific enolase with microfluidic paper-based analytical devices,Biosensors and Bioelectronics
+android_memory,A comparison of prefilters in ORB-based object detection,Pattern Recognition Letters
+android_memory,Revisiting swapping in mobile systems with SwapBench,Future Generation Computer Systems
+android_memory,Andro-Dumpsys: Anti-malware system based on the similarity of malware creator and malware centric information,Computers & Security
+android_memory,Robot-assisted therapy for rehabilitation of children with cerebral palsy - A complementary and alternative approach,Computers in Human Behavior
+android_memory,"Chapter 5: Android device, data, and app security",Android Forensics
+android_memory,Wearable sensors and a multisensory music and reminiscence therapies application: To help reduce behavioral and psychological symptoms in person with dementia,Smart Health
+android_memory,"Intrusion detection for mobile devices using the knowledge-based, temporal abstraction method",Journal of Systems and Software
+android_memory,Bi-directional Long Short-Term Memory model to analyze psychological effects on gamers,Applied Soft Computing
+android_memory,Packet-level prediction of mobile-app traffic using multitask Deep Learning,Computer Networks
+android_memory,The state of the art in measurement-based experiments on the mobile web,Information and Software Technology
+android_memory,Progressive Web Application Assessment Using AHP,Procedia Computer Science
+android_memory,HRCal: An effective calibration system for heart rate detection during exercising,Journal of Network and Computer Applications
+android_memory,Functionalized water soluble nanomaterials and their applications in wirelessly destructible programmed flexible transient photodetectors,Materials Science in Semiconductor Processing
+android_memory,"An analysis of architecture, framework, security and challenging aspects for data aggregation and routing techniques in IoT WSNs",Theoretical Computer Science
+android_memory,A mobile application for cognitive screening of dementia,Computer Methods and Programs in Biomedicine
+android_memory,Design of a WeChat Learning Platform for Syndrome Differentiation,Digital Chinese Medicine
+android_memory,A novel syntax-aware automatic graphics code generation with attention-based deep neural network,Journal of Network and Computer Applications
+android_memory,Geometrical and statistical incremental semantic modeling on mobile devices,Computers & Graphics
+android_memory,Optimized device centric aggregation mechanisms for mobile devices with multiple wireless interfaces,Computer Networks
+android_memory,Quadratic polynomial guided fuzzy C-means and dual attention mechanism for medical image segmentation,Displays
+android_memory,Dynamic framework for building highly-localized mobile web DTN applications,Computer Communications
+android_memory,"GPU-powered, interactive flow simulation on a peer-to-peer group of mobile devices",Advances in Engineering Software
+android_memory,Interactive flow simulation using Tegra-powered mobile devices,Advances in Engineering Software
+android_memory,A privacy-preserving smart parking system using an IoT elliptic curve based security platform,Computer Communications
+android_memory,A study of energy-aware implementation techniques: Redistribution of computational jobs in mobile apps,Sustainable Computing: Informatics and Systems
+android_memory,"Effects of Surgical and Adjuvant Therapies for Breast Cancer on Sexuality, Cognitive Functions, and Body Weight",The Journal of Sexual Medicine

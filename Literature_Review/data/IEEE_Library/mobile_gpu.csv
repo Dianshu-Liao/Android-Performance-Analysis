@@ -1,0 +1,101 @@
+keyword,title,publication
+mobile_gpu,A fast and efficient sift detector using the mobile GPU,"2013 IEEE International Conference on Acoustics, Speech and Signal Processing"
+mobile_gpu,Accelerating computer vision algorithms using OpenCL framework on the mobile GPU - A case study,"2013 IEEE International Conference on Acoustics, Speech and Signal Processing"
+mobile_gpu,Using mobile GPU for general-purpose computing – a case study of face recognition on smartphones,"Proceedings of 2011 International Symposium on VLSI Design, Automation and Test"
+mobile_gpu,"10.3 heterogeneous multi-processing quad-core CPU and dual-GPU design for optimal performance, power, and thermal tradeoffs in a 28nm mobile application processor",2014 IEEE International Solid-State Circuits Conference Digest of Technical Papers (ISSCC)
+mobile_gpu,A spaceborne SAR on-board processing simulator using mobile GPU,2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)
+mobile_gpu,Low-Power Automatic Speech Recognition Through a Mobile GPU and a Viterbi Accelerator,IEEE Micro
+mobile_gpu,A framework for GPU-accelerated AES-XTS encryption in mobile devices,TENCON 2011 - 2011 IEEE Region 10 Conference
+mobile_gpu,23.1 20nm high-K metal-gate heterogeneous 64b quad-core CPUs and hexa-core GPU for high-performance and energy-efficient mobile application processor,2015 IEEE International Solid-State Circuits Conference - (ISSCC) Digest of Technical Papers
+mobile_gpu,High performance deep neural network on low cost mobile GPU,2016 IEEE International Conference on Consumer Electronics (ICCE)
+mobile_gpu,Fast stereoscopic rendering on mobile ray tracing GPU for virtual reality applications,2017 IEEE International Conference on Consumer Electronics (ICCE)
+mobile_gpu,A logarithmic approach to energy-efficient GPU arithmetic for mobile devices,"2013 Asilomar Conference on Signals, Systems and Computers"
+mobile_gpu,Development of GPU-accelerated localization system for autonomous mobile robot,"2014 International Conference on Mechanical Engineering, Automation and Control Systems (MEACS)"
+mobile_gpu,The ARM® Mali-T880 Mobile GPU,2015 IEEE Hot Chips 27 Symposium (HCS)
+mobile_gpu,Mobile GPU Cloud Computing with real time application,5th International Conference on Energy Aware Computing Systems & Applications
+mobile_gpu,Using the CPU and GPU for real-time video enhancement on a mobile computer,IEEE 10th INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING PROCEEDINGS
+mobile_gpu,Computing energy-efficiency in the mobile GPU,2013 International SoC Design Conference (ISOCC)
+mobile_gpu,Highly Manufacturable Low Power and High Performance 11LPP Platform Technology for Mobile and GPU Applications,2018 IEEE Symposium on VLSI Technology
+mobile_gpu,"GPU-enabled Framework for Modelling, Simulation and Planning of Mobile Networks in Smart Cities",2020 Zooming Innovation in Consumer Technologies Conference (ZINC)
+mobile_gpu,FCM: Towards fine-grained GPU power management for closed source mobile games,2016 International Great Lakes Symposium on VLSI (GLSVLSI)
+mobile_gpu,CPU and GPU parallel processing for mobile Augmented Reality,2013 6th International Congress on Image and Signal Processing (CISP)
+mobile_gpu,Panoramic mapping on a mobile phone GPU,2013 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)
+mobile_gpu,Cunetsim: A GPU based simulation testbed for large scale mobile networks,2012 International Conference on Communications and Information Technology (ICCIT)
+mobile_gpu,FPGA realization of ALU for mobile GPU,2016 3rd International Conference on Advances in Computational Tools for Engineering Applications (ACTEA)
+mobile_gpu,Parallel LDPC decoder implementation on a mobile GPU,2017 25th Telecommunication Forum (TELFOR)
+mobile_gpu,A 130.3mW 16-core mobile GPU with power-aware approximation techniques,2013 IEEE Asian Solid-State Circuits Conference (A-SSCC)
+mobile_gpu,Mobile AP GPU power distribution network simulation and analysis based on chip power model,2016 IEEE International Symposium on Electromagnetic Compatibility (EMC)
+mobile_gpu,Towards a parallelization and performance optimization of Viola and Jones algorithm in heterogeneous CPU-GPU mobile system,2015 15th International Conference on Intelligent Systems Design and Applications (ISDA)
+mobile_gpu,Data-parallel implementation of reconfigurable digital predistortion on a mobile GPU,"2015 49th Asilomar Conference on Signals, Systems and Computers"
+mobile_gpu,20nm High-K metal gate heterogeneous 64-bit quad-core CPUs and hexa-core GPU for high-performance and energy-efficient mobile application processor,2015 International SoC Design Conference (ISOCC)
+mobile_gpu,A low power and high performance face detection on mobile GPU,5th International Conference on Energy Aware Computing Systems & Applications
+mobile_gpu,GPU-specific Task Offloading in the Mobile Edge Computing Network,2020 International Conference on Information and Communication Technology Convergence (ICTC)
+mobile_gpu,GPU-enabled Framework for Modelling and Simulation of Outage Probability in Smart Cities Mobile Networks Limited by α-k-µ Fading and α-η-µ Co-channel Interference,2021 29th Telecommunications Forum (TELFOR)
+mobile_gpu,An efficient pedestrian detection network on mobile GPU with millisecond scale,2019 Chinese Automation Congress (CAC)
+mobile_gpu,Speed-up image processing on mobile CPU and GPU,2015 Asia Pacific Conference on Multimedia and Broadcasting
+mobile_gpu,GPU Architecture Optimization For Mobile Computing,2019 International SoC Design Conference (ISOCC)
+mobile_gpu,Mobile GPU-based importance sampling,2014 22nd Signal Processing and Communications Applications Conference (SIU)
+mobile_gpu,Accurate GPU power estimation for mobile device power profiling,2013 IEEE International Conference on Consumer Electronics (ICCE)
+mobile_gpu,A novel mobile GPU architecture based on ray tracing,2013 IEEE International Conference on Consumer Electronics (ICCE)
+mobile_gpu,CPU and GPU gray scale image conversion on mobile platforms,"2017 9th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)"
+mobile_gpu,Energy-Efficient and Portable Least Squares Prediction for Image Coding on a Mobile GPU,"2017 25th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP)"
+mobile_gpu,Multi-Stream LDPC Decoder on GPU of Mobile Devices,2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC)
+mobile_gpu,Fragment Reduction on Mobile GPU with Content Adaptive Sampling,Year: 2012 | Conference Paper | Publisher: IEEE
+mobile_gpu,GPU acceleration of automated speech recognition for mobile devices,2011 9th IEEE International Conference on Industrial Informatics
+mobile_gpu,DACO: Pursuing Ultra-low Power Consumption via DNN-Adaptive CPU-GPU CO-optimization on Mobile Devices,"2024 Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+mobile_gpu,Precision Modulated Shading with Bfloat16 for Mobile GPU,2024 IEEE International Conference on Consumer Electronics (ICCE)
+mobile_gpu,Mobile GPU accelerated digital predistortion on a software-defined mobile transmitter,2015 IEEE Global Conference on Signal and Information Processing (GlobalSIP)
+mobile_gpu,Integrated CPU-GPU power management for 3D mobile games,2014 51st ACM/EDAC/IEEE Design Automation Conference (DAC)
+mobile_gpu,Unified GPU voxel collision detection for mobile manipulation planning,2014 IEEE/RSJ International Conference on Intelligent Robots and Systems
+mobile_gpu,Improving mobile gaming performance through cooperative CPU-GPU thermal management,2016 53nd ACM/EDAC/IEEE Design Automation Conference (DAC)
+mobile_gpu,Eliminating redundant fragment shader executions on a mobile GPU via hardware memoization,2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)
+mobile_gpu,An Implementation of Real-Time Traffic Signs and Road Objects Detection Based on Mobile GPU Platforms,IEEE Access
+mobile_gpu,OPTiC: Optimizing Collaborative CPU–GPU Computing on Mobile Devices With Thermal Constraints,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+mobile_gpu,Parallel frame rendering: Trading responsiveness for energy on a mobile GPU,Proceedings of the 22nd International Conference on Parallel Architectures and Compilation Techniques
+mobile_gpu,A user-centric CPU-GPU governing framework for 3D games on mobile devices,2015 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
+mobile_gpu,A control-theoretic approach for energy efficient CPU-GPU subsystem in mobile platforms,2015 52nd ACM/EDAC/IEEE Design Automation Conference (DAC)
+mobile_gpu,Boosting mobile GPU performance with a decoupled access/execute fragment processor,2012 39th Annual International Symposium on Computer Architecture (ISCA)
+mobile_gpu,GPU-based real-time collision detection for motion execution in mobile manipulation planning,2013 16th International Conference on Advanced Robotics (ICAR)
+mobile_gpu,A Timing Side-Channel Attack on a Mobile GPU,2018 IEEE 36th International Conference on Computer Design (ICCD)
+mobile_gpu,User Interaction Aware Reinforcement Learning for Power and Thermal Efficiency of CPU-GPU Mobile MPSoCs,"2020 Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+mobile_gpu,Power Consumption Model of a Mobile GPU Based on Rendering Complexity,"2013 Seventh International Conference on Next Generation Mobile Apps, Services and Technologies"
+mobile_gpu,Real-Time Segmentation of Stereo Videos on a Portable System With a Mobile GPU,IEEE Transactions on Circuits and Systems for Video Technology
+mobile_gpu,Toward High Mobile GPU Performance Through Collaborative Workload Offloading,IEEE Transactions on Parallel and Distributed Systems
+mobile_gpu,An adaptive on-line CPU-GPU governor for games on mobile devices,2017 22nd Asia and South Pacific Design Automation Conference (ASP-DAC)
+mobile_gpu,GPU-Accelerated Incremental Euclidean Distance Transform for Online Motion Planning of Mobile Robots,IEEE Robotics and Automation Letters
+mobile_gpu,Memory-aware cooperative CPU-GPU DVFS governor for mobile games,2015 13th IEEE Symposium on Embedded Systems For Real-time Multimedia (ESTIMedia)
+mobile_gpu,PhoneBit: Efficient GPU-Accelerated Binary Neural Network Inference Engine for Mobile Phones,"2020 Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+mobile_gpu,GPU accelerated graph SLAM and occupancy voxel based ICP for encoder-free mobile robots,2013 IEEE/RSJ International Conference on Intelligent Robots and Systems
+mobile_gpu,Hybrid CPU-GPU Distributed Framework for Large Scale Mobile Networks Simulation,2012 IEEE/ACM 16th International Symposium on Distributed Simulation and Real Time Applications
+mobile_gpu,CPU/GPU Collaboration Techniques for Transfer Learning on Mobile Devices,2017 IEEE 23rd International Conference on Parallel and Distributed Systems (ICPADS)
+mobile_gpu,ButterFly: Mobile collaborative rendering over GPU workload migration,IEEE INFOCOM 2017 - IEEE Conference on Computer Communications
+mobile_gpu,A case study of OpenCL on an Android mobile GPU,2014 IEEE High Performance Extreme Computing Conference (HPEC)
+mobile_gpu,Texture-Directed Mobile GPU Power Management for Closed-Source Games,"2014 IEEE Intl Conf on High Performance Computing and Communications, 2014 IEEE 6th Intl Symp on Cyberspace Safety and Security, 2014 IEEE 11th Intl Conf on Embedded Software and Syst (HPCC,CSS,ICESS)"
+mobile_gpu,Complexity Reduction by Modified Scale-Space Construction in SIFT Generation Optimized for a Mobile GPU,IEEE Transactions on Circuits and Systems for Video Technology
+mobile_gpu,Energy efficient object detection on the mobile GP-GPU,2017 IEEE AFRICON
+mobile_gpu,An Adaptive CPU-GPU Governing Framework for Mobile Games on big.LITTLE Architectures,IEEE Transactions on Computers
+mobile_gpu,"GPU-enabled Framework for Modelling, Determination and Simulation the LCR of Mobile Networks in Smart Cities Limited by η-µ Distributed Fading and Interference",2021 6th International Conference on Smart and Sustainable Technologies (SpliTech)
+mobile_gpu,A Fast MPEG’s CDVS Implementation for GPU Featured in Mobile Devices,IEEE Access
+mobile_gpu,Mobile GPU shader processor based on non-blocking Coarse Grained Reconfigurable Arrays architecture,2013 International Conference on Field-Programmable Technology (FPT)
+mobile_gpu,A 130.3 mW 16-Core Mobile GPU With Power-Aware Pixel Approximation Techniques,IEEE Journal of Solid-State Circuits
+mobile_gpu,Performance Comparison of CGRA and Mobile GPU for Light-Field Image Processing,2016 Fourth International Symposium on Computing and Networking (CANDAR)
+mobile_gpu,Behavior-Aware Integrated CPU-GPU Power Management for Mobile Games,"2016 IEEE 24th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)"
+mobile_gpu,On the Use of Mobile GPU for Accelerating Malware Detection Using Trace Analysis,2015 IEEE 34th Symposium on Reliable Distributed Systems Workshop (SRDSW)
+mobile_gpu,Full-System Simulation of Mobile CPU/GPU Platforms,2019 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
+mobile_gpu,Saving energy without defying deadlines on mobile GPU-based heterogeneous systems,2014 International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)
+mobile_gpu,Light Field Depth Estimation on Off-the-Shelf Mobile GPU,2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
+mobile_gpu,System-level power & energy estimation methodology and optimization techniques for CPU-GPU based mobile platforms,2014 IEEE 12th Symposium on Embedded Systems for Real-time Multimedia (ESTIMedia)
+mobile_gpu,Managing gpu buffers for caching more apps in mobile systems,2015 International Conference on Embedded Software (EMSOFT)
+mobile_gpu,Enabling Real-time AI Inference on Mobile Devices via GPU-CPU Collaborative Execution,2022 IEEE 28th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)
+mobile_gpu,A User-Centric CPU-GPU Governing Framework for 3-D Mobile Games,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+mobile_gpu,GPU Based High Definition Parallel Video Codec Optimization in Mobile Device,IEEE Transactions on Mobile Computing
+mobile_gpu,ColourFAST: GPU-based feature point detection and tracking on mobile devices,2013 28th International Conference on Image and Vision Computing New Zealand (IVCNZ 2013)
+mobile_gpu,Optimization of the Modified Gaussian Filter for Mobile GPU Usage in Game Workloads,"2023 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI)"
+mobile_gpu,GPU and VPU Enabled Virtual Mobile Infrastructure for 3-D Image Rendering and its Application in Telemedicine,IEEE Internet of Things Journal
+mobile_gpu,A new model for programming distributed computer based on GPU chip and mobile Agent,2016 11th International Conference on Intelligent Systems: Theories and Applications (SITA)
+mobile_gpu,GBooster: Towards Acceleration of GPU-Intensive Mobile Applications,2017 IEEE 37th International Conference on Distributed Computing Systems (ICDCS)
+mobile_gpu,Accelerating a Computer Vision Algorithm on a Mobile SoC Using CPU-GPU Co-processing - A Case Study on Face Detection,2016 IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft)
+mobile_gpu,VoiceBit: GPU-Accelerated Real-Time Human Voice Separation for Mobile Phones,"2022 IEEE 24th Int Conf on High Performance Computing & Communications; 8th Int Conf on Data Science & Systems; 20th Int Conf on Smart City; 8th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys)"
+mobile_gpu,Machine Learning Based Predictive Models in Mobile Platforms Using CPU-GPU,"2020 7th International Conference on Internet of Things: Systems, Management and Security (IOTSMS)"
+mobile_gpu,MOC: Multi-Objective Mobile CPU-GPU Co-Optimization for Power-Efficient DNN Inference,2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)
+mobile_gpu,Corrections to “An Implementation of Real-Time Traffic Signs and Road Objects Detection Based on Mobile GPU Platforms”,IEEE Access

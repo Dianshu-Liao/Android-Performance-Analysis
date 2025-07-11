@@ -1,0 +1,61 @@
+keyword,title,publication
+android_energy,Power Profiler: Monitoring Energy Consumption of ML Algorithms on Android Mobile Devices,e-Energy '23 Companion: Companion Proceedings of the 14th ACM International Conference on Future Energy Systems
+android_energy,E-APK: Energy Pattern Detection in Decompiled Android Applications,SBLP '22: Proceedings of the XXVI Brazilian Symposium on Programming Languages
+android_energy,E-MANAFA: Energy Monitoring and ANAlysis tool For Android,ASE '22: Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering
+android_energy,ecoCode: a SonarQube Plugin to Remove Energy Smells from Android Projects,ASE '22: Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering
+android_energy,Refactoring Android-specific Energy Smells: A Plugin for Android Studio,ICPC '20: Proceedings of the 28th International Conference on Program Comprehension
+android_energy,A black box technique to reduce energy consumption of Android apps,ICSE-NIER '22: Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: New Ideas and Emerging Results
+android_energy,Predicting the energy consumption level of Java classes in Android apps: an exploratory analysis,MOBILESoft '22: Proceedings of the 9th IEEE/ACM International Conference on Mobile Software Engineering and Systems
+android_energy,Comparing the Energy Efficiency of WebAssembly and JavaScript in Web Applications on Android Mobile Devices,EASE '22: Proceedings of the 26th International Conference on Evaluation and Assessment in Software Engineering
+android_energy,Energy Diagnosis of Android Applications: A Thematic Taxonomy and Survey,"ACM Computing Surveys (CSUR), Volume 53, Issue 6"
+android_energy,Automated construction of energy test oracles for Android,ESEC/FSE 2020: Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+android_energy,A Systematic Mapping on Energy Efficiency Testing in Android Applications,SBQS '20: Proceedings of the XIX Brazilian Symposium on Software Quality
+android_energy,Search-based energy testing of Android,ICSE '19: Proceedings of the 41st International Conference on Software Engineering
+android_energy,Should energy consumption influence the choice of Android third-party HTTP libraries?,MOBILESoft '20: Proceedings of the IEEE/ACM 7th International Conference on Mobile Software Engineering and Systems
+android_energy,Examining the energy impact of sorting algorithms on android: an empirical study,"MobiQuitous '19: Proceedings of the 16th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services"
+android_energy,Do you have the energy for this meeting?: an empirical study on the energy consumption of the Google Meet and zoom Android apps,MOBILESoft '22: Proceedings of the 9th IEEE/ACM International Conference on Mobile Software Engineering and Systems
+android_energy,No need to ask the Android: bluetooth-low-energy scanning without the location permission,WiSec '21: Proceedings of the 14th ACM Conference on Security and Privacy in Wireless and Mobile Networks
+android_energy,Detection of energy inefficiencies in Android wear watch faces,ESEC/FSE 2018: Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+android_energy,Multi-Objective Optimization of Energy Consumption of GUIs in Android Apps,"ACM Transactions on Software Engineering and Methodology (TOSEM), Volume 27, Issue 3"
+android_energy,µDroid: an energy-aware mutation testing framework for Android,ESEC/FSE 2017: Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering
+android_energy,Measuring and optimizing android smartwatch energy consumption: poster,MobiCom '16: Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking
+android_energy,KLEP: a kernel level energy profiling tool for Android: poster abstract,IPSN '17: Proceedings of the 16th ACM/IEEE International Conference on Information Processing in Sensor Networks
+android_energy,Energy-aware test-suite minimization for Android apps,ISSTA 2016: Proceedings of the 25th International Symposium on Software Testing and Analysis
+android_energy,A study on the energy consumption of Android app development approaches,MSR '17: Proceedings of the 14th International Conference on Mining Software Repositories
+android_energy,Optimising Energy Consumption Heuristically on Android Mobile Phones,GECCO '16 Companion: Proceedings of the 2016 on Genetic and Evolutionary Computation Conference Companion
+android_energy,Deep parameter optimisation on Android smartphones for energy minimisation: a tale of woe and a proof-of-concept,GECCO '17: Proceedings of the Genetic and Evolutionary Computation Conference Companion
+android_energy,Improving energy consumption in Android apps,ESEC/FSE 2015: Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering
+android_energy,Preserving energy resources using an Android kernel extension: a case study,MOBILESoft '16: Proceedings of the International Conference on Mobile Software Engineering and Systems
+android_energy,Static detection of energy defect patterns in Android applications,CC '16: Proceedings of the 25th International Conference on Compiler Construction
+android_energy,Automated re-factoring of Android apps to enhance energy-efficiency,MOBILESoft '16: Proceedings of the International Conference on Mobile Software Engineering and Systems
+android_energy,Optimizing energy of HTTP requests in Android applications,DeMobile 2015: Proceedings of the 3rd International Workshop on Software Development Lifecycle for Mobile
+android_energy,The accuracy of Android energy measurements for offloading computational expensive tasks: poster,MobiHoc '16: Proceedings of the 17th ACM International Symposium on Mobile Ad Hoc Networking and Computing
+android_energy,Energy-aware performance evaluation of Android custom kernels,GREENS '15: Proceedings of the Fourth International Workshop on Green and Sustainable Software
+android_energy,Optimizing display energy consumption for hybrid Android apps (invited talk),DeMobile 2015: Proceedings of the 3rd International Workshop on Software Development Lifecycle for Mobile
+android_energy,Optimizing energy consumption of GUIs in Android apps: a multi-objective approach,ESEC/FSE 2015: Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering
+android_energy,Energy optimization in android applications through wakelock placement,"DATE '14: Proceedings of the conference on Design, Automation & Test in Europe"
+android_energy,In-vivo and offline optimisation of energy use in the presence of small energy signals: A case study on a popular Android library,"MobiQuitous '18: Proceedings of the 15th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services"
+android_energy,Reducing Energy Consumption of Alarm-induced Wake-ups on Android Smartphones,HotMobile '15: Proceedings of the 16th International Workshop on Mobile Computing Systems and Applications
+android_energy,Calculating source line level energy information for Android applications,ISSTA 2013: Proceedings of the 2013 International Symposium on Software Testing and Analysis
+android_energy,Energy Efficient Tracking by Dynamic Voltage and Frequency Scaling on Android Smart Phones,ICDSC '14: Proceedings of the International Conference on Distributed Smart Cameras
+android_energy,Dynamic frequency scaling on android platforms for energy consumption reduction,PM2HW2N '13: Proceedings of the 8th ACM workshop on Performance monitoring and measurement of heterogeneous wireless and wired networks
+android_energy,Mining energy-greedy API usage patterns in Android apps: an empirical study,MSR 2014: Proceedings of the 11th Working Conference on Mining Software Repositories
+android_energy,An investigation into energy-saving programming practices for Android smartphone app development,GREENS 2014: Proceedings of the 3rd International Workshop on Green and Sustainable Software
+android_energy,A method for characterizing energy consumption in Android smartphones,GREENS '13: Proceedings of the 2nd International Workshop on Green and Sustainable Software
+android_energy,Can execution time describe accurately the energy consumption of mobile apps? an experiment in Android,GREENS 2014: Proceedings of the 3rd International Workshop on Green and Sustainable Software
+android_energy,Estimating Android applications' CPU energy usage via bytecode profiling,GREENS '12: Proceedings of the First International Workshop on Green and Sustainable Software
+android_energy,ReTriple: reduction of redundant rendering on android devices for performance and energy optimizations,DAC '20: Proceedings of the 57th ACM/EDAC/IEEE Design Automation Conference
+android_energy,GreenHub farmer: real-world data for Android energy mining,MSR '19: Proceedings of the 16th International Conference on Mining Software Repositories
+android_energy,"GreenSource: a large-scale collection of Android code, tests and energy metrics",MSR '19: Proceedings of the 16th International Conference on Mining Software Repositories
+android_energy,MLStar: Machine Learning in Energy Profile Estimation of Android Apps,"MobiQuitous '18: Proceedings of the 15th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services"
+android_energy,Method reallocation to reduce energy consumption: an implementation in Android OS,SAC '14: Proceedings of the 29th Annual ACM Symposium on Applied Computing
+android_energy,Leafactor: improving energy efficiency of Android apps via automatic refactoring,MOBILESoft '17: Proceedings of the 4th International Conference on Mobile Software Engineering and Systems
+android_energy,E-greenDroid: effective energy inefficiency analysis for android applications,Internetware '16: Proceedings of the 8th Asia-Pacific Symposium on Internetware
+android_energy,GEMMA: multi-objective optimization of energy consumption of GUIs in Android apps,ICSE-C '17: Proceedings of the 39th International Conference on Software Engineering Companion
+android_energy,PETrA: a software-based tool for estimating the energy profile of Android applications,ICSE-C '17: Proceedings of the 39th International Conference on Software Engineering Companion
+android_energy,DelayDroid: Reducing Tail-Time Energy by Refactoring Android Apps,Internetware '15: Proceedings of the 7th Asia-Pacific Symposium on Internetware
+android_energy,EcoDroid: an approach for energy-based ranking of Android apps,GREENS '15: Proceedings of the Fourth International Workshop on Green and Sustainable Software
+android_energy,EnTrack: a system facility for analyzing energy consumption of Android system services,UbiComp '15: Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing
+android_energy,Poster: a smart scheduling mechanism for energy saving in android system,"MobiSys '12: Proceedings of the 10th international conference on Mobile systems, applications, and services"
+android_energy,Poster: an energy profiler for android applications used in the real world,"MobiSys '12: Proceedings of the 10th international conference on Mobile systems, applications, and services"
+android_energy,Singularity robust inverse kinematics for a humanoid robot with minimum energy configuration and self-collision avoidance,WASA '12: Proceedings of the Workshop at SIGGRAPH Asia

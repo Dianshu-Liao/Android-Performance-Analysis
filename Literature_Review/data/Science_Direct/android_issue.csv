@@ -1,0 +1,270 @@
+keyword,title,publication
+android_issue,An empirical study on compatibility issues in Android API field evolution,Information and Software Technology
+android_issue,MADRAS-NET: A deep learning approach for detecting and classifying android malware using Linknet,Measurement: Sensors
+android_issue,Strengthening LLM ecosystem security: Preventing mobile malware from manipulating LLM-based applications,Information Sciences
+android_issue,GHGDroid: Global heterogeneous graph-based android malware detection,Computers & Security
+android_issue,A systematic literature review on Android-specific smells,Journal of Systems and Software
+android_issue,ReckDroid: Detecting red packet fraud in Android apps,Computers & Security
+android_issue,SynDroid: An adaptive enhanced Android malware classification method based on CTGAN-SVM,Computers & Security
+android_issue,Assessing the security of inter-app communications in android through reinforcement learning,Computers & Security
+android_issue,WHGDroid: Effective android malware detection based on weighted heterogeneous graph,Journal of Information Security and Applications
+android_issue,Explainable Classification Model for Android Malware Analysis Using API and Permission-Based Features,"Computers, Materials and Continua"
+android_issue,Efficient concept drift handling for batch android malware detection models,Pervasive and Mobile Computing
+android_issue,A Systematic Review of Social Media Data Mining on Android,Procedia Computer Science
+android_issue,Automated malware detection using machine learning and deep learning approaches for android applications,Measurement: Sensors
+android_issue,Defendroid: Real-time Android code vulnerability detection via blockchain federated neural network with XAI,Journal of Information Security and Applications
+android_issue,Selection of disassembly schemes for multiple types of waste mobile phones based on knowledge reuse and disassembly line balancing,Journal of Manufacturing Systems
+android_issue,F2DC: Android malware classification based on raw traffic and neural networks,Computer Networks
+android_issue,Concept drift and cross-device behavior: Challenges and implications for effective android malware detection,Computers & Security
+android_issue,A novel Android malware detection method with API semantics extraction,Computers & Security
+android_issue,FridgeSnap: A software for recipe suggestion based on food image classification,Software Impacts
+android_issue,"Android malware concept drift using system calls: Detection, characterization and challenges",Expert Systems with Applications
+android_issue,EfficientNet convolutional neural networks-based Android malware detection,Computers & Security
+android_issue,Generating sparse explanations for malicious Android opcode sequences using hierarchical LIME,Computers & Security
+android_issue,A longitudinal study of the impact of refactoring in android applications,Information and Software Technology
+android_issue,RansomDroid: Forensic analysis and detection of Android Ransomware using unsupervised machine learning technique,Forensic Science International: Digital Investigation
+android_issue,Probing AndroVul dataset for studies on Android malware classification,Journal of King Saud University - Computer and Information Sciences
+android_issue,An Android Malware Detection and Classification Approach Based on Contrastive Lerning,Computers & Security
+android_issue,Self-report user interfaces for patients with Rheumatic and Musculoskeletal Diseases: App review and usability experiments with mobile user interface components,Computers & Graphics
+android_issue,DroidEnemy: Battling adversarial example attacks for Android malware detection,Digital Communications and Networks
+android_issue,A method of multidimensional software aging prediction based on ensemble learning: A case of Android OS,Information and Software Technology
+android_issue,Exploring the use of static and dynamic analysis to improve the performance of the mining sandbox approach for android malware identification,Journal of Systems and Software
+android_issue,Towards Explainable CNNs for Android Malware Detection,Procedia Computer Science
+android_issue,Vulnerabilities in Android webview objects: Still not the end!,Computers & Security
+android_issue,A Bayesian probability model for Android malware detection,ICT Express
+android_issue,An Android Malware Detection Approach Based on Static Feature Analysis Using Machine Learning Algorithms,Procedia Computer Science
+android_issue,A survey of android application and malware hardening,Computer Science Review
+android_issue,Studying users’ perception of IoT mobile companion apps,Pervasive and Mobile Computing
+android_issue,On machine learning effectiveness for malware detection in Android OS using static analysis data,Journal of Information Security and Applications
+android_issue,GeoSurvey: A cloud-based mobile app for efficient land surveys and big data collection,Software Impacts
+android_issue,You Shall not Repackage! Demystifying Anti-Repackaging on Android,Computers & Security
+android_issue,Permission based Android security: Issues and countermeasures,Computers & Security
+android_issue,Android Password Managers and Vault Applications: Data Storage Security Issues Identification,Journal of Information Security and Applications
+android_issue,"Android single sign-on security: Issues, taxonomy and directions",Future Generation Computer Systems
+android_issue,JOWMDroid: Android malware detection based on feature weighting with joint optimization of weight-mapping and classifier parameters,Computers & Security
+android_issue,Towards predictive analysis of android vulnerability using statistical codes and machine learning for IoT applications,Computer Communications
+android_issue,Android code smells: From introduction to refactoring,Journal of Systems and Software
+android_issue,How are framework code samples maintained and used by developers? The case of Android and Spring Boot,Journal of Systems and Software
+android_issue,Sharing runtime permission issues for developers based on similar-app review mining,Journal of Systems and Software
+android_issue,Vulnerability analysis of Qualcomm Secure Execution Environment (QSEE),Computers & Security
+android_issue,A root privilege management scheme with revocable authorization for Android devices,Journal of Network and Computer Applications
+android_issue,Android malware detection as a Bi-level problem,Computers & Security
+android_issue,Springbok: An App deployment accelerator for Android smart devices,Computers & Electrical Engineering
+android_issue,Function-level obfuscation detection method based on Graph Convolutional Networks,Journal of Information Security and Applications
+android_issue,Covertvasion: Depicting threats through covert channels based novel evasive attacks in android,International Journal of Intelligent Networks
+android_issue,Chapter 2: Performance tuning of Android applications using clustering and optimization heuristics,Advanced Data Mining Tools and Methods for Social Computing
+android_issue,Pleasure or pain? An evaluation of the costs and utilities of bloatware applications in android smartphones,Journal of Network and Computer Applications
+android_issue,Android data storage security: A review,Journal of King Saud University - Computer and Information Sciences
+android_issue,MSYM: A multichannel communication system for android devices,Computer Networks
+android_issue,SMART GROW – Low-cost automated hydroponic system for urban farming,HardwareX
+android_issue,Hunter: Tracing anycast communications to uncover cross-border personal data transfers,Computers & Security
+android_issue,DelDroid: An automated approach for determination and enforcement of least-privilege architecture in android,Journal of Systems and Software
+android_issue,A real-time deep learning approach for classifying cervical spine fractures,Healthcare Analytics
+android_issue,A security framework for mHealth apps on Android platform,Computers & Security
+android_issue,New flash memory acquisition methods based on firmware update protocols for LG Android smartphones,Digital Investigation
+android_issue,Security considerations related to the use of mobile devices in the operation of critical infrastructures,International Journal of Critical Infrastructure Protection
+android_issue,AATT+: Effectively manifesting concurrency bugs in Android apps,Science of Computer Programming
+android_issue,Human values in software development artefacts: A case study on issue discussions in three Android applications,Information and Software Technology
+android_issue,"Security analysis of menstruation cycle tracking applications using static, dynamic and machine learning techniques",Journal of Information Security and Applications
+android_issue,Analysis of Malicious Behavior of Android Apps,Procedia Computer Science
+android_issue,A real-time application-based convolutional neural network approach for tomato leaf disease classification,Array
+android_issue,CitySolution: A complaining task distributive mobile application for smart city corporation using deep learning,SoftwareX
+android_issue,Android architecture: attacking the weak points,Network Security
+android_issue,A Survey on HTTPS Implementation by Android Apps: Issues and Countermeasures,Applied Computing and Informatics
+android_issue,Discovering communities of malapps on Android-based mobile cyber-physical systems,Ad Hoc Networks
+android_issue,Leveraging adjusted user behavior in the detection and prevention of outgoing malicious SMSs in Android devices,Computers in Human Behavior
+android_issue,A human-centered artificial intelligence approach for privacy protection of elderly App users in smart cities,Neurocomputing
+android_issue,An empirical study of collaborative model and its security risk in Android,Journal of Systems and Software
+android_issue,Rapid Android Parser for Investigating DEX files (RAPID),Digital Investigation
+android_issue,Conceptual framework for the security of mobile health applications on Android platform,Telematics and Informatics
+android_issue,Privacy-preserving malware detection in Android-based IoT devices through federated Markov chains,Future Generation Computer Systems
+android_issue,Chapter Three: Effectiveness of state-of-the-art dynamic analysis techniques in identifying diverse Android malware and future enhancements,Advances in Computers
+android_issue,An improved cohesive hierarchical clustering for indoor air quality monitoring in smart gymnasium with healthy sport areas,Alexandria Engineering Journal
+android_issue,An automatic irrigation system using IOT devices,Materials Today: Proceedings
+android_issue,Transfer Learning Approach for Malware Images Classification on Android Devices Using Deep Convolutional Neural Network,Procedia Computer Science
+android_issue,Static analysis of android apps: A systematic literature review,Information and Software Technology
+android_issue,"Saturday, June 24, 202312:00 PM - 1:00 PMPSOR01 Presentation Time: 12:00 PM: Prostate Brachy 2.0: Accessible & Immersive Virtual Reality Training Curriculum for Prostate Brachytherapy",Brachytherapy
+android_issue,An integrated static detection and analysis framework for android,Pervasive and Mobile Computing
+android_issue,On the effectiveness of system API-related information for Android ransomware detection,Computers & Security
+android_issue,Securing android applications via edge assistant third-party library detection,Computers & Security
+android_issue,Best current practices for OAuth/OIDC Native Apps: A study of their adoption in popular providers and top-ranked Android clients,Journal of Information Security and Applications
+android_issue,Computational offloading mechanism for native and android runtime based mobile applications,Journal of Systems and Software
+android_issue,Android/OSGi-based vehicular network management system,Computer Communications
+android_issue,"Google attempts Android malware fix, but problems persist",Computer Fraud & Security
+android_issue,"Security and privacy of mobile wallet users in Bitcoin, Dash, Monero, and Zcash",Pervasive and Mobile Computing
+android_issue,RootAgency: A digital signature-based root privilege management agency for cloud terminal devices,Information Sciences
+android_issue,Threats increase on mobile platforms – especially Android – as popularity grows,Network Security
+android_issue,Scalable and robust unsupervised android malware fingerprinting using community-based network partitioning,Computers & Security
+android_issue,Scalable and robust unsupervised Android malware fingerprinting using community-based network partitioning,Computers & Security
+android_issue,"Chapter 1: Testing Android Mobile Applications: Challenges, Strategies, and Approaches",Advances in Computers
+android_issue,Screening smartphone applications using malware family signatures,Computers & Security
+android_issue,Smartphone-based colorimetric sensor application for measuring biochemical material concentration,Sensing and Bio-Sensing Research
+android_issue,The effect of mobile application based genetic counseling on the psychosocial well-being of thalassemia patients and caregivers: A randomized controlled trial,Patient Education and Counseling
+android_issue,A survey of malware detection using deep learning,Machine Learning with Applications
+android_issue,A systematic review of google cardboard used in education,Computers & Education: X Reality
+android_issue,Chapter 19: Android User Enabled Security: Passwords and Gesture,Seeking the Truth from Mobile Evidence
+android_issue,"QuickETC2-HQ: Improved ETC2 encoding techniques for real-time, high-quality texture compression",Computers & Graphics
+android_issue,Development of Android Application for Courier Monitoring System,Procedia Computer Science
+android_issue,TinyVisor: An extensible secure framework on android platforms,Computers & Security
+android_issue,QRFence: A flexible and scalable QR link security detection framework for Android devices,Future Generation Computer Systems
+android_issue,Detecting Android malicious apps and categorizing benign apps with ensemble of classifiers,Future Generation Computer Systems
+android_issue,Efficient and Secure IoT Based Smart Home Automation Using Multi-Model Learning and Blockchain Technology,CMES - Computer Modeling in Engineering and Sciences
+android_issue,Development of Affordable and Powerful Swarm Mobile Robot Based on Smartphone Android and IOIO board,Procedia Computer Science
+android_issue,Detection of malicious Android applications using Ontology-based intelligent model in mobile cloud environment,Journal of Information Security and Applications
+android_issue,An intelligent garment for online fetal well-being monitoring,Expert Systems with Applications
+android_issue,Client-based and Cross-layer Optimized Flow Mobility for Android Devices in Heterogeneous Femtocell/Wi-Fi Networks*,Procedia Computer Science
+android_issue,An Android application for receiving notifications of astrophysical transient events,Astronomy and Computing
+android_issue,Activity recognition with android phone using mixture-of-experts co-trained with labeled and unlabeled data,Neurocomputing
+android_issue,Automatic testing of runtime enforcers with Test4Enforcers,Journal of Systems and Software
+android_issue,Real-time machine learning-based approach for pothole detection,Expert Systems with Applications
+android_issue,Towards the design of personalized adaptive user interfaces for smart TV viewers,Journal of King Saud University - Computer and Information Sciences
+android_issue,Chapter 25: Security Management Systems,Computer and Information Security Handbook (Fourth Edition)
+android_issue,The Application of Augmented Reality to Generate Realistic Interaction in the Property Sector,Procedia Computer Science
+android_issue,The use of android smart phones as a tool for absences,Procedia Computer Science
+android_issue,On the use of artificial malicious patterns for android malware detection,Computers & Security
+android_issue,Forensic analysis of smart TV: A current issue and call to arms,Digital Investigation
+android_issue,A signal pattern recognition approach for mobile devices and its application to braking state classification on robotic mobility devices,Robotics and Autonomous Systems
+android_issue,Evaluation of the effectiveness of speed tables combined with other traffic calming measures and their community acceptance in Mauritius,Case Studies on Transport Policy
+android_issue,Fast & Furious: On the modelling of malware detection as an evolving data stream,Expert Systems with Applications
+android_issue,An empirical study of problems and evaluation of IoT malware classification label sources,Journal of King Saud University - Computer and Information Sciences
+android_issue,An artificial neural network model of LRU-cache misses on out-of-order embedded processors,Microprocessors and Microsystems
+android_issue,Automated Fetal Monitoring System,Procedia Engineering
+android_issue,Smartphone sensor data as digital evidence,Computers & Security
+android_issue,Handheld chemiresistive sensing system for lead ion detection in water,Journal of Water Process Engineering
+android_issue,An integrated acoustic/LoRa system for transmission of multimedia sensor data over an Internet of Underwater Things,Computer Communications
+android_issue,Mobile insecurities multiply,Network Security
+android_issue,A Social IoT-based platform for the deployment of a smart parking solution,Computer Networks
+android_issue,UFace: Your universal password that no one can see,Computers & Security
+android_issue,IEEE802.11 Access Point's Service Set Identifier (SSID) for Localization and Tracking,"Computers, Materials and Continua"
+android_issue,Investigation on parallel hybrid electric bicycle along with issuer management system for mountainous region,Journal of Cleaner Production
+android_issue,Detecting Android Botnet Applications Using Convolution Neural Network,"Computers, Materials and Continua"
+android_issue,Integrating an e-book Software with Vector Graphic Technology on Cloud Platform,Procedia - Social and Behavioral Sciences
+android_issue,"MalDy: Portable, data-driven malware detection using natural language processing and machine learning techniques on behavioral analysis reports",Digital Investigation
+android_issue,PUFPass: A password management mechanism based on software/hardware codesign,Integration
+android_issue,Quantization Friendly MobileNet (QF-MobileNet) Architecture for Vision Based Applications on Embedded Platforms,Neural Networks
+android_issue,Route Social Network,Procedia Technology
+android_issue,A smartphone-based ASR data collection tool for under-resourced languages,Speech Communication
+android_issue,Automatic accident detection with multi-modal alert system implementation for ITS,Vehicular Communications
+android_issue,Theoretical and practical applications of blockchain in healthcare information management,Information & Management
+android_issue,On-site colorimetric food spoilage monitoring with smartphone embedded machine learning,Talanta
+android_issue,RETRACTED: Simulation of psychological course satisfaction based on android mobile system and neural network,Microprocessors and Microsystems
+android_issue,Experimental analysis of connectivity management in mobile operating systems,Computer Networks
+android_issue,Colorimetric detection of glucose with smartphone-coupled µPADs: harnessing machine learning algorithms in variable lighting environments,Sensors and Actuators B: Chemical
+android_issue,Psychometric properties of the MOBITEC-GP mobile application for real-life mobility assessment in older adults,Geriatric Nursing
+android_issue,MesoGen—Development of an Android application for the Mesoscopic modeling of concrete,SoftwareX
+android_issue,A method for recognizing inter-row navigation lines of rice heading stage based on improved ENet network,Measurement
+android_issue,Classification of Physical Activities Using a Smartphone: Evaluation Study Using Multiple Users,Procedia Technology
+android_issue,Crowdsourcing of environmental noise map using calibrated smartphones,Applied Acoustics
+android_issue,A review of artificial intelligence based malware detection using deep learning,Materials Today: Proceedings
+android_issue,Openness as a business strategy: Historical perspectives on openness in computing and mobile phones,Information Economics and Policy
+android_issue,AutoPrivacy: Automatic privacy protection and tagging suggestion for mobile social photo,Computers & Security
+android_issue,RETRACTED: Three-dimensional simulation of swimming training based on Android mobile system and virtual reality technology,Microprocessors and Microsystems
+android_issue,The differences between adults and adolescents using a mobile health application for menstrual complaints: A usability and qualitative study,International Journal of Medical Informatics
+android_issue,"Characteristics and mobile Internet use intensity of consumers with different types of advanced handsets: An exploratory empirical study of iPhone, Android and other web-enabled mobile users in Germany",Telecommunications Policy
+android_issue,Network Security,July 2015
+android_issue,An IoT-Based Aquaculture Monitoring System Using Firebase,"Computers, Materials and Continua"
+android_issue,The analysis of aerobics intelligent fitness system for neurorobotics based on big data and machine learning,Heliyon
+android_issue,Google’s app store policy change and the responses elicited from mobile content firms: A case study on Korea’s app store ecosystem,Telematics and Informatics
+android_issue,SocioTelematics: Harnessing social interaction-relationships in developing automotive applications,Pervasive and Mobile Computing
+android_issue,‘There's an app for that’: a new program for the collection of behavioural field data,Animal Behaviour
+android_issue,Integrated ECC and Blowfish for Smartphone Security,Procedia Computer Science
+android_issue,Mobile cloud computing based stroke healthcare system,International Journal of Information Management
+android_issue,An analysis on self-management and treatment-related functionality and characteristics of highly rated anxiety apps,International Journal of Medical Informatics
+android_issue,A model-driven approach for the development of native mobile applications focusing on the data layer,Journal of Systems and Software
+android_issue,SADUS: Secure data deletion in user space for mobile devices,Computers & Security
+android_issue,An efficient cloud-integrated distributed deep neural network framework for IoT malware classification,Future Generation Computer Systems
+android_issue,Portable AIE hydrogel sensor for rapid and visual field detection of heavy metal residue in food,Dyes and Pigments
+android_issue,Broad learning: A GPU-free image-based malware classification,Applied Soft Computing
+android_issue,A framework of cloud-based virtual phones for secure intelligent information management,International Journal of Information Management
+android_issue,CrowdSourcing Based Online Petitioning System for Pothole Detection Using Android Platform,Procedia Computer Science
+android_issue,EPMDroid: Efficient and privacy-preserving malware detection based on SGX through data fusion,Information Fusion
+android_issue,Efficient Mobile Clouds: Forecasting the Future Connectivity of Mobile and IoT Devices to Save Energy and Bandwidth,Procedia Computer Science
+android_issue,A global cyber-threat intelligence system with artificial intelligence and convolutional neural network,Decision Analytics Journal
+android_issue,Wearable and interactive mixed reality solutions for fault diagnosis and assistance in manufacturing systems: Implementation and testing in an aseptic bottling line,Computers in Industry
+android_issue,Enhancing student participation in a design-centric mechatronics class,Mechatronics
+android_issue,“It is frustrating to not have control even though I know it’s not legal!”: A mixed-methods investigation on applications to prevent mobile phone use while driving,Accident Analysis & Prevention
+android_issue,Accessibility to Mobile Interfaces for Older People,Procedia Computer Science
+android_issue,Studying the Relationship Between the Usage of APIs Discussed in the Crowd and Post-Release Defects,Journal of Systems and Software
+android_issue,"mHealth Authentication Approach Based 3D Touchscreen and Microphone Sensors for Real-Time Remote Healthcare Monitoring System: Comprehensive Review, Open Issues and Methodological Aspects",Computer Science Review
+android_issue,“Server-less” Social Network for Enhanced Privacy,Procedia Computer Science
+android_issue,Mobile cloud-based depression diagnosis using an ontology and a Bayesian network,Future Generation Computer Systems
+android_issue,Towards the automatic restructuring of structural aesthetic design of Android user interfaces,Computer Standards & Interfaces
+android_issue,A new deep boosted CNN and ensemble learning based IoT malware detection,Computers & Security
+android_issue,Secure and lightweight privacy preserving Internet of things integration for remote patient monitoring,Journal of King Saud University - Computer and Information Sciences
+android_issue,"Intrusion detection for mobile devices using the knowledge-based, temporal abstraction method",Journal of Systems and Software
+android_issue,In This Issue,Cell
+android_issue,Applying motivational techniques for user adherence to adopt a healthy lifestyle in a gamified application,Entertainment Computing
+android_issue,Security analysis of third-party in-app payment in mobile applications,Journal of Information Security and Applications
+android_issue,Método de valoración de aplicaciones móviles de salud en español: el índice iSYScore,SEMERGEN - Medicina de Familia
+android_issue,An end-to-end pollution analysis and detection system using artificial intelligence and object detection algorithms,Decision Analytics Journal
+android_issue,Developing a mobile app for remote access to and data analysis of spectra,Vibrational Spectroscopy
+android_issue,A smartphone sensors-based personalized human activity recognition system for sustainable smart cities,Sustainable Cities and Society
+android_issue,Parallel Speech Collection for Under-resourced Language Studies Using the Lig-Aikuma Mobile Device App,Procedia Computer Science
+android_issue,Development of a mobile computing framework to aid decision-making on organic fertilizer management using a crop growth model,Computers and Electronics in Agriculture
+android_issue,MidHDC: Advanced Topics on Middleware Services for Heterogeneous Distributed Computing. Part 1,Future Generation Computer Systems
+android_issue,Mobile application for the evaluation and planning of nursing workload in the intensive care unit,International Journal of Medical Informatics
+android_issue,Development of Urine Hydration System Based on Urine Color and Support Vector Machine,Procedia Computer Science
+android_issue,Efficient feature extraction model for validation performance improvement of duplicate bug report detection in software bug triage systems,Information and Software Technology
+android_issue,Social networking sites and the legal profession: Balancing benefits with navigating minefields,Computer Law & Security Review
+android_issue,Machine learning based approach to analyze file meta data for smart phone file triage,Forensic Science International: Digital Investigation
+android_issue,iviz: A ROS visualization app for mobile devices,Software Impacts
+android_issue,Designing a smartphone app to teach English (L2) vocabulary,Computers & Education
+android_issue,A software development for medical with a multiple decision taking functionalities,Advances in Engineering Software
+android_issue,Optimizing power consumption in multicore smartphones,Journal of Parallel and Distributed Computing
+android_issue,NCVCS: Network-coding-based video conference system for mobile devices in multicast networks,Ad Hoc Networks
+android_issue,Development of cognitive behavior therapy apps application on depression management in patients of diabetes mellitus type II,Enfermería Clínica
+android_issue,Experiment and enabled flow for GPGPU-Sim simulators with fixed-point instructions,Journal of Systems Architecture
+android_issue,Situation-based privacy autonomous management for mobile social networks,Computer Communications
+android_issue,A middleware for opportunistic content distribution,Computer Networks
+android_issue,Educational apps from the Android Google Play for Greek preschoolers: A systematic review,Computers & Education
+android_issue,Chapter 2: Forensics Analysis of Android Mobile VoIP Apps,Contemporary Digital Forensic Investigations of Cloud and Mobile Applications
+android_issue,A revised open source usability defect classification taxonomy,Information and Software Technology
+android_issue,Chapter 12: Sugarcane leaf disease detection through deep learning,Deep Learning for Sustainable Agriculture
+android_issue,Obésité et syndrome métabolique : une épidémie pour le nouveau siècle,Bulletin de l'Académie Nationale de Médecine
+android_issue,Chapter 9: Pulse oximeter-based machine learning models for sleep apnea detection in heavy vehicle drivers,Autonomous and Connected Heavy Vehicle Technology
+android_issue,C5.0: Advanced Decision Tree (ADT) classification model for agricultural data analysis on cloud,Computers and Electronics in Agriculture
+android_issue,MobileFBP: Designing portable reconfigurable applications for heterogeneous systems,Journal of Systems Architecture
+android_issue,Mobile applications in oncology: A systematic review of health science databases,International Journal of Medical Informatics
+android_issue,Blockchain for secure location verification,Journal of Parallel and Distributed Computing
+android_issue,Transfer learning approach for classification and noise reduction on noisy web data,Expert Systems with Applications
+android_issue,Quadratic polynomial guided fuzzy C-means and dual attention mechanism for medical image segmentation,Displays
+android_issue,Peer-assisted video on-demand streaming system in practical WiFi-based mobile opportunistic networks,Journal of Network and Computer Applications
+android_issue,Acquiring vulnerability indicators to geo-hydrological hazards: An example of mobile phone-based data collection,International Journal of Disaster Risk Reduction
+android_issue,CRIMP: Here crisis mapping goes offline,Journal of Network and Computer Applications
+android_issue,Smartwatch games: Encouraging privacy-protective behaviour in a longitudinal study,Computers in Human Behavior
+android_issue,Where is my feature and what is it about? A case study on recovering feature facets,Journal of Systems and Software
+android_issue,Systematic review of smartphone-based passive sensing for health and wellbeing,Journal of Biomedical Informatics
+android_issue,Collaborative noise data collected from smartphones,Data in Brief
+android_issue,MagicSox: An E-textile IoT system to quantify gait abnormalities,Smart Health
+android_issue,Binary search tree based hierarchical placement algorithm for IoT based smart parking applications,Internet of Things
+android_issue,Research on de-motion blur image processing based on deep learning,Journal of Visual Communication and Image Representation
+android_issue,Evaluating the effect of gamification on the deployment of digital cultural probes for children,International Journal of Human-Computer Studies
+android_issue,AnaDroid: Malware Analysis of Android with User-supplied Predicates,Electronic Notes in Theoretical Computer Science
+android_issue,A personalized mobile patient guide system for a patient-centered smart hospital: Lessons learned from a usability test and satisfaction survey in a tertiary university hospital,International Journal of Medical Informatics
+android_issue,Application-aware end-to-end delay and message loss estimation in Internet of Things (IoT) — MQTT-SN protocols,Future Generation Computer Systems
+android_issue,Re-usable electrochemical glucose sensors integrated into a smartphone platform,Biosensors and Bioelectronics
+android_issue,Clinicians' perceptions of PTSD Coach Australia,Internet Interventions
+android_issue,Output-oriented power saving mode for mobile devices,Future Generation Computer Systems
+android_issue,Automatic security verification of mobile app configurations,Future Generation Computer Systems
+android_issue,Chapter 25: Security Management Systems,Computer and Information Security Handbook (Third Edition)
+android_issue,A comparison of mobile form controls for different tasks,Computer Standards & Interfaces
+android_issue,The ANDROID Case Study; Venice and its Territory: Vulnerability and Resilience in Multi-hazard Scenarios,Procedia Economics and Finance
+android_issue,Chapter 2: Security Management Systems,Managing Information Security (Second Edition)
+android_issue,Eavesdrop with PoKeMon: Position free keystroke monitoring using acoustic data,Future Generation Computer Systems
+android_issue,Offline computer-aided diagnosis for Glaucoma detection using fundus images targeted at mobile devices,Computer Methods and Programs in Biomedicine
+android_issue,Chapter 22: Security Management Systems,Computer and Information Security Handbook (Second Edition)
+android_issue,"A smart mobile, self-configuring, context-aware architecture for personal health monitoring",Engineering Applications of Artificial Intelligence
+android_issue,A privacy-preserving smart parking system using an IoT elliptic curve based security platform,Computer Communications
+android_issue,Achieving Disaster Resilience through the Sri Lankan Early Warning System: Good practises of Disaster Risk Reduction and Management,Procedia Economics and Finance
+android_issue,Evaluation of user satisfaction and usability of a mobile app for smoking cessation,Computer Methods and Programs in Biomedicine
+android_issue,Bi-directional Long Short-Term Memory model to analyze psychological effects on gamers,Applied Soft Computing
+android_issue,Development of a smartphone-based balance assessment system for subjects with chronic stroke,Annals of Physical and Rehabilitation Medicine
+android_issue,SSCLS: A Smartphone-Supported Collaborative Learning System,Telematics and Informatics
+android_issue,Pilot Study of Home Vitals and Activity Monitoring for Allogeneic Hematopoietic Cell Transplant Recipients,Biology of Blood and Marrow Transplantation
+android_issue,"Vitamin D status, body composition and hypertensive target organ damage in primary hypertension",The Journal of Steroid Biochemistry and Molecular Biology
+android_issue,Running an Online Radiology Teaching Conference: Why It’s a Great Idea and How to Do It Successfully,Academic Radiology
+android_issue,T-Res : le futur de l’évaluation des internes en urologie ?,Progrès en Urologie
+android_issue,2345: Developing Conflict Analysis as a Surrogate Safety Measure Using an Expert Survey,Journal of Transport & Health
+android_issue,No internet? No problem! Creative approaches to cost-effective e-learning delivery in resource-constrained settings,The Lancet Global Health
+android_issue,"Hip fractures: incidence, risk factors, energy absorption, and prevention",Bone
+android_issue,Enhancing Adherence to Prescribed Opioids Using a Mobile-Based App: A Feasibility Study in Non-Cancer Pain,Blood

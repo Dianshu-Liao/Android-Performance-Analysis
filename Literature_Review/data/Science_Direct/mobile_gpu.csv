@@ -1,0 +1,157 @@
+keyword,title,publication
+mobile_gpu,Inference latency prediction for CNNs on heterogeneous mobile devices and ML frameworks,Performance Evaluation
+mobile_gpu,Hybrid path planning based on adaptive visibility graph initialization and edge computing for mobile robots,Engineering Applications of Artificial Intelligence
+mobile_gpu,An efficient GPU-accelerated inference engine for binary neural network on mobile phones,Journal of Systems Architecture
+mobile_gpu,ShaderNN: A lightweight and efficient inference engine for real-time applications on mobile GPUs,Neurocomputing
+mobile_gpu,Efficient stereo matching on embedded GPUs with zero-means cross correlation,Journal of Systems Architecture
+mobile_gpu,A deep learning-based mobile application for tree species mapping in RGB images,International Journal of Applied Earth Observation and Geoinformation
+mobile_gpu,L-Bench: An Android benchmark set for low-power mobile GPUs,Computers & Graphics
+mobile_gpu,Designing and Prototyping of AI-based Real-time Mobile Detectors for Calisthenic Push-up Exercise,Procedia Computer Science
+mobile_gpu,A collaborative CPU–GPU approach for principal component analysis on mobile heterogeneous platforms,Journal of Parallel and Distributed Computing
+mobile_gpu,HB-ReTriple: Mobile rendering optimization based on efficient history reusing,Journal of Systems Architecture
+mobile_gpu,High-performance flow classification using hybrid clusters in software defined mobile edge computing,Computer Communications
+mobile_gpu,A Coupled Human and Natural Systems (CHANS) framework integrated with reinforcement learning for urban flood mitigation,Journal of Hydrology
+mobile_gpu,Efficient UAV-Based MEC Using GPU-Based PSO and Voronoi Diagrams,CMES - Computer Modeling in Engineering and Sciences
+mobile_gpu,A novel GPU based Geo-Location Inference Attack on WebGL framework,High-Confidence Computing
+mobile_gpu,Chapter 21: Power management of mobile GPUs,Advances in GPU Research and Practice
+mobile_gpu,"Open source, open hardware hand-held mobile mapping system for large scale surveys",SoftwareX
+mobile_gpu,Ultra-selective membrane composed of charge-stabilized fixed carrier and amino acid-based ionic liquid mobile carrier for highly efficient carbon capture,Chemical Engineering Journal
+mobile_gpu,Energy-efficient global illumination algorithms for mobile devices using dynamic voltage and frequency scaling,Computers & Graphics
+mobile_gpu,A GPU-accelerated real-time human voice separation framework for mobile phones,Journal of Systems Architecture
+mobile_gpu,Mobile Cloud computing architecture for massively parallelizable geometric computation,Computers in Industry
+mobile_gpu,Interactive flow simulation using Tegra-powered mobile devices,Advances in Engineering Software
+mobile_gpu,Smart in-car camera system using mobile cloud computing framework for deep learning,Vehicular Communications
+mobile_gpu,Task offloading using GPU-based particle swarm optimization for high-performance vehicular edge computing,Journal of King Saud University - Computer and Information Sciences
+mobile_gpu,Deep learning based prediction of traffic peaks in mobile networks,Computer Networks
+mobile_gpu,Mobile Ultrasound Plane Wave Beamforming on iPhone or iPad using Metal- based GPU Processing,Physics Procedia
+mobile_gpu,On the Use of a GPU-Accelerated Mobile Device Processor for Sound Source Localization,Procedia Computer Science
+mobile_gpu,Rice grains and grain impurity segmentation method based on a deep learning algorithm-NAM-EfficientNetv2,Computers and Electronics in Agriculture
+mobile_gpu,Model Predictive Control for Autonomous Navigation Using Embedded Graphics Processing Unit,IFAC-PapersOnLine
+mobile_gpu,Efficient object tracking algorithm based on lightweight Siamese networks,Engineering Applications of Artificial Intelligence
+mobile_gpu,Visual predictive control for differential drive robots with parallel implementation on GPU,Computers and Electrical Engineering
+mobile_gpu,On-body wearable device localization with a fast and memory efficient SVM-kNN using GPUs,Pattern Recognition Letters
+mobile_gpu,"GPU-powered, interactive flow simulation on a peer-to-peer group of mobile devices",Advances in Engineering Software
+mobile_gpu,A survey and measurement study of GPU DVFS on energy conservation,Digital Communications and Networks
+mobile_gpu,Systematic detection of memory related performance bottlenecks in GPGPU programs,Journal of Systems Architecture
+mobile_gpu,A flexible heterogeneous real-time digital image correlation system,Optics and Lasers in Engineering
+mobile_gpu,GPU4S: Embedded GPUs in space - Latest project updates,Microprocessors and Microsystems
+mobile_gpu,Real-time and accurate monocular 3D sensor using the reference plane calibration and an optimized SGM based on opencl acceleration,Optics and Lasers in Engineering
+mobile_gpu,Global path guided model predictive path integral control: Applications to GPU-parallelizable robot simulation systems,Computers and Electrical Engineering
+mobile_gpu,ZebraRecognizer: Pedestrian crossing recognition for people with visual impairment or blindness,Pattern Recognition
+mobile_gpu,Low power & mobile hardware accelerators for deep convolutional neural networks,Integration
+mobile_gpu,Chapter Six: Deep learning with GPUs,Advances in Computers
+mobile_gpu,CO2-selective membranes containing amino acid salts for CO2/N2 separation,Journal of Membrane Science
+mobile_gpu,Estimating coverage and capacity of high frequency mobile networks in ultradense urban areas,Computer Communications
+mobile_gpu,Chapter 1: Formal analysis techniques for reliable GPU programming: current solutions and call to action,Advances in GPU Research and Practice
+mobile_gpu,CNN Design for Real-Time Traffic Sign Recognition,Procedia Engineering
+mobile_gpu,GPU accelerated initialization of local maximum-entropy meshfree methods for vibrational and acoustic problems,Computer Methods in Applied Mechanics and Engineering
+mobile_gpu,Embedded GPU and multicore processors for emotional-based mobile robotic agents,Future Generation Computer Systems
+mobile_gpu,Energy-aware hybrid precision selection framework for mobile GPUs,Computers & Graphics
+mobile_gpu,Mobile collaborative computing on the fly,Pervasive and Mobile Computing
+mobile_gpu,An efficient terrain Level of Detail implementation for mobile devices and performance study,"Computers, Environment and Urban Systems"
+mobile_gpu,Robust omnidirectional mobile robot topological navigation system using omnidirectional vision,Engineering Applications of Artificial Intelligence
+mobile_gpu,Server load and network-aware adaptive deep learning inference offloading for edge platforms,Internet of Things
+mobile_gpu,Polyvinyl alcohol membrane incorporated with amine-modified silica nanoparticles and ionic liquid for facilitated transport of CO2,International Journal of Greenhouse Gas Control
+mobile_gpu,Real time exploration and management of large medical volumetric datasets on small mobile devices—Evaluation of remote volume rendering approach,International Journal of Information Management
+mobile_gpu,A lightweight convolutional neural network for automated crack inspection,Construction and Building Materials
+mobile_gpu,Parallel random matrix particle swarm optimization scheduling algorithms with budget constraints on cloud computing systems,Applied Soft Computing
+mobile_gpu,Optimizing vision transformers for CPU platforms via human-machine collaborative design,Knowledge-Based Systems
+mobile_gpu,Progressive ray casting for volumetric models on mobile devices,Computers & Graphics
+mobile_gpu,GPU based real-time SLAM of six-legged robot,Microprocessors and Microsystems
+mobile_gpu,Eye-Full Tower: A GPU-based variable multibaseline omnidirectional stereovision system with automatic baseline selection for outdoor mobile robot navigation,Robotics and Autonomous Systems
+mobile_gpu,IremulbNet: Rethinking the inverted residual architecture for image recognition,Neural Networks
+mobile_gpu,Joint scene and object tracking for cost-Effective augmented reality guided patient positioning in radiation therapy,Computer Methods and Programs in Biomedicine
+mobile_gpu,A generic energy optimization framework for heterogeneous platforms using scaling models,Microprocessors and Microsystems
+mobile_gpu,Nanotube-reinforced facilitated transport membrane for CO2/N2 separation with vacuum operation,Journal of Membrane Science
+mobile_gpu,Experiment and enabled flow for GPGPU-Sim simulators with fixed-point instructions,Journal of Systems Architecture
+mobile_gpu,Performance evaluation of decision making under uncertainty for low power heterogeneous platforms,Journal of Parallel and Distributed Computing
+mobile_gpu,Geometrically stable tracking for depth images based 3D reconstruction on mobile devices,ISPRS Journal of Photogrammetry and Remote Sensing
+mobile_gpu,FPGA-accelerated SmartNIC for supporting 5G virtualized Radio Access Network,Computer Networks
+mobile_gpu,JFCGuard: Detecting juice filming charging attack via processor usage analysis on smartphones,Computers & Security
+mobile_gpu,Fluoride- and hydroxide-containing CO2-selective membranes for improving H2 utilization of solid oxide fuel cells,Journal of Membrane Science
+mobile_gpu,GPU-based remote visualization of dynamic molecular data on the web,Graphical Models
+mobile_gpu,Amine-containing polymer/zeolite Y composite membranes for CO2/N2 separation,Journal of Membrane Science
+mobile_gpu,Classifying environmental sounds using image recognition networks,Procedia Computer Science
+mobile_gpu,An evaluation of ROS-compatible stereo visual SLAM methods on a nVidia Jetson TX2,Measurement
+mobile_gpu,Monocular person tracking and identification with on-line deep feature selection for person following robots,Robotics and Autonomous Systems
+mobile_gpu,MultiVehicle Simulator (MVSim): Lightweight dynamics simulator for multiagents and mobile robotics research,SoftwareX
+mobile_gpu,Chapter 7: Compute Unified Device Architecture,Parallel Programming
+mobile_gpu,DiVIT: Algorithm and architecture co-design of differential attention in vision transformer,Journal of Systems Architecture
+mobile_gpu,Learning scheduling bursty requests in Mobile Edge Computing using DeepLoad,Computer Networks
+mobile_gpu,Feature Extractionusing ORB-RANSAC for Face Recognition,Procedia Computer Science
+mobile_gpu,Tea chrysanthemum detection under unstructured environments using the TC-YOLO model,Expert Systems with Applications
+mobile_gpu,Recent Developments in Distributed Particle Filtering: Towards Fast and Accurate Algorithms,IFAC Proceedings Volumes
+mobile_gpu,Stateless generation of distributed virtual worlds,Computers & Graphics
+mobile_gpu,Adjusting carrier microenvironment in CO2 separation fixed carrier membrane,Journal of Membrane Science
+mobile_gpu,FPGA-based acceleration for binary neural networks in edge computing,Journal of Electronic Science and Technology
+mobile_gpu,Compression of recurrent neural networks for efficient language modeling,Applied Soft Computing
+mobile_gpu,Three-phase hybrid facilitated transport hollow fiber membranes for enhanced CO2 separation,Applied Materials Today
+mobile_gpu,New sterically hindered polyvinylamine-containing membranes for CO2 capture from flue gas,Journal of Membrane Science
+mobile_gpu,A lightweight SSV2-YOLO based model for detection of sugarcane aphids in unstructured natural environments,Computers and Electronics in Agriculture
+mobile_gpu,Lightweight tomato real-time detection method based on improved YOLO and mobile deployment,Computers and Electronics in Agriculture
+mobile_gpu,Resource efficient AI: Exploring neural network pruning for task specialization,Internet of Things
+mobile_gpu,A novel PVI-PVA/PS composite membrane modified by metal ions for CO2 separation: Effect and mechanism,Journal of Environmental Chemical Engineering
+mobile_gpu,Broad learning: A GPU-free image-based malware classification,Applied Soft Computing
+mobile_gpu,Synthesis and characterization of water-soluble chitosan membrane blended with a mobile carrier for CO2 separation,Separation and Purification Technology
+mobile_gpu,Development of a Deep Rectifier Neural Network for dose prediction in nuclear emergencies with radioactive material releases,Progress in Nuclear Energy
+mobile_gpu,Smart traffic control: Identifying driving-violations using fog devices with vehicular cameras in smart cities,Sustainable Cities and Society
+mobile_gpu,Vision-based integrated mobile robotic system for real-time applications in construction,Automation in Construction
+mobile_gpu,Style Optimization Networks for real-time semantic segmentation of rainy and foggy weather,Signal Processing: Image Communication
+mobile_gpu,Large-scale outdoor 3D reconstruction on a mobile device,Computer Vision and Image Understanding
+mobile_gpu,Thin-film-composite hollow fiber membranes containing amino acid salts as mobile carriers for CO2 separation,Journal of Membrane Science
+mobile_gpu,Motion planning in dynamic environments using context-aware human trajectory prediction,Robotics and Autonomous Systems
+mobile_gpu,Towards terrestrial 3D data registration improved by parallel programming and evaluated with geodetic precision,Automation in Construction
+mobile_gpu,Comparing vertical and horizontal SIMD vector processor architectures for accelerated image feature extraction,Journal of Systems Architecture
+mobile_gpu,Shader-based tessellation to save memory bandwidth in a mobile multimedia processor,Computers & Graphics
+mobile_gpu,Automated object detection on aerial images for limited capacity embedded device using a lightweight CNN model,Alexandria Engineering Journal
+mobile_gpu,Chapter 30: Visual Saliency Model on Multi-GPU,GPU Computing Gems Emerald Edition
+mobile_gpu,A lightweight improved YOLOv5s model and its deployment for detecting pitaya fruits in daytime and nighttime light-supplement environments,Computers and Electronics in Agriculture
+mobile_gpu,Effective traversal algorithms and hardware architecture for pyramidal inverse displacement mapping,Computers & Graphics
+mobile_gpu,Tomato leaf segmentation algorithms for mobile phone applications using deep learning,Computers and Electronics in Agriculture
+mobile_gpu,Malaria detection using deep residual networks with mobile microscopy,Journal of King Saud University - Computer and Information Sciences
+mobile_gpu,Designing efficient accelerator of depthwise separable convolutional neural network on FPGA,Journal of Systems Architecture
+mobile_gpu,Enhancing membrane performance for CO2 capture from flue gas with ultrahigh MW polyvinylamine,Journal of Membrane Science
+mobile_gpu,An Interpretable CNN for the Segmentation of the Left Ventricle in Cardiac MRI by Real-Time Visualization,CMES - Computer Modeling in Engineering and Sciences
+mobile_gpu,Lightweight convolutional neural networks with context broadcast transformer for real-time semantic segmentation,Image and Vision Computing
+mobile_gpu,Chapter Five: FPGA based neural network accelerators,Advances in Computers
+mobile_gpu,A multi-perspective revisit to the optimization methods of Neural Architecture Search and Hyper-parameter optimization for non-federated and federated learning environments,Computers and Electrical Engineering
+mobile_gpu,Towards scalable and efficient Deep-RL in edge computing: A game-based partition approach,Journal of Parallel and Distributed Computing
+mobile_gpu,MCLNet: An multidimensional convolutional lightweight network for gastric histopathology image classification,Biomedical Signal Processing and Control
+mobile_gpu,Compression of Deep Neural Networks based on quantized tensor decomposition to implement on reconfigurable hardware platforms,Neural Networks
+mobile_gpu,Lightweight and interpretable convolutional neural network for real-time heart rate monitoring using low-cost video camera under realistic conditions,Biomedical Signal Processing and Control
+mobile_gpu,Real-time video super-resolution using lightweight depthwise separable group convolutions with channel shuffling,Journal of Visual Communication and Image Representation
+mobile_gpu,The fastest visual ego-motion algorithm in the west,Microprocessors and Microsystems
+mobile_gpu,Program-based dynamic precision selection framework with a dual-mode unified shader for mobile GPUs,Computers & Electrical Engineering
+mobile_gpu,Semi-supervised blockwisely architecture search for efficient lightweight generative adversarial network,Pattern Recognition
+mobile_gpu,Identifying Fagaceae and Lauraceae species using leaf images and convolutional neural networks,Ecological Informatics
+mobile_gpu,Chapter 3: Real Time 3D Face-Ear Recognition on Mobile Devices: New Scenarios for 3D Biometrics “in-the-Wild”,Human Recognition in Unconstrained Environments
+mobile_gpu,Efficient voxelization using projected optimal scanline,Graphical Models
+mobile_gpu,Extending Paralldroid with object oriented annotations,Parallel Computing
+mobile_gpu,SparkNoC: An energy-efficiency FPGA-based accelerator using optimized lightweight CNN for edge computing,Journal of Systems Architecture
+mobile_gpu,Using explicit platform descriptions to support programming of heterogeneous many-core systems,Parallel Computing
+mobile_gpu,How to run molecular dynamics simulations on electrospray droplets and gas phase proteins: Basic guidelines and selected applications,Methods
+mobile_gpu,LARFNet: Lightweight asymmetric refining fusion network for real-time semantic segmentation,Computers & Graphics
+mobile_gpu,Chapter Seven: Architecture of neural processing unit for deep neural networks,Advances in Computers
+mobile_gpu,Mitigated carrier saturation of facilitated transport membranes for decarbonizing dilute CO2 sources: An experimental and techno-economic study,Journal of Membrane Science Letters
+mobile_gpu,Emissions from auxiliary power units and ground power units during intraday aircraft turnarounds at European airports,Transportation Research Part D: Transport and Environment
+mobile_gpu,CUDA programs for solving the time-dependent dipolar Gross–Pitaevskii equation in an anisotropic trap,Computer Physics Communications
+mobile_gpu,Chapter 6: Surface Rendering,Visual Computing for Medicine (Second Edition)
+mobile_gpu,26: Using the NVIDIA CUDA programme to develop cognitive supervision of multi robot systems,Using Robots in Hazardous Environments
+mobile_gpu,A deep-learning real-time visual SLAM system based on multi-task feature extraction network and self-supervised feature points,Measurement
+mobile_gpu,Structured deep Fisher pruning for efficient facial trait classification,Image and Vision Computing
+mobile_gpu,Fansmitter: Acoustic data exfiltration from air-Gapped computers via fans noise,Computers & Security
+mobile_gpu,An FPGA stereo matching unit based on fuzzy logic,Microprocessors and Microsystems
+mobile_gpu,Optimization of structure and system latency in evolvable block-based neural networks using genetic algorithm,Neurocomputing
+mobile_gpu,Oxidatively stable membranes for CO2 separation and H2 purification,Journal of Membrane Science
+mobile_gpu,U2ESPNet—A lightweight and high-accuracy convolutional neural network for real-time semantic segmentation of visible branches,Computers and Electronics in Agriculture
+mobile_gpu,Automatic classification of defective photovoltaic module cells in electroluminescence images,Solar Energy
+mobile_gpu,Augmented reality system for facility management using image-based indoor localization,Automation in Construction
+mobile_gpu,"Synthesis, characterization and CO2 separation performance of novel PVA/PG/ZIF-8 mixed matrix membrane",Journal of Membrane Science
+mobile_gpu,Simple change detection from mobile light field cameras,Computer Vision and Image Understanding
+mobile_gpu,"π-Hub: Large-scale video learning, storage, and retrieval on heterogeneous hardware platforms",Future Generation Computer Systems
+mobile_gpu,Automatic coarse-to-fine joint detection and segmentation of underwater non-structural live crabs for precise feeding,Computers and Electronics in Agriculture
+mobile_gpu,Oxidatively stable borate-containing membranes for H2 purification for fuel cells,Journal of Membrane Science
+mobile_gpu,Nature Inspired Power Optimization in smartphones,Swarm and Evolutionary Computation
+mobile_gpu,High-molecular-weight polyvinylamine/piperazine glycinate membranes for CO2 capture from flue gas,Journal of Membrane Science
+mobile_gpu,Improving Online Adaptive Radiotherapy Quality Assurance with Streamlined Clinical Workflow through In-House Development,International Journal of Radiation Oncology*Biology*Physics
+mobile_gpu,Highly Polar but Amorphous Polymers with Robust Membrane CO2/N2 Separation Performance,Joule

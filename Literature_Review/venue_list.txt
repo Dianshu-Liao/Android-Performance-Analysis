@@ -1,0 +1,53 @@
+TSE 
+Transactions on Software Engineering
+TOSEM 
+Transactions on Software Engineering and Methodology
+EMSE 
+Empirical Software Engineering
+JSS 
+Journal of Systems and Software
+IST 
+Information and Software Technology
+TMC 
+Transactions on Mobile Computing
+MOBICOM 
+International Conference on Mobile Computing and Networking
+Mobisys 
+International Conference on Mobile Systems, Applications and Services
+EuroSys 
+Eurosys Conference
+MOBIHOC 
+Mobile Ad Hoc Networking and Computing
+MSWIM 
+International Conference on Modelling, Analysis and Simulation of Wireless and Mobile Systems
+ASE 
+Automated Software Engineering
+ESEC/FSE 
+FSE 
+International Conference on the Foundations of Software Engineering
+ICSE 
+International Conference on Software Engineering
+EASE 
+International Conference on Evaluation and Assessment in Software Engineering
+ECSA 
+European Conference on Software Architecture
+ESEM 
+Empirical Software Engineering and Measurement
+FOSSACS 
+Foundations of Software Science and Computational Structures
+ICSA 
+International Conference on Software Architecture
+ICSME 
+International Conference on Software Maintenance and Evolution
+ICST 
+International Conference on Software Testing, Verification and Validation
+ISSRE 
+International Symposium on Software Reliability Engineering
+ISSTA 
+International Symposium on Software Testing and Analysis
+MSR 
+International Working Conference on Mining Software Repositories
+SANER 
+International Conference on Software Analysis, Evolution and Reengineering
+SEAMS 
+Software Engineering for Adaptive and Self-Managing Systems

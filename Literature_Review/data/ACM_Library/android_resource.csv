@@ -1,0 +1,13 @@
+keyword,title,publication
+android_resource,Detecting resource utilization bugs induced by variant lifecycles in Android,ISSTA 2022: Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis
+android_resource,ReACt: A Resource-centric Access Control System for Web-app Interactions on Android,WWW '21: Proceedings of the Web Conference 2021
+android_resource,Complement of dynamic slicing for Android applications with def-use analysis for application resources,MOBILESoft '22: Proceedings of the 9th IEEE/ACM International Conference on Mobile Software Engineering and Systems
+android_resource,Profiling the responsiveness of Android applications via automated resource amplification,MOBILESoft '16: Proceedings of the International Conference on Mobile Software Engineering and Systems
+android_resource,Relda2: an effective static analysis tool for resource leak detection in Android apps,ASE '16: Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering
+android_resource,Characterizing and detecting resource leaks in android applications,ASE '13: Proceedings of the 28th IEEE/ACM International Conference on Automated Software Engineering
+android_resource,Towards a scalable resource-driven approach for detecting repackaged Android applications,ACSAC '14: Proceedings of the 30th Annual Computer Security Applications Conference
+android_resource,Preserving energy resources using an Android kernel extension: a case study,MOBILESoft '16: Proceedings of the International Conference on Mobile Software Engineering and Systems
+android_resource,JRebel.Android: runtime class- and resource reloading for android,ICSE '15: Proceedings of the 37th International Conference on Software Engineering - Volume 2
+android_resource,Demo: RecDroid: An Android Resource Access Permission Recommendation System,MobiHoc '15: Proceedings of the 16th ACM International Symposium on Mobile Ad Hoc Networking and Computing
+android_resource,Don't throw me away: Threats Caused by the Abandoned Internet Resources Used by Android Apps,ASIACCS '18: Proceedings of the 2018 on Asia Conference on Computer and Communications Security
+android_resource,"Identity, location, disease and more: inferring your secrets from android public resources",CCS '13: Proceedings of the 2013 ACM SIGSAC conference on Computer & communications security

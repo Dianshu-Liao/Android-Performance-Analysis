@@ -1,0 +1,48 @@
+keyword,title,publication
+mobile_battery,"SERENUS: Alleviating Low-Battery Anxiety Through Real-time, Accurate, and User-Friendly Energy Consumption Prediction of Mobile Applications",UIST '24: Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology
+mobile_battery,MixMax: Leveraging Heterogeneous Batteries to Alleviate Low Battery Experience for Mobile Users,"MobiSys '23: Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services"
+mobile_battery,Optimization of the battery swapping station to power up mobile and stationary loads,e-Energy '22: Proceedings of the Thirteenth ACM International Conference on Future Energy Systems
+mobile_battery,Toward Customized Hybrid Fuel-Cell and Battery-powered Mobile Device for Individual Users,"ACM Transactions on Embedded Computing Systems (TECS), Volume 18, Issue 6"
+mobile_battery,Environment-aware estimation of battery state-of-charge for mobile devices,ICCPS '19: Proceedings of the 10th ACM/IEEE International Conference on Cyber-Physical Systems
+mobile_battery,Machine Learning-based Prevention of Battery-oriented Illegitimate Task Injection in Mobile Crowdsensing,WiseML 2019: Proceedings of the ACM Workshop on Wireless Security and Machine Learning
+mobile_battery,"Exploiting Multi-Cell Battery for Mobile Devices: Design, Management, and Performance",SenSys '17: Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems
+mobile_battery,Using Mobile Device Batteries as Thermometers,"GetMobile: Mobile Computing and Communications (SIGMOBILE-GETMOBILE), Volume 25, Issue 1"
+mobile_battery,An In-depth Analysis of the Impact of Battery Usage Patterns on Performance of Task Allocation Algorithms in Sparse Mobile Crowdsensing,"MSWIM '19: Proceedings of the 22nd International ACM Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems"
+mobile_battery,Battery state-of-health estimation for mobile devices,ICCPS '17: Proceedings of the 8th International Conference on Cyber-Physical Systems
+mobile_battery,Battery-aware transformations in mobile applications,ASE '16: Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering
+mobile_battery,Sensing Cold-Induced Situational Impairments in Mobile Interaction Using Battery Temperature,"Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Volume 1, Issue 3"
+mobile_battery,Towards 7x improvement in battery life of mobile devices,"S3: Proceedings of the Eighth Wireless of the Students, by the Students, and for the Students Workshop"
+mobile_battery,Evaluating battery aging on mobile devices,DAC '15: Proceedings of the 52nd Annual Design Automation Conference
+mobile_battery,Accurate Prediction of Available Battery Time for Mobile Applications,"ACM Transactions on Embedded Computing Systems (TECS), Volume 15, Issue 3"
+mobile_battery,Mobile Device Batteries as Thermometers,"Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Volume 4, Issue 1"
+mobile_battery,"On Backup Battery Data in Base Stations of Mobile Networks: Measurement, Analysis, and Optimization",CIKM '16: Proceedings of the 25th ACM International on Conference on Information and Knowledge Management
+mobile_battery,EXPERIENCE: Developing a Usable Battery Drain Testing and Diagnostic Tool for the Mobile Industry,"GetMobile: Mobile Computing and Communications (SIGMOBILE-GETMOBILE), Volume 26, Issue 3"
+mobile_battery,Extending mobile device's battery life by offloading computation to cloud,MOBILESoft '15: Proceedings of the Second ACM International Conference on Mobile Software Engineering and Systems
+mobile_battery,"Characterizing, modeling, and improving the QoE of mobile devices with low battery level",MICRO-48: Proceedings of the 48th International Symposium on Microarchitecture
+mobile_battery,Distributed balancer of mobile nodes' bandwidth and battery resources in P2P VoD systems,EANN '15: Proceedings of the 16th International Conference on Engineering Applications of Neural Networks (INNS)
+mobile_battery,Battery aware stochastic QoS boosting in mobile computing devices,"DATE '14: Proceedings of the conference on Design, Automation & Test in Europe"
+mobile_battery,Evaluating Intelligibility and Battery Drain of Mobile Sign Language Video Transmitted at Low Frame Rates and Bit Rates,"ACM Transactions on Accessible Computing (TACCESS), Volume 7, Issue 3"
+mobile_battery,Experience: developing a usable battery drain testing and diagnostic tool for the mobile industry,MobiCom '21: Proceedings of the 27th Annual International Conference on Mobile Computing and Networking
+mobile_battery,Power estimation for mobile applications with profile-driven battery traces,ISLPED '13: Proceedings of the 2013 International Symposium on Low Power Electronics and Design
+mobile_battery,Optimal offloading control for a mobile device based on a realistic battery model and semi-markov decision process,ICCAD '14: Proceedings of the 2014 IEEE/ACM International Conference on Computer-Aided Design
+mobile_battery,Extending battery lifetime of mobile devices with geofence capabilities on dynamic-speed urban environments,MobiGIS '13: Proceedings of the Second ACM SIGSPATIAL International Workshop on Mobile Geographic Information Systems
+mobile_battery,Dynamic thermal management in mobile devices considering the thermal coupling between battery and application processor,ICCAD '13: Proceedings of the International Conference on Computer-Aided Design
+mobile_battery,Analysis on the battery lifespan of a mobile terminal under probabilistic delay constraint,"e-Energy '12: Proceedings of the 3rd International Conference on Future Energy Systems: Where Energy, Computing and Communication Meet"
+mobile_battery,Self-constructive high-rate system energy modeling for battery-powered mobile systems,"MobiSys '11: Proceedings of the 9th international conference on Mobile systems, applications, and services"
+mobile_battery,Battery-aware task scheduling in distributed mobile systems with lifetime constraint,ASPDAC '11: Proceedings of the 16th Asia and South Pacific Design Automation Conference
+mobile_battery,Who killed my battery?: analyzing mobile browser energy consumption,WWW '12: Proceedings of the 21st international conference on World Wide Web
+mobile_battery,An empirical evaluation of battery power consumption for streaming data transmission to mobile devices,MM '11: Proceedings of the 19th ACM international conference on Multimedia
+mobile_battery,Optimizing MEMS-based storage devices for mobile battery-powered systems,"ACM Transactions on Storage (TOS), Volume 6, Issue 1"
+mobile_battery,"The latency, accuracy, and battery (LAB) abstraction: programmer productivity and energy efficiency for continuous mobile context sensing",OOPSLA '13: Proceedings of the 2013 ACM SIGPLAN international conference on Object oriented programming systems languages & applications
+mobile_battery,Understanding human-battery interaction on mobile phones,MobileHCI '07: Proceedings of the 9th international conference on Human computer interaction with mobile devices and services
+mobile_battery,Exhausting battery statistics: understanding the energy demands on mobile handsets,"MobiHeld '10: Proceedings of the second ACM SIGCOMM workshop on Networking, systems, and applications on mobile handhelds"
+mobile_battery,BUQS: battery- and user-aware QoS scaling for interactive mobile devices,ASPDAC '18: Proceedings of the 23rd Asia and South Pacific Design Automation Conference
+mobile_battery,Effects of peer-to-peer overlay parameters on mobile battery duration and resource lookup efficiency,MUM '08: Proceedings of the 7th International Conference on Mobile and Ubiquitous Multimedia
+mobile_battery,Battery life challenges on future mobile notebook platforms,ISLPED '04: Proceedings of the 2004 international symposium on Low power electronics and design
+mobile_battery,Caring for Batteries: Maintaining Infrastructures and Mobile Social Contexts,MobileHCI '15: Proceedings of the 17th International Conference on Human-Computer Interaction with Mobile Devices and Services
+mobile_battery,How carat affects user behavior: implications for mobile battery awareness applications,CHI '14: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems
+mobile_battery,Retro-VLC: Enabling Battery-free Duplex Visible Light Communication for Mobile and IoT Applications,HotMobile '15: Proceedings of the 16th International Workshop on Mobile Computing Systems and Applications
+mobile_battery,Extending the lifetime of a network of battery-powered mobile devices by remote processing: a markovian decision-based approach,DAC '03: Proceedings of the 40th annual Design Automation Conference
+mobile_battery,Demo: sesame: self-constructive system energy modeling for battery-powered mobile systems,"MobiSys '11: Proceedings of the 9th international conference on Mobile systems, applications, and services"
+mobile_battery,Quantitative evaluation in embedded system design: predicting battery lifetime in mobile devices,"DATE '08: Proceedings of the conference on Design, automation and test in Europe"
+mobile_battery,Users and batteries: interactions and adaptive energy management in mobile systems,UbiComp '07: Proceedings of the 9th international conference on Ubiquitous computing

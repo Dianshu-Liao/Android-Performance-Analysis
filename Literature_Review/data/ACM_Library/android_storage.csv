@@ -1,0 +1,18 @@
+keyword,title,publication
+android_storage,LazyBarrier: Reconstructing Android IO Stack for Barrier-Enabled Flash Storage,"ASPLOS '24: Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2"
+android_storage,Watch Out for Race Condition Attacks When Using Android External Storage,CCS '22: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security
+android_storage,Efficient Storage Encryption for Android Mobile Devices,RACS '16: Proceedings of the International Conference on Research in Adaptive and Convergent Systems
+android_storage,Analysis of Secure Key Storage Solutions on Android,SPSM '14: Proceedings of the 4th ACM Workshop on Security and Privacy in Smartphones & Mobile Devices
+android_storage,Optimizing storage performance of Android smartphone,ICUIMC '13: Proceedings of the 7th International Conference on Ubiquitous Information Management and Communication
+android_storage,I/O scheduling in Android devices with flash storage,ICUIMC '14: Proceedings of the 8th International Conference on Ubiquitous Information Management and Communication
+android_storage,"Characterizing the transition to Kotlin of Android apps: a study on F-Droid, Play Store, and GitHub",WAMA 2019: Proceedings of the 3rd ACM SIGSOFT International Workshop on App Market Analytics
+android_storage,Android privacy C(R)ache: reading your external storage and sensors for fun and profit,PAMCO '16: Proceedings of the 1st ACM Workshop on Privacy-Aware Mobile Computing
+android_storage,Do Android app users care about accessibility?: an analysis of user reviews on the Google play store,IHC '19: Proceedings of the 18th Brazilian Symposium on Human Factors in Computing Systems
+android_storage,EviHunter: Identifying Digital Evidence in the Permanent Storage of Android Devices via Static Analysis,CCS '18: Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security
+android_storage,"Duvel: Enabling Context-driven, Multi-profile Apps on Android through Storage Sandboxing","EdgeSys'18: Proceedings of the 1st International Workshop on Edge Systems, Analytics and Networking"
+android_storage,A secure play store for android,"SPLASH '13: Proceedings of the 2013 companion publication for conference on Systems, programming, & applications: software for humanity"
+android_storage,A Measurement-based Study on Application Popularity in Android and iOS App Stores,Mobidata '15: Proceedings of the 2015 Workshop on Mobile Big Data
+android_storage,DEMO: Enabling trusted stores for android,CCS '13: Proceedings of the 2013 ACM SIGSAC conference on Computer & communications security
+android_storage,A Tangled Mass: The Android Root Certificate Stores,CoNEXT '14: Proceedings of the 10th ACM International on Conference on emerging Networking Experiments and Technologies
+android_storage,Cassandra: Towards a Certifying App Store for Android,SPSM '14: Proceedings of the 4th ACM Workshop on Security and Privacy in Smartphones & Mobile Devices
+android_storage,Push the study to the App store: evaluating off-screen visualizations for maps in the android market,MobileHCI '10: Proceedings of the 12th international conference on Human computer interaction with mobile devices and services

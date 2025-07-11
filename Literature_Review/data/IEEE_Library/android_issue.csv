@@ -1,0 +1,46 @@
+keyword,title,publication
+android_issue,Taming Android fragmentation: Characterizing and detecting compatibility issues for Android apps,2016 31st IEEE/ACM International Conference on Automated Software Engineering (ASE)
+android_issue,Modern Android 13 Development Cookbook: Over 70 recipes to solve Android development issues and create better apps with Kotlin and Jetpack Compose,Madona S. Wambua
+android_issue,A Manual Categorization of Android App Development Issues on Stack Overflow,2014 IEEE International Conference on Software Maintenance and Evolution
+android_issue,Android security issues and solutions,2017 International Conference on Innovative Mechanisms for Industry Applications (ICIMIA)
+android_issue,Challenges issues for OCC based android camera 2 API,2017 Ninth International Conference on Ubiquitous and Future Networks (ICUFN)
+android_issue,Dependability Issues of Android Games: A First Look via Software Analysis,2015 IEEE Symposium on Service-Oriented System Engineering
+android_issue,Android (Nougats) security issues and solutions,2018 IEEE International Conference on Applied System Invention (ICASI)
+android_issue,Optimization of the issues in the migration from Android Native to Hybrid Application: Case study of Student's Portal application,"2014 International Conference on Advances in Computing, Communications and Informatics (ICACCI)"
+android_issue,SetDroid: Detecting User-Configurable Setting Issues of Android Apps via Metamorphic Fuzzing,2021 IEEE/ACM 43rd International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)
+android_issue,An insight into the security issues and their solutions for android phones,2015 2nd International Conference on Computing for Sustainable Global Development (INDIACom)
+android_issue,"API Compatibility Issue Detection, Testing and Analysis for Android Apps",2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+android_issue,ACID: An API Compatibility Issue Detector for Android Apps,2022 IEEE/ACM 44th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)
+android_issue,Privacy and Security Issues Due to Permissions Glut in Android System,2018 International Conference on Inventive Research in Computing Applications (ICIRCA)
+android_issue,eTagger - An Energy Pattern Tagging Tool for GitHub Issues in Android Projects,2022 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+android_issue,Woodpecker: Identifying and Fixing Android UI Display Issues,2022 IEEE/ACM 44th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)
+android_issue,An Overview on Handling Anti Forensic Issues in Android Devices Using Forensic Automator Tool,"2022 IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems (SPICES)"
+android_issue,Android application for complaining against the social issues,"2017 International Conference on Algorithms, Methodology, Models and Applications in Emerging Technologies (ICAMMAET)"
+android_issue,ITDroid: A Tool for Automated Detection of i18n Issues on Android Apps,2021 IEEE/ACM 8th International Conference on Mobile Software Engineering and Systems (MobileSoft)
+android_issue,"Android Security: A Survey of Issues, Malware Penetration, and Defenses",IEEE Communications Surveys & Tutorials
+android_issue,"Constructing Features for Detecting Android Malicious Applications: Issues, Taxonomy and Directions",IEEE Access
+android_issue,Understanding and Detecting Evolution-Induced Compatibility Issues in Android Apps,2018 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE)
+android_issue,Unveiling Exception Handling Bug Hazards in Android Based on GitHub and Google Code Issues,2015 IEEE/ACM 12th Working Conference on Mining Software Repositories
+android_issue,Data-Driven Solutions to Detect API Compatibility Issues in Android: An Empirical Study,2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)
+android_issue,Understanding and Detecting Fragmentation-Induced Compatibility Issues for Android Apps,IEEE Transactions on Software Engineering
+android_issue,PIVOT: Learning API-Device Correlations to Facilitate Android Compatibility Issue Detection,2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)
+android_issue,Understanding and Detecting Callback Compatibility Issues for Android Applications,2018 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE)
+android_issue,Android Compatibility Issue Detection Using API Differences,"2021 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)"
+android_issue,Characterizing and Detecting Inefficient Image Displaying Issues in Android Apps,"2019 IEEE 26th International Conference on Software Analysis, Evolution and Reengineering (SANER)"
+android_issue,How Maintainability Issues of Android Apps Evolve,2018 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+android_issue,"A survey on security issues, vulnerabilities and attacks in Android based smartphone",2017 International Conference on Information and Communication Technologies (ICICT)
+android_issue,Characterizing Android App Signing Issues,2019 34th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+android_issue,Permission Issues in Open-Source Android Apps: An Exploratory Study,2019 19th International Working Conference on Source Code Analysis and Manipulation (SCAM)
+android_issue,"Accessibility Issues in Android Apps: State of Affairs, Sentiments, and Ways Forward",2020 IEEE/ACM 42nd International Conference on Software Engineering (ICSE)
+android_issue,Studying Permission Related Issues in Android Wearable Apps,2018 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+android_issue,"Runtime Permission Issues in Android Apps: Taxonomy, Practices, and Ways Forward",IEEE Transactions on Software Engineering
+android_issue,How Android Developers Handle Evolution-induced API Compatibility Issues: A Large-scale Study,2020 IEEE/ACM 42nd International Conference on Software Engineering (ICSE)
+android_issue,Towards Automatically Repairing Compatibility Issues in Published Android Apps,2022 IEEE/ACM 44th International Conference on Software Engineering (ICSE)
+android_issue,Automatic Knowledge Sharing Across Communities: A Case Study on Android Issue Tracker and Stack Overflow,2015 IEEE Symposium on Service-Oriented System Engineering
+android_issue,Characterizing and Detecting Configuration Compatibility Issues in Android Apps,2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+android_issue,ELEGANT: Towards Effective Location of Fragmentation-Induced Compatibility Issues for Android Apps,2018 25th Asia-Pacific Software Engineering Conference (APSEC)
+android_issue,Compatibility Issue Detection for Android Apps Based on Path-Sensitive Semantic Analysis,2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE)
+android_issue,Detecting Android API Compatibility Issues With API Differences,IEEE Transactions on Software Engineering
+android_issue,Energy Efficiency Issues in Android Application: A Literature Review,2022 24th International Multitopic Conference (INMIC)
+android_issue,Detecting Connectivity Issues in Android Apps,"2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)"
+android_issue,ScaleFix: An Automated Repair of UI Scaling Accessibility Issues in Android Applications,2023 IEEE International Conference on Software Maintenance and Evolution (ICSME)

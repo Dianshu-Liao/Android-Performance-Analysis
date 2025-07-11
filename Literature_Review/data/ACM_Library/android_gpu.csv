@@ -1,0 +1,5 @@
+keyword,title,publication
+android_gpu,Enabling GPU-assisted Antivirus Protection on Android Devices through Edge Offloading,"EdgeSys'18: Proceedings of the 1st International Workshop on Edge Systems, Analytics and Networking"
+android_gpu,Analysis of OpenCL Support for Mobile GPUs on Android,IWOCL '18: Proceedings of the International Workshop on OpenCL
+android_gpu,RSTensorFlow: GPU Enabled TensorFlow for Deep Learning on Commodity Android Devices,EMDL '17: Proceedings of the 1st International Workshop on Deep Learning for Mobile Systems and Applications
+android_gpu,CNNdroid: GPU-Accelerated Execution of Trained Deep Convolutional Neural Networks on Android,MM '16: Proceedings of the 24th ACM international conference on Multimedia

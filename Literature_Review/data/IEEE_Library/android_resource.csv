@@ -1,0 +1,30 @@
+keyword,title,publication
+android_resource,Direct Resource Hijacking in Android is Still Dangerous,IEEE Internet Computing
+android_resource,JRebel.Android: Runtime Class- and Resource Reloading for Android,2015 IEEE/ACM 37th IEEE International Conference on Software Engineering
+android_resource,A Software Environment for Confining Malicious Android Applications via Resource Virtualization,2013 18th International Conference on Engineering of Complex Computer Systems
+android_resource,Relda2: An effective static analysis tool for resource leak detection in Android apps,2016 31st IEEE/ACM International Conference on Automated Software Engineering (ASE)
+android_resource,Complement of Dynamic Slicing for Android Applications with Def-Use Analysis for Application Resources,2022 IEEE/ACM 9th International Conference on Mobile Software Engineering and Systems (MobileSoft)
+android_resource,Preserving Energy Resources Using an Android Kernel Extension: A Case Study,2016 IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft)
+android_resource,An Implementation of Multimedia Resources Learning Topic for Interactive Applications in Android Programming Learning Assistance System,2021 Fourth International Conference on Vocational Education and Electrical Engineering (ICVEE)
+android_resource,Characterizing and detecting resource leaks in Android applications,2013 28th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+android_resource,EnergyPatch: Repairing Resource Leaks to Improve Energy-Efficiency of Android Apps,IEEE Transactions on Software Engineering
+android_resource,"Light-Weight, Inter-Procedural and Callback-Aware Resource Leak Detection for Android Apps",IEEE Transactions on Software Engineering
+android_resource,Systematic testing for resource leaks in Android applications,2013 IEEE 24th International Symposium on Software Reliability Engineering (ISSRE)
+android_resource,Android malware family classification based on resource consumption over time,2017 12th International Conference on Malicious and Unwanted Software (MALWARE)
+android_resource,"Dude, ask the experts!: Android resource access permission recommendation with RecDroid",2015 IFIP/IEEE International Symposium on Integrated Network Management (IM)
+android_resource,"Low-Resource Footprint, Data-Driven Malware Detection on Android",IEEE Transactions on Sustainable Computing
+android_resource,Fixing Resource Leaks in Android Apps with Light-Weight Static Analysis and Low-Overhead Instrumentation,2016 IEEE 27th International Symposium on Software Reliability Engineering (ISSRE)
+android_resource,How Much Privilege Does an App Need? Investigating Resource Usage of Android Apps (Short Paper),"2017 15th Annual Conference on Privacy, Security and Trust (PST)"
+android_resource,Outsourcing Resource-Intensive Tasks from Mobile Apps to Clouds: Android and Aneka Integration,2014 IEEE International Conference on Cloud Computing in Emerging Markets (CCEM)
+android_resource,Profiling the Responsiveness of Android Applications via Automated Resource Amplification,2016 IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft)
+android_resource,Improving Resource Utilization of a Cloud-Based Testing Platform for Android Applications,2015 IEEE International Conference on Mobile Services
+android_resource,Privacy Sensitive Resource Access Monitoring for Android Systems,2015 24th International Conference on Computer Communication and Networks (ICCCN)
+android_resource,An Empirical Investigation on the Effect of Code Smells on Resource Usage of Android Mobile Applications,IEEE Access
+android_resource,ChainDroid: Safe and Flexible Access to Protected Android Resources Based on Call Chain,"2013 12th IEEE International Conference on Trust, Security and Privacy in Computing and Communications"
+android_resource,Challenges in emulating sensor and resource-based state changes for Android malware detection,2015 9th International Conference on Signal Processing and Communication Systems (ICSPCS)
+android_resource,EasyPrivacy: Context-Aware Resource Usage Control System for Android Platform,IEEE Access
+android_resource,Resource Race Attacks on Android,"2020 IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER)"
+android_resource,Direct Resource Hijacking in Android,IEEE Internet Computing
+android_resource,Mobile Konami Codes: Analysis of Android Malware Services Utilizing Sensor and Resource-Based State Changes,2016 49th Hawaii International Conference on System Sciences (HICSS)
+android_resource,SCANNER: Sequence clustering of android resource accesses,2017 IEEE Conference on Dependable and Secure Computing
+android_resource,Ebserver: Automating Resource-Usage Data Collection of Android Applications,2023 IEEE/ACM 10th International Conference on Mobile Software Engineering and Systems (MOBILESoft)

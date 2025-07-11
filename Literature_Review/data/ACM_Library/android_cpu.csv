@@ -1,0 +1,5 @@
+keyword,title,publication
+android_cpu,"Investigating the Influence of CPU Load, Memory Usage and Environmental Conditions on the Jittering of Android Devices","ICNCC '18: Proceedings of the 2018 VII International Conference on Network, Communication and Computing"
+android_cpu,CPU Isolation on the Android OS for running Real-Time Applications,JTRES '15: Proceedings of the 13th International Workshop on Java Technologies for Real-time and Embedded Systems
+android_cpu,Estimating Android applications' CPU energy usage via bytecode profiling,GREENS '12: Proceedings of the First International Workshop on Green and Sustainable Software
+android_cpu,BrezeFlow: unified debugger for Android CPU power governors and schedulers on edge devices,DAC '20: Proceedings of the 57th ACM/EDAC/IEEE Design Automation Conference

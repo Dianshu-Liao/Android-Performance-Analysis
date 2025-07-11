@@ -1,0 +1,119 @@
+keyword,title,publication
+android_energy,Refactoring Android-specific Energy Smells: A Plugin for Android Studio,2020 IEEE/ACM 28th International Conference on Program Comprehension (ICPC)
+android_energy,Impact of Bluetooth low energy on energy consumption in Android OS,2018 XIV-th International Conference on Perspective Technologies and Methods in MEMS Design (MEMSTECH)
+android_energy,Smart DC Home for Energy Saving with Android-Based Real-Time Energy Monitoring,2022 International Electronics Symposium (IES)
+android_energy,Android on Mobile Devices: An Energy Perspective,2010 10th IEEE International Conference on Computer and Information Technology
+android_energy,Student Attendance Management System with Bluetooth Low Energy Beacon and Android Devices,2015 18th International Conference on Network-Based Information Systems
+android_energy,Measurement and analysis of energy consumption on Android smartphones,2014 4th IEEE International Conference on Information Science and Technology
+android_energy,Leafactor: Improving Energy Efficiency of Android Apps via Automatic Refactoring,2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft)
+android_energy,PETrA: A Software-Based Tool for Estimating the Energy Profile of Android Applications,2017 IEEE/ACM 39th International Conference on Software Engineering Companion (ICSE-C)
+android_energy,Development of Mobile Indoor Positioning System Application Using Android and Bluetooth Low Energy with Trilateration Method,"2017 International Conference on Soft Computing, Intelligent System and Information Technology (ICSIIT)"
+android_energy,Smart attendance management using Bluetooth Low Energy and Android,2016 IEEE Region 10 Conference (TENCON)
+android_energy,Energy consumption in android phones when using wireless communication technologies,2012 Proceedings of the 35th International Convention MIPRO
+android_energy,Development of Android based on-line monitoring and control system for Renewable Energy Sources,"2014 International Conference on Computer, Communications, and Control Technology (I4CT)"
+android_energy,GEMMA: Multi-objective Optimization of Energy Consumption of GUIs in Android Apps,2017 IEEE/ACM 39th International Conference on Software Engineering Companion (ICSE-C)
+android_energy,Energy efficient video decoding for the Android operating system,2013 IEEE International Conference on Consumer Electronics (ICCE)
+android_energy,"Implementation of a smart grid system to remotely monitor, control and schedule energy sources using Android based mobile devices",2014 9th International Conference on Industrial and Information Systems (ICIIS)
+android_energy,"GreenSource: A Large-Scale Collection of Android Code, Tests and Energy Metrics",2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)
+android_energy,Energy-aware computing for android platforms,2011 International Conference on Energy Aware Computing
+android_energy,Improving Android Performance and Energy Efficiency,2011 24th Internatioal Conference on VLSI Design
+android_energy,A Battery-Aware Energy-Efficient Android Phone with Bayesian Networks,2012 9th International Conference on Ubiquitous Intelligence and Computing and 9th International Conference on Autonomic and Trusted Computing
+android_energy,Android and Bluetooth Low Energy Device Based Safety System,2019 3rd International Conference on Computing Methodologies and Communication (ICCMC)
+android_energy,An Efficient Energy Management System for Android Phone Using Bayesian Networks,2012 32nd International Conference on Distributed Computing Systems Workshops
+android_energy,Energy Metamorphic Testing for Android Applications,"2019 IEEE 30th International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC Workshops)"
+android_energy,Bluetooth Low Energy-based Smart Home Android Solution,IEEE EUROCON 2019 -18th International Conference on Smart Technologies
+android_energy,Android phone performance enhancement by energy efficient web browser,2015 Global Conference on Communication Technologies (GCCT)
+android_energy,Android based energy aware real-time location tracking system,2015 Seventh International Conference on Ubiquitous and Future Networks
+android_energy,Energy-Aware Technology-Based DVFS Mechanism for the Android Operating System,2012 Brazilian Symposium on Computing System Engineering
+android_energy,Android-based application for real time energy monitoring of domestic electricity,"2015 IEEE Conference on Systems, Process and Control (ICSPC)"
+android_energy,SEMA: An Approach Based on Internal Measurement to Evaluate Energy Efficiency of Android Applications,2015 Brazilian Symposium on Computing Systems Engineering (SBESC)
+android_energy,mHealth Musculoskeletal Applications: Bluetooth Low Energy Devices and Android,2016 32nd Southern Biomedical Engineering Conference (SBEC)
+android_energy,Automated offloading of android applications for computation/energy optimizations,2017 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
+android_energy,PhoneJoule: An Energy Management System for Android-Based Smartphones,"2013 IEEE International Conference on Green Computing and Communications and IEEE Internet of Things and IEEE Cyber, Physical and Social Computing"
+android_energy,Implementation of Realtime Database for IoT Home Automation and Energy Monitoring Apps based on Android,2019 International Electronics Symposium (IES)
+android_energy,Energy Metering and Controlling using Android and IoT based Smart System,2022 Third International Conference on Intelligent Computing Instrumentation and Control Technologies (ICICICT)
+android_energy,PowDroid: Energy Profiling of Android Applications,2021 36th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)
+android_energy,Automated Testing of Energy Hotspots and Defects for Android Applications,2019 IEEE International Conference on Energy Internet (ICEI)
+android_energy,Energy optimization in Android applications through wakelock placement,"2014 Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+android_energy,Proof Based Analytical Comparison of Energy Parameters between Android and iOS Platform for Heterogeneous Cloud Based Application,2016 Second International Conference on Computational Intelligence & Communication Technology (CICT)
+android_energy,Framework for energy saving in the Android smartphone,2013 2nd International Conference on Information Management in the Knowledge Economy
+android_energy,A GUI Based Approach to Detect Energy Bugs in Android Applications,2021 16th International Conference on Emerging Technologies (ICET)
+android_energy,"NetRate: An Application for Collecting QoE, Energy, and Network Data on Android Devices",2024 16th International Conference on Quality of Multimedia Experience (QoMEX)
+android_energy,eTagger - An Energy Pattern Tagging Tool for GitHub Issues in Android Projects,2022 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+android_energy,Poster Abstract: KLEP: A Kernel Level Energy Profiling Tool for Android,2017 16th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)
+android_energy,Open-MBIC: an Open-Source Android Library for Multiple Simultaneous Bluetooth Low Energy Connections,2022 IEEE International Workshop on Metrology for Industry 4.0 & IoT (MetroInd4.0&IoT)
+android_energy,Energy Saving Architecture based on Android TV in a Smart Home Environment,2023 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB)
+android_energy,Design of GUI-component energy profiler for android applications,TENCON 2015 - 2015 IEEE Region 10 Conference
+android_energy,"Understanding the Energy, Performance, and Programming Effort Trade-Offs of Android Persistence Frameworks","2016 IEEE 24th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)"
+android_energy,Energy consumption and boot time performances of Kentkart industrial tablet on Android platform,2017 International Conference on Engineering and Technology (ICET)
+android_energy,Design of Wearable Pulse Oximeter Based on Android with Bluetooth Low Energy Communication Using Artificial Neural Network,2021 International Conference on Data Science and Its Applications (ICoDSA)
+android_energy,Energy-Aware Depth Map Generation for 3D Portrait on Android Systems,2011 IEEE 17th International Conference on Parallel and Distributed Systems
+android_energy,Preserving Energy Resources Using an Android Kernel Extension: A Case Study,2016 IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft)
+android_energy,Android-based m-learning remote system for mobile power quality assessment in large buildings with renewable energies,"2015 IEEE 5th International Conference on Power Engineering, Energy and Electrical Drives (POWERENG)"
+android_energy,Do You Have the Energy for This Meeting?: An Empirical Study on the Energy Consumption of the Google Meet and Zoom Android apps,2022 IEEE/ACM 9th International Conference on Mobile Software Engineering and Systems (MobileSoft)
+android_energy,An Empirical Study of the Energy Consumption of Android Applications,2014 IEEE International Conference on Software Maintenance and Evolution
+android_energy,Energy consumption analysis of video streaming to Android mobile devices,2012 IEEE Network Operations and Management Symposium
+android_energy,Low Cost Arduino/Android-Based Energy-Efficient Home Automation System with Smart Task Scheduling,"2013 Fifth International Conference on Computational Intelligence, Communication Systems and Networks"
+android_energy,"Software-based energy profiling of Android apps: Simple, efficient and reliable?","2017 IEEE 24th International Conference on Software Analysis, Evolution and Reengineering (SANER)"
+android_energy,Estimating Android applications' CPU energy usage via bytecode profiling,2012 First International Workshop on Green and Sustainable Software (GREENS)
+android_energy,EnergyPatch: Repairing Resource Leaks to Improve Energy-Efficiency of Android Apps,IEEE Transactions on Software Engineering
+android_energy,A Study on the Energy Consumption of Android App Development Approaches,2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR)
+android_energy,A method for characterizing energy consumption in Android smartphones,2013 2nd International Workshop on Green and Sustainable Software (GREENS)
+android_energy,Investigating the energy impact of Android smells,"2017 IEEE 24th International Conference on Software Analysis, Evolution and Reengineering (SANER)"
+android_energy,An Android-Based Mechanism for Energy Efficient Localization Depending on Indoor/Outdoor Context,IEEE Internet of Things Journal
+android_energy,Detecting Display Energy Hotspots in Android Apps,"2015 IEEE 8th International Conference on Software Testing, Verification and Validation (ICST)"
+android_energy,Application-Specific Performance-Aware Energy Optimization on Android Mobile Devices,2017 IEEE International Symposium on High Performance Computer Architecture (HPCA)
+android_energy,Automated Re-factoring of Android Apps to Enhance Energy-Efficiency,2016 IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft)
+android_energy,Search-Based Energy Testing of Android,2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)
+android_energy,"Android App Energy Efficiency: The Impact of Language, Runtime, Compiler, and Implementation","2016 IEEE International Conferences on Big Data and Cloud Computing (BDCloud), Social Computing and Networking (SocialCom), Sustainable Computing and Communications (SustainCom) (BDCloud-SocialCom-SustainCom)"
+android_energy,Energy Refactorings for Android in the Large and in the Wild,"2020 IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER)"
+android_energy,ANEPROF: Energy Profiling for Android Java Virtual Machine and Applications,2011 IEEE 17th International Conference on Parallel and Distributed Systems
+android_energy,E-Android: A New Energy Profiling Tool for Smartphones,2017 IEEE 37th International Conference on Distributed Computing Systems (ICDCS)
+android_energy,On energy-based profiling of malware in Android,2014 International Conference on High Performance Computing & Simulation (HPCS)
+android_energy,EcoDroid: An Approach for Energy-Based Ranking of Android Apps,2015 IEEE/ACM 4th International Workshop on Green and Sustainable Software
+android_energy,EcoAndroid: An Android Studio Plugin for Developing Energy-Efficient Java Mobile Applications,"2021 IEEE 21st International Conference on Software Quality, Reliability and Security (QRS)"
+android_energy,Energy-Aware Performance Evaluation of Android Custom Kernels,2015 IEEE/ACM 4th International Workshop on Green and Sustainable Software
+android_energy,Energy Cost of Advertisements in Mobile Games on the Android Platform,"2012 Sixth International Conference on Next Generation Mobile Applications, Services and Technologies"
+android_energy,Evaluating the Impact of Code Smell Refactoring on the Energy Consumption of Android Applications,2019 45th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)
+android_energy,Evaluation of Machine Learning Approaches for Android Energy Bugs Detection With Revision Commits,IEEE Access
+android_energy,Detecting energy leaks in Android app with POEM,2015 IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops)
+android_energy,Improving Energy Efficiency of Android Devices by Preventing Redundant Frame Generation,IEEE Transactions on Mobile Computing
+android_energy,Kernel level energy-efficient 3G background traffic shaper for android smartphones,2013 9th International Wireless Communications and Mobile Computing Conference (IWCMC)
+android_energy,Mobility managed energy efficient Android mobile devices using cloudlet,Proceedings of the 2014 IEEE Students' Technology Symposium
+android_energy,Energy Consumption Measurements as a Basis for Computational Offloading for Android Smartphones,2016 IEEE Intl Conference on Computational Science and Engineering (CSE) and IEEE Intl Conference on Embedded and Ubiquitous Computing (EUC) and 15th Intl Symposium on Distributed Computing and Applications for Business Engineering (DCABES)
+android_energy,GreenHub Farmer: Real-World Data for Android Energy Mining,2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)
+android_energy,Energy efficient proximity alert on Android,2013 IEEE International Conference on Pervasive Computing and Communications Workshops (PERCOM Workshops)
+android_energy,What Do Software Developers Need to Know to Build Secure Energy-Efficient Android Applications?,IEEE Access
+android_energy,Native or Web? A Preliminary Study on the Energy Consumption of Android Development Models,"2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER)"
+android_energy,Design and Implementation of the Travelling Time- and Energy-Efficient Android GPS Navigation App with the VANET-Based A* Route Planning Algorithm,2013 International Symposium on Biometrics and Security Technologies
+android_energy,ReTriple: Reduction of Redundant Rendering on Android Devices for Performance and Energy Optimizations,2020 57th ACM/IEEE Design Automation Conference (DAC)
+android_energy,Efficient Energy Consumption's Measurement on Android Devices,2012 16th Panhellenic Conference on Informatics
+android_energy,Efforts in developing android smartphone sports and healthcare apps based on bluetooth low energy and ANT+ communication standards,2015 15th International Conference on Innovations for Community Services (I4CS)
+android_energy,MELTA: A Method Level Energy Estimation Technique for Android Development,2019 International Conference on Innovative Computing (ICIC)
+android_energy,Lightweight Method-Level Energy Consumption Estimation for Android Applications,2016 10th International Symposium on Theoretical Aspects of Software Engineering (TASE)
+android_energy,An Application-Specific Approach to Energy Optimization on Android Mobile Devices,IEEE Transactions on Mobile Computing
+android_energy,A Compiler-Centric Infra-Structure for Whole-Board Energy Measurement on Heterogeneous Android Systems,2018 13th International Symposium on Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC)
+android_energy,FLANDROID: Energy-Efficient Recommendations of Reliable Context Providers for Android Applications,IEEE Transactions on Services Computing
+android_energy,Performance and Energy Consumption Analysis of Embedded Applications Based on Android Platform,2012 Brazilian Symposium on Computing System Engineering
+android_energy,A model-based energy profiler using online logging for Android applications,2014 Seventh International Conference on Mobile Computing and Ubiquitous Networking (ICMU)
+android_energy,Rating Google-Play Apps' Energy Consumption on Android Smartphones,2019 2nd IEEE Middle East and North Africa COMMunications Conference (MENACOMM)
+android_energy,Identifying Sources of Energy Consumption for Android Applications: A Pilot Study,2022 Ninth International Conference on Software Defined Systems (SDS)
+android_energy,Comparing Performance and Energy Consumption of Android Applications: Native Versus Web Approaches,2017 VII Brazilian Symposium on Computing Systems Engineering (SBESC)
+android_energy,Static/Dynamic Analysis of Android Applications to Improve Energy-Efficiency,2022 CPSSI 4th International Symposium on Real-Time and Embedded Systems and Technologies (RTEST)
+android_energy,A holistic approach for energy efficient proximity alert on Android,2013 IEEE Global Communications Conference (GLOBECOM)
+android_energy,E-Spector: Online energy inspection for Android applications,2017 IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED)
+android_energy,Orka: A new technique to profile the energy usage of Android applications,2016 5th International Conference on Smart Cities and Green ICT Systems (SMARTGREENS)
+android_energy,BigData Analysis of Stack Overflow for Energy Consumption of Android Framework,2019 International Conference on Innovative Computing (ICIC)
+android_energy,Native vs Web Apps: Comparing the Energy Consumption and Performance of Android Apps and their Web Counterparts,2023 IEEE/ACM 10th International Conference on Mobile Software Engineering and Systems (MOBILESoft)
+android_energy,The Impact of Instant Messaging on the Energy Consumption of Android Devices,2021 IEEE/ACM 8th International Conference on Mobile Software Engineering and Systems (MobileSoft)
+android_energy,Should energy consumption influence the choice of Android third-party HTTP libraries?,2020 IEEE/ACM 7th International Conference on Mobile Software Engineering and Systems (MOBILESoft)
+android_energy,Energy Efficiency Issues in Android Application: A Literature Review,2022 24th International Multitopic Conference (INMIC)
+android_energy,On Security and Energy Efficiency in Android Smartphones,2023 IEEE/ACM 10th International Conference on Mobile Software Engineering and Systems (MOBILESoft)
+android_energy,Predicting The Energy Consumption Level of Java Classes in Android Apps: An Exploratory Analysis,2022 IEEE/ACM 9th International Conference on Mobile Software Engineering and Systems (MobileSoft)
+android_energy,Black Box Technique to Reduce Energy Consumption of Android Apps,2022 IEEE/ACM 44th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)
+android_energy,A Study on the Energy Consumption and Performance of Single-Activity Android Apps,2023 IEEE/ACM 7th International Workshop on Green And Sustainable Software (GREENS)
+android_energy,On Computation Offloading and Energy Efficiency on Android Devices,2023 IEEE International Conference on Communications Workshops (ICC Workshops)
+android_energy,SEPIA: A framework for optimizing energy consumption in Android devices,2015 12th Annual IEEE Consumer Communications and Networking Conference (CCNC)
+android_energy,Detection of Energy Bugs in Android Applications: A Systematic Literature Review,2021 International Conference on Frontiers of Information Technology (FIT)
+android_energy,O/S Level Interrupt Prediction for Performance and Energy Management on Android,IEEE Transactions on Mobile Computing
+android_energy,Energy efficiency combined SW techniques on mobiles Android OS,2016 International Multidisciplinary Conference on Computer and Energy Science (SpliTech)

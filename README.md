@@ -2,7 +2,7 @@
 
 # Android-Performance-Analysis
 
-This artifact package includes all the data and code in the paper **''Give a Tinker’s Cuss: A Comparative Study of Android Performance Issues in Real-world Applications and Literature''**.
+This artifact package includes all the data and code in the paper **''A Comparative Study of Android Performance Issues in Real-world Applications and Literature''**.
 Due to GitHub's limited capacity, we have uploaded all our source code and data to Google Cloud Drive. You can access this link to our source code and data: [https://drive.google.com/file/d/1Fo0_aQPIpAfS6C_Ra19lPulH00m6HhlH/view?usp=drive_link](https://drive.google.com/file/d/1Fo0_aQPIpAfS6C_Ra19lPulH00m6HhlH/view?usp=drive_link)
 
 
